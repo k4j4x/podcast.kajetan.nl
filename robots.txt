@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://podcast.kajetan.nl/sitemap.xml

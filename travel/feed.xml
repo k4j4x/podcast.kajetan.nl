@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:podcast="https://podcastindex.org/namespace/1.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Wandering Cities</title>
+    <link>https://podcast.kajetan.nl/travel/</link>
+    <atom:link href="https://podcast.kajetan.nl/travel/feed.xml" rel="self" type="application/rss+xml"/>
+    <language>en</language>
+    <description>City travel guides and history from the Netherlands. Two curious hosts wander through a different city every episode: how it came to be, the landmarks worth seeing, the food worth trying and the festivals worth planning a trip around. From capitals to small harbour towns, each episode ends with practical tips for your own visit. The conversation and voices are AI-generated.</description>
+    <itunes:summary>City travel guides and history from the Netherlands. Two curious hosts wander through a different city every episode: how it came to be, the landmarks worth seeing, the food worth trying and the festivals worth planning a trip around. From capitals to small harbour towns, each episode ends with practical tips for your own visit. The conversation and voices are AI-generated.</itunes:summary>
+    <itunes:subtitle>City travel guides and history from the Netherlands, one city per episode.</itunes:subtitle>
+    <itunes:author>Wandering Cities</itunes:author>
+    <itunes:owner><itunes:name>Kajetan Studio</itunes:name><itunes:email>travelpodcast@kajetan.nl</itunes:email></itunes:owner>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:type>episodic</itunes:type>
+    <itunes:category text="Society &amp; Culture"><itunes:category text="Places &amp; Travel"/></itunes:category>
+    <itunes:image href="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/cover-3000.jpg"/>
+    <lastBuildDate>Sun, 04 Oct 2026 17:54:53 +0000</lastBuildDate>
+    <item>
+      <title>Delft Travel Guide &amp; History | Built by Disaster</title>
+      <link>https://podcast.kajetan.nl/travel/netherlands/delft/</link>
+      <description>Delft, in the Netherlands, is still defined by canals, blue-and-white pottery and the light Vermeer painted, the things to see on any visit. Its history took a dramatic turn in 1584, when William of Orange was assassinated in the Prinsenhof; the bullet holes are still visible in the wall today.
+
+Other languages and more about Delft: https://podcast.kajetan.nl/travel/netherlands/delft/
+
+Sources include Wikipedia and Wikivoyage (CC BY-SA 4.0) and official tourism, heritage and museum websites. The conversation and voices are AI-generated.</description>
+      <itunes:summary>Delft, in the Netherlands, is still defined by canals, blue-and-white pottery and the light Vermeer painted, the things to see on any visit. Its history took a dramatic turn in 1584, when William of Orange was assassinated in the Prinsenhof; the bullet holes are still visible in the wall today.
+
+Other languages and more about Delft: https://podcast.kajetan.nl/travel/netherlands/delft/
+
+Sources include Wikipedia and Wikivoyage (CC BY-SA 4.0) and official tourism, heritage and museum websites. The conversation and voices are AI-generated.</itunes:summary>
+      <enclosure url="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/episodes/wandering-cities-delft-1528448452-v1.mp3" length="22166143" type="audio/mpeg"/>
+      <guid isPermaLink="false">ce3a4aba-94c0-5295-9069-81c8122c7820</guid>
+      <pubDate>Sun, 04 Oct 2026 07:34:10 +0000</pubDate>
+      <itunes:duration>00:22:56</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Amsterdam Travel Guide &amp; History | An Empire Built on Mud</title>
+      <link>https://podcast.kajetan.nl/travel/netherlands/amsterdam/</link>
+      <description>Amsterdam began as a muddy settlement behind a dam on the Amstel, and that history still shapes the things to see on a visit, from the canal rings to world-famous museums. In 1275, Count Floris V freed its residents from paying his tolls: a small privilege at the start of a long story.
+
+Other languages and more about Amsterdam: https://podcast.kajetan.nl/travel/netherlands/amsterdam/
+
+Sources include Wikipedia and Wikivoyage (CC BY-SA 4.0) and official tourism, heritage and museum websites. The conversation and voices are AI-generated.</description>
+      <itunes:summary>Amsterdam began as a muddy settlement behind a dam on the Amstel, and that history still shapes the things to see on a visit, from the canal rings to world-famous museums. In 1275, Count Floris V freed its residents from paying his tolls: a small privilege at the start of a long story.
+
+Other languages and more about Amsterdam: https://podcast.kajetan.nl/travel/netherlands/amsterdam/
+
+Sources include Wikipedia and Wikivoyage (CC BY-SA 4.0) and official tourism, heritage and museum websites. The conversation and voices are AI-generated.</itunes:summary>
+      <enclosure url="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/episodes/wandering-cities-amsterdam-1528355309-v1.mp3" length="21076115" type="audio/mpeg"/>
+      <guid isPermaLink="false">6365372e-798c-527b-822e-4ea48149568c</guid>
+      <pubDate>Sun, 04 Oct 2026 07:32:32 +0000</pubDate>
+      <itunes:duration>00:21:47</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Kampen Travel Guide &amp; History | Why It Stopped Collecting Taxes</title>
+      <link>https://podcast.kajetan.nl/travel/netherlands/kampen/</link>
+      <description>Kampen, in the Netherlands, is a town made for wandering: the things to see on a visit include medieval city gates, church towers and a riverfront shaped by centuries of trade. In 1448 its citizens built a wooden bridge across the IJssel in just five months, and that's only the start of its Hanseatic history.
+
+Other languages and more about Kampen: https://podcast.kajetan.nl/travel/netherlands/kampen/
+
+Sources include Wikipedia and Wikivoyage (CC BY-SA 4.0) and official tourism, heritage and museum websites. The conversation and voices are AI-generated.</description>
+      <itunes:summary>Kampen, in the Netherlands, is a town made for wandering: the things to see on a visit include medieval city gates, church towers and a riverfront shaped by centuries of trade. In 1448 its citizens built a wooden bridge across the IJssel in just five months, and that's only the start of its Hanseatic history.
+
+Other languages and more about Kampen: https://podcast.kajetan.nl/travel/netherlands/kampen/
+
+Sources include Wikipedia and Wikivoyage (CC BY-SA 4.0) and official tourism, heritage and museum websites. The conversation and voices are AI-generated.</itunes:summary>
+      <enclosure url="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/episodes/wandering-cities-kampen-1528270646-v1.mp3" length="26752424" type="audio/mpeg"/>
+      <guid isPermaLink="false">0f201e7a-7825-5001-aae0-6555c41afd75</guid>
+      <pubDate>Sun, 04 Oct 2026 07:30:59 +0000</pubDate>
+      <itunes:duration>00:27:42</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+  </channel>
+</rss>
