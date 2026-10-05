@@ -14,7 +14,27 @@
     <itunes:type>episodic</itunes:type>
     <itunes:category text="Society &amp; Culture"><itunes:category text="Places &amp; Travel"/></itunes:category>
     <itunes:image href="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/cover-3000.jpg"/>
-    <lastBuildDate>Mon, 05 Oct 2026 08:43:58 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 05 Oct 2026 08:45:40 +0000</lastBuildDate>
+    <item>
+      <title>Alkmaar Travel Guide &amp; History | Secret Notes in Hollow Poles</title>
+      <link>https://podcast.kajetan.nl/travel/netherlands/alkmaar/</link>
+      <description>Alkmaar, in the Netherlands, features historic canals, the medieval Waaggebouw, and the Grote Sint Laurenskerk for tourists who visit to explore local history. In 1573, residents smuggled secret messages in hollow vaulting poles to request dike breaches, flooding surrounding lands to break a Spanish siege.
+
+Other languages and more about Alkmaar: https://podcast.kajetan.nl/travel/netherlands/alkmaar/
+
+Sources include Wikipedia and Wikivoyage (CC BY-SA 4.0) and official tourism, heritage and museum websites. The conversation and voices are AI-generated.</description>
+      <itunes:summary>Alkmaar, in the Netherlands, features historic canals, the medieval Waaggebouw, and the Grote Sint Laurenskerk for tourists who visit to explore local history. In 1573, residents smuggled secret messages in hollow vaulting poles to request dike breaches, flooding surrounding lands to break a Spanish siege.
+
+Other languages and more about Alkmaar: https://podcast.kajetan.nl/travel/netherlands/alkmaar/
+
+Sources include Wikipedia and Wikivoyage (CC BY-SA 4.0) and official tourism, heritage and museum websites. The conversation and voices are AI-generated.</itunes:summary>
+      <enclosure url="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/episodes/wandering-cities-alkmaar-1528566376-v1.mp3" length="21810473" type="audio/mpeg"/>
+      <guid isPermaLink="false">11885a99-8c55-575f-97c5-db409369ff77</guid>
+      <pubDate>Mon, 05 Oct 2026 08:45:39 +0000</pubDate>
+      <itunes:duration>00:22:33</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Delft Travel Guide &amp; History | Built by Disaster</title>
       <link>https://podcast.kajetan.nl/travel/netherlands/delft/</link>
