@@ -14,10 +14,11 @@
     <itunes:type>episodic</itunes:type>
     <itunes:category text="Society &amp; Culture"><itunes:category text="Places &amp; Travel"/></itunes:category>
     <itunes:image href="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/cover-3000.jpg"/>
-    <lastBuildDate>Mon, 05 Oct 2026 09:44:35 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 05 Oct 2026 10:29:17 +0000</lastBuildDate>
     <item>
       <title>Lelystad Travel Guide &amp; History | A City Reclaimed from the Sea</title>
       <link>https://podcast.kajetan.nl/travel/netherlands/lelystad/</link>
+      <podcast:transcript url="https://podcast.kajetan.nl/travel/netherlands/lelystad/transcript-en.txt" type="text/plain" language="en"/>
       <description>Lelystad, in the Netherlands, offers key things to see, including the replica ship Batavia at Museum Batavialand and the wildlife at Natuurpark Lelystad, for those who visit. In June 1957, the polder was drained dry, turning former seabed into new land for human settlement.
 
 Other languages and more about Lelystad: https://podcast.kajetan.nl/travel/netherlands/lelystad/
@@ -58,6 +59,7 @@ Sources include Wikipedia and Wikivoyage (CC BY-SA 4.0) and official tourism, he
     <item>
       <title>Schiedam Travel Guide &amp; History | From Soot to Fine Spirits</title>
       <link>https://podcast.kajetan.nl/travel/netherlands/schiedam/</link>
+      <podcast:transcript url="https://podcast.kajetan.nl/travel/netherlands/schiedam/transcript-en.txt" type="text/plain" language="en"/>
       <description>Schiedam, in the Netherlands, features Lange Haven canals, De Walvisch windmill, and the Jenevermuseum for travelers interested in local history and things to see. In 1275, Aleid van Holland granted city rights to the town, shaping its growth from a dam into a distilling hub.
 
 Other languages and more about Schiedam: https://podcast.kajetan.nl/travel/netherlands/schiedam/
@@ -78,6 +80,7 @@ Sources include Wikipedia and Wikivoyage (CC BY-SA 4.0) and official tourism, he
     <item>
       <title>Gouda Travel Guide &amp; History | A Sinking City Built on Peat</title>
       <link>https://podcast.kajetan.nl/travel/netherlands/gouda/</link>
+      <podcast:transcript url="https://podcast.kajetan.nl/travel/netherlands/gouda/transcript-en.txt" type="text/plain" language="en"/>
       <description>Gouda, in the Netherlands, features historic canals where tourists visit St. John's Church and the central town hall to study local history. In 1272, Count Floris V granted city rights to the town after two centuries of peat collection.
 
 Other languages and more about Gouda: https://podcast.kajetan.nl/travel/netherlands/gouda/
@@ -98,6 +101,7 @@ Sources include Wikipedia and Wikivoyage (CC BY-SA 4.0) and official tourism, he
     <item>
       <title>Roosendaal Travel Guide &amp; History | From Peat Bogs to Railway Hub</title>
       <link>https://podcast.kajetan.nl/travel/netherlands/roosendaal/</link>
+      <podcast:transcript url="https://podcast.kajetan.nl/travel/netherlands/roosendaal/transcript-en.txt" type="text/plain" language="en"/>
       <description>Roosendaal, in the Netherlands, has centuries of history with key things to see around the Markt, such as the Sint Jan church and the old Raadhuis. In 1854, a new railway line to Antwerp opened, turning the medieval peat mining hub into an international transport junction.
 
 Other languages and more about Roosendaal: https://podcast.kajetan.nl/travel/netherlands/roosendaal/
@@ -118,6 +122,7 @@ Sources include Wikipedia and Wikivoyage (CC BY-SA 4.0) and official tourism, he
     <item>
       <title>Hoorn Travel Guide &amp; History | The Dutch Port Behind Cape Horn</title>
       <link>https://podcast.kajetan.nl/travel/netherlands/hoorn/</link>
+      <podcast:transcript url="https://podcast.kajetan.nl/travel/netherlands/hoorn/transcript-en.txt" type="text/plain" language="en"/>
       <description>Hoorn, in the Netherlands, connects centuries of maritime history with real sights like the Hoofdtoren tower and the Roode Steen square for travelers who visit. In 1616, Dutch navigators rounded the tip of South America and named Cape Horn after this port.
 
 Other languages and more about Hoorn: https://podcast.kajetan.nl/travel/netherlands/hoorn/
@@ -178,6 +183,7 @@ Sources include Wikipedia and Wikivoyage (CC BY-SA 4.0) and official tourism, he
     <item>
       <title>Almelo Travel Guide &amp; History | The Largest Dutch Bank Heist</title>
       <link>https://podcast.kajetan.nl/travel/netherlands/almelo/</link>
+      <podcast:transcript url="https://podcast.kajetan.nl/travel/netherlands/almelo/transcript-en.txt" type="text/plain" language="en"/>
       <description>Almelo, in the Netherlands, offers centuries of history around landmarks like Huize Almelo and the Wevershuisje, giving travelers notable things to see. In 1944, resistance fighters stole 46.1 million guilders from De Nederlandsche Bank during the country's largest heist.
 
 Other languages and more about Almelo: https://podcast.kajetan.nl/travel/netherlands/almelo/
@@ -198,6 +204,7 @@ Sources include Wikipedia and Wikivoyage (CC BY-SA 4.0) and official tourism, he
     <item>
       <title>Deventer Travel Guide &amp; History | Boiling Counterfeiters Alive</title>
       <link>https://podcast.kajetan.nl/travel/netherlands/deventer/</link>
+      <podcast:transcript url="https://podcast.kajetan.nl/travel/netherlands/deventer/transcript-en.txt" type="text/plain" language="en"/>
       <description>Deventer, in the Netherlands, features medieval history around the Brink square and Lebuïnus Church, offering key things to see when you visit. Around 1809, soldiers in Napoleon's army shot holes into the execution kettle where a coin counterfeiter was once boiled alive.
 
 Other languages and more about Deventer: https://podcast.kajetan.nl/travel/netherlands/deventer/
@@ -218,6 +225,7 @@ Sources include Wikipedia and Wikivoyage (CC BY-SA 4.0) and official tourism, he
     <item>
       <title>Maastricht Travel Guide &amp; History | Ancient Marlstone Built Forts</title>
       <link>https://podcast.kajetan.nl/travel/netherlands/maastricht/</link>
+      <podcast:transcript url="https://podcast.kajetan.nl/travel/netherlands/maastricht/transcript-en.txt" type="text/plain" language="en"/>
       <description>Maastricht, in the Netherlands, features centuries of history and major things to see, including Fort Sint Pieter, Helpoort, and Sint Servaasbrug along the Meuse River. In 1942, officials stored 800 national art treasures inside a North Caves vault to protect them during World War II.
 
 Other languages and more about Maastricht: https://podcast.kajetan.nl/travel/netherlands/maastricht/
@@ -238,6 +246,7 @@ Sources include Wikipedia and Wikivoyage (CC BY-SA 4.0) and official tourism, he
     <item>
       <title>Emmen Travel Guide &amp; History | Ancient Tombs and Modern Art</title>
       <link>https://podcast.kajetan.nl/travel/netherlands/emmen/</link>
+      <podcast:transcript url="https://podcast.kajetan.nl/travel/netherlands/emmen/transcript-en.txt" type="text/plain" language="en"/>
       <description>Emmen, in the Netherlands, features stone dolmens in the Emmerdennen forest, the Grote Kerk on the Marktplein, and art in Rensenpark. Visitors will find many things to see while exploring ancient history. In 1883, Vincent van Gogh lodged in nearby Nieuw-Amsterdam to paint the peat bogs.
 
 Other languages and more about Emmen: https://podcast.kajetan.nl/travel/netherlands/emmen/
@@ -258,6 +267,7 @@ Sources include Wikipedia and Wikivoyage (CC BY-SA 4.0) and official tourism, he
     <item>
       <title>Amstelveen Travel Guide &amp; History | Defying Amsterdam's Expansion</title>
       <link>https://podcast.kajetan.nl/travel/netherlands/amstelveen/</link>
+      <podcast:transcript url="https://podcast.kajetan.nl/travel/netherlands/amstelveen/transcript-en.txt" type="text/plain" language="en"/>
       <description>Amstelveen, in the Netherlands, features local history and popular things to see, including the Cobra Museum, Museum JAN, and the Amsterdamse Bos. In 1964, the municipality officially changed its name from Nieuwer-Amstel to Amstelveen after resisting full annexation.
 
 Other languages and more about Amstelveen: https://podcast.kajetan.nl/travel/netherlands/amstelveen/
@@ -278,6 +288,7 @@ Sources include Wikipedia and Wikivoyage (CC BY-SA 4.0) and official tourism, he
     <item>
       <title>Hilversum Travel Guide &amp; History | The Making of Dutch Hollywood</title>
       <link>https://podcast.kajetan.nl/travel/netherlands/hilversum/</link>
+      <podcast:transcript url="https://podcast.kajetan.nl/travel/netherlands/hilversum/transcript-en.txt" type="text/plain" language="en"/>
       <description>Hilversum, in the Netherlands, offers broadcasting history and key sights to visit, from the Sound &amp; Vision museum at Media Park to Willem Dudok's Town Hall. In 1918, the opening of a radio transmitter factory started the town's rise as the national media capital.
 
 Other languages and more about Hilversum: https://podcast.kajetan.nl/travel/netherlands/hilversum/
@@ -298,6 +309,7 @@ Sources include Wikipedia and Wikivoyage (CC BY-SA 4.0) and official tourism, he
     <item>
       <title>Helmond Travel Guide &amp; History | Medieval Castle and Cube Houses</title>
       <link>https://podcast.kajetan.nl/travel/netherlands/helmond/</link>
+      <podcast:transcript url="https://podcast.kajetan.nl/travel/netherlands/helmond/transcript-en.txt" type="text/plain" language="en"/>
       <description>Helmond, in the Netherlands, features a medieval moat castle, tilted cube houses, and the Cacaofabriek for travelers who visit to explore local history. In 1325, construction began on the square water castle, shaping the city for centuries to come.
 
 Other languages and more about Helmond: https://podcast.kajetan.nl/travel/netherlands/helmond/
@@ -318,6 +330,7 @@ Sources include Wikipedia and Wikivoyage (CC BY-SA 4.0) and official tourism, he
     <item>
       <title>Heerlen Travel Guide &amp; History | From Coal Mines to Street Art</title>
       <link>https://podcast.kajetan.nl/travel/netherlands/heerlen/</link>
+      <podcast:transcript url="https://podcast.kajetan.nl/travel/netherlands/heerlen/transcript-en.txt" type="text/plain" language="en"/>
       <description>Heerlen, in the Netherlands, is a place to visit for Roman and industrial history, featuring sights like Hoensbroek Castle, the Thermenmuseum, and the Glaspaleis. In 1965, the Dutch government announced the closure of the local coal mines, leading to a cultural transformation through street art and redevelopment.
 
 Other languages and more about Heerlen: https://podcast.kajetan.nl/travel/netherlands/heerlen/
@@ -338,6 +351,7 @@ Sources include Wikipedia and Wikivoyage (CC BY-SA 4.0) and official tourism, he
     <item>
       <title>Alkmaar Travel Guide &amp; History | Secret Notes in Hollow Poles</title>
       <link>https://podcast.kajetan.nl/travel/netherlands/alkmaar/</link>
+      <podcast:transcript url="https://podcast.kajetan.nl/travel/netherlands/alkmaar/transcript-en.txt" type="text/plain" language="en"/>
       <description>Alkmaar, in the Netherlands, features historic canals, the medieval Waaggebouw, and the Grote Sint Laurenskerk for tourists who visit to explore local history. In 1573, residents smuggled secret messages in hollow vaulting poles to request dike breaches, flooding surrounding lands to break a Spanish siege.
 
 Other languages and more about Alkmaar: https://podcast.kajetan.nl/travel/netherlands/alkmaar/
@@ -358,6 +372,7 @@ Sources include Wikipedia and Wikivoyage (CC BY-SA 4.0) and official tourism, he
     <item>
       <title>Delft Travel Guide &amp; History | Built by Disaster</title>
       <link>https://podcast.kajetan.nl/travel/netherlands/delft/</link>
+      <podcast:transcript url="https://podcast.kajetan.nl/travel/netherlands/delft/transcript-en.txt" type="text/plain" language="en"/>
       <description>Delft, in the Netherlands, is still defined by canals, blue-and-white pottery and the light Vermeer painted, the things to see on any visit. Its history took a dramatic turn in 1584, when William of Orange was assassinated in the Prinsenhof; the bullet holes are still visible in the wall today.
 
 Other languages and more about Delft: https://podcast.kajetan.nl/travel/netherlands/delft/
@@ -378,6 +393,7 @@ Sources include Wikipedia and Wikivoyage (CC BY-SA 4.0) and official tourism, he
     <item>
       <title>Amsterdam Travel Guide &amp; History | An Empire Built on Mud</title>
       <link>https://podcast.kajetan.nl/travel/netherlands/amsterdam/</link>
+      <podcast:transcript url="https://podcast.kajetan.nl/travel/netherlands/amsterdam/transcript-en.txt" type="text/plain" language="en"/>
       <description>Amsterdam began as a muddy settlement behind a dam on the Amstel, and that history still shapes the things to see on a visit, from the canal rings to world-famous museums. In 1275, Count Floris V freed its residents from paying his tolls: a small privilege at the start of a long story.
 
 Other languages and more about Amsterdam: https://podcast.kajetan.nl/travel/netherlands/amsterdam/
@@ -398,6 +414,7 @@ Sources include Wikipedia and Wikivoyage (CC BY-SA 4.0) and official tourism, he
     <item>
       <title>Kampen Travel Guide &amp; History | Why It Stopped Collecting Taxes</title>
       <link>https://podcast.kajetan.nl/travel/netherlands/kampen/</link>
+      <podcast:transcript url="https://podcast.kajetan.nl/travel/netherlands/kampen/transcript-en.txt" type="text/plain" language="en"/>
       <description>Kampen, in the Netherlands, is a town made for wandering: the things to see on a visit include medieval city gates, church towers and a riverfront shaped by centuries of trade. In 1448 its citizens built a wooden bridge across the IJssel in just five months, and that's only the start of its Hanseatic history.
 
 Other languages and more about Kampen: https://podcast.kajetan.nl/travel/netherlands/kampen/
