@@ -14,7 +14,27 @@
     <itunes:type>episodic</itunes:type>
     <itunes:category text="Society &amp; Culture"><itunes:category text="Places &amp; Travel"/></itunes:category>
     <itunes:image href="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/cover-it-3000.jpg"/>
-    <lastBuildDate>Tue, 06 Oct 2026 20:32:46 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 06 Oct 2026 21:03:30 +0000</lastBuildDate>
+    <item>
+      <title>Amsterdam: guida di viaggio e storia | Dalla palude alla finanza globale</title>
+      <link>https://podcast.kajetan.nl/travel/netherlands/amsterdam/</link>
+      <description>Amsterdam mostra durante una visita la sua storia e cosa vedere come la Grachtengordel, il Rijksmuseum e la Anne Frank Huis. Nel 1275, il conte Floris V concesse un privilegio di pedaggio agli abitanti della diga sull'Amstel, avviando il suo commercio.
+
+Altre lingue e altro su Amsterdam: https://podcast.kajetan.nl/travel/netherlands/amsterdam/
+
+Fonti, tra le altre: Wikipedia e Wikivoyage (CC BY-SA 4.0) e siti ufficiali di turismo, patrimonio e musei. La conversazione e le voci sono generate dall'IA.</description>
+      <itunes:summary>Amsterdam mostra durante una visita la sua storia e cosa vedere come la Grachtengordel, il Rijksmuseum e la Anne Frank Huis. Nel 1275, il conte Floris V concesse un privilegio di pedaggio agli abitanti della diga sull'Amstel, avviando il suo commercio.
+
+Altre lingue e altro su Amsterdam: https://podcast.kajetan.nl/travel/netherlands/amsterdam/
+
+Fonti, tra le altre: Wikipedia e Wikivoyage (CC BY-SA 4.0) e siti ufficiali di turismo, patrimonio e musei. La conversazione e le voci sono generate dall'IA.</itunes:summary>
+      <enclosure url="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/episodes/it/it-amsterdam-1528355309-v1.mp3" length="25499891" type="audio/mpeg"/>
+      <guid isPermaLink="false">19afea1a-2a8c-5f39-97b8-890c3e14a2b8</guid>
+      <pubDate>Tue, 06 Oct 2026 21:03:29 +0000</pubDate>
+      <itunes:duration>00:26:26</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Tilburg: guida di viaggio e storia | Da polo tessile a centro creativo</title>
       <link>https://podcast.kajetan.nl/travel/netherlands/tilburg/</link>
