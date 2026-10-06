@@ -14,7 +14,27 @@
     <itunes:type>episodic</itunes:type>
     <itunes:category text="Society &amp; Culture"><itunes:category text="Places &amp; Travel"/></itunes:category>
     <itunes:image href="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/cover-de-3000.jpg"/>
-    <lastBuildDate>Tue, 06 Oct 2026 17:32:22 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 06 Oct 2026 19:02:33 +0000</lastBuildDate>
+    <item>
+      <title>Tilburg Reiseführer &amp; Geschichte | Vom Urinkrug zum stolzen Spitznamen</title>
+      <link>https://podcast.kajetan.nl/travel/netherlands/tilburg/</link>
+      <description>Tilburg verbindet seine industrielle Geschichte mit Sehenswürdigkeiten wie dem TextielMuseum und dem Museum De Pont in ehemaligen Fabriken. Im Jahr 1871 zählte die Stadt 125 Wollfabriken, in denen Arbeiter Urinkrüge zur Wollverarbeitung nutzten und so ihren Spitznamen erhielten.
+
+Andere Sprachen und mehr über Tilburg: https://podcast.kajetan.nl/travel/netherlands/tilburg/
+
+Quellen u. a. Wikipedia und Wikivoyage (CC BY-SA 4.0) sowie offizielle Websites für Tourismus, Denkmalpflege und Museen. Gespräch und Stimmen sind KI-generiert.</description>
+      <itunes:summary>Tilburg verbindet seine industrielle Geschichte mit Sehenswürdigkeiten wie dem TextielMuseum und dem Museum De Pont in ehemaligen Fabriken. Im Jahr 1871 zählte die Stadt 125 Wollfabriken, in denen Arbeiter Urinkrüge zur Wollverarbeitung nutzten und so ihren Spitznamen erhielten.
+
+Andere Sprachen und mehr über Tilburg: https://podcast.kajetan.nl/travel/netherlands/tilburg/
+
+Quellen u. a. Wikipedia und Wikivoyage (CC BY-SA 4.0) sowie offizielle Websites für Tourismus, Denkmalpflege und Museen. Gespräch und Stimmen sind KI-generiert.</itunes:summary>
+      <enclosure url="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/episodes/de/de-tilburg-1528817379-v1.mp3" length="15687078" type="audio/mpeg"/>
+      <guid isPermaLink="false">8d1f60eb-4fad-5d75-9779-202428a16f4e</guid>
+      <pubDate>Tue, 06 Oct 2026 19:01:38 +0000</pubDate>
+      <itunes:duration>00:16:13</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Delft Reiseführer &amp; Geschichte | Zwischen schiefem Turm und High-Tech</title>
       <link>https://podcast.kajetan.nl/travel/netherlands/delft/</link>
