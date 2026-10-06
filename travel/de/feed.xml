@@ -14,7 +14,27 @@
     <itunes:type>episodic</itunes:type>
     <itunes:category text="Society &amp; Culture"><itunes:category text="Places &amp; Travel"/></itunes:category>
     <itunes:image href="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/cover-de-3000.jpg"/>
-    <lastBuildDate>Tue, 06 Oct 2026 19:33:46 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 06 Oct 2026 20:03:43 +0000</lastBuildDate>
+    <item>
+      <title>Amsterdam Reiseführer &amp; Geschichte | Vom Sumpf zur globalen Handelsmacht</title>
+      <link>https://podcast.kajetan.nl/travel/netherlands/amsterdam/</link>
+      <description>Amsterdam zeigt bei einem Besuch seine Geschichte und Sehenswürdigkeiten wie die Grachtengordel, das Rijksmuseum und das Anne Frank Huis. Im Jahr 1275 gewährte Graf Floris V. den Bewohnern am Amsteldamm ein Zollprivileg, das den Grundstein für den Aufstieg zur Handelsmacht legte.
+
+Andere Sprachen und mehr über Amsterdam: https://podcast.kajetan.nl/travel/netherlands/amsterdam/
+
+Quellen u. a. Wikipedia und Wikivoyage (CC BY-SA 4.0) sowie offizielle Websites für Tourismus, Denkmalpflege und Museen. Gespräch und Stimmen sind KI-generiert.</description>
+      <itunes:summary>Amsterdam zeigt bei einem Besuch seine Geschichte und Sehenswürdigkeiten wie die Grachtengordel, das Rijksmuseum und das Anne Frank Huis. Im Jahr 1275 gewährte Graf Floris V. den Bewohnern am Amsteldamm ein Zollprivileg, das den Grundstein für den Aufstieg zur Handelsmacht legte.
+
+Andere Sprachen und mehr über Amsterdam: https://podcast.kajetan.nl/travel/netherlands/amsterdam/
+
+Quellen u. a. Wikipedia und Wikivoyage (CC BY-SA 4.0) sowie offizielle Websites für Tourismus, Denkmalpflege und Museen. Gespräch und Stimmen sind KI-generiert.</itunes:summary>
+      <enclosure url="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/episodes/de/de-amsterdam-1528355309-v1.mp3" length="23887024" type="audio/mpeg"/>
+      <guid isPermaLink="false">6591590d-24e7-5be7-9486-d983cc034a39</guid>
+      <pubDate>Tue, 06 Oct 2026 20:02:07 +0000</pubDate>
+      <itunes:duration>00:24:45</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Tilburg Reiseführer &amp; Geschichte | Vom Urinkrug zum stolzen Spitznamen</title>
       <link>https://podcast.kajetan.nl/travel/netherlands/tilburg/</link>
