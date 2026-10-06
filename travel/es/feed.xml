@@ -14,7 +14,26 @@
     <itunes:type>episodic</itunes:type>
     <itunes:category text="Society &amp; Culture"><itunes:category text="Places &amp; Travel"/></itunes:category>
     <itunes:image href="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/cover-es-3000.jpg"/>
-    <lastBuildDate>Tue, 06 Oct 2026 19:02:33 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 06 Oct 2026 19:33:46 +0000</lastBuildDate>
+    <item>
+      <title>Tilburg: guía de viaje e historia | De imperio lanero a centro creativo</title>
+      <link>https://podcast.kajetan.nl/travel/netherlands/tilburg/</link>
+      <description>Tilburg conecta su historia textil con varios lugares qué ver durante la visita, como el TextielMuseum y De Pont. En 1871, la ciudad albergaba 125 fábricas de lana antes de reconvertir sus recintos industriales en espacios culturales.
 
+Otros idiomas y más sobre Tilburg: https://podcast.kajetan.nl/travel/netherlands/tilburg/
+
+Fuentes, entre otras: Wikipedia y Wikivoyage (CC BY-SA 4.0) y webs oficiales de turismo, patrimonio y museos. La conversación y las voces están generadas por IA.</description>
+      <itunes:summary>Tilburg conecta su historia textil con varios lugares qué ver durante la visita, como el TextielMuseum y De Pont. En 1871, la ciudad albergaba 125 fábricas de lana antes de reconvertir sus recintos industriales en espacios culturales.
+
+Otros idiomas y más sobre Tilburg: https://podcast.kajetan.nl/travel/netherlands/tilburg/
+
+Fuentes, entre otras: Wikipedia y Wikivoyage (CC BY-SA 4.0) y webs oficiales de turismo, patrimonio y museos. La conversación y las voces están generadas por IA.</itunes:summary>
+      <enclosure url="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/episodes/es/es-tilburg-1528817379-v1.mp3" length="27874086" type="audio/mpeg"/>
+      <guid isPermaLink="false">c37d8962-07e3-5dc0-868a-abe00c9efe09</guid>
+      <pubDate>Tue, 06 Oct 2026 19:32:24 +0000</pubDate>
+      <itunes:duration>00:28:54</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
   </channel>
 </rss>
