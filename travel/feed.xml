@@ -14,7 +14,7 @@
     <itunes:type>episodic</itunes:type>
     <itunes:category text="Society &amp; Culture"><itunes:category text="Places &amp; Travel"/></itunes:category>
     <itunes:image href="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/cover-3000.jpg"/>
-    <lastBuildDate>Mon, 05 Oct 2026 11:48:54 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 06 Oct 2026 03:01:24 +0000</lastBuildDate>
     <item>
       <title>Leiden Travel Guide &amp; History | Flooding the Land to Survive</title>
       <link>https://podcast.kajetan.nl/travel/netherlands/leiden/</link>
@@ -207,6 +207,7 @@ Sources include Wikipedia and Wikivoyage (CC BY-SA 4.0) and official tourism, he
     <item>
       <title>Scheveningen Travel Guide &amp; History | The Town Spies Could Not Pronounce</title>
       <link>https://podcast.kajetan.nl/travel/netherlands/scheveningen/</link>
+      <podcast:transcript url="https://podcast.kajetan.nl/travel/netherlands/scheveningen/transcript-en.txt" type="text/plain" language="en"/>
       <description>Scheveningen, in the Netherlands, combines maritime history with sights to visit, including the Kurhaus hotel, the pier, and the red lighthouse by the North Sea. In 1901, a wooden pier opened in front of the Kurhaus, creating a promenade above the waves.
 
 Other languages and more about Scheveningen: https://podcast.kajetan.nl/travel/netherlands/scheveningen/
@@ -311,6 +312,7 @@ Sources include Wikipedia and Wikivoyage (CC BY-SA 4.0) and official tourism, he
     <item>
       <title>Ede Travel Guide &amp; History | Where Paratroopers Meet Wild Boars</title>
       <link>https://podcast.kajetan.nl/travel/netherlands/ede/</link>
+      <podcast:transcript url="https://podcast.kajetan.nl/travel/netherlands/ede/transcript-en.txt" type="text/plain" language="en"/>
       <description>Ede, in the Netherlands, brings together military history across the Ginkelse Heide and modern art at the Kröller-Müller Museum for travelers planning a visit. In September 1944, over 2,000 Allied paratroopers landed on the Ginkelse Heide during Operation Market Garden to capture strategic bridges.
 
 Other languages and more about Ede: https://podcast.kajetan.nl/travel/netherlands/ede/
@@ -331,6 +333,7 @@ Sources include Wikipedia and Wikivoyage (CC BY-SA 4.0) and official tourism, he
     <item>
       <title>Roermond Travel Guide &amp; History | The Town That Moved a River</title>
       <link>https://podcast.kajetan.nl/travel/netherlands/roermond/</link>
+      <podcast:transcript url="https://podcast.kajetan.nl/travel/netherlands/roermond/transcript-en.txt" type="text/plain" language="en"/>
       <description>Roermond, in the Netherlands, features landmarks such as the Munsterkerk, Saint Christopher's Cathedral, and the Cuypershuis museum for travelers who visit to learn about its history. In 1342, local workers redirected the Meuse river to grant the town direct access to major European trade routes.
 
 Other languages and more about Roermond: https://podcast.kajetan.nl/travel/netherlands/roermond/
