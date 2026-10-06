@@ -14,7 +14,26 @@
     <itunes:type>episodic</itunes:type>
     <itunes:category text="Society &amp; Culture"><itunes:category text="Places &amp; Travel"/></itunes:category>
     <itunes:image href="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/cover-de-3000.jpg"/>
-    <lastBuildDate>Tue, 06 Oct 2026 16:59:38 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 06 Oct 2026 17:32:22 +0000</lastBuildDate>
+    <item>
+      <title>Delft Reiseführer &amp; Geschichte | Zwischen schiefem Turm und High-Tech</title>
+      <link>https://podcast.kajetan.nl/travel/netherlands/delft/</link>
+      <description>Delft verbindet Sehenswürdigkeiten wie die Oude Kerk, die Nieuwe Kerk und den Markt mit der TU Delft, was jeden Besuch prägt. Im Jahr 1584 wurde Willem van Oranje im Prinsenhof ermordet, was die Geschichte der Niederlande veränderte.
 
+Andere Sprachen und mehr über Delft: https://podcast.kajetan.nl/travel/netherlands/delft/
+
+Quellen u. a. Wikipedia und Wikivoyage (CC BY-SA 4.0) sowie offizielle Websites für Tourismus, Denkmalpflege und Museen. Gespräch und Stimmen sind KI-generiert.</description>
+      <itunes:summary>Delft verbindet Sehenswürdigkeiten wie die Oude Kerk, die Nieuwe Kerk und den Markt mit der TU Delft, was jeden Besuch prägt. Im Jahr 1584 wurde Willem van Oranje im Prinsenhof ermordet, was die Geschichte der Niederlande veränderte.
+
+Andere Sprachen und mehr über Delft: https://podcast.kajetan.nl/travel/netherlands/delft/
+
+Quellen u. a. Wikipedia und Wikivoyage (CC BY-SA 4.0) sowie offizielle Websites für Tourismus, Denkmalpflege und Museen. Gespräch und Stimmen sind KI-generiert.</itunes:summary>
+      <enclosure url="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/episodes/de/de-delft-1528448452-v1.mp3" length="26867485" type="audio/mpeg"/>
+      <guid isPermaLink="false">4c16bf7c-95b8-58e9-942f-dd04b269dddf</guid>
+      <pubDate>Tue, 06 Oct 2026 17:32:21 +0000</pubDate>
+      <itunes:duration>00:27:52</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
   </channel>
 </rss>
