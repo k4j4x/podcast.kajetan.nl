@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:podcast="https://podcastindex.org/namespace/1.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ciudades Errantes</title>
+    <link>https://podcast.kajetan.nl/travel/</link>
+    <atom:link href="https://podcast.kajetan.nl/travel/es/feed.xml" rel="self" type="application/rss+xml"/>
+    <language>es</language>
+    <description>Guía de viaje e historia de las ciudades de los Países Bajos. Dos presentadores curiosos recorren una ciudad distinta en cada episodio: cómo surgió, qué monumentos merecen la visita, qué probar y qué fiestas justifican un viaje. De grandes ciudades a pequeños puertos, cada episodio termina con consejos prácticos para tu visita. La conversación y las voces están generadas por IA.</description>
+    <itunes:summary>Guía de viaje e historia de las ciudades de los Países Bajos. Dos presentadores curiosos recorren una ciudad distinta en cada episodio: cómo surgió, qué monumentos merecen la visita, qué probar y qué fiestas justifican un viaje. De grandes ciudades a pequeños puertos, cada episodio termina con consejos prácticos para tu visita. La conversación y las voces están generadas por IA.</itunes:summary>
+    <itunes:subtitle>Guía de viaje e historia de las ciudades de los Países Bajos, una ciudad por episodio.</itunes:subtitle>
+    <itunes:author>Ciudades Errantes</itunes:author>
+    <itunes:owner><itunes:name>Kajetan Studio</itunes:name><itunes:email>travelpodcast@kajetan.nl</itunes:email></itunes:owner>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:type>episodic</itunes:type>
+    <itunes:category text="Society &amp; Culture"><itunes:category text="Places &amp; Travel"/></itunes:category>
+    <itunes:image href="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/cover-es-3000.jpg"/>
+    <lastBuildDate>Tue, 06 Oct 2026 16:59:39 +0000</lastBuildDate>
+
+  </channel>
+</rss>
