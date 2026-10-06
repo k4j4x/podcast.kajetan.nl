@@ -14,7 +14,27 @@
     <itunes:type>episodic</itunes:type>
     <itunes:category text="Society &amp; Culture"><itunes:category text="Places &amp; Travel"/></itunes:category>
     <itunes:image href="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/cover-nl-3000.jpg"/>
-    <lastBuildDate>Tue, 06 Oct 2026 20:03:43 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 06 Oct 2026 20:32:46 +0000</lastBuildDate>
+    <item>
+      <title>Amsterdam reisgids &amp; geschiedenis | Van moeras tot rebelse wereldstad</title>
+      <link>https://podcast.kajetan.nl/travel/netherlands/amsterdam/</link>
+      <description>Amsterdam toont bij een bezoek zijn geschiedenis en bezienswaardigheden zoals de Grachtengordel, het Rijksmuseum en het Anne Frank Huis. In 1275 verleende graaf Floris V de bewoners bij de dam in de Amstel een tolprivilege dat de basis legde voor de handel.
+
+Andere talen en meer over Amsterdam: https://podcast.kajetan.nl/travel/netherlands/amsterdam/
+
+Bronnen o.a. Wikipedia en Wikivoyage (CC BY-SA 4.0) en officiële websites over toerisme, erfgoed en musea. Het gesprek en de stemmen zijn door AI gegenereerd.</description>
+      <itunes:summary>Amsterdam toont bij een bezoek zijn geschiedenis en bezienswaardigheden zoals de Grachtengordel, het Rijksmuseum en het Anne Frank Huis. In 1275 verleende graaf Floris V de bewoners bij de dam in de Amstel een tolprivilege dat de basis legde voor de handel.
+
+Andere talen en meer over Amsterdam: https://podcast.kajetan.nl/travel/netherlands/amsterdam/
+
+Bronnen o.a. Wikipedia en Wikivoyage (CC BY-SA 4.0) en officiële websites over toerisme, erfgoed en musea. Het gesprek en de stemmen zijn door AI gegenereerd.</itunes:summary>
+      <enclosure url="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/episodes/nl/nl-amsterdam-1528355309-v1.mp3" length="18134070" type="audio/mpeg"/>
+      <guid isPermaLink="false">b22dd9cc-867c-515f-a01e-4e3c3f4531d1</guid>
+      <pubDate>Tue, 06 Oct 2026 20:32:45 +0000</pubDate>
+      <itunes:duration>00:18:46</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Tilburg reisgids &amp; geschiedenis | Van kruikenzeikers tot creatieve stad</title>
       <link>https://podcast.kajetan.nl/travel/netherlands/tilburg/</link>
