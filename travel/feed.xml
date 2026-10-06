@@ -14,7 +14,238 @@
     <itunes:type>episodic</itunes:type>
     <itunes:category text="Society &amp; Culture"><itunes:category text="Places &amp; Travel"/></itunes:category>
     <itunes:image href="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/cover-3000.jpg"/>
-    <lastBuildDate>Tue, 06 Oct 2026 03:01:24 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 06 Oct 2026 03:27:34 +0000</lastBuildDate>
+    <item>
+      <title>Leeuwarden Travel Guide &amp; History | The City of Two Hundred Names</title>
+      <link>https://podcast.kajetan.nl/travel/netherlands/leeuwarden/</link>
+      <podcast:transcript url="https://podcast.kajetan.nl/travel/netherlands/leeuwarden/transcript-en.txt" type="text/plain" language="en"/>
+      <description>Leeuwarden, in the Netherlands, highlights history across landmarks like the Blokhuispoort former prison, the Waag weigh house, and the Prinsentuin park for travelers who visit. In 1529, construction began on the Oldehove church tower, which tilted in soft clay soil and remained incomplete.
+
+Other languages and more about Leeuwarden: https://podcast.kajetan.nl/travel/netherlands/leeuwarden/
+
+Sources include Wikipedia and Wikivoyage (CC BY-SA 4.0) and official tourism, heritage and museum websites. The conversation and voices are AI-generated.</description>
+      <itunes:summary>Leeuwarden, in the Netherlands, highlights history across landmarks like the Blokhuispoort former prison, the Waag weigh house, and the Prinsentuin park for travelers who visit. In 1529, construction began on the Oldehove church tower, which tilted in soft clay soil and remained incomplete.
+
+Other languages and more about Leeuwarden: https://podcast.kajetan.nl/travel/netherlands/leeuwarden/
+
+Sources include Wikipedia and Wikivoyage (CC BY-SA 4.0) and official tourism, heritage and museum websites. The conversation and voices are AI-generated.</itunes:summary>
+      <enclosure url="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/episodes/wandering-cities-leeuwarden-1528992603-v2.mp3" length="21781220" type="audio/mpeg"/>
+      <guid isPermaLink="false">88af9ba0-6e0c-57c9-8963-3f43ceedd42a</guid>
+      <pubDate>Tue, 06 Oct 2026 03:27:34 +0000</pubDate>
+      <itunes:duration>00:22:32</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Breda Travel Guide &amp; History | Royal Roots and Historic Sights</title>
+      <link>https://podcast.kajetan.nl/travel/netherlands/breda/</link>
+      <podcast:transcript url="https://podcast.kajetan.nl/travel/netherlands/breda/transcript-en.txt" type="text/plain" language="en"/>
+      <description>Breda, in the Netherlands, blends centuries of history with real sights like the Grote Kerk and Castle of Breda as key things to see during your visit. In 1590, Dutch troops captured the city from Spanish forces by hiding inside a peat boat.
+
+Other languages and more about Breda: https://podcast.kajetan.nl/travel/netherlands/breda/
+
+Sources include Wikipedia and Wikivoyage (CC BY-SA 4.0) and official tourism, heritage and museum websites. The conversation and voices are AI-generated.</description>
+      <itunes:summary>Breda, in the Netherlands, blends centuries of history with real sights like the Grote Kerk and Castle of Breda as key things to see during your visit. In 1590, Dutch troops captured the city from Spanish forces by hiding inside a peat boat.
+
+Other languages and more about Breda: https://podcast.kajetan.nl/travel/netherlands/breda/
+
+Sources include Wikipedia and Wikivoyage (CC BY-SA 4.0) and official tourism, heritage and museum websites. The conversation and voices are AI-generated.</itunes:summary>
+      <enclosure url="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/episodes/wandering-cities-breda-1528921549-v2.mp3" length="22769690" type="audio/mpeg"/>
+      <guid isPermaLink="false">3f317a85-fa62-5f72-9510-77cce930d979</guid>
+      <pubDate>Tue, 06 Oct 2026 03:25:58 +0000</pubDate>
+      <itunes:duration>00:23:33</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Rotterdam Travel Guide &amp; History | From Ashes to Bold Skyline</title>
+      <link>https://podcast.kajetan.nl/travel/netherlands/rotterdam/</link>
+      <podcast:transcript url="https://podcast.kajetan.nl/travel/netherlands/rotterdam/transcript-en.txt" type="text/plain" language="en"/>
+      <description>Rotterdam, in the Netherlands, offers landmarks to visit, from the tilted Cube Houses and arched Markthal to the Erasmusbrug, giving visitors many things to see. In 1953, the Lijnbaan opened as Europe's first car-free shopping street, showing how wartime destruction prompted radical urban innovation.
+
+Other languages and more about Rotterdam: https://podcast.kajetan.nl/travel/netherlands/rotterdam/
+
+Sources include Wikipedia and Wikivoyage (CC BY-SA 4.0) and official tourism, heritage and museum websites. The conversation and voices are AI-generated.</description>
+      <itunes:summary>Rotterdam, in the Netherlands, offers landmarks to visit, from the tilted Cube Houses and arched Markthal to the Erasmusbrug, giving visitors many things to see. In 1953, the Lijnbaan opened as Europe's first car-free shopping street, showing how wartime destruction prompted radical urban innovation.
+
+Other languages and more about Rotterdam: https://podcast.kajetan.nl/travel/netherlands/rotterdam/
+
+Sources include Wikipedia and Wikivoyage (CC BY-SA 4.0) and official tourism, heritage and museum websites. The conversation and voices are AI-generated.</itunes:summary>
+      <enclosure url="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/episodes/wandering-cities-rotterdam-1528892850-v2.mp3" length="21507452" type="audio/mpeg"/>
+      <guid isPermaLink="false">9c781c63-3559-5a40-9f43-af7ac9911e7e</guid>
+      <pubDate>Tue, 06 Oct 2026 03:24:22 +0000</pubDate>
+      <itunes:duration>00:22:14</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Utrecht Travel Guide &amp; History | The Storm That Split a Cathedral</title>
+      <link>https://podcast.kajetan.nl/travel/netherlands/utrecht/</link>
+      <podcast:transcript url="https://podcast.kajetan.nl/travel/netherlands/utrecht/transcript-en.txt" type="text/plain" language="en"/>
+      <description>Utrecht, in the Netherlands, has key things to see like the Dom Tower and Oudegracht wharf cellars for people who visit. In 1674, a severe storm collapsed the central nave of the Dom Church, separating the tower from the rest of the cathedral.
+
+Other languages and more about Utrecht: https://podcast.kajetan.nl/travel/netherlands/utrecht/
+
+Sources include Wikipedia and Wikivoyage (CC BY-SA 4.0) and official tourism, heritage and museum websites. The conversation and voices are AI-generated.</description>
+      <itunes:summary>Utrecht, in the Netherlands, has key things to see like the Dom Tower and Oudegracht wharf cellars for people who visit. In 1674, a severe storm collapsed the central nave of the Dom Church, separating the tower from the rest of the cathedral.
+
+Other languages and more about Utrecht: https://podcast.kajetan.nl/travel/netherlands/utrecht/
+
+Sources include Wikipedia and Wikivoyage (CC BY-SA 4.0) and official tourism, heritage and museum websites. The conversation and voices are AI-generated.</itunes:summary>
+      <enclosure url="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/episodes/wandering-cities-utrecht-1528871692-v2.mp3" length="22762588" type="audio/mpeg"/>
+      <guid isPermaLink="false">0842d7c9-b8bd-5a72-bee9-02125e3dee1a</guid>
+      <pubDate>Tue, 06 Oct 2026 03:22:51 +0000</pubDate>
+      <itunes:duration>00:23:33</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Tilburg Travel Guide &amp; History | A Wool Empire Reborn</title>
+      <link>https://podcast.kajetan.nl/travel/netherlands/tilburg/</link>
+      <podcast:transcript url="https://podcast.kajetan.nl/travel/netherlands/tilburg/transcript-en.txt" type="text/plain" language="en"/>
+      <description>Tilburg, in the Netherlands, combines industrial history with cultural things to see, including former wool mills at the TextielMuseum and De Pont. In 1871, the city housed 125 wool mills before converting its manufacturing hubs into art venues.
+
+Other languages and more about Tilburg: https://podcast.kajetan.nl/travel/netherlands/tilburg/
+
+Sources include Wikipedia and Wikivoyage (CC BY-SA 4.0) and official tourism, heritage and museum websites. The conversation and voices are AI-generated.</description>
+      <itunes:summary>Tilburg, in the Netherlands, combines industrial history with cultural things to see, including former wool mills at the TextielMuseum and De Pont. In 1871, the city housed 125 wool mills before converting its manufacturing hubs into art venues.
+
+Other languages and more about Tilburg: https://podcast.kajetan.nl/travel/netherlands/tilburg/
+
+Sources include Wikipedia and Wikivoyage (CC BY-SA 4.0) and official tourism, heritage and museum websites. The conversation and voices are AI-generated.</itunes:summary>
+      <enclosure url="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/episodes/wandering-cities-tilburg-1528817379-v2.mp3" length="25475549" type="audio/mpeg"/>
+      <guid isPermaLink="false">0336bbfe-b124-54f0-91f5-2f88e2e19110</guid>
+      <pubDate>Tue, 06 Oct 2026 03:21:13 +0000</pubDate>
+      <itunes:duration>00:26:22</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>The Hague Travel Guide &amp; History | The City Built Without Walls</title>
+      <link>https://podcast.kajetan.nl/travel/netherlands/the-hague/</link>
+      <podcast:transcript url="https://podcast.kajetan.nl/travel/netherlands/the-hague/transcript-en.txt" type="text/plain" language="en"/>
+      <description>The Hague, in the Netherlands, connects political history with seaside sights like the Binnenhof and Scheveningen beach, offering key things to see on any visit. In 1806, King Louis Bonaparte finally granted official city rights to the unfortified town.
+
+Other languages and more about The Hague: https://podcast.kajetan.nl/travel/netherlands/the-hague/
+
+Sources include Wikipedia and Wikivoyage (CC BY-SA 4.0) and official tourism, heritage and museum websites. The conversation and voices are AI-generated.</description>
+      <itunes:summary>The Hague, in the Netherlands, connects political history with seaside sights like the Binnenhof and Scheveningen beach, offering key things to see on any visit. In 1806, King Louis Bonaparte finally granted official city rights to the unfortified town.
+
+Other languages and more about The Hague: https://podcast.kajetan.nl/travel/netherlands/the-hague/
+
+Sources include Wikipedia and Wikivoyage (CC BY-SA 4.0) and official tourism, heritage and museum websites. The conversation and voices are AI-generated.</itunes:summary>
+      <enclosure url="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/episodes/wandering-cities-the-hague-1528799905-v2.mp3" length="22959863" type="audio/mpeg"/>
+      <guid isPermaLink="false">75196aad-4aca-5833-bea4-91bc960d2cbf</guid>
+      <pubDate>Tue, 06 Oct 2026 03:19:25 +0000</pubDate>
+      <itunes:duration>00:23:45</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Almere Travel Guide &amp; History | A City Built Below Sea Level</title>
+      <link>https://podcast.kajetan.nl/travel/netherlands/almere/</link>
+      <podcast:transcript url="https://podcast.kajetan.nl/travel/netherlands/almere/transcript-en.txt" type="text/plain" language="en"/>
+      <description>Almere, in the Netherlands, features sights like the floating Kunstlinie theater, the Citadel, and the Oostvaardersplassen nature reserve, offering plenty of things to see for anyone who plans a visit. In 1976, the first house was completed on land reclaimed from the sea, beginning a new chapter.
+
+Other languages and more about Almere: https://podcast.kajetan.nl/travel/netherlands/almere/
+
+Sources include Wikipedia and Wikivoyage (CC BY-SA 4.0) and official tourism, heritage and museum websites. The conversation and voices are AI-generated.</description>
+      <itunes:summary>Almere, in the Netherlands, features sights like the floating Kunstlinie theater, the Citadel, and the Oostvaardersplassen nature reserve, offering plenty of things to see for anyone who plans a visit. In 1976, the first house was completed on land reclaimed from the sea, beginning a new chapter.
+
+Other languages and more about Almere: https://podcast.kajetan.nl/travel/netherlands/almere/
+
+Sources include Wikipedia and Wikivoyage (CC BY-SA 4.0) and official tourism, heritage and museum websites. The conversation and voices are AI-generated.</itunes:summary>
+      <enclosure url="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/episodes/wandering-cities-almere-1528683566-v2.mp3" length="19617022" type="audio/mpeg"/>
+      <guid isPermaLink="false">7c17c12a-723d-593a-aca0-575c714fb3b1</guid>
+      <pubDate>Tue, 06 Oct 2026 03:17:45 +0000</pubDate>
+      <itunes:duration>00:20:16</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Zoetermeer Travel Guide &amp; History | Born from a Drained Lake</title>
+      <link>https://podcast.kajetan.nl/travel/netherlands/zoetermeer/</link>
+      <podcast:transcript url="https://podcast.kajetan.nl/travel/netherlands/zoetermeer/transcript-en.txt" type="text/plain" language="en"/>
+      <description>Zoetermeer, in the Netherlands, blends centuries of history with modern things to see, including the old Dorpsstraat, Molen De Hoop grain mill, and the Nationaal Videogame Museum. In 1616, locals finished draining the Soetermeerse lake to create the Meerpolder, laying the foundation for a future city.
+
+Other languages and more about Zoetermeer: https://podcast.kajetan.nl/travel/netherlands/zoetermeer/
+
+Sources include Wikipedia and Wikivoyage (CC BY-SA 4.0) and official tourism, heritage and museum websites. The conversation and voices are AI-generated.</description>
+      <itunes:summary>Zoetermeer, in the Netherlands, blends centuries of history with modern things to see, including the old Dorpsstraat, Molen De Hoop grain mill, and the Nationaal Videogame Museum. In 1616, locals finished draining the Soetermeerse lake to create the Meerpolder, laying the foundation for a future city.
+
+Other languages and more about Zoetermeer: https://podcast.kajetan.nl/travel/netherlands/zoetermeer/
+
+Sources include Wikipedia and Wikivoyage (CC BY-SA 4.0) and official tourism, heritage and museum websites. The conversation and voices are AI-generated.</itunes:summary>
+      <enclosure url="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/episodes/wandering-cities-zoetermeer-1528416914-v2.mp3" length="25621424" type="audio/mpeg"/>
+      <guid isPermaLink="false">aa4d9d70-e7da-5758-9e5f-fc022ebc289d</guid>
+      <pubDate>Tue, 06 Oct 2026 03:14:45 +0000</pubDate>
+      <itunes:duration>00:26:32</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Zaanstad Travel Guide &amp; History | Where Wind Powered Industry Began</title>
+      <link>https://podcast.kajetan.nl/travel/netherlands/zaanstad/</link>
+      <podcast:transcript url="https://podcast.kajetan.nl/travel/netherlands/zaanstad/transcript-en.txt" type="text/plain" language="en"/>
+      <description>Zaanstad, in the Netherlands, features historic windmills at the Zaanse Schans, the wooden Tsar Peter House, and the De Kat paint mill for travellers who visit to explore industrial history. In 1697, Tsar Peter the Great stayed in Zaandam to study Dutch shipbuilding.
+
+Other languages and more about Zaanstad: https://podcast.kajetan.nl/travel/netherlands/zaanstad/
+
+Sources include Wikipedia and Wikivoyage (CC BY-SA 4.0) and official tourism, heritage and museum websites. The conversation and voices are AI-generated.</description>
+      <itunes:summary>Zaanstad, in the Netherlands, features historic windmills at the Zaanse Schans, the wooden Tsar Peter House, and the De Kat paint mill for travellers who visit to explore industrial history. In 1697, Tsar Peter the Great stayed in Zaandam to study Dutch shipbuilding.
+
+Other languages and more about Zaanstad: https://podcast.kajetan.nl/travel/netherlands/zaanstad/
+
+Sources include Wikipedia and Wikivoyage (CC BY-SA 4.0) and official tourism, heritage and museum websites. The conversation and voices are AI-generated.</itunes:summary>
+      <enclosure url="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/episodes/wandering-cities-zaanstad-1528395473-v2.mp3" length="21516236" type="audio/mpeg"/>
+      <guid isPermaLink="false">f198a0bc-7616-508b-8fd1-c12a73c66144</guid>
+      <pubDate>Tue, 06 Oct 2026 03:12:55 +0000</pubDate>
+      <itunes:duration>00:22:15</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Groningen Travel Guide &amp; History | Students Rule Medieval Town</title>
+      <link>https://podcast.kajetan.nl/travel/netherlands/groningen/</link>
+      <podcast:transcript url="https://podcast.kajetan.nl/travel/netherlands/groningen/transcript-en.txt" type="text/plain" language="en"/>
+      <description>Groningen, in the Netherlands, offers centuries of history and top things to see, from the Martinitoren on the Grote Markt to the Prinsentuin garden. In 1614, the University of Groningen was founded on Broerplein, launching an academic presence that helped shape the city over time.
+
+Other languages and more about Groningen: https://podcast.kajetan.nl/travel/netherlands/groningen/
+
+Sources include Wikipedia and Wikivoyage (CC BY-SA 4.0) and official tourism, heritage and museum websites. The conversation and voices are AI-generated.</description>
+      <itunes:summary>Groningen, in the Netherlands, offers centuries of history and top things to see, from the Martinitoren on the Grote Markt to the Prinsentuin garden. In 1614, the University of Groningen was founded on Broerplein, launching an academic presence that helped shape the city over time.
+
+Other languages and more about Groningen: https://podcast.kajetan.nl/travel/netherlands/groningen/
+
+Sources include Wikipedia and Wikivoyage (CC BY-SA 4.0) and official tourism, heritage and museum websites. The conversation and voices are AI-generated.</itunes:summary>
+      <enclosure url="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/episodes/wandering-cities-groningen-1528295161-v2.mp3" length="23852622" type="audio/mpeg"/>
+      <guid isPermaLink="false">92391f36-e7ef-5561-82ee-790de30c34f6</guid>
+      <pubDate>Tue, 06 Oct 2026 03:08:13 +0000</pubDate>
+      <itunes:duration>00:24:41</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Nijmegen Travel Guide &amp; History | Pawned, Bombed, Unbroken</title>
+      <link>https://podcast.kajetan.nl/travel/netherlands/nijmegen/</link>
+      <podcast:transcript url="https://podcast.kajetan.nl/travel/netherlands/nijmegen/transcript-en.txt" type="text/plain" language="en"/>
+      <description>Nijmegen, in the Netherlands, features sights like the Waalbrug, Valkhof Park, and Stevenskerk, offering travelers local history and key things to see on a visit. In 1944, Allied bombings destroyed much of the city center, yet American and British forces captured the Waal Bridge intact.
+
+Other languages and more about Nijmegen: https://podcast.kajetan.nl/travel/netherlands/nijmegen/
+
+Sources include Wikipedia and Wikivoyage (CC BY-SA 4.0) and official tourism, heritage and museum websites. The conversation and voices are AI-generated.</description>
+      <itunes:summary>Nijmegen, in the Netherlands, features sights like the Waalbrug, Valkhof Park, and Stevenskerk, offering travelers local history and key things to see on a visit. In 1944, Allied bombings destroyed much of the city center, yet American and British forces captured the Waal Bridge intact.
+
+Other languages and more about Nijmegen: https://podcast.kajetan.nl/travel/netherlands/nijmegen/
+
+Sources include Wikipedia and Wikivoyage (CC BY-SA 4.0) and official tourism, heritage and museum websites. The conversation and voices are AI-generated.</itunes:summary>
+      <enclosure url="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/episodes/wandering-cities-nijmegen-1528136727-v2.mp3" length="19334062" type="audio/mpeg"/>
+      <guid isPermaLink="false">3742481c-ee0a-525c-9505-cf82f43aaaf4</guid>
+      <pubDate>Tue, 06 Oct 2026 03:03:25 +0000</pubDate>
+      <itunes:duration>00:19:59</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Leiden Travel Guide &amp; History | Flooding the Land to Survive</title>
       <link>https://podcast.kajetan.nl/travel/netherlands/leiden/</link>
@@ -428,10 +659,10 @@ Sources include Wikipedia and Wikivoyage (CC BY-SA 4.0) and official tourism, he
 Other languages and more about Emmen: https://podcast.kajetan.nl/travel/netherlands/emmen/
 
 Sources include Wikipedia and Wikivoyage (CC BY-SA 4.0) and official tourism, heritage and museum websites. The conversation and voices are AI-generated.</itunes:summary>
-      <enclosure url="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/episodes/wandering-cities-emmen-1528332075-v1.mp3" length="22636358" type="audio/mpeg"/>
+      <enclosure url="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/episodes/wandering-cities-emmen-1528332075-v2.mp3" length="21282588" type="audio/mpeg"/>
       <guid isPermaLink="false">eddcc422-7e2f-5e17-a15c-e07c81419e01</guid>
       <pubDate>Mon, 05 Oct 2026 09:08:18 +0000</pubDate>
-      <itunes:duration>00:23:25</itunes:duration>
+      <itunes:duration>00:22:00</itunes:duration>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>false</itunes:explicit>
     </item>
@@ -491,10 +722,10 @@ Sources include Wikipedia and Wikivoyage (CC BY-SA 4.0) and official tourism, he
 Other languages and more about Helmond: https://podcast.kajetan.nl/travel/netherlands/helmond/
 
 Sources include Wikipedia and Wikivoyage (CC BY-SA 4.0) and official tourism, heritage and museum websites. The conversation and voices are AI-generated.</itunes:summary>
-      <enclosure url="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/episodes/wandering-cities-helmond-1528158256-v1.mp3" length="23479387" type="audio/mpeg"/>
+      <enclosure url="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/episodes/wandering-cities-helmond-1528158256-v2.mp3" length="20690763" type="audio/mpeg"/>
       <guid isPermaLink="false">863c3010-0cf2-533a-9674-9765076e9c45</guid>
       <pubDate>Mon, 05 Oct 2026 09:03:27 +0000</pubDate>
-      <itunes:duration>00:24:18</itunes:duration>
+      <itunes:duration>00:21:23</itunes:duration>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>false</itunes:explicit>
     </item>
@@ -512,10 +743,10 @@ Sources include Wikipedia and Wikivoyage (CC BY-SA 4.0) and official tourism, he
 Other languages and more about Heerlen: https://podcast.kajetan.nl/travel/netherlands/heerlen/
 
 Sources include Wikipedia and Wikivoyage (CC BY-SA 4.0) and official tourism, heritage and museum websites. The conversation and voices are AI-generated.</itunes:summary>
-      <enclosure url="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/episodes/wandering-cities-heerlen-1528095552-v1.mp3" length="21871078" type="audio/mpeg"/>
+      <enclosure url="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/episodes/wandering-cities-heerlen-1528095552-v2.mp3" length="21144665" type="audio/mpeg"/>
       <guid isPermaLink="false">25eb3b24-0531-5b81-86f2-0398e583f097</guid>
       <pubDate>Mon, 05 Oct 2026 09:01:39 +0000</pubDate>
-      <itunes:duration>00:22:37</itunes:duration>
+      <itunes:duration>00:21:52</itunes:duration>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>false</itunes:explicit>
     </item>
@@ -554,10 +785,10 @@ Sources include Wikipedia and Wikivoyage (CC BY-SA 4.0) and official tourism, he
 Other languages and more about Delft: https://podcast.kajetan.nl/travel/netherlands/delft/
 
 Sources include Wikipedia and Wikivoyage (CC BY-SA 4.0) and official tourism, heritage and museum websites. The conversation and voices are AI-generated.</itunes:summary>
-      <enclosure url="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/episodes/wandering-cities-delft-1528448452-v1.mp3" length="22166143" type="audio/mpeg"/>
+      <enclosure url="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/episodes/wandering-cities-delft-1528448452-v2.mp3" length="23078130" type="audio/mpeg"/>
       <guid isPermaLink="false">ce3a4aba-94c0-5295-9069-81c8122c7820</guid>
       <pubDate>Sun, 04 Oct 2026 07:34:10 +0000</pubDate>
-      <itunes:duration>00:22:56</itunes:duration>
+      <itunes:duration>00:23:53</itunes:duration>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>false</itunes:explicit>
     </item>
@@ -575,10 +806,10 @@ Sources include Wikipedia and Wikivoyage (CC BY-SA 4.0) and official tourism, he
 Other languages and more about Amsterdam: https://podcast.kajetan.nl/travel/netherlands/amsterdam/
 
 Sources include Wikipedia and Wikivoyage (CC BY-SA 4.0) and official tourism, heritage and museum websites. The conversation and voices are AI-generated.</itunes:summary>
-      <enclosure url="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/episodes/wandering-cities-amsterdam-1528355309-v1.mp3" length="21076115" type="audio/mpeg"/>
+      <enclosure url="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/episodes/wandering-cities-amsterdam-1528355309-v2.mp3" length="22382237" type="audio/mpeg"/>
       <guid isPermaLink="false">6365372e-798c-527b-822e-4ea48149568c</guid>
       <pubDate>Sun, 04 Oct 2026 07:32:32 +0000</pubDate>
-      <itunes:duration>00:21:47</itunes:duration>
+      <itunes:duration>00:23:09</itunes:duration>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>false</itunes:explicit>
     </item>
@@ -596,10 +827,10 @@ Sources include Wikipedia and Wikivoyage (CC BY-SA 4.0) and official tourism, he
 Other languages and more about Kampen: https://podcast.kajetan.nl/travel/netherlands/kampen/
 
 Sources include Wikipedia and Wikivoyage (CC BY-SA 4.0) and official tourism, heritage and museum websites. The conversation and voices are AI-generated.</itunes:summary>
-      <enclosure url="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/episodes/wandering-cities-kampen-1528270646-v1.mp3" length="26752424" type="audio/mpeg"/>
+      <enclosure url="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/episodes/wandering-cities-kampen-1528270646-v2.mp3" length="22232614" type="audio/mpeg"/>
       <guid isPermaLink="false">0f201e7a-7825-5001-aae0-6555c41afd75</guid>
       <pubDate>Sun, 04 Oct 2026 07:30:59 +0000</pubDate>
-      <itunes:duration>00:27:42</itunes:duration>
+      <itunes:duration>00:23:00</itunes:duration>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>false</itunes:explicit>
     </item>
