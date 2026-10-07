@@ -14,7 +14,28 @@
     <itunes:type>episodic</itunes:type>
     <itunes:category text="Society &amp; Culture"><itunes:category text="Places &amp; Travel"/></itunes:category>
     <itunes:image href="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/cover-3000.jpg"/>
-    <lastBuildDate>Wed, 07 Oct 2026 03:04:53 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 07 Oct 2026 03:09:49 +0000</lastBuildDate>
+    <item>
+      <title>Zwolle Travel Guide &amp; History | From Swamp Ridge to Powerhouse</title>
+      <link>https://podcast.kajetan.nl/travel/netherlands/zwolle/</link>
+      <podcast:transcript url="https://podcast.kajetan.nl/travel/netherlands/zwolle/transcript-en.txt" type="text/plain" language="en"/>
+      <description>Zwolle, in the Netherlands, rewards a visit for its history, and the things to see include the medieval Sassenpoort, Peperbus tower, and Museum de Fundatie. In 1407, the town joined the Hanseatic League and built its wealth on European trade.
+
+Other languages and more about Zwolle: https://podcast.kajetan.nl/travel/netherlands/zwolle/
+
+Sources include Wikipedia and Wikivoyage (CC BY-SA 4.0) and official tourism, heritage and museum websites. The conversation and voices are AI-generated.</description>
+      <itunes:summary>Zwolle, in the Netherlands, rewards a visit for its history, and the things to see include the medieval Sassenpoort, Peperbus tower, and Museum de Fundatie. In 1407, the town joined the Hanseatic League and built its wealth on European trade.
+
+Other languages and more about Zwolle: https://podcast.kajetan.nl/travel/netherlands/zwolle/
+
+Sources include Wikipedia and Wikivoyage (CC BY-SA 4.0) and official tourism, heritage and museum websites. The conversation and voices are AI-generated.</itunes:summary>
+      <enclosure url="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/episodes/wandering-cities-zwolle-1528690076-v3.mp3" length="18247386" type="audio/mpeg"/>
+      <guid isPermaLink="false">cb20859a-de1a-59bd-a854-449e376af937</guid>
+      <pubDate>Wed, 07 Oct 2026 03:09:48 +0000</pubDate>
+      <itunes:duration>00:18:51</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Leeuwarden Travel Guide &amp; History | The City of Two Hundred Names</title>
       <link>https://podcast.kajetan.nl/travel/netherlands/leeuwarden/</link>
@@ -512,10 +533,10 @@ Sources include Wikipedia and Wikivoyage (CC BY-SA 4.0) and official tourism, he
 Other languages and more about Roosendaal: https://podcast.kajetan.nl/travel/netherlands/roosendaal/
 
 Sources include Wikipedia and Wikivoyage (CC BY-SA 4.0) and official tourism, heritage and museum websites. The conversation and voices are AI-generated.</itunes:summary>
-      <enclosure url="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/episodes/wandering-cities-roosendaal-1528671703-v1.mp3" length="19534271" type="audio/mpeg"/>
+      <enclosure url="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/episodes/wandering-cities-roosendaal-1528671703-v2.mp3" length="25853828" type="audio/mpeg"/>
       <guid isPermaLink="false">cdb8285e-1f51-57a2-bab3-22c0de49c84f</guid>
       <pubDate>Mon, 05 Oct 2026 09:38:09 +0000</pubDate>
-      <itunes:duration>00:20:11</itunes:duration>
+      <itunes:duration>00:26:46</itunes:duration>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>false</itunes:explicit>
     </item>
@@ -638,10 +659,10 @@ Sources include Wikipedia and Wikivoyage (CC BY-SA 4.0) and official tourism, he
 Other languages and more about Maastricht: https://podcast.kajetan.nl/travel/netherlands/maastricht/
 
 Sources include Wikipedia and Wikivoyage (CC BY-SA 4.0) and official tourism, heritage and museum websites. The conversation and voices are AI-generated.</itunes:summary>
-      <enclosure url="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/episodes/wandering-cities-maastricht-1528563623-v1.mp3" length="22060834" type="audio/mpeg"/>
+      <enclosure url="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/episodes/wandering-cities-maastricht-1528563623-v2.mp3" length="21289714" type="audio/mpeg"/>
       <guid isPermaLink="false">8f2a025d-32d0-5d9a-88a0-dc0ae399b161</guid>
       <pubDate>Mon, 05 Oct 2026 09:10:02 +0000</pubDate>
-      <itunes:duration>00:22:49</itunes:duration>
+      <itunes:duration>00:22:01</itunes:duration>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>false</itunes:explicit>
     </item>
@@ -764,10 +785,10 @@ Sources include Wikipedia and Wikivoyage (CC BY-SA 4.0) and official tourism, he
 Other languages and more about Alkmaar: https://podcast.kajetan.nl/travel/netherlands/alkmaar/
 
 Sources include Wikipedia and Wikivoyage (CC BY-SA 4.0) and official tourism, heritage and museum websites. The conversation and voices are AI-generated.</itunes:summary>
-      <enclosure url="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/episodes/wandering-cities-alkmaar-1528566376-v1.mp3" length="21810473" type="audio/mpeg"/>
+      <enclosure url="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/episodes/wandering-cities-alkmaar-1528566376-v2.mp3" length="20004485" type="audio/mpeg"/>
       <guid isPermaLink="false">11885a99-8c55-575f-97c5-db409369ff77</guid>
       <pubDate>Mon, 05 Oct 2026 08:45:39 +0000</pubDate>
-      <itunes:duration>00:22:33</itunes:duration>
+      <itunes:duration>00:20:41</itunes:duration>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>false</itunes:explicit>
     </item>
