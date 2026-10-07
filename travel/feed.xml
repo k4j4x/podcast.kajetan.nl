@@ -14,7 +14,7 @@
     <itunes:type>episodic</itunes:type>
     <itunes:category text="Society &amp; Culture"><itunes:category text="Places &amp; Travel"/></itunes:category>
     <itunes:image href="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/cover-3000.jpg"/>
-    <lastBuildDate>Wed, 07 Oct 2026 03:09:49 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 07 Oct 2026 03:33:23 +0000</lastBuildDate>
     <item>
       <title>Zwolle Travel Guide &amp; History | From Swamp Ridge to Powerhouse</title>
       <link>https://podcast.kajetan.nl/travel/netherlands/zwolle/</link>
@@ -449,10 +449,10 @@ Sources include Wikipedia and Wikivoyage (CC BY-SA 4.0) and official tourism, he
 Other languages and more about Lelystad: https://podcast.kajetan.nl/travel/netherlands/lelystad/
 
 Sources include Wikipedia and Wikivoyage (CC BY-SA 4.0) and official tourism, heritage and museum websites. The conversation and voices are AI-generated.</itunes:summary>
-      <enclosure url="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/episodes/wandering-cities-lelystad-1528990721-v1.mp3" length="20855438" type="audio/mpeg"/>
+      <enclosure url="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/episodes/wandering-cities-lelystad-1528990721-v2.mp3" length="20809477" type="audio/mpeg"/>
       <guid isPermaLink="false">a3fbae99-a8b2-5546-836d-5637d638e727</guid>
       <pubDate>Mon, 05 Oct 2026 09:44:35 +0000</pubDate>
-      <itunes:duration>00:21:34</itunes:duration>
+      <itunes:duration>00:21:31</itunes:duration>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>false</itunes:explicit>
     </item>
@@ -512,10 +512,10 @@ Sources include Wikipedia and Wikivoyage (CC BY-SA 4.0) and official tourism, he
 Other languages and more about Gouda: https://podcast.kajetan.nl/travel/netherlands/gouda/
 
 Sources include Wikipedia and Wikivoyage (CC BY-SA 4.0) and official tourism, heritage and museum websites. The conversation and voices are AI-generated.</itunes:summary>
-      <enclosure url="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/episodes/wandering-cities-gouda-1528695192-v1.mp3" length="21784557" type="audio/mpeg"/>
+      <enclosure url="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/episodes/wandering-cities-gouda-1528695192-v2.mp3" length="21847265" type="audio/mpeg"/>
       <guid isPermaLink="false">af6c792d-398c-5c3c-ae82-c662b2a739e0</guid>
       <pubDate>Mon, 05 Oct 2026 09:39:48 +0000</pubDate>
-      <itunes:duration>00:22:32</itunes:duration>
+      <itunes:duration>00:22:36</itunes:duration>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>false</itunes:explicit>
     </item>
