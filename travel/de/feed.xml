@@ -14,10 +14,11 @@
     <itunes:type>episodic</itunes:type>
     <itunes:category text="Society &amp; Culture"><itunes:category text="Places &amp; Travel"/></itunes:category>
     <itunes:image href="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/cover-de-3000.jpg"/>
-    <lastBuildDate>Tue, 06 Oct 2026 21:03:29 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 07 Oct 2026 03:04:53 +0000</lastBuildDate>
     <item>
       <title>Amsterdam Reiseführer &amp; Geschichte | Vom Sumpf zur globalen Handelsmacht</title>
       <link>https://podcast.kajetan.nl/travel/netherlands/amsterdam/</link>
+      <podcast:transcript url="https://podcast.kajetan.nl/travel/netherlands/amsterdam/transcript-de.txt" type="text/plain" language="de"/>
       <description>Amsterdam zeigt bei einem Besuch seine Geschichte und Sehenswürdigkeiten wie die Grachtengordel, das Rijksmuseum und das Anne Frank Huis. Im Jahr 1275 gewährte Graf Floris V. den Bewohnern am Amsteldamm ein Zollprivileg, das den Grundstein für den Aufstieg zur Handelsmacht legte.
 
 Andere Sprachen und mehr über Amsterdam: https://podcast.kajetan.nl/travel/netherlands/amsterdam/
@@ -38,6 +39,7 @@ Quellen u. a. Wikipedia und Wikivoyage (CC BY-SA 4.0) sowie offizielle Websites 
     <item>
       <title>Tilburg Reiseführer &amp; Geschichte | Vom Urinkrug zum stolzen Spitznamen</title>
       <link>https://podcast.kajetan.nl/travel/netherlands/tilburg/</link>
+      <podcast:transcript url="https://podcast.kajetan.nl/travel/netherlands/tilburg/transcript-de.txt" type="text/plain" language="de"/>
       <description>Tilburg verbindet seine industrielle Geschichte mit Sehenswürdigkeiten wie dem TextielMuseum und dem Museum De Pont in ehemaligen Fabriken. Im Jahr 1871 zählte die Stadt 125 Wollfabriken, in denen Arbeiter Urinkrüge zur Wollverarbeitung nutzten und so ihren Spitznamen erhielten.
 
 Andere Sprachen und mehr über Tilburg: https://podcast.kajetan.nl/travel/netherlands/tilburg/
@@ -58,6 +60,7 @@ Quellen u. a. Wikipedia und Wikivoyage (CC BY-SA 4.0) sowie offizielle Websites 
     <item>
       <title>Delft Reiseführer &amp; Geschichte | Zwischen schiefem Turm und High-Tech</title>
       <link>https://podcast.kajetan.nl/travel/netherlands/delft/</link>
+      <podcast:transcript url="https://podcast.kajetan.nl/travel/netherlands/delft/transcript-de.txt" type="text/plain" language="de"/>
       <description>Delft verbindet Sehenswürdigkeiten wie die Oude Kerk, die Nieuwe Kerk und den Markt mit der TU Delft, was jeden Besuch prägt. Im Jahr 1584 wurde Willem van Oranje im Prinsenhof ermordet, was die Geschichte der Niederlande veränderte.
 
 Andere Sprachen und mehr über Delft: https://podcast.kajetan.nl/travel/netherlands/delft/

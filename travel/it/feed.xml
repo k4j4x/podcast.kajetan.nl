@@ -14,10 +14,11 @@
     <itunes:type>episodic</itunes:type>
     <itunes:category text="Society &amp; Culture"><itunes:category text="Places &amp; Travel"/></itunes:category>
     <itunes:image href="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/cover-it-3000.jpg"/>
-    <lastBuildDate>Tue, 06 Oct 2026 21:03:30 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 07 Oct 2026 03:04:55 +0000</lastBuildDate>
     <item>
       <title>Amsterdam: guida di viaggio e storia | Dalla palude alla finanza globale</title>
       <link>https://podcast.kajetan.nl/travel/netherlands/amsterdam/</link>
+      <podcast:transcript url="https://podcast.kajetan.nl/travel/netherlands/amsterdam/transcript-it.txt" type="text/plain" language="it"/>
       <description>Amsterdam mostra durante una visita la sua storia e cosa vedere come la Grachtengordel, il Rijksmuseum e la Anne Frank Huis. Nel 1275, il conte Floris V concesse un privilegio di pedaggio agli abitanti della diga sull'Amstel, avviando il suo commercio.
 
 Altre lingue e altro su Amsterdam: https://podcast.kajetan.nl/travel/netherlands/amsterdam/
@@ -38,6 +39,7 @@ Fonti, tra le altre: Wikipedia e Wikivoyage (CC BY-SA 4.0) e siti ufficiali di t
     <item>
       <title>Tilburg: guida di viaggio e storia | Da polo tessile a centro creativo</title>
       <link>https://podcast.kajetan.nl/travel/netherlands/tilburg/</link>
+      <podcast:transcript url="https://podcast.kajetan.nl/travel/netherlands/tilburg/transcript-it.txt" type="text/plain" language="it"/>
       <description>Tilburg unisce la sua storia tessile a luoghi da includere nella visita, come il TextielMuseum e De Pont. Nel 1871 la città ospitava 125 fabbriche di lana prima di trasformare i suoi edifici industriali in centri culturali.
 
 Altre lingue e altro su Tilburg: https://podcast.kajetan.nl/travel/netherlands/tilburg/

@@ -14,10 +14,11 @@
     <itunes:type>episodic</itunes:type>
     <itunes:category text="Society &amp; Culture"><itunes:category text="Places &amp; Travel"/></itunes:category>
     <itunes:image href="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/cover-nl-3000.jpg"/>
-    <lastBuildDate>Tue, 06 Oct 2026 21:03:30 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 07 Oct 2026 03:04:54 +0000</lastBuildDate>
     <item>
       <title>Amsterdam reisgids &amp; geschiedenis | Van moeras tot rebelse wereldstad</title>
       <link>https://podcast.kajetan.nl/travel/netherlands/amsterdam/</link>
+      <podcast:transcript url="https://podcast.kajetan.nl/travel/netherlands/amsterdam/transcript-nl.txt" type="text/plain" language="nl"/>
       <description>Amsterdam toont bij een bezoek zijn geschiedenis en bezienswaardigheden zoals de Grachtengordel, het Rijksmuseum en het Anne Frank Huis. In 1275 verleende graaf Floris V de bewoners bij de dam in de Amstel een tolprivilege dat de basis legde voor de handel.
 
 Andere talen en meer over Amsterdam: https://podcast.kajetan.nl/travel/netherlands/amsterdam/
@@ -38,6 +39,7 @@ Bronnen o.a. Wikipedia en Wikivoyage (CC BY-SA 4.0) en officiële websites over 
     <item>
       <title>Tilburg reisgids &amp; geschiedenis | Van kruikenzeikers tot creatieve stad</title>
       <link>https://podcast.kajetan.nl/travel/netherlands/tilburg/</link>
+      <podcast:transcript url="https://podcast.kajetan.nl/travel/netherlands/tilburg/transcript-nl.txt" type="text/plain" language="nl"/>
       <description>Tilburg toont haar industriële geschiedenis en culturele bezienswaardigheden in het Museumkwartier, waar bezoekers voormalige wolfabrieken bij het TextielMuseum en Museum De Pont verkennen. In 1871 telde de stad 125 wollenstoffenfabrieken, waar arbeiders urine in kruiken verzamelden voor de wolverwerking.
 
 Andere talen en meer over Tilburg: https://podcast.kajetan.nl/travel/netherlands/tilburg/

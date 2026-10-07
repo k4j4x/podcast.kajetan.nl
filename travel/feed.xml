@@ -14,7 +14,7 @@
     <itunes:type>episodic</itunes:type>
     <itunes:category text="Society &amp; Culture"><itunes:category text="Places &amp; Travel"/></itunes:category>
     <itunes:image href="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/cover-3000.jpg"/>
-    <lastBuildDate>Tue, 06 Oct 2026 21:03:29 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 07 Oct 2026 03:04:53 +0000</lastBuildDate>
     <item>
       <title>Leeuwarden Travel Guide &amp; History | The City of Two Hundred Names</title>
       <link>https://podcast.kajetan.nl/travel/netherlands/leeuwarden/</link>
@@ -533,10 +533,10 @@ Sources include Wikipedia and Wikivoyage (CC BY-SA 4.0) and official tourism, he
 Other languages and more about Hoorn: https://podcast.kajetan.nl/travel/netherlands/hoorn/
 
 Sources include Wikipedia and Wikivoyage (CC BY-SA 4.0) and official tourism, heritage and museum websites. The conversation and voices are AI-generated.</itunes:summary>
-      <enclosure url="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/episodes/wandering-cities-hoorn-1528487371-v1.mp3" length="22874598" type="audio/mpeg"/>
+      <enclosure url="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/episodes/wandering-cities-hoorn-1528487371-v2.mp3" length="21601090" type="audio/mpeg"/>
       <guid isPermaLink="false">67e3c7ba-f35e-583a-970c-4eeac7cc8c57</guid>
       <pubDate>Mon, 05 Oct 2026 09:36:41 +0000</pubDate>
-      <itunes:duration>00:23:40</itunes:duration>
+      <itunes:duration>00:22:20</itunes:duration>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>false</itunes:explicit>
     </item>
@@ -701,10 +701,10 @@ Sources include Wikipedia and Wikivoyage (CC BY-SA 4.0) and official tourism, he
 Other languages and more about Hilversum: https://podcast.kajetan.nl/travel/netherlands/hilversum/
 
 Sources include Wikipedia and Wikivoyage (CC BY-SA 4.0) and official tourism, heritage and museum websites. The conversation and voices are AI-generated.</itunes:summary>
-      <enclosure url="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/episodes/wandering-cities-hilversum-1528160832-v1.mp3" length="17621271" type="audio/mpeg"/>
+      <enclosure url="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/episodes/wandering-cities-hilversum-1528160832-v3.mp3" length="22058340" type="audio/mpeg"/>
       <guid isPermaLink="false">057e106a-ebbe-57b9-91c0-66d01d0a4693</guid>
       <pubDate>Mon, 05 Oct 2026 09:04:48 +0000</pubDate>
-      <itunes:duration>00:18:12</itunes:duration>
+      <itunes:duration>00:22:49</itunes:duration>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>false</itunes:explicit>
     </item>
