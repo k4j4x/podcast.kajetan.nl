@@ -14,7 +14,27 @@
     <itunes:type>episodic</itunes:type>
     <itunes:category text="Society &amp; Culture"><itunes:category text="Places &amp; Travel"/></itunes:category>
     <itunes:image href="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/cover-nl-3000.jpg"/>
-    <lastBuildDate>Thu, 08 Oct 2026 17:33:23 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 08 Oct 2026 18:02:50 +0000</lastBuildDate>
+    <item>
+      <title>The Hague reisgids &amp; geschiedenis | De regeringszetel die geen hoofdstad is</title>
+      <link>https://podcast.kajetan.nl/travel/netherlands/the-hague/</link>
+      <description>The Hague verbindt politieke geschiedenis met bezienswaardigheden zoals het Binnenhof, het Vredespaleis en het strand van Scheveningen, ideaal voor een bezoek. In 1808 werd Amsterdam de hoofdstad van Nederland, terwijl de regering en het parlement hier gevestigd bleven.
+
+Andere talen en meer over The Hague: https://podcast.kajetan.nl/travel/netherlands/the-hague/
+
+Bronnen o.a. Wikipedia en Wikivoyage (CC BY-SA 4.0) en officiële websites over toerisme, erfgoed en musea. Het gesprek en de stemmen zijn door AI gegenereerd.</description>
+      <itunes:summary>The Hague verbindt politieke geschiedenis met bezienswaardigheden zoals het Binnenhof, het Vredespaleis en het strand van Scheveningen, ideaal voor een bezoek. In 1808 werd Amsterdam de hoofdstad van Nederland, terwijl de regering en het parlement hier gevestigd bleven.
+
+Andere talen en meer over The Hague: https://podcast.kajetan.nl/travel/netherlands/the-hague/
+
+Bronnen o.a. Wikipedia en Wikivoyage (CC BY-SA 4.0) en officiële websites over toerisme, erfgoed en musea. Het gesprek en de stemmen zijn door AI gegenereerd.</itunes:summary>
+      <enclosure url="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/episodes/nl/nl-the-hague-1528799905-v1.mp3" length="21860601" type="audio/mpeg"/>
+      <guid isPermaLink="false">71d3a7ef-7774-5383-876c-608fcc1f0336</guid>
+      <pubDate>Thu, 08 Oct 2026 18:02:50 +0000</pubDate>
+      <itunes:duration>00:22:39</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Rotterdam reisgids &amp; geschiedenis | Van verwoesting tot architectuurstad</title>
       <link>https://podcast.kajetan.nl/travel/netherlands/rotterdam/</link>
