@@ -14,7 +14,27 @@
     <itunes:type>episodic</itunes:type>
     <itunes:category text="Society &amp; Culture"><itunes:category text="Places &amp; Travel"/></itunes:category>
     <itunes:image href="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/cover-de-3000.jpg"/>
-    <lastBuildDate>Thu, 08 Oct 2026 17:02:51 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 08 Oct 2026 17:33:23 +0000</lastBuildDate>
+    <item>
+      <title>The Hague Reiseführer &amp; Geschichte | Der wahre Regierungssitz Hollands</title>
+      <link>https://podcast.kajetan.nl/travel/netherlands/the-hague/</link>
+      <description>The Hague verbindet politische Geschichte mit Sehenswürdigkeiten wie dem Binnenhof, dem Vredespaleis und dem Strand von Scheveningen, die sich bei einem Besuch gut kombinieren lassen. Im Jahr 1806 verlieh König Louis Bonaparte dem unbefestigten Ort offiziell die Stadtrechte.
+
+Andere Sprachen und mehr über The Hague: https://podcast.kajetan.nl/travel/netherlands/the-hague/
+
+Quellen u. a. Wikipedia und Wikivoyage (CC BY-SA 4.0) sowie offizielle Websites für Tourismus, Denkmalpflege und Museen. Gespräch und Stimmen sind KI-generiert.</description>
+      <itunes:summary>The Hague verbindet politische Geschichte mit Sehenswürdigkeiten wie dem Binnenhof, dem Vredespaleis und dem Strand von Scheveningen, die sich bei einem Besuch gut kombinieren lassen. Im Jahr 1806 verlieh König Louis Bonaparte dem unbefestigten Ort offiziell die Stadtrechte.
+
+Andere Sprachen und mehr über The Hague: https://podcast.kajetan.nl/travel/netherlands/the-hague/
+
+Quellen u. a. Wikipedia und Wikivoyage (CC BY-SA 4.0) sowie offizielle Websites für Tourismus, Denkmalpflege und Museen. Gespräch und Stimmen sind KI-generiert.</itunes:summary>
+      <enclosure url="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/episodes/de/de-the-hague-1528799905-v1.mp3" length="25174752" type="audio/mpeg"/>
+      <guid isPermaLink="false">418fd7d3-ab93-5a20-9fe1-f1a047e17865</guid>
+      <pubDate>Thu, 08 Oct 2026 17:32:15 +0000</pubDate>
+      <itunes:duration>00:26:06</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Rotterdam Reiseführer &amp; Geschichte | Von Trümmern zur Zukunftsarchitektur</title>
       <link>https://podcast.kajetan.nl/travel/netherlands/rotterdam/</link>
