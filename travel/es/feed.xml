@@ -14,7 +14,27 @@
     <itunes:type>episodic</itunes:type>
     <itunes:category text="Society &amp; Culture"><itunes:category text="Places &amp; Travel"/></itunes:category>
     <itunes:image href="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/cover-es-3000.jpg"/>
-    <lastBuildDate>Thu, 08 Oct 2026 20:32:57 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 08 Oct 2026 21:01:54 +0000</lastBuildDate>
+    <item>
+      <title>Eindhoven: guía de viaje e historia | De la bombilla al microchip</title>
+      <link>https://podcast.kajetan.nl/travel/netherlands/eindhoven/</link>
+      <description>Eindhoven combina en una visita su historia industrial con lugares como el distrito Strijp-S, el Philips Museum y el Van Abbemuseum. En 1891, Gerard Philips comenzó a fabricar bombillas en una fábrica en Emmasingel, iniciando la transformación tecnológica de la ciudad.
+
+Otros idiomas y más sobre Eindhoven: https://podcast.kajetan.nl/travel/netherlands/eindhoven/
+
+Fuentes, entre otras: Wikipedia y Wikivoyage (CC BY-SA 4.0) y webs oficiales de turismo, patrimonio y museos. La conversación y las voces están generadas por IA.</description>
+      <itunes:summary>Eindhoven combina en una visita su historia industrial con lugares como el distrito Strijp-S, el Philips Museum y el Van Abbemuseum. En 1891, Gerard Philips comenzó a fabricar bombillas en una fábrica en Emmasingel, iniciando la transformación tecnológica de la ciudad.
+
+Otros idiomas y más sobre Eindhoven: https://podcast.kajetan.nl/travel/netherlands/eindhoven/
+
+Fuentes, entre otras: Wikipedia y Wikivoyage (CC BY-SA 4.0) y webs oficiales de turismo, patrimonio y museos. La conversación y las voces están generadas por IA.</itunes:summary>
+      <enclosure url="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/episodes/es/es-eindhoven-1528636212-v1.mp3" length="19609349" type="audio/mpeg"/>
+      <guid isPermaLink="false">d15c510f-6c63-5c86-975a-19dbec5a4eef</guid>
+      <pubDate>Thu, 08 Oct 2026 21:01:53 +0000</pubDate>
+      <itunes:duration>00:20:18</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Utrecht: guía de viaje e historia | La catedral partida por la tormenta</title>
       <link>https://podcast.kajetan.nl/travel/netherlands/utrecht/</link>
