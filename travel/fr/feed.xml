@@ -14,7 +14,27 @@
     <itunes:type>episodic</itunes:type>
     <itunes:category text="Society &amp; Culture"><itunes:category text="Places &amp; Travel"/></itunes:category>
     <itunes:image href="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/cover-fr-3000.jpg"/>
-    <lastBuildDate>Thu, 08 Oct 2026 16:32:54 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 08 Oct 2026 17:02:52 +0000</lastBuildDate>
+    <item>
+      <title>Rotterdam : guide de voyage et histoire | Des ruines au laboratoire architectural</title>
+      <link>https://podcast.kajetan.nl/travel/netherlands/rotterdam/</link>
+      <description>Rotterdam offre lors d'une visite de nombreux sites à voir, des Kubuswoningen inclinées au Markthal et à l'Erasmusbrug. En 1953, la Lijnbaan a ouvert comme première rue commerçante piétonne d'Europe, montrant comment la destruction de la guerre a stimulé une nouvelle architecture.
+
+Autres langues et plus sur Rotterdam : https://podcast.kajetan.nl/travel/netherlands/rotterdam/
+
+Sources, entre autres : Wikipédia et Wikivoyage (CC BY-SA 4.0) ainsi que les sites officiels du tourisme, du patrimoine et des musées. La conversation et les voix sont générées par IA.</description>
+      <itunes:summary>Rotterdam offre lors d'une visite de nombreux sites à voir, des Kubuswoningen inclinées au Markthal et à l'Erasmusbrug. En 1953, la Lijnbaan a ouvert comme première rue commerçante piétonne d'Europe, montrant comment la destruction de la guerre a stimulé une nouvelle architecture.
+
+Autres langues et plus sur Rotterdam : https://podcast.kajetan.nl/travel/netherlands/rotterdam/
+
+Sources, entre autres : Wikipédia et Wikivoyage (CC BY-SA 4.0) ainsi que les sites officiels du tourisme, du patrimoine et des musées. La conversation et les voix sont générées par IA.</itunes:summary>
+      <enclosure url="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/episodes/fr/fr-rotterdam-1528892850-v1.mp3" length="14355015" type="audio/mpeg"/>
+      <guid isPermaLink="false">0ebb1b6c-4489-5100-baa4-2118352ddb0d</guid>
+      <pubDate>Thu, 08 Oct 2026 17:02:51 +0000</pubDate>
+      <itunes:duration>00:14:49</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Amsterdam : guide de voyage et histoire | Du marécage à la métropole</title>
       <link>https://podcast.kajetan.nl/travel/netherlands/amsterdam/</link>

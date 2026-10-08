@@ -14,7 +14,27 @@
     <itunes:type>episodic</itunes:type>
     <itunes:category text="Society &amp; Culture"><itunes:category text="Places &amp; Travel"/></itunes:category>
     <itunes:image href="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/cover-es-3000.jpg"/>
-    <lastBuildDate>Thu, 08 Oct 2026 16:32:54 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 08 Oct 2026 17:02:52 +0000</lastBuildDate>
+    <item>
+      <title>Rotterdam: guía de viaje e historia | De las ruinas a los rascacielos</title>
+      <link>https://podcast.kajetan.nl/travel/netherlands/rotterdam/</link>
+      <description>Rotterdam ofrece durante una visita destacados lugares qué ver, como las inclinadas Kubuswoningen, el Markthal y el Erasmusbrug. En 1953 se inauguró la Lijnbaan como la primera calle comercial peatonal de Europa, mostrando cómo la destrucción bélica impulsó una nueva arquitectura.
+
+Otros idiomas y más sobre Rotterdam: https://podcast.kajetan.nl/travel/netherlands/rotterdam/
+
+Fuentes, entre otras: Wikipedia y Wikivoyage (CC BY-SA 4.0) y webs oficiales de turismo, patrimonio y museos. La conversación y las voces están generadas por IA.</description>
+      <itunes:summary>Rotterdam ofrece durante una visita destacados lugares qué ver, como las inclinadas Kubuswoningen, el Markthal y el Erasmusbrug. En 1953 se inauguró la Lijnbaan como la primera calle comercial peatonal de Europa, mostrando cómo la destrucción bélica impulsó una nueva arquitectura.
+
+Otros idiomas y más sobre Rotterdam: https://podcast.kajetan.nl/travel/netherlands/rotterdam/
+
+Fuentes, entre otras: Wikipedia y Wikivoyage (CC BY-SA 4.0) y webs oficiales de turismo, patrimonio y museos. La conversación y las voces están generadas por IA.</itunes:summary>
+      <enclosure url="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/episodes/es/es-rotterdam-1528892850-v1.mp3" length="19711757" type="audio/mpeg"/>
+      <guid isPermaLink="false">8eb73071-a1cd-5011-9b92-b6af96d9c268</guid>
+      <pubDate>Thu, 08 Oct 2026 17:01:54 +0000</pubDate>
+      <itunes:duration>00:20:24</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Amsterdam: guía de viaje e historia | De la ciénaga al imperio financiero</title>
       <link>https://podcast.kajetan.nl/travel/netherlands/amsterdam/</link>
