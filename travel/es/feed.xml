@@ -14,7 +14,27 @@
     <itunes:type>episodic</itunes:type>
     <itunes:category text="Society &amp; Culture"><itunes:category text="Places &amp; Travel"/></itunes:category>
     <itunes:image href="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/cover-es-3000.jpg"/>
-    <lastBuildDate>Thu, 08 Oct 2026 19:03:21 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 08 Oct 2026 19:32:57 +0000</lastBuildDate>
+    <item>
+      <title>Utrecht: guía de viaje e historia | La catedral partida por la tormenta</title>
+      <link>https://podcast.kajetan.nl/travel/netherlands/utrecht/</link>
+      <description>Utrecht ofrece en cada visita lugares con historia y puntos de interés sobre qué ver, como la torre Domtoren y los muelles de Oudegracht. En 1674, una tormenta derrumbó la nave central de la iglesia Domkerk, separando la torre del resto del edificio.
+
+Otros idiomas y más sobre Utrecht: https://podcast.kajetan.nl/travel/netherlands/utrecht/
+
+Fuentes, entre otras: Wikipedia y Wikivoyage (CC BY-SA 4.0) y webs oficiales de turismo, patrimonio y museos. La conversación y las voces están generadas por IA.</description>
+      <itunes:summary>Utrecht ofrece en cada visita lugares con historia y puntos de interés sobre qué ver, como la torre Domtoren y los muelles de Oudegracht. En 1674, una tormenta derrumbó la nave central de la iglesia Domkerk, separando la torre del resto del edificio.
+
+Otros idiomas y más sobre Utrecht: https://podcast.kajetan.nl/travel/netherlands/utrecht/
+
+Fuentes, entre otras: Wikipedia y Wikivoyage (CC BY-SA 4.0) y webs oficiales de turismo, patrimonio y museos. La conversación y las voces están generadas por IA.</itunes:summary>
+      <enclosure url="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/episodes/es/es-utrecht-1528871692-v1.mp3" length="19337270" type="audio/mpeg"/>
+      <guid isPermaLink="false">83e76198-b2d9-540b-b8a8-7eb9c6dcac05</guid>
+      <pubDate>Thu, 08 Oct 2026 19:31:51 +0000</pubDate>
+      <itunes:duration>00:20:01</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>The Hague: guía de viaje e historia | Capital mundial de la justicia</title>
       <link>https://podcast.kajetan.nl/travel/netherlands/the-hague/</link>
