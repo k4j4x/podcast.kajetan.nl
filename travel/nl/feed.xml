@@ -14,7 +14,27 @@
     <itunes:type>episodic</itunes:type>
     <itunes:category text="Society &amp; Culture"><itunes:category text="Places &amp; Travel"/></itunes:category>
     <itunes:image href="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/cover-nl-3000.jpg"/>
-    <lastBuildDate>Wed, 07 Oct 2026 03:33:24 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 08 Oct 2026 16:32:54 +0000</lastBuildDate>
+    <item>
+      <title>Rotterdam reisgids &amp; geschiedenis | Van verwoesting tot architectuurstad</title>
+      <link>https://podcast.kajetan.nl/travel/netherlands/rotterdam/</link>
+      <description>Rotterdam biedt bij een bezoek tal van bezienswaardigheden, zoals de schuine Kubuswoningen, de overdekte Markthal en de Erasmusbrug. In 1953 opende de Lijnbaan als eerste autovrije winkelstraat van Europa, wat laat zien hoe oorlogsverwoesting leidde tot nieuwe stadsarchitectuur.
+
+Andere talen en meer over Rotterdam: https://podcast.kajetan.nl/travel/netherlands/rotterdam/
+
+Bronnen o.a. Wikipedia en Wikivoyage (CC BY-SA 4.0) en officiële websites over toerisme, erfgoed en musea. Het gesprek en de stemmen zijn door AI gegenereerd.</description>
+      <itunes:summary>Rotterdam biedt bij een bezoek tal van bezienswaardigheden, zoals de schuine Kubuswoningen, de overdekte Markthal en de Erasmusbrug. In 1953 opende de Lijnbaan als eerste autovrije winkelstraat van Europa, wat laat zien hoe oorlogsverwoesting leidde tot nieuwe stadsarchitectuur.
+
+Andere talen en meer over Rotterdam: https://podcast.kajetan.nl/travel/netherlands/rotterdam/
+
+Bronnen o.a. Wikipedia en Wikivoyage (CC BY-SA 4.0) en officiële websites over toerisme, erfgoed en musea. Het gesprek en de stemmen zijn door AI gegenereerd.</itunes:summary>
+      <enclosure url="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/episodes/nl/nl-rotterdam-1528892850-v1.mp3" length="15281502" type="audio/mpeg"/>
+      <guid isPermaLink="false">5d6a6857-ba3b-582a-b899-43c093845ebf</guid>
+      <pubDate>Thu, 08 Oct 2026 16:32:53 +0000</pubDate>
+      <itunes:duration>00:15:48</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Amsterdam reisgids &amp; geschiedenis | Van moeras tot rebelse wereldstad</title>
       <link>https://podcast.kajetan.nl/travel/netherlands/amsterdam/</link>

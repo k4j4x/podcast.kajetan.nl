@@ -14,7 +14,27 @@
     <itunes:type>episodic</itunes:type>
     <itunes:category text="Society &amp; Culture"><itunes:category text="Places &amp; Travel"/></itunes:category>
     <itunes:image href="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/cover-de-3000.jpg"/>
-    <lastBuildDate>Wed, 07 Oct 2026 03:33:23 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 08 Oct 2026 16:32:54 +0000</lastBuildDate>
+    <item>
+      <title>Rotterdam Reiseführer &amp; Geschichte | Von Trümmern zur Zukunftsarchitektur</title>
+      <link>https://podcast.kajetan.nl/travel/netherlands/rotterdam/</link>
+      <description>Rotterdam bietet bei einem Besuch historischer Orte und moderner Bauwerke viele Sehenswürdigkeiten wie die Markthal, die Kubuswoningen und die Erasmusbrug. Im Jahr 1953 eröffnete die Lijnbaan als erste autofreie Einkaufsstraße Europas und zeigte, wie aus Trümmern neue Architektur entstand.
+
+Andere Sprachen und mehr über Rotterdam: https://podcast.kajetan.nl/travel/netherlands/rotterdam/
+
+Quellen u. a. Wikipedia und Wikivoyage (CC BY-SA 4.0) sowie offizielle Websites für Tourismus, Denkmalpflege und Museen. Gespräch und Stimmen sind KI-generiert.</description>
+      <itunes:summary>Rotterdam bietet bei einem Besuch historischer Orte und moderner Bauwerke viele Sehenswürdigkeiten wie die Markthal, die Kubuswoningen und die Erasmusbrug. Im Jahr 1953 eröffnete die Lijnbaan als erste autofreie Einkaufsstraße Europas und zeigte, wie aus Trümmern neue Architektur entstand.
+
+Andere Sprachen und mehr über Rotterdam: https://podcast.kajetan.nl/travel/netherlands/rotterdam/
+
+Quellen u. a. Wikipedia und Wikivoyage (CC BY-SA 4.0) sowie offizielle Websites für Tourismus, Denkmalpflege und Museen. Gespräch und Stimmen sind KI-generiert.</itunes:summary>
+      <enclosure url="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/episodes/de/de-rotterdam-1528892850-v1.mp3" length="19697821" type="audio/mpeg"/>
+      <guid isPermaLink="false">89fecad4-c5e9-5959-a1dc-0c71a91ffb7e</guid>
+      <pubDate>Thu, 08 Oct 2026 16:31:52 +0000</pubDate>
+      <itunes:duration>00:20:23</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Amsterdam Reiseführer &amp; Geschichte | Vom Sumpf zur globalen Handelsmacht</title>
       <link>https://podcast.kajetan.nl/travel/netherlands/amsterdam/</link>
