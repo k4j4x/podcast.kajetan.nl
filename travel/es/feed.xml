@@ -14,7 +14,27 @@
     <itunes:type>episodic</itunes:type>
     <itunes:category text="Society &amp; Culture"><itunes:category text="Places &amp; Travel"/></itunes:category>
     <itunes:image href="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/cover-es-3000.jpg"/>
-    <lastBuildDate>Thu, 08 Oct 2026 18:02:50 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 08 Oct 2026 18:32:48 +0000</lastBuildDate>
+    <item>
+      <title>The Hague: guía de viaje e historia | Capital mundial de la justicia</title>
+      <link>https://podcast.kajetan.nl/travel/netherlands/the-hague/</link>
+      <description>The Hague reúne su historia política con lugares qué ver como el Binnenhof, el Vredespaleis y la playa de Scheveningen durante una visita. En 1899, la Primera Conferencia de la Paz estableció las bases del arbitraje internacional.
+
+Otros idiomas y más sobre The Hague: https://podcast.kajetan.nl/travel/netherlands/the-hague/
+
+Fuentes, entre otras: Wikipedia y Wikivoyage (CC BY-SA 4.0) y webs oficiales de turismo, patrimonio y museos. La conversación y las voces están generadas por IA.</description>
+      <itunes:summary>The Hague reúne su historia política con lugares qué ver como el Binnenhof, el Vredespaleis y la playa de Scheveningen durante una visita. En 1899, la Primera Conferencia de la Paz estableció las bases del arbitraje internacional.
+
+Otros idiomas y más sobre The Hague: https://podcast.kajetan.nl/travel/netherlands/the-hague/
+
+Fuentes, entre otras: Wikipedia y Wikivoyage (CC BY-SA 4.0) y webs oficiales de turismo, patrimonio y museos. La conversación y las voces están generadas por IA.</itunes:summary>
+      <enclosure url="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/episodes/es/es-the-hague-1528799905-v1.mp3" length="15855246" type="audio/mpeg"/>
+      <guid isPermaLink="false">21a3c85f-b546-59b5-9367-320438618447</guid>
+      <pubDate>Thu, 08 Oct 2026 18:31:44 +0000</pubDate>
+      <itunes:duration>00:16:23</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Rotterdam: guía de viaje e historia | De las ruinas a los rascacielos</title>
       <link>https://podcast.kajetan.nl/travel/netherlands/rotterdam/</link>
