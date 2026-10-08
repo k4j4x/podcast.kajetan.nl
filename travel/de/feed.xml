@@ -14,7 +14,27 @@
     <itunes:type>episodic</itunes:type>
     <itunes:category text="Society &amp; Culture"><itunes:category text="Places &amp; Travel"/></itunes:category>
     <itunes:image href="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/cover-de-3000.jpg"/>
-    <lastBuildDate>Thu, 08 Oct 2026 19:32:57 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 08 Oct 2026 20:03:41 +0000</lastBuildDate>
+    <item>
+      <title>Eindhoven Reiseführer &amp; Geschichte | Wie aus leeren Hallen Zukunft wurde</title>
+      <link>https://podcast.kajetan.nl/travel/netherlands/eindhoven/</link>
+      <description>Eindhoven verbindet bei einem Besuch eine bewegte Geschichte mit moderner Kultur an Orten wie dem Areal Strijp-S, dem Philips Museum und dem Van Abbemuseum. Im Jahr 1891 begann Gerard Philips in einer Fabrik an der Emmasingel mit der Herstellung von Glühlampen und prägte die Entwicklung der Stadt.
+
+Andere Sprachen und mehr über Eindhoven: https://podcast.kajetan.nl/travel/netherlands/eindhoven/
+
+Quellen u. a. Wikipedia und Wikivoyage (CC BY-SA 4.0) sowie offizielle Websites für Tourismus, Denkmalpflege und Museen. Gespräch und Stimmen sind KI-generiert.</description>
+      <itunes:summary>Eindhoven verbindet bei einem Besuch eine bewegte Geschichte mit moderner Kultur an Orten wie dem Areal Strijp-S, dem Philips Museum und dem Van Abbemuseum. Im Jahr 1891 begann Gerard Philips in einer Fabrik an der Emmasingel mit der Herstellung von Glühlampen und prägte die Entwicklung der Stadt.
+
+Andere Sprachen und mehr über Eindhoven: https://podcast.kajetan.nl/travel/netherlands/eindhoven/
+
+Quellen u. a. Wikipedia und Wikivoyage (CC BY-SA 4.0) sowie offizielle Websites für Tourismus, Denkmalpflege und Museen. Gespräch und Stimmen sind KI-generiert.</itunes:summary>
+      <enclosure url="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/episodes/de/de-eindhoven-1528636212-v1.mp3" length="25261691" type="audio/mpeg"/>
+      <guid isPermaLink="false">9f2804c8-d44e-5c3c-9d6e-83947f9f2906</guid>
+      <pubDate>Thu, 08 Oct 2026 20:02:13 +0000</pubDate>
+      <itunes:duration>00:26:11</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Utrecht Reiseführer &amp; Geschichte | Zwischen Tornado und Werfkellern</title>
       <link>https://podcast.kajetan.nl/travel/netherlands/utrecht/</link>
