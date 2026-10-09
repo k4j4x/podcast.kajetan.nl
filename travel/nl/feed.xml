@@ -14,7 +14,27 @@
     <itunes:type>episodic</itunes:type>
     <itunes:category text="Society &amp; Culture"><itunes:category text="Places &amp; Travel"/></itunes:category>
     <itunes:image href="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/cover-nl-3000.jpg"/>
-    <lastBuildDate>Fri, 09 Oct 2026 17:33:05 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 09 Oct 2026 18:03:26 +0000</lastBuildDate>
+    <item>
+      <title>Groningen reisgids &amp; geschiedenis | Een rebelse geest in het noorden</title>
+      <link>https://podcast.kajetan.nl/travel/netherlands/groningen/</link>
+      <description>Groningen combineert een lange geschiedenis met veel bezienswaardigheden zoals de Martinitoren aan de Grote Markt, de Prinsentuin en het Groninger Museum. In 1614 werd de Universiteit van Groningen gesticht op het Broerplein, wat de basis legde voor de eeuwenoude studententraditie.
+
+Andere talen en meer over Groningen: https://podcast.kajetan.nl/travel/netherlands/groningen/
+
+Bronnen o.a. Wikipedia en Wikivoyage (CC BY-SA 4.0) en officiële websites over toerisme, erfgoed en musea. Het gesprek en de stemmen zijn door AI gegenereerd.</description>
+      <itunes:summary>Groningen combineert een lange geschiedenis met veel bezienswaardigheden zoals de Martinitoren aan de Grote Markt, de Prinsentuin en het Groninger Museum. In 1614 werd de Universiteit van Groningen gesticht op het Broerplein, wat de basis legde voor de eeuwenoude studententraditie.
+
+Andere talen en meer over Groningen: https://podcast.kajetan.nl/travel/netherlands/groningen/
+
+Bronnen o.a. Wikipedia en Wikivoyage (CC BY-SA 4.0) en officiële websites over toerisme, erfgoed en musea. Het gesprek en de stemmen zijn door AI gegenereerd.</itunes:summary>
+      <enclosure url="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/episodes/nl/nl-groningen-1528295161-v1.mp3" length="28394967" type="audio/mpeg"/>
+      <guid isPermaLink="false">ad4fe0b2-50d8-5551-80d9-faf2c112a1ec</guid>
+      <pubDate>Fri, 09 Oct 2026 18:03:26 +0000</pubDate>
+      <itunes:duration>00:29:27</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Eindhoven reisgids &amp; geschiedenis | Van Philips-crisis tot tech-hart</title>
       <link>https://podcast.kajetan.nl/travel/netherlands/eindhoven/</link>
