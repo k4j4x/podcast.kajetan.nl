@@ -14,7 +14,7 @@
     <itunes:type>episodic</itunes:type>
     <itunes:category text="Society &amp; Culture"><itunes:category text="Places &amp; Travel"/></itunes:category>
     <itunes:image href="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/cover-nl-3000.jpg"/>
-    <lastBuildDate>Thu, 08 Oct 2026 21:01:53 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 09 Oct 2026 17:33:05 +0000</lastBuildDate>
     <item>
       <title>Eindhoven reisgids &amp; geschiedenis | Van Philips-crisis tot tech-hart</title>
       <link>https://podcast.kajetan.nl/travel/netherlands/eindhoven/</link>
@@ -38,6 +38,7 @@ Bronnen o.a. Wikipedia en Wikivoyage (CC BY-SA 4.0) en officiële websites over 
     <item>
       <title>Utrecht reisgids &amp; geschiedenis | Het verhaal van de oude werfkelders</title>
       <link>https://podcast.kajetan.nl/travel/netherlands/utrecht/</link>
+      <podcast:transcript url="https://podcast.kajetan.nl/travel/netherlands/utrecht/transcript-nl.txt" type="text/plain" language="nl"/>
       <description>Utrecht toont bij een bezoek diverse plekken uit de geschiedenis en bezienswaardigheden zoals de Domtoren, de werfkelders aan de Oudegracht en het Centraal Museum. In 1674 verwoestte een zware storm het schip van de Domkerk, waardoor de hoge toren los kwam te staan van het resterende kerkgebouw.
 
 Andere talen en meer over Utrecht: https://podcast.kajetan.nl/travel/netherlands/utrecht/
@@ -58,6 +59,7 @@ Bronnen o.a. Wikipedia en Wikivoyage (CC BY-SA 4.0) en officiële websites over 
     <item>
       <title>The Hague reisgids &amp; geschiedenis | De regeringszetel die geen hoofdstad is</title>
       <link>https://podcast.kajetan.nl/travel/netherlands/the-hague/</link>
+      <podcast:transcript url="https://podcast.kajetan.nl/travel/netherlands/the-hague/transcript-nl.txt" type="text/plain" language="nl"/>
       <description>The Hague verbindt politieke geschiedenis met bezienswaardigheden zoals het Binnenhof, het Vredespaleis en het strand van Scheveningen, ideaal voor een bezoek. In 1808 werd Amsterdam de hoofdstad van Nederland, terwijl de regering en het parlement hier gevestigd bleven.
 
 Andere talen en meer over The Hague: https://podcast.kajetan.nl/travel/netherlands/the-hague/
@@ -78,6 +80,7 @@ Bronnen o.a. Wikipedia en Wikivoyage (CC BY-SA 4.0) en officiële websites over 
     <item>
       <title>Rotterdam reisgids &amp; geschiedenis | Van verwoesting tot architectuurstad</title>
       <link>https://podcast.kajetan.nl/travel/netherlands/rotterdam/</link>
+      <podcast:transcript url="https://podcast.kajetan.nl/travel/netherlands/rotterdam/transcript-nl.txt" type="text/plain" language="nl"/>
       <description>Rotterdam biedt bij een bezoek tal van bezienswaardigheden, zoals de schuine Kubuswoningen, de overdekte Markthal en de Erasmusbrug. In 1953 opende de Lijnbaan als eerste autovrije winkelstraat van Europa, wat laat zien hoe oorlogsverwoesting leidde tot nieuwe stadsarchitectuur.
 
 Andere talen en meer over Rotterdam: https://podcast.kajetan.nl/travel/netherlands/rotterdam/

@@ -14,7 +14,27 @@
     <itunes:type>episodic</itunes:type>
     <itunes:category text="Society &amp; Culture"><itunes:category text="Places &amp; Travel"/></itunes:category>
     <itunes:image href="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/cover-it-3000.jpg"/>
-    <lastBuildDate>Thu, 08 Oct 2026 21:01:54 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 09 Oct 2026 17:33:05 +0000</lastBuildDate>
+    <item>
+      <title>Eindhoven: guida di viaggio e storia | Dalla fabbrica al laboratorio urbano</title>
+      <link>https://podcast.kajetan.nl/travel/netherlands/eindhoven/</link>
+      <description>Eindhoven unisce durante una visita la sua storia industriale a luoghi come il quartiere Strijp-S, il Philips Museum e il Van Abbemuseum. Nel 1891, Gerard Philips iniziò la produzione di lampadine in una fabbrica in Emmasingel, avviando la trasformazione tecnologica della città.
+
+Altre lingue e altro su Eindhoven: https://podcast.kajetan.nl/travel/netherlands/eindhoven/
+
+Fonti, tra le altre: Wikipedia e Wikivoyage (CC BY-SA 4.0) e siti ufficiali di turismo, patrimonio e musei. La conversazione e le voci sono generate dall'IA.</description>
+      <itunes:summary>Eindhoven unisce durante una visita la sua storia industriale a luoghi come il quartiere Strijp-S, il Philips Museum e il Van Abbemuseum. Nel 1891, Gerard Philips iniziò la produzione di lampadine in una fabbrica in Emmasingel, avviando la trasformazione tecnologica della città.
+
+Altre lingue e altro su Eindhoven: https://podcast.kajetan.nl/travel/netherlands/eindhoven/
+
+Fonti, tra le altre: Wikipedia e Wikivoyage (CC BY-SA 4.0) e siti ufficiali di turismo, patrimonio e musei. La conversazione e le voci sono generate dall'IA.</itunes:summary>
+      <enclosure url="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/episodes/it/it-eindhoven-1528636212-v1.mp3" length="20550840" type="audio/mpeg"/>
+      <guid isPermaLink="false">d890d9dd-1942-5c18-91e1-447fbc2db514</guid>
+      <pubDate>Fri, 09 Oct 2026 17:33:04 +0000</pubDate>
+      <itunes:duration>00:21:17</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Utrecht: guida di viaggio e storia | La cattedrale spezzata dal tornado</title>
       <link>https://podcast.kajetan.nl/travel/netherlands/utrecht/</link>
@@ -38,6 +58,7 @@ Fonti, tra le altre: Wikipedia e Wikivoyage (CC BY-SA 4.0) e siti ufficiali di t
     <item>
       <title>The Hague: guida di viaggio e storia | La capitale politica senza mura</title>
       <link>https://podcast.kajetan.nl/travel/netherlands/the-hague/</link>
+      <podcast:transcript url="https://podcast.kajetan.nl/travel/netherlands/the-hague/transcript-it.txt" type="text/plain" language="it"/>
       <description>The Hague unisce la sua storia politica a luoghi come il Binnenhof, il Vredespaleis e la spiaggia di Scheveningen, ideali per una visita. Nel 1806, il re Luigi Bonaparte concesse lo status di città al centro privo di mura.
 
 Altre lingue e altro su The Hague: https://podcast.kajetan.nl/travel/netherlands/the-hague/
@@ -58,6 +79,7 @@ Fonti, tra le altre: Wikipedia e Wikivoyage (CC BY-SA 4.0) e siti ufficiali di t
     <item>
       <title>Rotterdam: guida di viaggio e storia | Dalle macerie al laboratorio del futuro</title>
       <link>https://podcast.kajetan.nl/travel/netherlands/rotterdam/</link>
+      <podcast:transcript url="https://podcast.kajetan.nl/travel/netherlands/rotterdam/transcript-it.txt" type="text/plain" language="it"/>
       <description>Rotterdam unisce durante una visita la sua storia e la moderna architettura, con luoghi come le inclinate Kubuswoningen, il Markthal e l'Erasmusbrug. Nel 1953 è stata inaugurata la Lijnbaan come prima strada commerciale pedonale d'Europa, mostrando come la ricostruzione postbellica abbia creato un'architettura innovativa.
 
 Altre lingue e altro su Rotterdam: https://podcast.kajetan.nl/travel/netherlands/rotterdam/

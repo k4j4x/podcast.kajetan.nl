@@ -14,7 +14,7 @@
     <itunes:type>episodic</itunes:type>
     <itunes:category text="Society &amp; Culture"><itunes:category text="Places &amp; Travel"/></itunes:category>
     <itunes:image href="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/cover-es-3000.jpg"/>
-    <lastBuildDate>Thu, 08 Oct 2026 21:01:54 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 09 Oct 2026 17:33:05 +0000</lastBuildDate>
     <item>
       <title>Eindhoven: guía de viaje e historia | De la bombilla al microchip</title>
       <link>https://podcast.kajetan.nl/travel/netherlands/eindhoven/</link>
@@ -58,6 +58,7 @@ Fuentes, entre otras: Wikipedia y Wikivoyage (CC BY-SA 4.0) y webs oficiales de 
     <item>
       <title>The Hague: guía de viaje e historia | Capital mundial de la justicia</title>
       <link>https://podcast.kajetan.nl/travel/netherlands/the-hague/</link>
+      <podcast:transcript url="https://podcast.kajetan.nl/travel/netherlands/the-hague/transcript-es.txt" type="text/plain" language="es"/>
       <description>The Hague reúne su historia política con lugares qué ver como el Binnenhof, el Vredespaleis y la playa de Scheveningen durante una visita. En 1899, la Primera Conferencia de la Paz estableció las bases del arbitraje internacional.
 
 Otros idiomas y más sobre The Hague: https://podcast.kajetan.nl/travel/netherlands/the-hague/
@@ -78,6 +79,7 @@ Fuentes, entre otras: Wikipedia y Wikivoyage (CC BY-SA 4.0) y webs oficiales de 
     <item>
       <title>Rotterdam: guía de viaje e historia | De las ruinas a los rascacielos</title>
       <link>https://podcast.kajetan.nl/travel/netherlands/rotterdam/</link>
+      <podcast:transcript url="https://podcast.kajetan.nl/travel/netherlands/rotterdam/transcript-es.txt" type="text/plain" language="es"/>
       <description>Rotterdam ofrece durante una visita destacados lugares qué ver, como las inclinadas Kubuswoningen, el Markthal y el Erasmusbrug. En 1953 se inauguró la Lijnbaan como la primera calle comercial peatonal de Europa, mostrando cómo la destrucción bélica impulsó una nueva arquitectura.
 
 Otros idiomas y más sobre Rotterdam: https://podcast.kajetan.nl/travel/netherlands/rotterdam/

@@ -14,7 +14,7 @@
     <itunes:type>episodic</itunes:type>
     <itunes:category text="Society &amp; Culture"><itunes:category text="Places &amp; Travel"/></itunes:category>
     <itunes:image href="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/cover-fr-3000.jpg"/>
-    <lastBuildDate>Thu, 08 Oct 2026 21:01:54 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 09 Oct 2026 17:33:05 +0000</lastBuildDate>
     <item>
       <title>Eindhoven : guide de voyage et histoire | Des usines Philips au temple du design</title>
       <link>https://podcast.kajetan.nl/travel/netherlands/eindhoven/</link>
@@ -58,6 +58,7 @@ Sources, entre autres : Wikipédia et Wikivoyage (CC BY-SA 4.0) ainsi que les si
     <item>
       <title>The Hague : guide de voyage et histoire | Le siège du pouvoir néerlandais</title>
       <link>https://podcast.kajetan.nl/travel/netherlands/the-hague/</link>
+      <podcast:transcript url="https://podcast.kajetan.nl/travel/netherlands/the-hague/transcript-fr.txt" type="text/plain" language="fr"/>
       <description>The Hague relie son histoire politique à des lieux à voir comme le Binnenhof, le Vredespaleis et la plage de Scheveningen, idéale lors d'une visite. En 1806, le roi Louis Bonaparte accorde le statut de ville à la cité sans remparts.
 
 Autres langues et plus sur The Hague : https://podcast.kajetan.nl/travel/netherlands/the-hague/
@@ -78,6 +79,7 @@ Sources, entre autres : Wikipédia et Wikivoyage (CC BY-SA 4.0) ainsi que les si
     <item>
       <title>Rotterdam : guide de voyage et histoire | Des ruines au laboratoire architectural</title>
       <link>https://podcast.kajetan.nl/travel/netherlands/rotterdam/</link>
+      <podcast:transcript url="https://podcast.kajetan.nl/travel/netherlands/rotterdam/transcript-fr.txt" type="text/plain" language="fr"/>
       <description>Rotterdam offre lors d'une visite de nombreux sites à voir, des Kubuswoningen inclinées au Markthal et à l'Erasmusbrug. En 1953, la Lijnbaan a ouvert comme première rue commerçante piétonne d'Europe, montrant comment la destruction de la guerre a stimulé une nouvelle architecture.
 
 Autres langues et plus sur Rotterdam : https://podcast.kajetan.nl/travel/netherlands/rotterdam/

@@ -14,7 +14,27 @@
     <itunes:type>episodic</itunes:type>
     <itunes:category text="Society &amp; Culture"><itunes:category text="Places &amp; Travel"/></itunes:category>
     <itunes:image href="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/cover-de-3000.jpg"/>
-    <lastBuildDate>Thu, 08 Oct 2026 21:01:53 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 09 Oct 2026 17:33:05 +0000</lastBuildDate>
+    <item>
+      <title>Groningen Reiseführer &amp; Geschichte | Sturer Stolz und radikale Moderne</title>
+      <link>https://podcast.kajetan.nl/travel/netherlands/groningen/</link>
+      <description>Groningen verbindet bei einem Besuch lange Geschichte und viele Sehenswürdigkeiten wie die Martinitoren am Grote Markt, den Prinsentuin und das Forum. Im Jahr 1994 eröffnete das postmoderne Groninger Museum im Verbindingskanaal als Ort für zeitgenössische Kunst.
+
+Andere Sprachen und mehr über Groningen: https://podcast.kajetan.nl/travel/netherlands/groningen/
+
+Quellen u. a. Wikipedia und Wikivoyage (CC BY-SA 4.0) sowie offizielle Websites für Tourismus, Denkmalpflege und Museen. Gespräch und Stimmen sind KI-generiert.</description>
+      <itunes:summary>Groningen verbindet bei einem Besuch lange Geschichte und viele Sehenswürdigkeiten wie die Martinitoren am Grote Markt, den Prinsentuin und das Forum. Im Jahr 1994 eröffnete das postmoderne Groninger Museum im Verbindingskanaal als Ort für zeitgenössische Kunst.
+
+Andere Sprachen und mehr über Groningen: https://podcast.kajetan.nl/travel/netherlands/groningen/
+
+Quellen u. a. Wikipedia und Wikivoyage (CC BY-SA 4.0) sowie offizielle Websites für Tourismus, Denkmalpflege und Museen. Gespräch und Stimmen sind KI-generiert.</itunes:summary>
+      <enclosure url="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/episodes/de/de-groningen-1528295161-v1.mp3" length="21771310" type="audio/mpeg"/>
+      <guid isPermaLink="false">5ad2d402-8c2e-5889-a712-bba58d675764</guid>
+      <pubDate>Fri, 09 Oct 2026 17:31:49 +0000</pubDate>
+      <itunes:duration>00:22:33</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Eindhoven Reiseführer &amp; Geschichte | Wie aus leeren Hallen Zukunft wurde</title>
       <link>https://podcast.kajetan.nl/travel/netherlands/eindhoven/</link>
@@ -38,6 +58,7 @@ Quellen u. a. Wikipedia und Wikivoyage (CC BY-SA 4.0) sowie offizielle Websites 
     <item>
       <title>Utrecht Reiseführer &amp; Geschichte | Zwischen Tornado und Werfkellern</title>
       <link>https://podcast.kajetan.nl/travel/netherlands/utrecht/</link>
+      <podcast:transcript url="https://podcast.kajetan.nl/travel/netherlands/utrecht/transcript-de.txt" type="text/plain" language="de"/>
       <description>Utrecht zeigt beim Besuch Orte der Geschichte und verschiedene Sehenswürdigkeiten wie den Domtoren und die Werfkeller an der Oudegracht. Im Jahr 1674 zerstörte ein Sturm das Schiff der Domkerk und trennte den Domtoren vom Rest des Bauwerks.
 
 Andere Sprachen und mehr über Utrecht: https://podcast.kajetan.nl/travel/netherlands/utrecht/
@@ -58,6 +79,7 @@ Quellen u. a. Wikipedia und Wikivoyage (CC BY-SA 4.0) sowie offizielle Websites 
     <item>
       <title>The Hague Reiseführer &amp; Geschichte | Der wahre Regierungssitz Hollands</title>
       <link>https://podcast.kajetan.nl/travel/netherlands/the-hague/</link>
+      <podcast:transcript url="https://podcast.kajetan.nl/travel/netherlands/the-hague/transcript-de.txt" type="text/plain" language="de"/>
       <description>The Hague verbindet politische Geschichte mit Sehenswürdigkeiten wie dem Binnenhof, dem Vredespaleis und dem Strand von Scheveningen, die sich bei einem Besuch gut kombinieren lassen. Im Jahr 1806 verlieh König Louis Bonaparte dem unbefestigten Ort offiziell die Stadtrechte.
 
 Andere Sprachen und mehr über The Hague: https://podcast.kajetan.nl/travel/netherlands/the-hague/
@@ -78,6 +100,7 @@ Quellen u. a. Wikipedia und Wikivoyage (CC BY-SA 4.0) sowie offizielle Websites 
     <item>
       <title>Rotterdam Reiseführer &amp; Geschichte | Von Trümmern zur Zukunftsarchitektur</title>
       <link>https://podcast.kajetan.nl/travel/netherlands/rotterdam/</link>
+      <podcast:transcript url="https://podcast.kajetan.nl/travel/netherlands/rotterdam/transcript-de.txt" type="text/plain" language="de"/>
       <description>Rotterdam bietet bei einem Besuch historischer Orte und moderner Bauwerke viele Sehenswürdigkeiten wie die Markthal, die Kubuswoningen und die Erasmusbrug. Im Jahr 1953 eröffnete die Lijnbaan als erste autofreie Einkaufsstraße Europas und zeigte, wie aus Trümmern neue Architektur entstand.
 
 Andere Sprachen und mehr über Rotterdam: https://podcast.kajetan.nl/travel/netherlands/rotterdam/
