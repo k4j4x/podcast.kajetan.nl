@@ -14,7 +14,27 @@
     <itunes:type>episodic</itunes:type>
     <itunes:category text="Society &amp; Culture"><itunes:category text="Places &amp; Travel"/></itunes:category>
     <itunes:image href="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/cover-fr-3000.jpg"/>
-    <lastBuildDate>Sat, 10 Oct 2026 09:04:12 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 10 Oct 2026 09:33:33 +0000</lastBuildDate>
+    <item>
+      <title>Almere : guide de voyage et histoire | Une ville surgie des eaux</title>
+      <link>https://podcast.kajetan.nl/travel/netherlands/almere/</link>
+      <description>Almere montre son histoire dans des endroits comme le théâtre Kunstlinie, la Citadel et la réserve naturelle Oostvaardersplassen, qui sont des lieux à voir lors d'une visite. En 1976, les premiers logements du quartier d'Almere Haven ont été remis aux habitants sur ces terres gagnées sur la mer.
+
+Autres langues et plus sur Almere : https://podcast.kajetan.nl/travel/netherlands/almere/
+
+Sources, entre autres : Wikipédia et Wikivoyage (CC BY-SA 4.0) ainsi que les sites officiels du tourisme, du patrimoine et des musées. La conversation et les voix sont générées par IA.</description>
+      <itunes:summary>Almere montre son histoire dans des endroits comme le théâtre Kunstlinie, la Citadel et la réserve naturelle Oostvaardersplassen, qui sont des lieux à voir lors d'une visite. En 1976, les premiers logements du quartier d'Almere Haven ont été remis aux habitants sur ces terres gagnées sur la mer.
+
+Autres langues et plus sur Almere : https://podcast.kajetan.nl/travel/netherlands/almere/
+
+Sources, entre autres : Wikipédia et Wikivoyage (CC BY-SA 4.0) ainsi que les sites officiels du tourisme, du patrimoine et des musées. La conversation et les voix sont générées par IA.</itunes:summary>
+      <enclosure url="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/episodes/fr/fr-almere-1528683566-v1.mp3" length="21799269" type="audio/mpeg"/>
+      <guid isPermaLink="false">f407b1c7-2542-567c-8587-2040c312b51a</guid>
+      <pubDate>Sat, 10 Oct 2026 09:33:32 +0000</pubDate>
+      <itunes:duration>00:22:35</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Groningen : guide de voyage et histoire | Cité étudiante au passé fortifié</title>
       <link>https://podcast.kajetan.nl/travel/netherlands/groningen/</link>
