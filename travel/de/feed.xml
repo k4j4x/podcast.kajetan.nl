@@ -14,7 +14,27 @@
     <itunes:type>episodic</itunes:type>
     <itunes:category text="Society &amp; Culture"><itunes:category text="Places &amp; Travel"/></itunes:category>
     <itunes:image href="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/cover-de-3000.jpg"/>
-    <lastBuildDate>Sat, 10 Oct 2026 19:32:45 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 10 Oct 2026 20:03:27 +0000</lastBuildDate>
+    <item>
+      <title>Enschede Reiseführer &amp; Geschichte | Vom Inferno zur grünsten Stadt</title>
+      <link>https://podcast.kajetan.nl/travel/netherlands/enschede/</link>
+      <description>Enschede zeigt bei einem Besuch Sehenswürdigkeiten wie die Grote Kerk am Oude Markt und erzählt die Geschichte des Viertels Roombeek. Im Jahr 2000 zerstörte die Explosion eines Feuerwerkslagers das Viertel Roombeek, das anschließend komplett neu aufgebaut wurde.
+
+Andere Sprachen und mehr über Enschede: https://podcast.kajetan.nl/travel/netherlands/enschede/
+
+Quellen u. a. Wikipedia und Wikivoyage (CC BY-SA 4.0) sowie offizielle Websites für Tourismus, Denkmalpflege und Museen. Gespräch und Stimmen sind KI-generiert.</description>
+      <itunes:summary>Enschede zeigt bei einem Besuch Sehenswürdigkeiten wie die Grote Kerk am Oude Markt und erzählt die Geschichte des Viertels Roombeek. Im Jahr 2000 zerstörte die Explosion eines Feuerwerkslagers das Viertel Roombeek, das anschließend komplett neu aufgebaut wurde.
+
+Andere Sprachen und mehr über Enschede: https://podcast.kajetan.nl/travel/netherlands/enschede/
+
+Quellen u. a. Wikipedia und Wikivoyage (CC BY-SA 4.0) sowie offizielle Websites für Tourismus, Denkmalpflege und Museen. Gespräch und Stimmen sind KI-generiert.</itunes:summary>
+      <enclosure url="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/episodes/de/de-enschede-1528181808-v1.mp3" length="22366476" type="audio/mpeg"/>
+      <guid isPermaLink="false">a74c4813-6d87-5df7-bce8-d47b416639e3</guid>
+      <pubDate>Sat, 10 Oct 2026 20:02:06 +0000</pubDate>
+      <itunes:duration>00:23:10</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Haarlem Reiseführer &amp; Geschichte | Reichtum auf einer Sanddüne</title>
       <link>https://podcast.kajetan.nl/travel/netherlands/haarlem/</link>
