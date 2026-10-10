@@ -14,7 +14,27 @@
     <itunes:type>episodic</itunes:type>
     <itunes:category text="Society &amp; Culture"><itunes:category text="Places &amp; Travel"/></itunes:category>
     <itunes:image href="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/cover-it-3000.jpg"/>
-    <lastBuildDate>Sat, 10 Oct 2026 09:33:33 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 10 Oct 2026 10:36:15 +0000</lastBuildDate>
+    <item>
+      <title>Almere: guida di viaggio e storia | La città sul fondo del mare</title>
+      <link>https://podcast.kajetan.nl/travel/netherlands/almere/</link>
+      <description>Almere mostra la sua storia attraverso luoghi come il teatro Kunstlinie, la Citadel e la riserva naturale Oostvaardersplassen, offrendo molte opzioni di cosa vedere durante una visita. Nel 1976, le prime case nel quartiere di Almere Haven sono state consegnate sui terreni strappati al mare.
+
+Altre lingue e altro su Almere: https://podcast.kajetan.nl/travel/netherlands/almere/
+
+Fonti, tra le altre: Wikipedia e Wikivoyage (CC BY-SA 4.0) e siti ufficiali di turismo, patrimonio e musei. La conversazione e le voci sono generate dall'IA.</description>
+      <itunes:summary>Almere mostra la sua storia attraverso luoghi come il teatro Kunstlinie, la Citadel e la riserva naturale Oostvaardersplassen, offrendo molte opzioni di cosa vedere durante una visita. Nel 1976, le prime case nel quartiere di Almere Haven sono state consegnate sui terreni strappati al mare.
+
+Altre lingue e altro su Almere: https://podcast.kajetan.nl/travel/netherlands/almere/
+
+Fonti, tra le altre: Wikipedia e Wikivoyage (CC BY-SA 4.0) e siti ufficiali di turismo, patrimonio e musei. La conversazione e le voci sono generate dall'IA.</itunes:summary>
+      <enclosure url="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/episodes/it/it-almere-1528683566-v1.mp3" length="17442531" type="audio/mpeg"/>
+      <guid isPermaLink="false">661e427f-af36-54e7-b577-904e9a24a2a5</guid>
+      <pubDate>Sat, 10 Oct 2026 10:31:44 +0000</pubDate>
+      <itunes:duration>00:18:02</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Groningen: guida di viaggio e storia | La città più giovane d'Olanda</title>
       <link>https://podcast.kajetan.nl/travel/netherlands/groningen/</link>

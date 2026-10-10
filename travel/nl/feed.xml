@@ -14,7 +14,27 @@
     <itunes:type>episodic</itunes:type>
     <itunes:category text="Society &amp; Culture"><itunes:category text="Places &amp; Travel"/></itunes:category>
     <itunes:image href="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/cover-nl-3000.jpg"/>
-    <lastBuildDate>Sat, 10 Oct 2026 09:33:33 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 10 Oct 2026 10:36:15 +0000</lastBuildDate>
+    <item>
+      <title>Breda reisgids &amp; geschiedenis | Koninklijke roots en bourgondisch leven</title>
+      <link>https://podcast.kajetan.nl/travel/netherlands/breda/</link>
+      <description>Breda verbindt bij een bezoek haar geschiedenis met bezienswaardigheden zoals de Grote Kerk, het Kasteel van Breda en het Begijnhof. In 1590 veroverden Nederlandse troepen de stad op de Spanjaarden door zich te verstoppen in een turfschip.
+
+Andere talen en meer over Breda: https://podcast.kajetan.nl/travel/netherlands/breda/
+
+Bronnen o.a. Wikipedia en Wikivoyage (CC BY-SA 4.0) en officiële websites over toerisme, erfgoed en musea. Het gesprek en de stemmen zijn door AI gegenereerd.</description>
+      <itunes:summary>Breda verbindt bij een bezoek haar geschiedenis met bezienswaardigheden zoals de Grote Kerk, het Kasteel van Breda en het Begijnhof. In 1590 veroverden Nederlandse troepen de stad op de Spanjaarden door zich te verstoppen in een turfschip.
+
+Andere talen en meer over Breda: https://podcast.kajetan.nl/travel/netherlands/breda/
+
+Bronnen o.a. Wikipedia en Wikivoyage (CC BY-SA 4.0) en officiële websites over toerisme, erfgoed en musea. Het gesprek en de stemmen zijn door AI gegenereerd.</itunes:summary>
+      <enclosure url="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/episodes/nl/nl-breda-1528921549-v1.mp3" length="25585449" type="audio/mpeg"/>
+      <guid isPermaLink="false">986264dd-5a8c-5a2a-9258-c14f6359b3e2</guid>
+      <pubDate>Sat, 10 Oct 2026 10:36:14 +0000</pubDate>
+      <itunes:duration>00:26:32</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Almere reisgids &amp; geschiedenis | Scheepswrakken onder een nieuwe stad</title>
       <link>https://podcast.kajetan.nl/travel/netherlands/almere/</link>

@@ -14,7 +14,27 @@
     <itunes:type>episodic</itunes:type>
     <itunes:category text="Society &amp; Culture"><itunes:category text="Places &amp; Travel"/></itunes:category>
     <itunes:image href="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/cover-fr-3000.jpg"/>
-    <lastBuildDate>Sat, 10 Oct 2026 09:33:33 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 10 Oct 2026 10:36:15 +0000</lastBuildDate>
+    <item>
+      <title>Breda : guide de voyage et histoire | Héritage royal et culture urbaine</title>
+      <link>https://podcast.kajetan.nl/travel/netherlands/breda/</link>
+      <description>Breda associe les monuments de son histoire, comme la Grote Kerk et le Kasteel van Breda, à des lieux à voir lors d'une visite. En 1590, des soldats néerlandais ont pris la ville aux forces espagnoles en se cachant dans un bateau de tourbe.
+
+Autres langues et plus sur Breda : https://podcast.kajetan.nl/travel/netherlands/breda/
+
+Sources, entre autres : Wikipédia et Wikivoyage (CC BY-SA 4.0) ainsi que les sites officiels du tourisme, du patrimoine et des musées. La conversation et les voix sont générées par IA.</description>
+      <itunes:summary>Breda associe les monuments de son histoire, comme la Grote Kerk et le Kasteel van Breda, à des lieux à voir lors d'une visite. En 1590, des soldats néerlandais ont pris la ville aux forces espagnoles en se cachant dans un bateau de tourbe.
+
+Autres langues et plus sur Breda : https://podcast.kajetan.nl/travel/netherlands/breda/
+
+Sources, entre autres : Wikipédia et Wikivoyage (CC BY-SA 4.0) ainsi que les sites officiels du tourisme, du patrimoine et des musées. La conversation et les voix sont générées par IA.</itunes:summary>
+      <enclosure url="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/episodes/fr/fr-breda-1528921549-v1.mp3" length="16151049" type="audio/mpeg"/>
+      <guid isPermaLink="false">4f4d6cc3-6d55-5151-8ee3-f235e3e11482</guid>
+      <pubDate>Sat, 10 Oct 2026 10:34:25 +0000</pubDate>
+      <itunes:duration>00:16:42</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Almere : guide de voyage et histoire | Une ville surgie des eaux</title>
       <link>https://podcast.kajetan.nl/travel/netherlands/almere/</link>
