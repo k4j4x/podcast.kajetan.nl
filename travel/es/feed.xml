@@ -14,7 +14,27 @@
     <itunes:type>episodic</itunes:type>
     <itunes:category text="Society &amp; Culture"><itunes:category text="Places &amp; Travel"/></itunes:category>
     <itunes:image href="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/cover-es-3000.jpg"/>
-    <lastBuildDate>Sat, 10 Oct 2026 18:02:50 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 10 Oct 2026 18:33:31 +0000</lastBuildDate>
+    <item>
+      <title>Arnhem: guía de viaje e historia | La ciudad que movió el Rin</title>
+      <link>https://podcast.kajetan.nl/travel/netherlands/arnhem/</link>
+      <description>Arnhem combina su historia con lugares de interés para una visita, como el John Frostbrug, el Park Sonsbeek y el Modekwartier. En 1530, el duque Karel van Gelre ordenó desviar el curso del Rin hacia la ciudad, alterando su entorno.
+
+Otros idiomas y más sobre Arnhem: https://podcast.kajetan.nl/travel/netherlands/arnhem/
+
+Fuentes, entre otras: Wikipedia y Wikivoyage (CC BY-SA 4.0) y webs oficiales de turismo, patrimonio y museos. La conversación y las voces están generadas por IA.</description>
+      <itunes:summary>Arnhem combina su historia con lugares de interés para una visita, como el John Frostbrug, el Park Sonsbeek y el Modekwartier. En 1530, el duque Karel van Gelre ordenó desviar el curso del Rin hacia la ciudad, alterando su entorno.
+
+Otros idiomas y más sobre Arnhem: https://podcast.kajetan.nl/travel/netherlands/arnhem/
+
+Fuentes, entre otras: Wikipedia y Wikivoyage (CC BY-SA 4.0) y webs oficiales de turismo, patrimonio y museos. La conversación y las voces están generadas por IA.</itunes:summary>
+      <enclosure url="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/episodes/es/es-arnhem-1528862562-v1.mp3" length="26582572" type="audio/mpeg"/>
+      <guid isPermaLink="false">3f9325b6-9a01-5755-8716-a6138548c738</guid>
+      <pubDate>Sat, 10 Oct 2026 18:32:21 +0000</pubDate>
+      <itunes:duration>00:27:33</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Nijmegen: guía de viaje e historia | Una ciudad romana entre colinas</title>
       <link>https://podcast.kajetan.nl/travel/netherlands/nijmegen/</link>
