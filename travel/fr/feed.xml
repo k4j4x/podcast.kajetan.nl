@@ -14,7 +14,27 @@
     <itunes:type>episodic</itunes:type>
     <itunes:category text="Society &amp; Culture"><itunes:category text="Places &amp; Travel"/></itunes:category>
     <itunes:image href="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/cover-fr-3000.jpg"/>
-    <lastBuildDate>Sat, 10 Oct 2026 16:33:21 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 10 Oct 2026 17:02:54 +0000</lastBuildDate>
+    <item>
+      <title>Nijmegen : guide de voyage et histoire | Une cité romaine parmi les collines</title>
+      <link>https://podcast.kajetan.nl/travel/netherlands/nijmegen/</link>
+      <description>Nijmegen présente lors d'une visite des sites marqués par l'histoire comme la Waalbrug, le Valkhof Park et la Stevenskerk parmi ses lieux à voir. En 1944, un bombardement a détruit le centre-ville, mais les forces alliées ont capturé la Waalbrug intacte.
+
+Autres langues et plus sur Nijmegen : https://podcast.kajetan.nl/travel/netherlands/nijmegen/
+
+Sources, entre autres : Wikipédia et Wikivoyage (CC BY-SA 4.0) ainsi que les sites officiels du tourisme, du patrimoine et des musées. La conversation et les voix sont générées par IA.</description>
+      <itunes:summary>Nijmegen présente lors d'une visite des sites marqués par l'histoire comme la Waalbrug, le Valkhof Park et la Stevenskerk parmi ses lieux à voir. En 1944, un bombardement a détruit le centre-ville, mais les forces alliées ont capturé la Waalbrug intacte.
+
+Autres langues et plus sur Nijmegen : https://podcast.kajetan.nl/travel/netherlands/nijmegen/
+
+Sources, entre autres : Wikipédia et Wikivoyage (CC BY-SA 4.0) ainsi que les sites officiels du tourisme, du patrimoine et des musées. La conversation et les voix sont générées par IA.</itunes:summary>
+      <enclosure url="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/episodes/fr/fr-nijmegen-1528136727-v1.mp3" length="10436304" type="audio/mpeg"/>
+      <guid isPermaLink="false">f4eb9efe-2831-59a8-8a92-b37fbd9093a2</guid>
+      <pubDate>Sat, 10 Oct 2026 17:02:53 +0000</pubDate>
+      <itunes:duration>00:10:44</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Breda : guide de voyage et histoire | Héritage royal et culture urbaine</title>
       <link>https://podcast.kajetan.nl/travel/netherlands/breda/</link>
