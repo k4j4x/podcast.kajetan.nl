@@ -14,7 +14,27 @@
     <itunes:type>episodic</itunes:type>
     <itunes:category text="Society &amp; Culture"><itunes:category text="Places &amp; Travel"/></itunes:category>
     <itunes:image href="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/cover-es-3000.jpg"/>
-    <lastBuildDate>Sat, 10 Oct 2026 10:36:15 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 10 Oct 2026 16:03:27 +0000</lastBuildDate>
+    <item>
+      <title>Breda: guía de viaje e historia | Historias de fugas de película</title>
+      <link>https://podcast.kajetan.nl/travel/netherlands/breda/</link>
+      <description>Breda combina su historia con puntos clave sobre qué ver durante una visita, incluyendo la Grote Kerk, el Kasteel van Breda y el Begijnhof. En 2010, la prisionera Hulda Kiel se fugó de la cárcel Koepelgevangenis durante el carnaval.
+
+Otros idiomas y más sobre Breda: https://podcast.kajetan.nl/travel/netherlands/breda/
+
+Fuentes, entre otras: Wikipedia y Wikivoyage (CC BY-SA 4.0) y webs oficiales de turismo, patrimonio y museos. La conversación y las voces están generadas por IA.</description>
+      <itunes:summary>Breda combina su historia con puntos clave sobre qué ver durante una visita, incluyendo la Grote Kerk, el Kasteel van Breda y el Begijnhof. En 2010, la prisionera Hulda Kiel se fugó de la cárcel Koepelgevangenis durante el carnaval.
+
+Otros idiomas y más sobre Breda: https://podcast.kajetan.nl/travel/netherlands/breda/
+
+Fuentes, entre otras: Wikipedia y Wikivoyage (CC BY-SA 4.0) y webs oficiales de turismo, patrimonio y museos. La conversación y las voces están generadas por IA.</itunes:summary>
+      <enclosure url="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/episodes/es/es-breda-1528921549-v1.mp3" length="18676880" type="audio/mpeg"/>
+      <guid isPermaLink="false">083d5721-bd86-598b-a4c7-e0aaee85bb20</guid>
+      <pubDate>Sat, 10 Oct 2026 16:01:48 +0000</pubDate>
+      <itunes:duration>00:19:19</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Almere: guía de viaje e historia | Veintisiete naufragios bajo la ciudad</title>
       <link>https://podcast.kajetan.nl/travel/netherlands/almere/</link>
