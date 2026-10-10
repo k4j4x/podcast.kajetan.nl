@@ -14,7 +14,27 @@
     <itunes:type>episodic</itunes:type>
     <itunes:category text="Society &amp; Culture"><itunes:category text="Places &amp; Travel"/></itunes:category>
     <itunes:image href="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/cover-nl-3000.jpg"/>
-    <lastBuildDate>Sat, 10 Oct 2026 17:32:53 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 10 Oct 2026 18:02:50 +0000</lastBuildDate>
+    <item>
+      <title>Arnhem reisgids &amp; geschiedenis | Van slagveld naar modehoofdstad</title>
+      <link>https://podcast.kajetan.nl/travel/netherlands/arnhem/</link>
+      <description>Arnhem verbindt zijn geschiedenis met bezienswaardigheden voor een bezoek, zoals de John Frostbrug, Park Sonsbeek en het Modekwartier. In september 1944 vochten Britse troepen tijdens Operatie Market Garden om de Rijnbrug, wat leidde tot zware verwoestingen in de stad.
+
+Andere talen en meer over Arnhem: https://podcast.kajetan.nl/travel/netherlands/arnhem/
+
+Bronnen o.a. Wikipedia en Wikivoyage (CC BY-SA 4.0) en officiële websites over toerisme, erfgoed en musea. Het gesprek en de stemmen zijn door AI gegenereerd.</description>
+      <itunes:summary>Arnhem verbindt zijn geschiedenis met bezienswaardigheden voor een bezoek, zoals de John Frostbrug, Park Sonsbeek en het Modekwartier. In september 1944 vochten Britse troepen tijdens Operatie Market Garden om de Rijnbrug, wat leidde tot zware verwoestingen in de stad.
+
+Andere talen en meer over Arnhem: https://podcast.kajetan.nl/travel/netherlands/arnhem/
+
+Bronnen o.a. Wikipedia en Wikivoyage (CC BY-SA 4.0) en officiële websites over toerisme, erfgoed en musea. Het gesprek en de stemmen zijn door AI gegenereerd.</itunes:summary>
+      <enclosure url="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/episodes/nl/nl-arnhem-1528862562-v1.mp3" length="12868198" type="audio/mpeg"/>
+      <guid isPermaLink="false">1e9b04d8-7157-5973-9753-62813244bb24</guid>
+      <pubDate>Sat, 10 Oct 2026 18:02:49 +0000</pubDate>
+      <itunes:duration>00:13:17</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Nijmegen reisgids &amp; geschiedenis | Hoe landijs het landschap vormde</title>
       <link>https://podcast.kajetan.nl/travel/netherlands/nijmegen/</link>
