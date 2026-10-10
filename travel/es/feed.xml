@@ -14,7 +14,27 @@
     <itunes:type>episodic</itunes:type>
     <itunes:category text="Society &amp; Culture"><itunes:category text="Places &amp; Travel"/></itunes:category>
     <itunes:image href="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/cover-es-3000.jpg"/>
-    <lastBuildDate>Sat, 10 Oct 2026 19:03:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 10 Oct 2026 19:32:46 +0000</lastBuildDate>
+    <item>
+      <title>Haarlem: guía de viaje e historia | Cerveza, lino y combates subterráneos</title>
+      <link>https://podcast.kajetan.nl/travel/netherlands/haarlem/</link>
+      <description>Haarlem combina su historia con los principales lugares que ver alrededor del Grote Markt, desde la St. Bavokerk hasta el Teylers Museum junto al Spaarne. En 1573, la ciudad se rindió tras siete meses de asedio español, donde los combates en túneles marcaron su resistencia.
+
+Otros idiomas y más sobre Haarlem: https://podcast.kajetan.nl/travel/netherlands/haarlem/
+
+Fuentes, entre otras: Wikipedia y Wikivoyage (CC BY-SA 4.0) y webs oficiales de turismo, patrimonio y museos. La conversación y las voces están generadas por IA.</description>
+      <itunes:summary>Haarlem combina su historia con los principales lugares que ver alrededor del Grote Markt, desde la St. Bavokerk hasta el Teylers Museum junto al Spaarne. En 1573, la ciudad se rindió tras siete meses de asedio español, donde los combates en túneles marcaron su resistencia.
+
+Otros idiomas y más sobre Haarlem: https://podcast.kajetan.nl/travel/netherlands/haarlem/
+
+Fuentes, entre otras: Wikipedia y Wikivoyage (CC BY-SA 4.0) y webs oficiales de turismo, patrimonio y museos. La conversación y las voces están generadas por IA.</itunes:summary>
+      <enclosure url="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/episodes/es/es-haarlem-1528822178-v1.mp3" length="17777868" type="audio/mpeg"/>
+      <guid isPermaLink="false">0b983cab-b715-50d0-b579-563e74b3119d</guid>
+      <pubDate>Sat, 10 Oct 2026 19:31:45 +0000</pubDate>
+      <itunes:duration>00:18:23</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Arnhem: guía de viaje e historia | La ciudad que movió el Rin</title>
       <link>https://podcast.kajetan.nl/travel/netherlands/arnhem/</link>

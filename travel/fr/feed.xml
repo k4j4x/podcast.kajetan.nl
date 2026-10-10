@@ -14,7 +14,27 @@
     <itunes:type>episodic</itunes:type>
     <itunes:category text="Society &amp; Culture"><itunes:category text="Places &amp; Travel"/></itunes:category>
     <itunes:image href="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/cover-fr-3000.jpg"/>
-    <lastBuildDate>Sat, 10 Oct 2026 19:03:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 10 Oct 2026 19:32:46 +0000</lastBuildDate>
+    <item>
+      <title>Haarlem : guide de voyage et histoire | Du siège espagnol à l'Âge d'or</title>
+      <link>https://podcast.kajetan.nl/travel/netherlands/haarlem/</link>
+      <description>Haarlem associe son histoire aux principaux lieux à voir autour du Grote Markt, de la St. Bavokerk au Teylers Museum le long du Spaarne. En 1573, la ville s'est rendue après sept mois de siège espagnol, ce qui a marqué son avenir.
+
+Autres langues et plus sur Haarlem : https://podcast.kajetan.nl/travel/netherlands/haarlem/
+
+Sources, entre autres : Wikipédia et Wikivoyage (CC BY-SA 4.0) ainsi que les sites officiels du tourisme, du patrimoine et des musées. La conversation et les voix sont générées par IA.</description>
+      <itunes:summary>Haarlem associe son histoire aux principaux lieux à voir autour du Grote Markt, de la St. Bavokerk au Teylers Museum le long du Spaarne. En 1573, la ville s'est rendue après sept mois de siège espagnol, ce qui a marqué son avenir.
+
+Autres langues et plus sur Haarlem : https://podcast.kajetan.nl/travel/netherlands/haarlem/
+
+Sources, entre autres : Wikipédia et Wikivoyage (CC BY-SA 4.0) ainsi que les sites officiels du tourisme, du patrimoine et des musées. La conversation et les voix sont générées par IA.</itunes:summary>
+      <enclosure url="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/episodes/fr/fr-haarlem-1528822178-v1.mp3" length="14394783" type="audio/mpeg"/>
+      <guid isPermaLink="false">e3b278a3-56e7-5902-93af-59877e940b99</guid>
+      <pubDate>Sat, 10 Oct 2026 19:32:45 +0000</pubDate>
+      <itunes:duration>00:14:52</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Arnhem : guide de voyage et histoire | La ville qui détourna le Rhin</title>
       <link>https://podcast.kajetan.nl/travel/netherlands/arnhem/</link>
