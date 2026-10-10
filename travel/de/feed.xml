@@ -14,10 +14,11 @@
     <itunes:type>episodic</itunes:type>
     <itunes:category text="Society &amp; Culture"><itunes:category text="Places &amp; Travel"/></itunes:category>
     <itunes:image href="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/cover-de-3000.jpg"/>
-    <lastBuildDate>Fri, 09 Oct 2026 18:03:26 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 10 Oct 2026 07:44:49 +0000</lastBuildDate>
     <item>
       <title>Groningen Reiseführer &amp; Geschichte | Sturer Stolz und radikale Moderne</title>
       <link>https://podcast.kajetan.nl/travel/netherlands/groningen/</link>
+      <podcast:transcript url="https://podcast.kajetan.nl/travel/netherlands/groningen/transcript-de.txt" type="text/plain" language="de"/>
       <description>Groningen verbindet bei einem Besuch lange Geschichte und viele Sehenswürdigkeiten wie die Martinitoren am Grote Markt, den Prinsentuin und das Forum. Im Jahr 1994 eröffnete das postmoderne Groninger Museum im Verbindingskanaal als Ort für zeitgenössische Kunst.
 
 Andere Sprachen und mehr über Groningen: https://podcast.kajetan.nl/travel/netherlands/groningen/
@@ -38,6 +39,7 @@ Quellen u. a. Wikipedia und Wikivoyage (CC BY-SA 4.0) sowie offizielle Websites 
     <item>
       <title>Eindhoven Reiseführer &amp; Geschichte | Wie aus leeren Hallen Zukunft wurde</title>
       <link>https://podcast.kajetan.nl/travel/netherlands/eindhoven/</link>
+      <podcast:transcript url="https://podcast.kajetan.nl/travel/netherlands/eindhoven/transcript-de.txt" type="text/plain" language="de"/>
       <description>Eindhoven verbindet bei einem Besuch eine bewegte Geschichte mit moderner Kultur an Orten wie dem Areal Strijp-S, dem Philips Museum und dem Van Abbemuseum. Im Jahr 1891 begann Gerard Philips in einer Fabrik an der Emmasingel mit der Herstellung von Glühlampen und prägte die Entwicklung der Stadt.
 
 Andere Sprachen und mehr über Eindhoven: https://podcast.kajetan.nl/travel/netherlands/eindhoven/

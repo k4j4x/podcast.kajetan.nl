@@ -14,10 +14,11 @@
     <itunes:type>episodic</itunes:type>
     <itunes:category text="Society &amp; Culture"><itunes:category text="Places &amp; Travel"/></itunes:category>
     <itunes:image href="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/cover-es-3000.jpg"/>
-    <lastBuildDate>Fri, 09 Oct 2026 18:03:27 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 10 Oct 2026 07:44:50 +0000</lastBuildDate>
     <item>
       <title>Eindhoven: guía de viaje e historia | De la bombilla al microchip</title>
       <link>https://podcast.kajetan.nl/travel/netherlands/eindhoven/</link>
+      <podcast:transcript url="https://podcast.kajetan.nl/travel/netherlands/eindhoven/transcript-es.txt" type="text/plain" language="es"/>
       <description>Eindhoven combina en una visita su historia industrial con lugares como el distrito Strijp-S, el Philips Museum y el Van Abbemuseum. En 1891, Gerard Philips comenzó a fabricar bombillas en una fábrica en Emmasingel, iniciando la transformación tecnológica de la ciudad.
 
 Otros idiomas y más sobre Eindhoven: https://podcast.kajetan.nl/travel/netherlands/eindhoven/
@@ -38,6 +39,7 @@ Fuentes, entre otras: Wikipedia y Wikivoyage (CC BY-SA 4.0) y webs oficiales de 
     <item>
       <title>Utrecht: guía de viaje e historia | La catedral partida por la tormenta</title>
       <link>https://podcast.kajetan.nl/travel/netherlands/utrecht/</link>
+      <podcast:transcript url="https://podcast.kajetan.nl/travel/netherlands/utrecht/transcript-es.txt" type="text/plain" language="es"/>
       <description>Utrecht ofrece en cada visita lugares con historia y puntos de interés sobre qué ver, como la torre Domtoren y los muelles de Oudegracht. En 1674, una tormenta derrumbó la nave central de la iglesia Domkerk, separando la torre del resto del edificio.
 
 Otros idiomas y más sobre Utrecht: https://podcast.kajetan.nl/travel/netherlands/utrecht/

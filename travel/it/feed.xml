@@ -14,10 +14,11 @@
     <itunes:type>episodic</itunes:type>
     <itunes:category text="Society &amp; Culture"><itunes:category text="Places &amp; Travel"/></itunes:category>
     <itunes:image href="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/cover-it-3000.jpg"/>
-    <lastBuildDate>Fri, 09 Oct 2026 18:03:27 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 10 Oct 2026 07:44:50 +0000</lastBuildDate>
     <item>
       <title>Eindhoven: guida di viaggio e storia | Dalla fabbrica al laboratorio urbano</title>
       <link>https://podcast.kajetan.nl/travel/netherlands/eindhoven/</link>
+      <podcast:transcript url="https://podcast.kajetan.nl/travel/netherlands/eindhoven/transcript-it.txt" type="text/plain" language="it"/>
       <description>Eindhoven unisce durante una visita la sua storia industriale a luoghi come il quartiere Strijp-S, il Philips Museum e il Van Abbemuseum. Nel 1891, Gerard Philips iniziò la produzione di lampadine in una fabbrica in Emmasingel, avviando la trasformazione tecnologica della città.
 
 Altre lingue e altro su Eindhoven: https://podcast.kajetan.nl/travel/netherlands/eindhoven/
@@ -38,6 +39,7 @@ Fonti, tra le altre: Wikipedia e Wikivoyage (CC BY-SA 4.0) e siti ufficiali di t
     <item>
       <title>Utrecht: guida di viaggio e storia | La cattedrale spezzata dal tornado</title>
       <link>https://podcast.kajetan.nl/travel/netherlands/utrecht/</link>
+      <podcast:transcript url="https://podcast.kajetan.nl/travel/netherlands/utrecht/transcript-it.txt" type="text/plain" language="it"/>
       <description>Utrecht offre a ogni visita luoghi di storia e indicazioni su cosa vedere, come la torre Domtoren e i canali di Oudegracht. Nel 1674, una tempesta fece crollare la navata centrale della Domkerk, separando la torre dal resto della chiesa.
 
 Altre lingue e altro su Utrecht: https://podcast.kajetan.nl/travel/netherlands/utrecht/

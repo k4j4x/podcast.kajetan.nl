@@ -14,10 +14,11 @@
     <itunes:type>episodic</itunes:type>
     <itunes:category text="Society &amp; Culture"><itunes:category text="Places &amp; Travel"/></itunes:category>
     <itunes:image href="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/cover-fr-3000.jpg"/>
-    <lastBuildDate>Fri, 09 Oct 2026 18:03:27 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 10 Oct 2026 07:44:50 +0000</lastBuildDate>
     <item>
       <title>Groningen : guide de voyage et histoire | Cité étudiante au passé fortifié</title>
       <link>https://podcast.kajetan.nl/travel/netherlands/groningen/</link>
+      <podcast:transcript url="https://podcast.kajetan.nl/travel/netherlands/groningen/transcript-fr.txt" type="text/plain" language="fr"/>
       <description>Groningen rassemble une longue histoire et des lieux à voir pour une visite, notamment la Martinitoren sur la Grote Markt et le Prinsentuin. En 1614, la Rijksuniversiteit Groningen a été fondée sur Broerplein, ancrant la tradition étudiante locale.
 
 Autres langues et plus sur Groningen : https://podcast.kajetan.nl/travel/netherlands/groningen/
@@ -38,6 +39,7 @@ Sources, entre autres : Wikipédia et Wikivoyage (CC BY-SA 4.0) ainsi que les si
     <item>
       <title>Eindhoven : guide de voyage et histoire | Des usines Philips au temple du design</title>
       <link>https://podcast.kajetan.nl/travel/netherlands/eindhoven/</link>
+      <podcast:transcript url="https://podcast.kajetan.nl/travel/netherlands/eindhoven/transcript-fr.txt" type="text/plain" language="fr"/>
       <description>Eindhoven associe lors d'une visite son histoire industrielle à des lieux comme le quartier Strijp-S, le Philips Museum et le Van Abbemuseum. En 1891, Gerard Philips y a démarré la production d'ampoules à la Emmasingel, amorçant la mutation technologique de la ville.
 
 Autres langues et plus sur Eindhoven : https://podcast.kajetan.nl/travel/netherlands/eindhoven/
@@ -58,6 +60,7 @@ Sources, entre autres : Wikipédia et Wikivoyage (CC BY-SA 4.0) ainsi que les si
     <item>
       <title>Utrecht : guide de voyage et histoire | La cathédrale brisée par la tempête</title>
       <link>https://podcast.kajetan.nl/travel/netherlands/utrecht/</link>
+      <podcast:transcript url="https://podcast.kajetan.nl/travel/netherlands/utrecht/transcript-fr.txt" type="text/plain" language="fr"/>
       <description>Utrecht offre lors de votre visite des monuments de son histoire et des lieux à voir comme la Domtoren et l'Oudegracht. En 1674, une tempête a détruit la nef centrale de la Domkerk, séparant la tour du reste de l'édifice.
 
 Autres langues et plus sur Utrecht : https://podcast.kajetan.nl/travel/netherlands/utrecht/

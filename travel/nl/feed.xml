@@ -14,7 +14,7 @@
     <itunes:type>episodic</itunes:type>
     <itunes:category text="Society &amp; Culture"><itunes:category text="Places &amp; Travel"/></itunes:category>
     <itunes:image href="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/cover-nl-3000.jpg"/>
-    <lastBuildDate>Fri, 09 Oct 2026 18:03:26 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 10 Oct 2026 07:44:49 +0000</lastBuildDate>
     <item>
       <title>Groningen reisgids &amp; geschiedenis | Een rebelse geest in het noorden</title>
       <link>https://podcast.kajetan.nl/travel/netherlands/groningen/</link>
@@ -38,6 +38,7 @@ Bronnen o.a. Wikipedia en Wikivoyage (CC BY-SA 4.0) en officiële websites over 
     <item>
       <title>Eindhoven reisgids &amp; geschiedenis | Van Philips-crisis tot tech-hart</title>
       <link>https://podcast.kajetan.nl/travel/netherlands/eindhoven/</link>
+      <podcast:transcript url="https://podcast.kajetan.nl/travel/netherlands/eindhoven/transcript-nl.txt" type="text/plain" language="nl"/>
       <description>Eindhoven toont bij een bezoek zijn industriële geschiedenis op locaties zoals Strijp-S, het Philips Museum en het Van Abbemuseum. In 1891 begon Gerard Philips met de productie van gloeilampen aan de Emmasingel, wat het begin vormde van de technologische ontwikkeling.
 
 Andere talen en meer over Eindhoven: https://podcast.kajetan.nl/travel/netherlands/eindhoven/
