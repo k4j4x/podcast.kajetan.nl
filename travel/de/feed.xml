@@ -14,7 +14,27 @@
     <itunes:type>episodic</itunes:type>
     <itunes:category text="Society &amp; Culture"><itunes:category text="Places &amp; Travel"/></itunes:category>
     <itunes:image href="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/cover-de-3000.jpg"/>
-    <lastBuildDate>Sat, 10 Oct 2026 18:33:30 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 10 Oct 2026 19:02:59 +0000</lastBuildDate>
+    <item>
+      <title>Haarlem Reiseführer &amp; Geschichte | Reichtum auf einer Sanddüne</title>
+      <link>https://podcast.kajetan.nl/travel/netherlands/haarlem/</link>
+      <description>Haarlem verbindet seine Geschichte mit bekannten Sehenswürdigkeiten am Grote Markt, von der St. Bavokerk bis zum Teylers Museum am Spaarne. Im Jahr 1245 verlieh Graf Willem II der Stadt ihre Stadsrechten und legte den Grundstein für ihren wirtschaftlichen Aufstieg.
+
+Andere Sprachen und mehr über Haarlem: https://podcast.kajetan.nl/travel/netherlands/haarlem/
+
+Quellen u. a. Wikipedia und Wikivoyage (CC BY-SA 4.0) sowie offizielle Websites für Tourismus, Denkmalpflege und Museen. Gespräch und Stimmen sind KI-generiert.</description>
+      <itunes:summary>Haarlem verbindet seine Geschichte mit bekannten Sehenswürdigkeiten am Grote Markt, von der St. Bavokerk bis zum Teylers Museum am Spaarne. Im Jahr 1245 verlieh Graf Willem II der Stadt ihre Stadsrechten und legte den Grundstein für ihren wirtschaftlichen Aufstieg.
+
+Andere Sprachen und mehr über Haarlem: https://podcast.kajetan.nl/travel/netherlands/haarlem/
+
+Quellen u. a. Wikipedia und Wikivoyage (CC BY-SA 4.0) sowie offizielle Websites für Tourismus, Denkmalpflege und Museen. Gespräch und Stimmen sind KI-generiert.</itunes:summary>
+      <enclosure url="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/episodes/de/de-haarlem-1528822178-v1.mp3" length="16290178" type="audio/mpeg"/>
+      <guid isPermaLink="false">a1faef9d-de6d-57fc-b4f3-12ae8cb27b59</guid>
+      <pubDate>Sat, 10 Oct 2026 19:01:42 +0000</pubDate>
+      <itunes:duration>00:16:51</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Arnhem Reiseführer &amp; Geschichte | Vom Schlachtfeld zur Modehauptstadt</title>
       <link>https://podcast.kajetan.nl/travel/netherlands/arnhem/</link>
