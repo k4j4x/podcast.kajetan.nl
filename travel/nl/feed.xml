@@ -14,7 +14,27 @@
     <itunes:type>episodic</itunes:type>
     <itunes:category text="Society &amp; Culture"><itunes:category text="Places &amp; Travel"/></itunes:category>
     <itunes:image href="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/cover-nl-3000.jpg"/>
-    <lastBuildDate>Sat, 10 Oct 2026 08:34:45 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 10 Oct 2026 09:04:12 +0000</lastBuildDate>
+    <item>
+      <title>Almere reisgids &amp; geschiedenis | Scheepswrakken onder een nieuwe stad</title>
+      <link>https://podcast.kajetan.nl/travel/netherlands/almere/</link>
+      <description>Almere brengt zijn geschiedenis tot leven met locaties zoals theater Kunstlinie, de Citadel en natuurgebied Oostvaardersplassen, die belangrijke bezienswaardigheden vormen voor een bezoek. In 1976 werden de eerste woningen in het stadsdeel Almere Haven op het drooggelegde land aan de nieuwe inwoners overgedragen.
+
+Andere talen en meer over Almere: https://podcast.kajetan.nl/travel/netherlands/almere/
+
+Bronnen o.a. Wikipedia en Wikivoyage (CC BY-SA 4.0) en officiële websites over toerisme, erfgoed en musea. Het gesprek en de stemmen zijn door AI gegenereerd.</description>
+      <itunes:summary>Almere brengt zijn geschiedenis tot leven met locaties zoals theater Kunstlinie, de Citadel en natuurgebied Oostvaardersplassen, die belangrijke bezienswaardigheden vormen voor een bezoek. In 1976 werden de eerste woningen in het stadsdeel Almere Haven op het drooggelegde land aan de nieuwe inwoners overgedragen.
+
+Andere talen en meer over Almere: https://podcast.kajetan.nl/travel/netherlands/almere/
+
+Bronnen o.a. Wikipedia en Wikivoyage (CC BY-SA 4.0) en officiële websites over toerisme, erfgoed en musea. Het gesprek en de stemmen zijn door AI gegenereerd.</itunes:summary>
+      <enclosure url="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/episodes/nl/nl-almere-1528683566-v1.mp3" length="22777179" type="audio/mpeg"/>
+      <guid isPermaLink="false">7dc222eb-e3f6-5b29-8f82-e7d4628cbf32</guid>
+      <pubDate>Sat, 10 Oct 2026 09:04:11 +0000</pubDate>
+      <itunes:duration>00:23:36</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Groningen reisgids &amp; geschiedenis | Een rebelse geest in het noorden</title>
       <link>https://podcast.kajetan.nl/travel/netherlands/groningen/</link>

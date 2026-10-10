@@ -14,7 +14,27 @@
     <itunes:type>episodic</itunes:type>
     <itunes:category text="Society &amp; Culture"><itunes:category text="Places &amp; Travel"/></itunes:category>
     <itunes:image href="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/cover-de-3000.jpg"/>
-    <lastBuildDate>Sat, 10 Oct 2026 08:34:45 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 10 Oct 2026 09:04:11 +0000</lastBuildDate>
+    <item>
+      <title>Almere Reiseführer &amp; Geschichte | Eine Stadt unter dem Meeresspiegel</title>
+      <link>https://podcast.kajetan.nl/travel/netherlands/almere/</link>
+      <description>Almere in den Niederlanden zeigt seine Geschichte an Orten wie dem Theater Kunstlinie, der Citadel und dem Naturschutzgebiet Oostvaardersplassen als Sehenswürdigkeiten für einen Besuch. Im Jahr 1976 wurden im Ortsteil Almere Haven die ersten Wohnhäuser auf dem gewonnenen Land übergeben.
+
+Andere Sprachen und mehr über Almere: https://podcast.kajetan.nl/travel/netherlands/almere/
+
+Quellen u. a. Wikipedia und Wikivoyage (CC BY-SA 4.0) sowie offizielle Websites für Tourismus, Denkmalpflege und Museen. Gespräch und Stimmen sind KI-generiert.</description>
+      <itunes:summary>Almere in den Niederlanden zeigt seine Geschichte an Orten wie dem Theater Kunstlinie, der Citadel und dem Naturschutzgebiet Oostvaardersplassen als Sehenswürdigkeiten für einen Besuch. Im Jahr 1976 wurden im Ortsteil Almere Haven die ersten Wohnhäuser auf dem gewonnenen Land übergeben.
+
+Andere Sprachen und mehr über Almere: https://podcast.kajetan.nl/travel/netherlands/almere/
+
+Quellen u. a. Wikipedia und Wikivoyage (CC BY-SA 4.0) sowie offizielle Websites für Tourismus, Denkmalpflege und Museen. Gespräch und Stimmen sind KI-generiert.</itunes:summary>
+      <enclosure url="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/episodes/de/de-almere-1528683566-v1.mp3" length="26107215" type="audio/mpeg"/>
+      <guid isPermaLink="false">bfa63c66-65cc-5817-9af1-77930c4ccd60</guid>
+      <pubDate>Sat, 10 Oct 2026 09:02:21 +0000</pubDate>
+      <itunes:duration>00:27:04</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Groningen Reiseführer &amp; Geschichte | Sturer Stolz und radikale Moderne</title>
       <link>https://podcast.kajetan.nl/travel/netherlands/groningen/</link>
