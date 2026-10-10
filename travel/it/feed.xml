@@ -14,7 +14,27 @@
     <itunes:type>episodic</itunes:type>
     <itunes:category text="Society &amp; Culture"><itunes:category text="Places &amp; Travel"/></itunes:category>
     <itunes:image href="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/cover-it-3000.jpg"/>
-    <lastBuildDate>Sat, 10 Oct 2026 07:44:50 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 10 Oct 2026 08:34:45 +0000</lastBuildDate>
+    <item>
+      <title>Groningen: guida di viaggio e storia | La città più giovane d'Olanda</title>
+      <link>https://podcast.kajetan.nl/travel/netherlands/groningen/</link>
+      <description>Groningen unisce secoli di storia e vari luoghi da includere in una visita, tra cui la Martinitoren sulla Grote Markt e il Prinsentuin. Nel 1614 fu fondata l'Università di Groningen in Broerplein, dando forma alla sua comunità studentesca.
+
+Altre lingue e altro su Groningen: https://podcast.kajetan.nl/travel/netherlands/groningen/
+
+Fonti, tra le altre: Wikipedia e Wikivoyage (CC BY-SA 4.0) e siti ufficiali di turismo, patrimonio e musei. La conversazione e le voci sono generate dall'IA.</description>
+      <itunes:summary>Groningen unisce secoli di storia e vari luoghi da includere in una visita, tra cui la Martinitoren sulla Grote Markt e il Prinsentuin. Nel 1614 fu fondata l'Università di Groningen in Broerplein, dando forma alla sua comunità studentesca.
+
+Altre lingue e altro su Groningen: https://podcast.kajetan.nl/travel/netherlands/groningen/
+
+Fonti, tra le altre: Wikipedia e Wikivoyage (CC BY-SA 4.0) e siti ufficiali di turismo, patrimonio e musei. La conversazione e le voci sono generate dall'IA.</itunes:summary>
+      <enclosure url="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/episodes/it/it-groningen-1528295161-v1.mp3" length="23615798" type="audio/mpeg"/>
+      <guid isPermaLink="false">5a1324da-a6f7-5e1c-bbc2-ceeb59522bc7</guid>
+      <pubDate>Sat, 10 Oct 2026 08:34:44 +0000</pubDate>
+      <itunes:duration>00:24:28</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Eindhoven: guida di viaggio e storia | Dalla fabbrica al laboratorio urbano</title>
       <link>https://podcast.kajetan.nl/travel/netherlands/eindhoven/</link>
