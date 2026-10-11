@@ -14,7 +14,27 @@
     <itunes:type>episodic</itunes:type>
     <itunes:category text="Society &amp; Culture"><itunes:category text="Places &amp; Travel"/></itunes:category>
     <itunes:image href="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/cover-nl-3000.jpg"/>
-    <lastBuildDate>Sun, 11 Oct 2026 19:03:24 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 11 Oct 2026 19:33:41 +0000</lastBuildDate>
+    <item>
+      <title>Zaanstad reisgids &amp; geschiedenis | Het Silicon Valley van de 17e eeuw</title>
+      <link>https://podcast.kajetan.nl/travel/netherlands/zaanstad/</link>
+      <description>Zaanstad combineert bij een bezoek de industriële geschiedenis van de streek met bezienswaardigheden zoals de molens aan de Zaanse Schans en het Czaar Peterhuisje. In 1697 verbleef tsaar Peter de Grote in Zaandam om de Hollandse scheepsbouw te leren.
+
+Andere talen en meer over Zaanstad: https://podcast.kajetan.nl/travel/netherlands/zaanstad/
+
+Bronnen o.a. Wikipedia en Wikivoyage (CC BY-SA 4.0) en officiële websites over toerisme, erfgoed en musea. Het gesprek en de stemmen zijn door AI gegenereerd.</description>
+      <itunes:summary>Zaanstad combineert bij een bezoek de industriële geschiedenis van de streek met bezienswaardigheden zoals de molens aan de Zaanse Schans en het Czaar Peterhuisje. In 1697 verbleef tsaar Peter de Grote in Zaandam om de Hollandse scheepsbouw te leren.
+
+Andere talen en meer over Zaanstad: https://podcast.kajetan.nl/travel/netherlands/zaanstad/
+
+Bronnen o.a. Wikipedia en Wikivoyage (CC BY-SA 4.0) en officiële websites over toerisme, erfgoed en musea. Het gesprek en de stemmen zijn door AI gegenereerd.</itunes:summary>
+      <enclosure url="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/episodes/nl/nl-zaanstad-1528395473-v1.mp3" length="26442681" type="audio/mpeg"/>
+      <guid isPermaLink="false">c8cf49fe-b531-5491-9475-e9ff11efa9a6</guid>
+      <pubDate>Sun, 11 Oct 2026 19:33:41 +0000</pubDate>
+      <itunes:duration>00:27:25</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Amersfoort reisgids &amp; geschiedenis | Hoe een zwerfkei leidde tot bier</title>
       <link>https://podcast.kajetan.nl/travel/netherlands/amersfoort/</link>
