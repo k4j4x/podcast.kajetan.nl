@@ -14,7 +14,27 @@
     <itunes:type>episodic</itunes:type>
     <itunes:category text="Society &amp; Culture"><itunes:category text="Places &amp; Travel"/></itunes:category>
     <itunes:image href="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/cover-es-3000.jpg"/>
-    <lastBuildDate>Sun, 11 Oct 2026 05:35:51 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 11 Oct 2026 17:32:38 +0000</lastBuildDate>
+    <item>
+      <title>Enschede: guía de viaje e historia | La ciudad que resurgió del fuego</title>
+      <link>https://podcast.kajetan.nl/travel/netherlands/enschede/</link>
+      <description>Enschede ofrece en una visita lugares qué ver como la Grote Kerk en la Oude Markt y muestra la historia del barrio de Roombeek. En el año 2000, la explosión de un almacén de fuegos artificiales destruyó el barrio de Roombeek, que fue totalmente reconstruido.
+
+Otros idiomas y más sobre Enschede: https://podcast.kajetan.nl/travel/netherlands/enschede/
+
+Fuentes, entre otras: Wikipedia y Wikivoyage (CC BY-SA 4.0) y webs oficiales de turismo, patrimonio y museos. La conversación y las voces están generadas por IA.</description>
+      <itunes:summary>Enschede ofrece en una visita lugares qué ver como la Grote Kerk en la Oude Markt y muestra la historia del barrio de Roombeek. En el año 2000, la explosión de un almacén de fuegos artificiales destruyó el barrio de Roombeek, que fue totalmente reconstruido.
+
+Otros idiomas y más sobre Enschede: https://podcast.kajetan.nl/travel/netherlands/enschede/
+
+Fuentes, entre otras: Wikipedia y Wikivoyage (CC BY-SA 4.0) y webs oficiales de turismo, patrimonio y museos. La conversación y las voces están generadas por IA.</itunes:summary>
+      <enclosure url="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/episodes/es/es-enschede-1528181808-v1.mp3" length="17598973" type="audio/mpeg"/>
+      <guid isPermaLink="false">bd734185-bde7-5445-a88c-8304e02d10b8</guid>
+      <pubDate>Sun, 11 Oct 2026 17:31:43 +0000</pubDate>
+      <itunes:duration>00:18:12</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Haarlem: guía de viaje e historia | Cerveza, lino y combates subterráneos</title>
       <link>https://podcast.kajetan.nl/travel/netherlands/haarlem/</link>
