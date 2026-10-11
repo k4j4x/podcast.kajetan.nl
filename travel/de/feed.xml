@@ -14,7 +14,27 @@
     <itunes:type>episodic</itunes:type>
     <itunes:category text="Society &amp; Culture"><itunes:category text="Places &amp; Travel"/></itunes:category>
     <itunes:image href="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/cover-de-3000.jpg"/>
-    <lastBuildDate>Sun, 11 Oct 2026 18:33:34 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 11 Oct 2026 19:03:24 +0000</lastBuildDate>
+    <item>
+      <title>Zaanstad Reiseführer &amp; Geschichte | Das erste grüne Industriegebiet</title>
+      <link>https://podcast.kajetan.nl/travel/netherlands/zaanstad/</link>
+      <description>Zaanstad verbindet bei einem Besuch die Geschichte der Region mit bekannten Sehenswürdigkeiten wie den Windmühlen an der Zaanse Schans und dem Csaar Peterhuisje. Im Jahr 1697 wohnte Zar Peter der Große in Zaandam, um den holländischen Schiffbau zu erlernen.
+
+Andere Sprachen und mehr über Zaanstad: https://podcast.kajetan.nl/travel/netherlands/zaanstad/
+
+Quellen u. a. Wikipedia und Wikivoyage (CC BY-SA 4.0) sowie offizielle Websites für Tourismus, Denkmalpflege und Museen. Gespräch und Stimmen sind KI-generiert.</description>
+      <itunes:summary>Zaanstad verbindet bei einem Besuch die Geschichte der Region mit bekannten Sehenswürdigkeiten wie den Windmühlen an der Zaanse Schans und dem Csaar Peterhuisje. Im Jahr 1697 wohnte Zar Peter der Große in Zaandam, um den holländischen Schiffbau zu erlernen.
+
+Andere Sprachen und mehr über Zaanstad: https://podcast.kajetan.nl/travel/netherlands/zaanstad/
+
+Quellen u. a. Wikipedia und Wikivoyage (CC BY-SA 4.0) sowie offizielle Websites für Tourismus, Denkmalpflege und Museen. Gespräch und Stimmen sind KI-generiert.</itunes:summary>
+      <enclosure url="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/episodes/de/de-zaanstad-1528395473-v1.mp3" length="21972343" type="audio/mpeg"/>
+      <guid isPermaLink="false">4c430e75-2702-5ae8-add5-46f84267366c</guid>
+      <pubDate>Sun, 11 Oct 2026 19:03:23 +0000</pubDate>
+      <itunes:duration>00:22:46</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Amersfoort Reiseführer &amp; Geschichte | Wie ein Felsen im Boden verschwand</title>
       <link>https://podcast.kajetan.nl/travel/netherlands/amersfoort/</link>
