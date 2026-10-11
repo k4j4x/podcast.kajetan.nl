@@ -14,7 +14,27 @@
     <itunes:type>episodic</itunes:type>
     <itunes:category text="Society &amp; Culture"><itunes:category text="Places &amp; Travel"/></itunes:category>
     <itunes:image href="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/cover-es-3000.jpg"/>
-    <lastBuildDate>Sun, 11 Oct 2026 19:33:41 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 11 Oct 2026 20:03:13 +0000</lastBuildDate>
+    <item>
+      <title>Zaanstad: guía de viaje e historia | Los molinos del primer motor industrial</title>
+      <link>https://podcast.kajetan.nl/travel/netherlands/zaanstad/</link>
+      <description>Zaanstad combina durante una visita la historia industrial de la región con atracciones como los molinos de Zaanse Schans y la Czaar Peterhuisje. En 1697, el zar Pedro el Grande se alojó en Zaandam para estudiar la construcción naval holandesa.
+
+Otros idiomas y más sobre Zaanstad: https://podcast.kajetan.nl/travel/netherlands/zaanstad/
+
+Fuentes, entre otras: Wikipedia y Wikivoyage (CC BY-SA 4.0) y webs oficiales de turismo, patrimonio y museos. La conversación y las voces están generadas por IA.</description>
+      <itunes:summary>Zaanstad combina durante una visita la historia industrial de la región con atracciones como los molinos de Zaanse Schans y la Czaar Peterhuisje. En 1697, el zar Pedro el Grande se alojó en Zaandam para estudiar la construcción naval holandesa.
+
+Otros idiomas y más sobre Zaanstad: https://podcast.kajetan.nl/travel/netherlands/zaanstad/
+
+Fuentes, entre otras: Wikipedia y Wikivoyage (CC BY-SA 4.0) y webs oficiales de turismo, patrimonio y museos. La conversación y las voces están generadas por IA.</itunes:summary>
+      <enclosure url="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/episodes/es/es-zaanstad-1528395473-v1.mp3" length="27070778" type="audio/mpeg"/>
+      <guid isPermaLink="false">13c808fd-6686-5644-8f70-b7c07b3a0d57</guid>
+      <pubDate>Sun, 11 Oct 2026 20:02:17 +0000</pubDate>
+      <itunes:duration>00:28:04</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Amersfoort: guía de viaje e historia | Una apuesta por siete toneladas</title>
       <link>https://podcast.kajetan.nl/travel/netherlands/amersfoort/</link>
