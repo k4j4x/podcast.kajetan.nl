@@ -14,7 +14,27 @@
     <itunes:type>episodic</itunes:type>
     <itunes:category text="Society &amp; Culture"><itunes:category text="Places &amp; Travel"/></itunes:category>
     <itunes:image href="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/cover-de-3000.jpg"/>
-    <lastBuildDate>Sun, 11 Oct 2026 20:03:12 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 11 Oct 2026 21:02:52 +0000</lastBuildDate>
+    <item>
+      <title>Apeldoorn Reiseführer &amp; Geschichte | Königsstadt zwischen Wald und Wasser</title>
+      <link>https://podcast.kajetan.nl/travel/netherlands/apeldoorn/</link>
+      <description>Apeldoorn in den Niederlanden bietet bei einem Besuch königliche Geschichte sowie Sehenswürdigkeiten wie Paleis Het Loo, das CODA Museum und den Oranjepark. Im Jahr 1684 kaufte Prinz Wilhelm III. das Anwesen Het Loo, um dort ein Jagdschloss zu errichten.
+
+Andere Sprachen und mehr über Apeldoorn: https://podcast.kajetan.nl/travel/netherlands/apeldoorn/
+
+Quellen u. a. Wikipedia und Wikivoyage (CC BY-SA 4.0) sowie offizielle Websites für Tourismus, Denkmalpflege und Museen. Gespräch und Stimmen sind KI-generiert.</description>
+      <itunes:summary>Apeldoorn in den Niederlanden bietet bei einem Besuch königliche Geschichte sowie Sehenswürdigkeiten wie Paleis Het Loo, das CODA Museum und den Oranjepark. Im Jahr 1684 kaufte Prinz Wilhelm III. das Anwesen Het Loo, um dort ein Jagdschloss zu errichten.
+
+Andere Sprachen und mehr über Apeldoorn: https://podcast.kajetan.nl/travel/netherlands/apeldoorn/
+
+Quellen u. a. Wikipedia und Wikivoyage (CC BY-SA 4.0) sowie offizielle Websites für Tourismus, Denkmalpflege und Museen. Gespräch und Stimmen sind KI-generiert.</itunes:summary>
+      <enclosure url="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/episodes/de/de-apeldoorn-1528057552-v1.mp3" length="16029811" type="audio/mpeg"/>
+      <guid isPermaLink="false">b801613a-52c6-5b92-84b4-6dbee1c6a71e</guid>
+      <pubDate>Sun, 11 Oct 2026 21:01:39 +0000</pubDate>
+      <itunes:duration>00:16:34</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Zaanstad Reiseführer &amp; Geschichte | Das erste grüne Industriegebiet</title>
       <link>https://podcast.kajetan.nl/travel/netherlands/zaanstad/</link>

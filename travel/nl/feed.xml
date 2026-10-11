@@ -14,7 +14,27 @@
     <itunes:type>episodic</itunes:type>
     <itunes:category text="Society &amp; Culture"><itunes:category text="Places &amp; Travel"/></itunes:category>
     <itunes:image href="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/cover-nl-3000.jpg"/>
-    <lastBuildDate>Sun, 11 Oct 2026 20:03:13 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 11 Oct 2026 21:02:52 +0000</lastBuildDate>
+    <item>
+      <title>Apeldoorn reisgids &amp; geschiedenis | Een uit de kluiten gewassen tuindorp</title>
+      <link>https://podcast.kajetan.nl/travel/netherlands/apeldoorn/</link>
+      <description>Apeldoorn combineert de lokale geschiedenis met bezienswaardigheden zoals Paleis Het Loo, het CODA Museum en de tuinen van het Oranjepark, die uitnodigen tot een bezoek. In 1684 kocht prins Willem III het landgoed Het Loo om er een jachthuis te laten bouwen.
+
+Andere talen en meer over Apeldoorn: https://podcast.kajetan.nl/travel/netherlands/apeldoorn/
+
+Bronnen o.a. Wikipedia en Wikivoyage (CC BY-SA 4.0) en officiële websites over toerisme, erfgoed en musea. Het gesprek en de stemmen zijn door AI gegenereerd.</description>
+      <itunes:summary>Apeldoorn combineert de lokale geschiedenis met bezienswaardigheden zoals Paleis Het Loo, het CODA Museum en de tuinen van het Oranjepark, die uitnodigen tot een bezoek. In 1684 kocht prins Willem III het landgoed Het Loo om er een jachthuis te laten bouwen.
+
+Andere talen en meer over Apeldoorn: https://podcast.kajetan.nl/travel/netherlands/apeldoorn/
+
+Bronnen o.a. Wikipedia en Wikivoyage (CC BY-SA 4.0) en officiële websites over toerisme, erfgoed en musea. Het gesprek en de stemmen zijn door AI gegenereerd.</itunes:summary>
+      <enclosure url="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/episodes/nl/nl-apeldoorn-1528057552-v1.mp3" length="18641476" type="audio/mpeg"/>
+      <guid isPermaLink="false">e8201d9d-fbca-5096-87c9-341f3f0fa8df</guid>
+      <pubDate>Sun, 11 Oct 2026 21:02:51 +0000</pubDate>
+      <itunes:duration>00:19:18</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Zaanstad reisgids &amp; geschiedenis | Het Silicon Valley van de 17e eeuw</title>
       <link>https://podcast.kajetan.nl/travel/netherlands/zaanstad/</link>
