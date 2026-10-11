@@ -14,10 +14,11 @@
     <itunes:type>episodic</itunes:type>
     <itunes:category text="Society &amp; Culture"><itunes:category text="Places &amp; Travel"/></itunes:category>
     <itunes:image href="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/cover-fr-3000.jpg"/>
-    <lastBuildDate>Sat, 10 Oct 2026 20:33:18 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 11 Oct 2026 05:06:18 +0000</lastBuildDate>
     <item>
       <title>Enschede : guide de voyage et histoire | Une ville née des cendres</title>
       <link>https://podcast.kajetan.nl/travel/netherlands/enschede/</link>
+      <podcast:transcript url="https://podcast.kajetan.nl/travel/netherlands/enschede/transcript-fr.txt" type="text/plain" language="fr"/>
       <description>Enschede propose lors d'une visite des sites à voir comme la Grote Kerk sur la Oude Markt et raconte l'histoire du quartier de Roombeek. En 2000, l'explosion d'un dépôt de feux d'artifice a détruit le quartier de Roombeek, entièrement reconstruit depuis.
 
 Autres langues et plus sur Enschede : https://podcast.kajetan.nl/travel/netherlands/enschede/
@@ -38,6 +39,7 @@ Sources, entre autres : Wikipédia et Wikivoyage (CC BY-SA 4.0) ainsi que les si
     <item>
       <title>Haarlem : guide de voyage et histoire | Du siège espagnol à l'Âge d'or</title>
       <link>https://podcast.kajetan.nl/travel/netherlands/haarlem/</link>
+      <podcast:transcript url="https://podcast.kajetan.nl/travel/netherlands/haarlem/transcript-fr.txt" type="text/plain" language="fr"/>
       <description>Haarlem associe son histoire aux principaux lieux à voir autour du Grote Markt, de la St. Bavokerk au Teylers Museum le long du Spaarne. En 1573, la ville s'est rendue après sept mois de siège espagnol, ce qui a marqué son avenir.
 
 Autres langues et plus sur Haarlem : https://podcast.kajetan.nl/travel/netherlands/haarlem/
@@ -58,6 +60,7 @@ Sources, entre autres : Wikipédia et Wikivoyage (CC BY-SA 4.0) ainsi que les si
     <item>
       <title>Arnhem : guide de voyage et histoire | La ville qui détourna le Rhin</title>
       <link>https://podcast.kajetan.nl/travel/netherlands/arnhem/</link>
+      <podcast:transcript url="https://podcast.kajetan.nl/travel/netherlands/arnhem/transcript-fr.txt" type="text/plain" language="fr"/>
       <description>Arnhem associe son histoire à des monuments pour une visite, comme le John Frostbrug, le Park Sonsbeek et le Modekwartier. En 1530, le duc Karel van Gelre ordonna de détourner le cours du Rhin vers la ville, modifiant durablement son paysage.
 
 Autres langues et plus sur Arnhem : https://podcast.kajetan.nl/travel/netherlands/arnhem/
@@ -78,6 +81,7 @@ Sources, entre autres : Wikipédia et Wikivoyage (CC BY-SA 4.0) ainsi que les si
     <item>
       <title>Nijmegen : guide de voyage et histoire | Une cité romaine parmi les collines</title>
       <link>https://podcast.kajetan.nl/travel/netherlands/nijmegen/</link>
+      <podcast:transcript url="https://podcast.kajetan.nl/travel/netherlands/nijmegen/transcript-fr.txt" type="text/plain" language="fr"/>
       <description>Nijmegen présente lors d'une visite des sites marqués par l'histoire comme la Waalbrug, le Valkhof Park et la Stevenskerk parmi ses lieux à voir. En 1944, un bombardement a détruit le centre-ville, mais les forces alliées ont capturé la Waalbrug intacte.
 
 Autres langues et plus sur Nijmegen : https://podcast.kajetan.nl/travel/netherlands/nijmegen/
@@ -98,6 +102,7 @@ Sources, entre autres : Wikipédia et Wikivoyage (CC BY-SA 4.0) ainsi que les si
     <item>
       <title>Breda : guide de voyage et histoire | Héritage royal et culture urbaine</title>
       <link>https://podcast.kajetan.nl/travel/netherlands/breda/</link>
+      <podcast:transcript url="https://podcast.kajetan.nl/travel/netherlands/breda/transcript-fr.txt" type="text/plain" language="fr"/>
       <description>Breda associe les monuments de son histoire, comme la Grote Kerk et le Kasteel van Breda, à des lieux à voir lors d'une visite. En 1590, des soldats néerlandais ont pris la ville aux forces espagnoles en se cachant dans un bateau de tourbe.
 
 Autres langues et plus sur Breda : https://podcast.kajetan.nl/travel/netherlands/breda/
@@ -118,6 +123,7 @@ Sources, entre autres : Wikipédia et Wikivoyage (CC BY-SA 4.0) ainsi que les si
     <item>
       <title>Almere : guide de voyage et histoire | Une ville surgie des eaux</title>
       <link>https://podcast.kajetan.nl/travel/netherlands/almere/</link>
+      <podcast:transcript url="https://podcast.kajetan.nl/travel/netherlands/almere/transcript-fr.txt" type="text/plain" language="fr"/>
       <description>Almere montre son histoire dans des endroits comme le théâtre Kunstlinie, la Citadel et la réserve naturelle Oostvaardersplassen, qui sont des lieux à voir lors d'une visite. En 1976, les premiers logements du quartier d'Almere Haven ont été remis aux habitants sur ces terres gagnées sur la mer.
 
 Autres langues et plus sur Almere : https://podcast.kajetan.nl/travel/netherlands/almere/
@@ -275,10 +281,10 @@ Sources, entre autres : Wikipédia et Wikivoyage (CC BY-SA 4.0) ainsi que les si
 Autres langues et plus sur Tilburg : https://podcast.kajetan.nl/travel/netherlands/tilburg/
 
 Sources, entre autres : Wikipédia et Wikivoyage (CC BY-SA 4.0) ainsi que les sites officiels du tourisme, du patrimoine et des musées. La conversation et les voix sont générées par IA.</itunes:summary>
-      <enclosure url="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/episodes/fr/fr-tilburg-1528817379-v1.mp3" length="20983006" type="audio/mpeg"/>
+      <enclosure url="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/episodes/fr/fr-tilburg-1528817379-v2.mp3" length="23788348" type="audio/mpeg"/>
       <guid isPermaLink="false">06f1148e-206b-5fa5-939a-ffbd5e3c4825</guid>
       <pubDate>Tue, 06 Oct 2026 19:33:45 +0000</pubDate>
-      <itunes:duration>00:21:44</itunes:duration>
+      <itunes:duration>00:24:39</itunes:duration>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>false</itunes:explicit>
     </item>

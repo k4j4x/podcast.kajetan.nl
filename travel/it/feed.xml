@@ -14,10 +14,11 @@
     <itunes:type>episodic</itunes:type>
     <itunes:category text="Society &amp; Culture"><itunes:category text="Places &amp; Travel"/></itunes:category>
     <itunes:image href="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/cover-it-3000.jpg"/>
-    <lastBuildDate>Sat, 10 Oct 2026 20:33:18 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 11 Oct 2026 05:06:18 +0000</lastBuildDate>
     <item>
       <title>Haarlem: guida di viaggio e storia | Una città nata sulle dune di sabbia</title>
       <link>https://podcast.kajetan.nl/travel/netherlands/haarlem/</link>
+      <podcast:transcript url="https://podcast.kajetan.nl/travel/netherlands/haarlem/transcript-it.txt" type="text/plain" language="it"/>
       <description>Haarlem unisce la sua storia a luoghi ideali per una visita attorno al Grote Markt, dalla St. Bavokerk al Teylers Museum lungo il Spaarne. Nel 1245, il conte Willem II concesse i diritti cittadini al comune, ponendo le basi per la sua crescita.
 
 Altre lingue e altro su Haarlem: https://podcast.kajetan.nl/travel/netherlands/haarlem/
@@ -38,6 +39,7 @@ Fonti, tra le altre: Wikipedia e Wikivoyage (CC BY-SA 4.0) e siti ufficiali di t
     <item>
       <title>Arnhem: guida di viaggio e storia | Dalla guerra alla moda</title>
       <link>https://podcast.kajetan.nl/travel/netherlands/arnhem/</link>
+      <podcast:transcript url="https://podcast.kajetan.nl/travel/netherlands/arnhem/transcript-it.txt" type="text/plain" language="it"/>
       <description>Arnhem unisce la sua storia a luoghi di interesse per una visita, come il John Frostbrug, il Park Sonsbeek e il Modekwartier. Nel settembre 1944, le truppe britanniche combatterono durante l'Operazione Market Garden per il ponte sul Reno, causando gravi distruzioni in città.
 
 Altre lingue e altro su Arnhem: https://podcast.kajetan.nl/travel/netherlands/arnhem/
@@ -58,6 +60,7 @@ Fonti, tra le altre: Wikipedia e Wikivoyage (CC BY-SA 4.0) e siti ufficiali di t
     <item>
       <title>Nijmegen: guida di viaggio e storia | Perché la città sorge sulle colline</title>
       <link>https://podcast.kajetan.nl/travel/netherlands/nijmegen/</link>
+      <podcast:transcript url="https://podcast.kajetan.nl/travel/netherlands/nijmegen/transcript-it.txt" type="text/plain" language="it"/>
       <description>Nijmegen presenta durante una visita luoghi legati alla storia come la Waalbrug, il Valkhof Park e la Stevenskerk tra i siti principali. Nel 1944, un bombardamento distrusse gran parte del centro cittadino, ma le forze alleate conquistarono la Waalbrug intatta.
 
 Altre lingue e altro su Nijmegen: https://podcast.kajetan.nl/travel/netherlands/nijmegen/
@@ -78,6 +81,7 @@ Fonti, tra le altre: Wikipedia e Wikivoyage (CC BY-SA 4.0) e siti ufficiali di t
     <item>
       <title>Breda: guida di viaggio e storia | L'inganno della nave di torba</title>
       <link>https://podcast.kajetan.nl/travel/netherlands/breda/</link>
+      <podcast:transcript url="https://podcast.kajetan.nl/travel/netherlands/breda/transcript-it.txt" type="text/plain" language="it"/>
       <description>Breda unisce la sua storia a luoghi chiave da includere in una visita, come la Grote Kerk e il Kasteel van Breda. Nel 1590, le truppe olandesi conquistarono la città agli spagnoli nascondendosi in una nave di torba.
 
 Altre lingue e altro su Breda: https://podcast.kajetan.nl/travel/netherlands/breda/
@@ -98,6 +102,7 @@ Fonti, tra le altre: Wikipedia e Wikivoyage (CC BY-SA 4.0) e siti ufficiali di t
     <item>
       <title>Almere: guida di viaggio e storia | La città sul fondo del mare</title>
       <link>https://podcast.kajetan.nl/travel/netherlands/almere/</link>
+      <podcast:transcript url="https://podcast.kajetan.nl/travel/netherlands/almere/transcript-it.txt" type="text/plain" language="it"/>
       <description>Almere mostra la sua storia attraverso luoghi come il teatro Kunstlinie, la Citadel e la riserva naturale Oostvaardersplassen, offrendo molte opzioni di cosa vedere durante una visita. Nel 1976, le prime case nel quartiere di Almere Haven sono state consegnate sui terreni strappati al mare.
 
 Altre lingue e altro su Almere: https://podcast.kajetan.nl/travel/netherlands/almere/
@@ -118,6 +123,7 @@ Fonti, tra le altre: Wikipedia e Wikivoyage (CC BY-SA 4.0) e siti ufficiali di t
     <item>
       <title>Groningen: guida di viaggio e storia | La città più giovane d'Olanda</title>
       <link>https://podcast.kajetan.nl/travel/netherlands/groningen/</link>
+      <podcast:transcript url="https://podcast.kajetan.nl/travel/netherlands/groningen/transcript-it.txt" type="text/plain" language="it"/>
       <description>Groningen unisce secoli di storia e vari luoghi da includere in una visita, tra cui la Martinitoren sulla Grote Markt e il Prinsentuin. Nel 1614 fu fondata l'Università di Groningen in Broerplein, dando forma alla sua comunità studentesca.
 
 Altre lingue e altro su Groningen: https://podcast.kajetan.nl/travel/netherlands/groningen/

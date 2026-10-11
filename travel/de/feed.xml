@@ -14,10 +14,11 @@
     <itunes:type>episodic</itunes:type>
     <itunes:category text="Society &amp; Culture"><itunes:category text="Places &amp; Travel"/></itunes:category>
     <itunes:image href="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/cover-de-3000.jpg"/>
-    <lastBuildDate>Sat, 10 Oct 2026 20:33:18 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 11 Oct 2026 05:06:17 +0000</lastBuildDate>
     <item>
       <title>Enschede Reiseführer &amp; Geschichte | Vom Inferno zur grünsten Stadt</title>
       <link>https://podcast.kajetan.nl/travel/netherlands/enschede/</link>
+      <podcast:transcript url="https://podcast.kajetan.nl/travel/netherlands/enschede/transcript-de.txt" type="text/plain" language="de"/>
       <description>Enschede zeigt bei einem Besuch Sehenswürdigkeiten wie die Grote Kerk am Oude Markt und erzählt die Geschichte des Viertels Roombeek. Im Jahr 2000 zerstörte die Explosion eines Feuerwerkslagers das Viertel Roombeek, das anschließend komplett neu aufgebaut wurde.
 
 Andere Sprachen und mehr über Enschede: https://podcast.kajetan.nl/travel/netherlands/enschede/
@@ -38,6 +39,7 @@ Quellen u. a. Wikipedia und Wikivoyage (CC BY-SA 4.0) sowie offizielle Websites 
     <item>
       <title>Haarlem Reiseführer &amp; Geschichte | Reichtum auf einer Sanddüne</title>
       <link>https://podcast.kajetan.nl/travel/netherlands/haarlem/</link>
+      <podcast:transcript url="https://podcast.kajetan.nl/travel/netherlands/haarlem/transcript-de.txt" type="text/plain" language="de"/>
       <description>Haarlem verbindet seine Geschichte mit bekannten Sehenswürdigkeiten am Grote Markt, von der St. Bavokerk bis zum Teylers Museum am Spaarne. Im Jahr 1245 verlieh Graf Willem II der Stadt ihre Stadsrechten und legte den Grundstein für ihren wirtschaftlichen Aufstieg.
 
 Andere Sprachen und mehr über Haarlem: https://podcast.kajetan.nl/travel/netherlands/haarlem/
@@ -58,6 +60,7 @@ Quellen u. a. Wikipedia und Wikivoyage (CC BY-SA 4.0) sowie offizielle Websites 
     <item>
       <title>Arnhem Reiseführer &amp; Geschichte | Vom Schlachtfeld zur Modehauptstadt</title>
       <link>https://podcast.kajetan.nl/travel/netherlands/arnhem/</link>
+      <podcast:transcript url="https://podcast.kajetan.nl/travel/netherlands/arnhem/transcript-de.txt" type="text/plain" language="de"/>
       <description>Arnhem verbindet seine Geschichte mit bekannten Sehenswürdigkeiten für einen Besuch, darunter die John Frostbrug, der Park Sonsbeek und das Modekwartier. Im September 1944 kämpften britische Truppen während der Operatie Market Garden um die Rijnbrug, was zu schweren Zerstörungen in der Stadt führte.
 
 Andere Sprachen und mehr über Arnhem: https://podcast.kajetan.nl/travel/netherlands/arnhem/
@@ -78,6 +81,7 @@ Quellen u. a. Wikipedia und Wikivoyage (CC BY-SA 4.0) sowie offizielle Websites 
     <item>
       <title>Nijmegen Reiseführer &amp; Geschichte | Von Römern, Bomben und Beton</title>
       <link>https://podcast.kajetan.nl/travel/netherlands/nijmegen/</link>
+      <podcast:transcript url="https://podcast.kajetan.nl/travel/netherlands/nijmegen/transcript-de.txt" type="text/plain" language="de"/>
       <description>Nijmegen bietet bei einem Besuch Orte voller Geschichte, darunter die Waalbrug, den Valkhof und die Stevenskerk als prägende Sehenswürdigkeiten. Im Jahr 1944 zerstörte ein US-Bombenangriff weite Teile des Stadtzentrums, bevor amerikanische und britische Truppen die Waalbrug intakt eroberten.
 
 Andere Sprachen und mehr über Nijmegen: https://podcast.kajetan.nl/travel/netherlands/nijmegen/
@@ -98,6 +102,7 @@ Quellen u. a. Wikipedia und Wikivoyage (CC BY-SA 4.0) sowie offizielle Websites 
     <item>
       <title>Breda Reiseführer &amp; Geschichte | Vom Torfschiff bis zum Löffelausbruch</title>
       <link>https://podcast.kajetan.nl/travel/netherlands/breda/</link>
+      <podcast:transcript url="https://podcast.kajetan.nl/travel/netherlands/breda/transcript-de.txt" type="text/plain" language="de"/>
       <description>Breda verbindet bei einem Besuch reale Orte wie die Grote Kerk, das Kasteel van Breda und den Begijnhof mit der lokalen Geschichte. Im Jahr 1590 eroberten niederländische Truppen die Stadt, indem sie sich in einem Torfschiff versteckten.
 
 Andere Sprachen und mehr über Breda: https://podcast.kajetan.nl/travel/netherlands/breda/
@@ -118,6 +123,7 @@ Quellen u. a. Wikipedia und Wikivoyage (CC BY-SA 4.0) sowie offizielle Websites 
     <item>
       <title>Almere Reiseführer &amp; Geschichte | Eine Stadt unter dem Meeresspiegel</title>
       <link>https://podcast.kajetan.nl/travel/netherlands/almere/</link>
+      <podcast:transcript url="https://podcast.kajetan.nl/travel/netherlands/almere/transcript-de.txt" type="text/plain" language="de"/>
       <description>Almere in den Niederlanden zeigt seine Geschichte an Orten wie dem Theater Kunstlinie, der Citadel und dem Naturschutzgebiet Oostvaardersplassen als Sehenswürdigkeiten für einen Besuch. Im Jahr 1976 wurden im Ortsteil Almere Haven die ersten Wohnhäuser auf dem gewonnenen Land übergeben.
 
 Andere Sprachen und mehr über Almere: https://podcast.kajetan.nl/travel/netherlands/almere/
@@ -212,10 +218,10 @@ Quellen u. a. Wikipedia und Wikivoyage (CC BY-SA 4.0) sowie offizielle Websites 
 Andere Sprachen und mehr über The Hague: https://podcast.kajetan.nl/travel/netherlands/the-hague/
 
 Quellen u. a. Wikipedia und Wikivoyage (CC BY-SA 4.0) sowie offizielle Websites für Tourismus, Denkmalpflege und Museen. Gespräch und Stimmen sind KI-generiert.</itunes:summary>
-      <enclosure url="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/episodes/de/de-the-hague-1528799905-v1.mp3" length="25174752" type="audio/mpeg"/>
+      <enclosure url="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/episodes/de/de-the-hague-1528799905-v2.mp3" length="18665456" type="audio/mpeg"/>
       <guid isPermaLink="false">418fd7d3-ab93-5a20-9fe1-f1a047e17865</guid>
       <pubDate>Thu, 08 Oct 2026 17:32:15 +0000</pubDate>
-      <itunes:duration>00:26:06</itunes:duration>
+      <itunes:duration>00:19:19</itunes:duration>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>false</itunes:explicit>
     </item>

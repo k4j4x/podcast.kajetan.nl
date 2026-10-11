@@ -14,7 +14,7 @@
     <itunes:type>episodic</itunes:type>
     <itunes:category text="Society &amp; Culture"><itunes:category text="Places &amp; Travel"/></itunes:category>
     <itunes:image href="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/cover-3000.jpg"/>
-    <lastBuildDate>Sat, 10 Oct 2026 20:33:17 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 11 Oct 2026 05:06:17 +0000</lastBuildDate>
     <item>
       <title>Zwolle Travel Guide &amp; History | From Swamp Ridge to Powerhouse</title>
       <link>https://podcast.kajetan.nl/travel/netherlands/zwolle/</link>
@@ -491,10 +491,10 @@ Sources include Wikipedia and Wikivoyage (CC BY-SA 4.0) and official tourism, he
 Other languages and more about Schiedam: https://podcast.kajetan.nl/travel/netherlands/schiedam/
 
 Sources include Wikipedia and Wikivoyage (CC BY-SA 4.0) and official tourism, heritage and museum websites. The conversation and voices are AI-generated.</itunes:summary>
-      <enclosure url="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/episodes/wandering-cities-schiedam-1528910170-v1.mp3" length="21470252" type="audio/mpeg"/>
+      <enclosure url="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/episodes/wandering-cities-schiedam-1528910170-v3.mp3" length="20534038" type="audio/mpeg"/>
       <guid isPermaLink="false">535cf1a1-1751-5a6c-93d3-547d03364621</guid>
       <pubDate>Mon, 05 Oct 2026 09:41:25 +0000</pubDate>
-      <itunes:duration>00:22:12</itunes:duration>
+      <itunes:duration>00:21:14</itunes:duration>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>false</itunes:explicit>
     </item>

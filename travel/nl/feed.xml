@@ -14,10 +14,11 @@
     <itunes:type>episodic</itunes:type>
     <itunes:category text="Society &amp; Culture"><itunes:category text="Places &amp; Travel"/></itunes:category>
     <itunes:image href="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/cover-nl-3000.jpg"/>
-    <lastBuildDate>Sat, 10 Oct 2026 20:33:18 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 11 Oct 2026 05:06:18 +0000</lastBuildDate>
     <item>
       <title>Enschede reisgids &amp; geschiedenis | Telkens herrezen uit de as</title>
       <link>https://podcast.kajetan.nl/travel/netherlands/enschede/</link>
+      <podcast:transcript url="https://podcast.kajetan.nl/travel/netherlands/enschede/transcript-nl.txt" type="text/plain" language="nl"/>
       <description>Enschede toont bij een bezoek bezienswaardigheden zoals de Grote Kerk op de Oude Markt en vertelt de geschiedenis van de wijk Roombeek. In 2000 verwoestte een ontploffing in een vuurwerkdepot de wijk Roombeek, die daarna volledig werd herbouwd.
 
 Andere talen en meer over Enschede: https://podcast.kajetan.nl/travel/netherlands/enschede/
@@ -38,6 +39,7 @@ Bronnen o.a. Wikipedia en Wikivoyage (CC BY-SA 4.0) en officiële websites over 
     <item>
       <title>Haarlem reisgids &amp; geschiedenis | Van Spaanse tunnelgevechten tot bier</title>
       <link>https://podcast.kajetan.nl/travel/netherlands/haarlem/</link>
+      <podcast:transcript url="https://podcast.kajetan.nl/travel/netherlands/haarlem/transcript-nl.txt" type="text/plain" language="nl"/>
       <description>Haarlem verbindt zijn geschiedenis met bekende bezienswaardigheden rond de Grote Markt, van de Sint-Bavokerk tot het Teylers Museum aan het Spaarne. In 1573 gaf de stad zich over na zeven maanden Spaanse belegering, waarbij ondergrondse tunnelgevechten een rol speelden.
 
 Andere talen en meer over Haarlem: https://podcast.kajetan.nl/travel/netherlands/haarlem/
@@ -58,6 +60,7 @@ Bronnen o.a. Wikipedia en Wikivoyage (CC BY-SA 4.0) en officiële websites over 
     <item>
       <title>Arnhem reisgids &amp; geschiedenis | Van slagveld naar modehoofdstad</title>
       <link>https://podcast.kajetan.nl/travel/netherlands/arnhem/</link>
+      <podcast:transcript url="https://podcast.kajetan.nl/travel/netherlands/arnhem/transcript-nl.txt" type="text/plain" language="nl"/>
       <description>Arnhem verbindt zijn geschiedenis met bezienswaardigheden voor een bezoek, zoals de John Frostbrug, Park Sonsbeek en het Modekwartier. In september 1944 vochten Britse troepen tijdens Operatie Market Garden om de Rijnbrug, wat leidde tot zware verwoestingen in de stad.
 
 Andere talen en meer over Arnhem: https://podcast.kajetan.nl/travel/netherlands/arnhem/
@@ -78,6 +81,7 @@ Bronnen o.a. Wikipedia en Wikivoyage (CC BY-SA 4.0) en officiële websites over 
     <item>
       <title>Nijmegen reisgids &amp; geschiedenis | Hoe landijs het landschap vormde</title>
       <link>https://podcast.kajetan.nl/travel/netherlands/nijmegen/</link>
+      <podcast:transcript url="https://podcast.kajetan.nl/travel/netherlands/nijmegen/transcript-nl.txt" type="text/plain" language="nl"/>
       <description>Nijmegen toont bij een bezoek locaties vol geschiedenis, met de Waalbrug, het Valkhof Park en de Stevenskerk als bekende bezienswaardigheden. In 1944 verwoestte een bombardement een groot deel van de binnenstad, waarna geallieerde troepen de Waalbrug intact veroverden.
 
 Andere talen en meer over Nijmegen: https://podcast.kajetan.nl/travel/netherlands/nijmegen/
@@ -98,6 +102,7 @@ Bronnen o.a. Wikipedia en Wikivoyage (CC BY-SA 4.0) en officiële websites over 
     <item>
       <title>Breda reisgids &amp; geschiedenis | Koninklijke roots en bourgondisch leven</title>
       <link>https://podcast.kajetan.nl/travel/netherlands/breda/</link>
+      <podcast:transcript url="https://podcast.kajetan.nl/travel/netherlands/breda/transcript-nl.txt" type="text/plain" language="nl"/>
       <description>Breda verbindt bij een bezoek haar geschiedenis met bezienswaardigheden zoals de Grote Kerk, het Kasteel van Breda en het Begijnhof. In 1590 veroverden Nederlandse troepen de stad op de Spanjaarden door zich te verstoppen in een turfschip.
 
 Andere talen en meer over Breda: https://podcast.kajetan.nl/travel/netherlands/breda/
@@ -118,6 +123,7 @@ Bronnen o.a. Wikipedia en Wikivoyage (CC BY-SA 4.0) en officiële websites over 
     <item>
       <title>Almere reisgids &amp; geschiedenis | Scheepswrakken onder een nieuwe stad</title>
       <link>https://podcast.kajetan.nl/travel/netherlands/almere/</link>
+      <podcast:transcript url="https://podcast.kajetan.nl/travel/netherlands/almere/transcript-nl.txt" type="text/plain" language="nl"/>
       <description>Almere brengt zijn geschiedenis tot leven met locaties zoals theater Kunstlinie, de Citadel en natuurgebied Oostvaardersplassen, die belangrijke bezienswaardigheden vormen voor een bezoek. In 1976 werden de eerste woningen in het stadsdeel Almere Haven op het drooggelegde land aan de nieuwe inwoners overgedragen.
 
 Andere talen en meer over Almere: https://podcast.kajetan.nl/travel/netherlands/almere/
@@ -138,6 +144,7 @@ Bronnen o.a. Wikipedia en Wikivoyage (CC BY-SA 4.0) en officiële websites over 
     <item>
       <title>Groningen reisgids &amp; geschiedenis | Een rebelse geest in het noorden</title>
       <link>https://podcast.kajetan.nl/travel/netherlands/groningen/</link>
+      <podcast:transcript url="https://podcast.kajetan.nl/travel/netherlands/groningen/transcript-nl.txt" type="text/plain" language="nl"/>
       <description>Groningen combineert een lange geschiedenis met veel bezienswaardigheden zoals de Martinitoren aan de Grote Markt, de Prinsentuin en het Groninger Museum. In 1614 werd de Universiteit van Groningen gesticht op het Broerplein, wat de basis legde voor de eeuwenoude studententraditie.
 
 Andere talen en meer over Groningen: https://podcast.kajetan.nl/travel/netherlands/groningen/
@@ -253,10 +260,10 @@ Bronnen o.a. Wikipedia en Wikivoyage (CC BY-SA 4.0) en officiële websites over 
 Andere talen en meer over Amsterdam: https://podcast.kajetan.nl/travel/netherlands/amsterdam/
 
 Bronnen o.a. Wikipedia en Wikivoyage (CC BY-SA 4.0) en officiële websites over toerisme, erfgoed en musea. Het gesprek en de stemmen zijn door AI gegenereerd.</itunes:summary>
-      <enclosure url="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/episodes/nl/nl-amsterdam-1528355309-v1.mp3" length="18134070" type="audio/mpeg"/>
+      <enclosure url="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/episodes/nl/nl-amsterdam-1528355309-v2.mp3" length="22858263" type="audio/mpeg"/>
       <guid isPermaLink="false">b22dd9cc-867c-515f-a01e-4e3c3f4531d1</guid>
       <pubDate>Tue, 06 Oct 2026 20:32:45 +0000</pubDate>
-      <itunes:duration>00:18:46</itunes:duration>
+      <itunes:duration>00:23:41</itunes:duration>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>false</itunes:explicit>
     </item>
