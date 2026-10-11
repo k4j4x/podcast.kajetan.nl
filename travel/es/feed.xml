@@ -14,7 +14,27 @@
     <itunes:type>episodic</itunes:type>
     <itunes:category text="Society &amp; Culture"><itunes:category text="Places &amp; Travel"/></itunes:category>
     <itunes:image href="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/cover-es-3000.jpg"/>
-    <lastBuildDate>Sun, 11 Oct 2026 18:03:30 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 11 Oct 2026 18:33:34 +0000</lastBuildDate>
+    <item>
+      <title>Amersfoort: guía de viaje e historia | Una apuesta por siete toneladas</title>
+      <link>https://podcast.kajetan.nl/travel/netherlands/amersfoort/</link>
+      <description>Amersfoort muestra su historia medieval con lugares qué ver en una visita, como la puerta Koppelpoort y las casas Muurhuizen. En 1661, cuatrocientos vecinos arrastraron una roca de siete toneladas hasta Varkensmarkt tras ganar una apuesta de cerveza.
+
+Otros idiomas y más sobre Amersfoort: https://podcast.kajetan.nl/travel/netherlands/amersfoort/
+
+Fuentes, entre otras: Wikipedia y Wikivoyage (CC BY-SA 4.0) y webs oficiales de turismo, patrimonio y museos. La conversación y las voces están generadas por IA.</description>
+      <itunes:summary>Amersfoort muestra su historia medieval con lugares qué ver en una visita, como la puerta Koppelpoort y las casas Muurhuizen. En 1661, cuatrocientos vecinos arrastraron una roca de siete toneladas hasta Varkensmarkt tras ganar una apuesta de cerveza.
+
+Otros idiomas y más sobre Amersfoort: https://podcast.kajetan.nl/travel/netherlands/amersfoort/
+
+Fuentes, entre otras: Wikipedia y Wikivoyage (CC BY-SA 4.0) y webs oficiales de turismo, patrimonio y museos. La conversación y las voces están generadas por IA.</itunes:summary>
+      <enclosure url="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/episodes/es/es-amersfoort-1528206992-v1.mp3" length="20169006" type="audio/mpeg"/>
+      <guid isPermaLink="false">08434354-8694-54c3-89eb-feb65105bcff</guid>
+      <pubDate>Sun, 11 Oct 2026 18:31:52 +0000</pubDate>
+      <itunes:duration>00:20:53</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Enschede: guía de viaje e historia | La ciudad que resurgió del fuego</title>
       <link>https://podcast.kajetan.nl/travel/netherlands/enschede/</link>

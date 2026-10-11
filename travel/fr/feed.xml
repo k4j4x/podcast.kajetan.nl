@@ -14,7 +14,27 @@
     <itunes:type>episodic</itunes:type>
     <itunes:category text="Society &amp; Culture"><itunes:category text="Places &amp; Travel"/></itunes:category>
     <itunes:image href="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/cover-fr-3000.jpg"/>
-    <lastBuildDate>Sun, 11 Oct 2026 18:03:30 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 11 Oct 2026 18:33:34 +0000</lastBuildDate>
+    <item>
+      <title>Amersfoort : guide de voyage et histoire | Un rocher de sept tonnes pour une bière</title>
+      <link>https://podcast.kajetan.nl/travel/netherlands/amersfoort/</link>
+      <description>Amersfoort présente son histoire et ses lieux à voir lors d'une visite de la porte Koppelpoort et des maisons Muurhuizen. En 1661, quatre cents habitants ont traîné une pierre de sept tonnes jusqu'au Varkensmarkt à la suite d'un pari pour de la bière.
+
+Autres langues et plus sur Amersfoort : https://podcast.kajetan.nl/travel/netherlands/amersfoort/
+
+Sources, entre autres : Wikipédia et Wikivoyage (CC BY-SA 4.0) ainsi que les sites officiels du tourisme, du patrimoine et des musées. La conversation et les voix sont générées par IA.</description>
+      <itunes:summary>Amersfoort présente son histoire et ses lieux à voir lors d'une visite de la porte Koppelpoort et des maisons Muurhuizen. En 1661, quatre cents habitants ont traîné une pierre de sept tonnes jusqu'au Varkensmarkt à la suite d'un pari pour de la bière.
+
+Autres langues et plus sur Amersfoort : https://podcast.kajetan.nl/travel/netherlands/amersfoort/
+
+Sources, entre autres : Wikipédia et Wikivoyage (CC BY-SA 4.0) ainsi que les sites officiels du tourisme, du patrimoine et des musées. La conversation et les voix sont générées par IA.</itunes:summary>
+      <enclosure url="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/episodes/fr/fr-amersfoort-1528206992-v1.mp3" length="26662745" type="audio/mpeg"/>
+      <guid isPermaLink="false">fdee6588-59a8-5bbc-9245-b136a8fcef8f</guid>
+      <pubDate>Sun, 11 Oct 2026 18:33:33 +0000</pubDate>
+      <itunes:duration>00:27:39</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Enschede : guide de voyage et histoire | Une ville née des cendres</title>
       <link>https://podcast.kajetan.nl/travel/netherlands/enschede/</link>
