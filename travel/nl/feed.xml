@@ -14,7 +14,27 @@
     <itunes:type>episodic</itunes:type>
     <itunes:category text="Society &amp; Culture"><itunes:category text="Places &amp; Travel"/></itunes:category>
     <itunes:image href="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/cover-nl-3000.jpg"/>
-    <lastBuildDate>Sun, 11 Oct 2026 17:32:38 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 11 Oct 2026 18:03:30 +0000</lastBuildDate>
+    <item>
+      <title>Amersfoort reisgids &amp; geschiedenis | Hoe een zwerfkei leidde tot bier</title>
+      <link>https://podcast.kajetan.nl/travel/netherlands/amersfoort/</link>
+      <description>Amersfoort toont tijdens een bezoek zijn middeleeuwse geschiedenis met bezienswaardigheden zoals de waterpoort Koppelpoort, de Muurhuizen en de Onze Lieve Vrouwetoren. In 1661 sleepten vierhonderd inwoners een zeven ton zware zwerfkei naar de Varkensmarkt na een weddenschap om bier en krakelingen.
+
+Andere talen en meer over Amersfoort: https://podcast.kajetan.nl/travel/netherlands/amersfoort/
+
+Bronnen o.a. Wikipedia en Wikivoyage (CC BY-SA 4.0) en officiële websites over toerisme, erfgoed en musea. Het gesprek en de stemmen zijn door AI gegenereerd.</description>
+      <itunes:summary>Amersfoort toont tijdens een bezoek zijn middeleeuwse geschiedenis met bezienswaardigheden zoals de waterpoort Koppelpoort, de Muurhuizen en de Onze Lieve Vrouwetoren. In 1661 sleepten vierhonderd inwoners een zeven ton zware zwerfkei naar de Varkensmarkt na een weddenschap om bier en krakelingen.
+
+Andere talen en meer over Amersfoort: https://podcast.kajetan.nl/travel/netherlands/amersfoort/
+
+Bronnen o.a. Wikipedia en Wikivoyage (CC BY-SA 4.0) en officiële websites over toerisme, erfgoed en musea. Het gesprek en de stemmen zijn door AI gegenereerd.</itunes:summary>
+      <enclosure url="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/episodes/nl/nl-amersfoort-1528206992-v1.mp3" length="22156510" type="audio/mpeg"/>
+      <guid isPermaLink="false">56f69ba5-85cf-535d-a0b3-d90084893d08</guid>
+      <pubDate>Sun, 11 Oct 2026 18:03:30 +0000</pubDate>
+      <itunes:duration>00:22:57</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Enschede reisgids &amp; geschiedenis | Telkens herrezen uit de as</title>
       <link>https://podcast.kajetan.nl/travel/netherlands/enschede/</link>
