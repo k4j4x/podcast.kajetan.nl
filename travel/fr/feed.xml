@@ -14,7 +14,27 @@
     <itunes:type>episodic</itunes:type>
     <itunes:category text="Society &amp; Culture"><itunes:category text="Places &amp; Travel"/></itunes:category>
     <itunes:image href="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/cover-fr-3000.jpg"/>
-    <lastBuildDate>Mon, 12 Oct 2026 19:03:17 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 12 Oct 2026 19:32:52 +0000</lastBuildDate>
+    <item>
+      <title>Zoetermeer : guide de voyage et histoire | Des mammouths sous le béton</title>
+      <link>https://podcast.kajetan.nl/travel/netherlands/zoetermeer/</link>
+      <description>Zoetermeer réunit dans la Dorpsstraat, au moulin Molen De Hoop et au Nationaal Videogame Museum son histoire avec divers lieux à voir lors d'une visite. En 1962, la commune a été désignée comme centre de croissance urbaine, déclenchant sa rapide transformation.
+
+Autres langues et plus sur Zoetermeer : https://podcast.kajetan.nl/travel/netherlands/zoetermeer/
+
+Sources, entre autres : Wikipédia et Wikivoyage (CC BY-SA 4.0) ainsi que les sites officiels du tourisme, du patrimoine et des musées. La conversation et les voix sont générées par IA.</description>
+      <itunes:summary>Zoetermeer réunit dans la Dorpsstraat, au moulin Molen De Hoop et au Nationaal Videogame Museum son histoire avec divers lieux à voir lors d'une visite. En 1962, la commune a été désignée comme centre de croissance urbaine, déclenchant sa rapide transformation.
+
+Autres langues et plus sur Zoetermeer : https://podcast.kajetan.nl/travel/netherlands/zoetermeer/
+
+Sources, entre autres : Wikipédia et Wikivoyage (CC BY-SA 4.0) ainsi que les sites officiels du tourisme, du patrimoine et des musées. La conversation et les voix sont générées par IA.</itunes:summary>
+      <enclosure url="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/episodes/fr/fr-zoetermeer-1528416914-v1.mp3" length="15020050" type="audio/mpeg"/>
+      <guid isPermaLink="false">c9058ade-1b91-5ea8-86bf-1befd175db09</guid>
+      <pubDate>Mon, 12 Oct 2026 19:32:51 +0000</pubDate>
+      <itunes:duration>00:15:31</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Zwolle : guide de voyage et histoire | Derrière la légende des Doigts Bleus</title>
       <link>https://podcast.kajetan.nl/travel/netherlands/zwolle/</link>
