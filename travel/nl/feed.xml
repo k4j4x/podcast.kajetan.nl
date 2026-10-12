@@ -14,7 +14,27 @@
     <itunes:type>episodic</itunes:type>
     <itunes:category text="Society &amp; Culture"><itunes:category text="Places &amp; Travel"/></itunes:category>
     <itunes:image href="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/cover-nl-3000.jpg"/>
-    <lastBuildDate>Mon, 12 Oct 2026 18:34:14 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 12 Oct 2026 19:03:17 +0000</lastBuildDate>
+    <item>
+      <title>Zoetermeer reisgids &amp; geschiedenis | Van boerendorp naar futuristische stad</title>
+      <link>https://podcast.kajetan.nl/travel/netherlands/zoetermeer/</link>
+      <description>Zoetermeer verbindt in de Dorpsstraat, bij Molen De Hoop en in het Nationaal Videogame Museum haar geschiedenis met bekende bezienswaardigheden voor een bezoek. In 1962 werd de plaats aangewezen als groeikern, waarna de snelle uitbreiding tot stad begon.
+
+Andere talen en meer over Zoetermeer: https://podcast.kajetan.nl/travel/netherlands/zoetermeer/
+
+Bronnen o.a. Wikipedia en Wikivoyage (CC BY-SA 4.0) en officiële websites over toerisme, erfgoed en musea. Het gesprek en de stemmen zijn door AI gegenereerd.</description>
+      <itunes:summary>Zoetermeer verbindt in de Dorpsstraat, bij Molen De Hoop en in het Nationaal Videogame Museum haar geschiedenis met bekende bezienswaardigheden voor een bezoek. In 1962 werd de plaats aangewezen als groeikern, waarna de snelle uitbreiding tot stad begon.
+
+Andere talen en meer over Zoetermeer: https://podcast.kajetan.nl/travel/netherlands/zoetermeer/
+
+Bronnen o.a. Wikipedia en Wikivoyage (CC BY-SA 4.0) en officiële websites over toerisme, erfgoed en musea. Het gesprek en de stemmen zijn door AI gegenereerd.</itunes:summary>
+      <enclosure url="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/episodes/nl/nl-zoetermeer-1528416914-v1.mp3" length="20742142" type="audio/mpeg"/>
+      <guid isPermaLink="false">4fcb18ea-4c1d-5d7f-b7a1-f8c8dcfa82c8</guid>
+      <pubDate>Mon, 12 Oct 2026 19:03:16 +0000</pubDate>
+      <itunes:duration>00:21:29</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Zwolle reisgids &amp; geschiedenis | Van middeleeuwse stad tot de toekomst</title>
       <link>https://podcast.kajetan.nl/travel/netherlands/zwolle/</link>

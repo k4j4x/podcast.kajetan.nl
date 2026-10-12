@@ -14,7 +14,27 @@
     <itunes:type>episodic</itunes:type>
     <itunes:category text="Society &amp; Culture"><itunes:category text="Places &amp; Travel"/></itunes:category>
     <itunes:image href="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/cover-de-3000.jpg"/>
-    <lastBuildDate>Mon, 12 Oct 2026 18:34:14 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 12 Oct 2026 19:03:17 +0000</lastBuildDate>
+    <item>
+      <title>Zoetermeer Reiseführer &amp; Geschichte | Vom Butterdorf zur New Town</title>
+      <link>https://podcast.kajetan.nl/travel/netherlands/zoetermeer/</link>
+      <description>Zoetermeer verbindet in der Dorpsstraat, an der Mühle Molen De Hoop und im Nationaal Videogame Museum seine Geschichte mit bekannten Sehenswürdigkeiten für einen Besuch. Im Jahr 1962 wurde der Ort als Groeistad bestimmt und entwickelte sich rasch zur New Town.
+
+Andere Sprachen und mehr über Zoetermeer: https://podcast.kajetan.nl/travel/netherlands/zoetermeer/
+
+Quellen u. a. Wikipedia und Wikivoyage (CC BY-SA 4.0) sowie offizielle Websites für Tourismus, Denkmalpflege und Museen. Gespräch und Stimmen sind KI-generiert.</description>
+      <itunes:summary>Zoetermeer verbindet in der Dorpsstraat, an der Mühle Molen De Hoop und im Nationaal Videogame Museum seine Geschichte mit bekannten Sehenswürdigkeiten für einen Besuch. Im Jahr 1962 wurde der Ort als Groeistad bestimmt und entwickelte sich rasch zur New Town.
+
+Andere Sprachen und mehr über Zoetermeer: https://podcast.kajetan.nl/travel/netherlands/zoetermeer/
+
+Quellen u. a. Wikipedia und Wikivoyage (CC BY-SA 4.0) sowie offizielle Websites für Tourismus, Denkmalpflege und Museen. Gespräch und Stimmen sind KI-generiert.</itunes:summary>
+      <enclosure url="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/episodes/de/de-zoetermeer-1528416914-v1.mp3" length="21157318" type="audio/mpeg"/>
+      <guid isPermaLink="false">b7daf97a-b3cb-5fbf-a00f-af458b132409</guid>
+      <pubDate>Mon, 12 Oct 2026 19:01:56 +0000</pubDate>
+      <itunes:duration>00:21:55</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Zwolle Reiseführer &amp; Geschichte | Vom Sumpf zur mächtigen Hansestadt</title>
       <link>https://podcast.kajetan.nl/travel/netherlands/zwolle/</link>
