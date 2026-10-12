@@ -14,7 +14,27 @@
     <itunes:type>episodic</itunes:type>
     <itunes:category text="Society &amp; Culture"><itunes:category text="Places &amp; Travel"/></itunes:category>
     <itunes:image href="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/cover-it-3000.jpg"/>
-    <lastBuildDate>Mon, 12 Oct 2026 17:02:44 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 12 Oct 2026 17:33:22 +0000</lastBuildDate>
+    <item>
+      <title>Apeldoorn: guida di viaggio e storia | Tra palazzi reali e resistenza</title>
+      <link>https://podcast.kajetan.nl/travel/netherlands/apeldoorn/</link>
+      <description>Apeldoorn unisce la sua storia reale a luoghi come Paleis Het Loo e il CODA Museum, ottime tappe su cosa vedere durante una visita. Nel 1684, il principe Guglielmo III acquistò la tenuta Het Loo per costruirvi un padiglione da caccia.
+
+Altre lingue e altro su Apeldoorn: https://podcast.kajetan.nl/travel/netherlands/apeldoorn/
+
+Fonti, tra le altre: Wikipedia e Wikivoyage (CC BY-SA 4.0) e siti ufficiali di turismo, patrimonio e musei. La conversazione e le voci sono generate dall'IA.</description>
+      <itunes:summary>Apeldoorn unisce la sua storia reale a luoghi come Paleis Het Loo e il CODA Museum, ottime tappe su cosa vedere durante una visita. Nel 1684, il principe Guglielmo III acquistò la tenuta Het Loo per costruirvi un padiglione da caccia.
+
+Altre lingue e altro su Apeldoorn: https://podcast.kajetan.nl/travel/netherlands/apeldoorn/
+
+Fonti, tra le altre: Wikipedia e Wikivoyage (CC BY-SA 4.0) e siti ufficiali di turismo, patrimonio e musei. La conversazione e le voci sono generate dall'IA.</itunes:summary>
+      <enclosure url="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/episodes/it/it-apeldoorn-1528057552-v1.mp3" length="18448917" type="audio/mpeg"/>
+      <guid isPermaLink="false">42ef10d9-45b1-55ed-82ed-bc297e06de86</guid>
+      <pubDate>Mon, 12 Oct 2026 17:31:47 +0000</pubDate>
+      <itunes:duration>00:19:05</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Zaanstad: guida di viaggio e storia | La rivoluzione industriale a vento</title>
       <link>https://podcast.kajetan.nl/travel/netherlands/zaanstad/</link>

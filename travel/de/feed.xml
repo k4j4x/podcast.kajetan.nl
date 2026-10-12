@@ -14,7 +14,27 @@
     <itunes:type>episodic</itunes:type>
     <itunes:category text="Society &amp; Culture"><itunes:category text="Places &amp; Travel"/></itunes:category>
     <itunes:image href="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/cover-de-3000.jpg"/>
-    <lastBuildDate>Mon, 12 Oct 2026 17:02:43 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 12 Oct 2026 17:33:21 +0000</lastBuildDate>
+    <item>
+      <title>Zwolle Reiseführer &amp; Geschichte | Vom Sumpf zur mächtigen Hansestadt</title>
+      <link>https://podcast.kajetan.nl/travel/netherlands/zwolle/</link>
+      <description>Zwolle verbindet bei einem Besuch seine Geschichte mit Sehenswürdigkeiten wie dem Sassenpoort, dem Peperbus und dem Museum de Fundatie. Im Jahr 1407 trat die Stadt der Deutschen Hanse bei und baute ihren Wohlstand auf dem europäischen Handel auf.
+
+Andere Sprachen und mehr über Zwolle: https://podcast.kajetan.nl/travel/netherlands/zwolle/
+
+Quellen u. a. Wikipedia und Wikivoyage (CC BY-SA 4.0) sowie offizielle Websites für Tourismus, Denkmalpflege und Museen. Gespräch und Stimmen sind KI-generiert.</description>
+      <itunes:summary>Zwolle verbindet bei einem Besuch seine Geschichte mit Sehenswürdigkeiten wie dem Sassenpoort, dem Peperbus und dem Museum de Fundatie. Im Jahr 1407 trat die Stadt der Deutschen Hanse bei und baute ihren Wohlstand auf dem europäischen Handel auf.
+
+Andere Sprachen und mehr über Zwolle: https://podcast.kajetan.nl/travel/netherlands/zwolle/
+
+Quellen u. a. Wikipedia und Wikivoyage (CC BY-SA 4.0) sowie offizielle Websites für Tourismus, Denkmalpflege und Museen. Gespräch und Stimmen sind KI-generiert.</itunes:summary>
+      <enclosure url="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/episodes/de/de-zwolle-1528690076-v1.mp3" length="24188364" type="audio/mpeg"/>
+      <guid isPermaLink="false">7c872069-003b-5de9-93cd-d507a272a4c9</guid>
+      <pubDate>Mon, 12 Oct 2026 17:33:21 +0000</pubDate>
+      <itunes:duration>00:25:04</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Apeldoorn Reiseführer &amp; Geschichte | Königsstadt zwischen Wald und Wasser</title>
       <link>https://podcast.kajetan.nl/travel/netherlands/apeldoorn/</link>
