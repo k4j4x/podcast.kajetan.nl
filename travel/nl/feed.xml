@@ -14,7 +14,7 @@
     <itunes:type>episodic</itunes:type>
     <itunes:category text="Society &amp; Culture"><itunes:category text="Places &amp; Travel"/></itunes:category>
     <itunes:image href="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/cover-nl-3000.jpg"/>
-    <lastBuildDate>Sun, 11 Oct 2026 21:02:52 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 12 Oct 2026 04:45:56 +0000</lastBuildDate>
     <item>
       <title>Apeldoorn reisgids &amp; geschiedenis | Een uit de kluiten gewassen tuindorp</title>
       <link>https://podcast.kajetan.nl/travel/netherlands/apeldoorn/</link>
@@ -38,6 +38,7 @@ Bronnen o.a. Wikipedia en Wikivoyage (CC BY-SA 4.0) en officiële websites over 
     <item>
       <title>Zaanstad reisgids &amp; geschiedenis | Het Silicon Valley van de 17e eeuw</title>
       <link>https://podcast.kajetan.nl/travel/netherlands/zaanstad/</link>
+      <podcast:transcript url="https://podcast.kajetan.nl/travel/netherlands/zaanstad/transcript-nl.txt" type="text/plain" language="nl"/>
       <description>Zaanstad combineert bij een bezoek de industriële geschiedenis van de streek met bezienswaardigheden zoals de molens aan de Zaanse Schans en het Czaar Peterhuisje. In 1697 verbleef tsaar Peter de Grote in Zaandam om de Hollandse scheepsbouw te leren.
 
 Andere talen en meer over Zaanstad: https://podcast.kajetan.nl/travel/netherlands/zaanstad/
@@ -58,6 +59,7 @@ Bronnen o.a. Wikipedia en Wikivoyage (CC BY-SA 4.0) en officiële websites over 
     <item>
       <title>Amersfoort reisgids &amp; geschiedenis | Hoe een zwerfkei leidde tot bier</title>
       <link>https://podcast.kajetan.nl/travel/netherlands/amersfoort/</link>
+      <podcast:transcript url="https://podcast.kajetan.nl/travel/netherlands/amersfoort/transcript-nl.txt" type="text/plain" language="nl"/>
       <description>Amersfoort toont tijdens een bezoek zijn middeleeuwse geschiedenis met bezienswaardigheden zoals de waterpoort Koppelpoort, de Muurhuizen en de Onze Lieve Vrouwetoren. In 1661 sleepten vierhonderd inwoners een zeven ton zware zwerfkei naar de Varkensmarkt na een weddenschap om bier en krakelingen.
 
 Andere talen en meer over Amersfoort: https://podcast.kajetan.nl/travel/netherlands/amersfoort/

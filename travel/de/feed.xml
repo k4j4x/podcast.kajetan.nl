@@ -14,10 +14,11 @@
     <itunes:type>episodic</itunes:type>
     <itunes:category text="Society &amp; Culture"><itunes:category text="Places &amp; Travel"/></itunes:category>
     <itunes:image href="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/cover-de-3000.jpg"/>
-    <lastBuildDate>Sun, 11 Oct 2026 21:02:52 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 12 Oct 2026 04:45:55 +0000</lastBuildDate>
     <item>
       <title>Apeldoorn Reiseführer &amp; Geschichte | Königsstadt zwischen Wald und Wasser</title>
       <link>https://podcast.kajetan.nl/travel/netherlands/apeldoorn/</link>
+      <podcast:transcript url="https://podcast.kajetan.nl/travel/netherlands/apeldoorn/transcript-de.txt" type="text/plain" language="de"/>
       <description>Apeldoorn in den Niederlanden bietet bei einem Besuch königliche Geschichte sowie Sehenswürdigkeiten wie Paleis Het Loo, das CODA Museum und den Oranjepark. Im Jahr 1684 kaufte Prinz Wilhelm III. das Anwesen Het Loo, um dort ein Jagdschloss zu errichten.
 
 Andere Sprachen und mehr über Apeldoorn: https://podcast.kajetan.nl/travel/netherlands/apeldoorn/
@@ -38,6 +39,7 @@ Quellen u. a. Wikipedia und Wikivoyage (CC BY-SA 4.0) sowie offizielle Websites 
     <item>
       <title>Zaanstad Reiseführer &amp; Geschichte | Das erste grüne Industriegebiet</title>
       <link>https://podcast.kajetan.nl/travel/netherlands/zaanstad/</link>
+      <podcast:transcript url="https://podcast.kajetan.nl/travel/netherlands/zaanstad/transcript-de.txt" type="text/plain" language="de"/>
       <description>Zaanstad verbindet bei einem Besuch die Geschichte der Region mit bekannten Sehenswürdigkeiten wie den Windmühlen an der Zaanse Schans und dem Csaar Peterhuisje. Im Jahr 1697 wohnte Zar Peter der Große in Zaandam, um den holländischen Schiffbau zu erlernen.
 
 Andere Sprachen und mehr über Zaanstad: https://podcast.kajetan.nl/travel/netherlands/zaanstad/
@@ -58,6 +60,7 @@ Quellen u. a. Wikipedia und Wikivoyage (CC BY-SA 4.0) sowie offizielle Websites 
     <item>
       <title>Amersfoort Reiseführer &amp; Geschichte | Wie ein Felsen im Boden verschwand</title>
       <link>https://podcast.kajetan.nl/travel/netherlands/amersfoort/</link>
+      <podcast:transcript url="https://podcast.kajetan.nl/travel/netherlands/amersfoort/transcript-de.txt" type="text/plain" language="de"/>
       <description>Amersfoort bietet bei einem Besuch Geschichte und Sehenswürdigkeiten wie das Stadttor Koppelpoort und die Muurhuizen. Im Jahr 1672 vergruben die Bürger den sieben Tonnen schweren Felsen auf dem Varkensmarkt, nachdem sie wegen der Aktion verspottet worden waren.
 
 Andere Sprachen und mehr über Amersfoort: https://podcast.kajetan.nl/travel/netherlands/amersfoort/
