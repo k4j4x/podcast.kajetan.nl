@@ -14,7 +14,27 @@
     <itunes:type>episodic</itunes:type>
     <itunes:category text="Society &amp; Culture"><itunes:category text="Places &amp; Travel"/></itunes:category>
     <itunes:image href="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/cover-fr-3000.jpg"/>
-    <lastBuildDate>Mon, 12 Oct 2026 17:33:21 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 12 Oct 2026 18:03:53 +0000</lastBuildDate>
+    <item>
+      <title>Zwolle : guide de voyage et histoire | Derrière la légende des Doigts Bleus</title>
+      <link>https://podcast.kajetan.nl/travel/netherlands/zwolle/</link>
+      <description>Zwolle réunit lors d'une visite son histoire et des sites à voir comme la Sassenpoort, le Peperbus et le Museum de Fundatie. En 1407, la ville a rejoint la Ligue hanséatique et bâti sa richesse sur le commerce européen.
+
+Autres langues et plus sur Zwolle : https://podcast.kajetan.nl/travel/netherlands/zwolle/
+
+Sources, entre autres : Wikipédia et Wikivoyage (CC BY-SA 4.0) ainsi que les sites officiels du tourisme, du patrimoine et des musées. La conversation et les voix sont générées par IA.</description>
+      <itunes:summary>Zwolle réunit lors d'une visite son histoire et des sites à voir comme la Sassenpoort, le Peperbus et le Museum de Fundatie. En 1407, la ville a rejoint la Ligue hanséatique et bâti sa richesse sur le commerce européen.
+
+Autres langues et plus sur Zwolle : https://podcast.kajetan.nl/travel/netherlands/zwolle/
+
+Sources, entre autres : Wikipédia et Wikivoyage (CC BY-SA 4.0) ainsi que les sites officiels du tourisme, du patrimoine et des musées. La conversation et les voix sont générées par IA.</itunes:summary>
+      <enclosure url="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/episodes/fr/fr-zwolle-1528690076-v1.mp3" length="24686620" type="audio/mpeg"/>
+      <guid isPermaLink="false">7fc3c0eb-4677-5a6d-8d12-d6b5b9656c5c</guid>
+      <pubDate>Mon, 12 Oct 2026 18:02:08 +0000</pubDate>
+      <itunes:duration>00:25:35</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Apeldoorn : guide de voyage et histoire | La métropole dans la forêt</title>
       <link>https://podcast.kajetan.nl/travel/netherlands/apeldoorn/</link>
