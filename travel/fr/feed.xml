@@ -14,7 +14,27 @@
     <itunes:type>episodic</itunes:type>
     <itunes:category text="Society &amp; Culture"><itunes:category text="Places &amp; Travel"/></itunes:category>
     <itunes:image href="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/cover-fr-3000.jpg"/>
-    <lastBuildDate>Mon, 12 Oct 2026 20:03:32 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 12 Oct 2026 20:33:21 +0000</lastBuildDate>
+    <item>
+      <title>Leeuwarden : guide de voyage et histoire | L'histoire du port sans mer</title>
+      <link>https://podcast.kajetan.nl/travel/netherlands/leeuwarden/</link>
+      <description>Leeuwarden propose lors d'une visite un aperçu de son histoire avec des sites comme la tour Oldehove, l'ancienne prison Blokhuispoort et le parc Prinsentuin. Vers 1300, la Middelzee s'est complètement asséchée, coupant la ville de son accès direct à la mer.
+
+Autres langues et plus sur Leeuwarden : https://podcast.kajetan.nl/travel/netherlands/leeuwarden/
+
+Sources, entre autres : Wikipédia et Wikivoyage (CC BY-SA 4.0) ainsi que les sites officiels du tourisme, du patrimoine et des musées. La conversation et les voix sont générées par IA.</description>
+      <itunes:summary>Leeuwarden propose lors d'une visite un aperçu de son histoire avec des sites comme la tour Oldehove, l'ancienne prison Blokhuispoort et le parc Prinsentuin. Vers 1300, la Middelzee s'est complètement asséchée, coupant la ville de son accès direct à la mer.
+
+Autres langues et plus sur Leeuwarden : https://podcast.kajetan.nl/travel/netherlands/leeuwarden/
+
+Sources, entre autres : Wikipédia et Wikivoyage (CC BY-SA 4.0) ainsi que les sites officiels du tourisme, du patrimoine et des musées. La conversation et les voix sont générées par IA.</itunes:summary>
+      <enclosure url="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/episodes/fr/fr-leeuwarden-1528992603-v1.mp3" length="19370932" type="audio/mpeg"/>
+      <guid isPermaLink="false">0019f458-d366-57ac-b593-c1b2c8140cc2</guid>
+      <pubDate>Mon, 12 Oct 2026 20:31:49 +0000</pubDate>
+      <itunes:duration>00:20:03</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Zoetermeer : guide de voyage et histoire | Des mammouths sous le béton</title>
       <link>https://podcast.kajetan.nl/travel/netherlands/zoetermeer/</link>
