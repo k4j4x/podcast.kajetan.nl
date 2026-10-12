@@ -14,7 +14,27 @@
     <itunes:type>episodic</itunes:type>
     <itunes:category text="Society &amp; Culture"><itunes:category text="Places &amp; Travel"/></itunes:category>
     <itunes:image href="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/cover-fr-3000.jpg"/>
-    <lastBuildDate>Mon, 12 Oct 2026 05:02:49 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 12 Oct 2026 17:02:43 +0000</lastBuildDate>
+    <item>
+      <title>Apeldoorn : guide de voyage et histoire | La métropole dans la forêt</title>
+      <link>https://podcast.kajetan.nl/travel/netherlands/apeldoorn/</link>
+      <description>Apeldoorn associe son histoire avec des lieux comme Paleis Het Loo et Apenheul, qui sont des endroits à voir pendant une visite. En 1684, le prince Guillaume III a acheté le domaine Het Loo pour y construire un pavillon de chasse.
+
+Autres langues et plus sur Apeldoorn : https://podcast.kajetan.nl/travel/netherlands/apeldoorn/
+
+Sources, entre autres : Wikipédia et Wikivoyage (CC BY-SA 4.0) ainsi que les sites officiels du tourisme, du patrimoine et des musées. La conversation et les voix sont générées par IA.</description>
+      <itunes:summary>Apeldoorn associe son histoire avec des lieux comme Paleis Het Loo et Apenheul, qui sont des endroits à voir pendant une visite. En 1684, le prince Guillaume III a acheté le domaine Het Loo pour y construire un pavillon de chasse.
+
+Autres langues et plus sur Apeldoorn : https://podcast.kajetan.nl/travel/netherlands/apeldoorn/
+
+Sources, entre autres : Wikipédia et Wikivoyage (CC BY-SA 4.0) ainsi que les sites officiels du tourisme, du patrimoine et des musées. La conversation et les voix sont générées par IA.</itunes:summary>
+      <enclosure url="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/episodes/fr/fr-apeldoorn-1528057552-v1.mp3" length="13445594" type="audio/mpeg"/>
+      <guid isPermaLink="false">f923cc90-b239-59d9-87fd-d69095e6bdaf</guid>
+      <pubDate>Mon, 12 Oct 2026 17:02:43 +0000</pubDate>
+      <itunes:duration>00:13:53</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Zaanstad : guide de voyage et histoire | Du vent à l'empire industriel</title>
       <link>https://podcast.kajetan.nl/travel/netherlands/zaanstad/</link>

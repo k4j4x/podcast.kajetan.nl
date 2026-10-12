@@ -14,7 +14,27 @@
     <itunes:type>episodic</itunes:type>
     <itunes:category text="Society &amp; Culture"><itunes:category text="Places &amp; Travel"/></itunes:category>
     <itunes:image href="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/cover-es-3000.jpg"/>
-    <lastBuildDate>Mon, 12 Oct 2026 05:02:49 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 12 Oct 2026 17:02:43 +0000</lastBuildDate>
+    <item>
+      <title>Apeldoorn: guía de viaje e historia | De reyes, papel y primates</title>
+      <link>https://podcast.kajetan.nl/travel/netherlands/apeldoorn/</link>
+      <description>Apeldoorn combina su historia real con puntos clave como Paleis Het Loo y Apenheul, excelentes opciones sobre qué ver durante una visita. En 1684, el príncipe Guillermo III compró la finca Het Loo para construir un pabellón de caza.
+
+Otros idiomas y más sobre Apeldoorn: https://podcast.kajetan.nl/travel/netherlands/apeldoorn/
+
+Fuentes, entre otras: Wikipedia y Wikivoyage (CC BY-SA 4.0) y webs oficiales de turismo, patrimonio y museos. La conversación y las voces están generadas por IA.</description>
+      <itunes:summary>Apeldoorn combina su historia real con puntos clave como Paleis Het Loo y Apenheul, excelentes opciones sobre qué ver durante una visita. En 1684, el príncipe Guillermo III compró la finca Het Loo para construir un pabellón de caza.
+
+Otros idiomas y más sobre Apeldoorn: https://podcast.kajetan.nl/travel/netherlands/apeldoorn/
+
+Fuentes, entre otras: Wikipedia y Wikivoyage (CC BY-SA 4.0) y webs oficiales de turismo, patrimonio y museos. La conversación y las voces están generadas por IA.</itunes:summary>
+      <enclosure url="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/episodes/es/es-apeldoorn-1528057552-v1.mp3" length="19656576" type="audio/mpeg"/>
+      <guid isPermaLink="false">316d354e-f9fa-5257-baaa-a5fe870bfe12</guid>
+      <pubDate>Mon, 12 Oct 2026 17:01:50 +0000</pubDate>
+      <itunes:duration>00:20:21</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Zaanstad: guía de viaje e historia | Los molinos del primer motor industrial</title>
       <link>https://podcast.kajetan.nl/travel/netherlands/zaanstad/</link>
