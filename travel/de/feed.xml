@@ -14,7 +14,27 @@
     <itunes:type>episodic</itunes:type>
     <itunes:category text="Society &amp; Culture"><itunes:category text="Places &amp; Travel"/></itunes:category>
     <itunes:image href="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/cover-de-3000.jpg"/>
-    <lastBuildDate>Tue, 13 Oct 2026 18:02:59 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 13 Oct 2026 18:33:15 +0000</lastBuildDate>
+    <item>
+      <title>Dordrecht Reiseführer &amp; Geschichte | Von geschmuggelten Schafen und Wasser</title>
+      <link>https://podcast.kajetan.nl/travel/netherlands/dordrecht/</link>
+      <description>Dordrecht verbindet Geschichte und Gegenwart beim Besuch von Sehenswürdigkeiten wie der Grote Kerk, der Groothoofdspoort und den alten Häfen. Im Jahr 1421 verwandelte die Sint-Elisabethsvloed das Umlandsgebiet in Wasser und machte die Stadt zu einer Insel.
+
+Andere Sprachen und mehr über Dordrecht: https://podcast.kajetan.nl/travel/netherlands/dordrecht/
+
+Quellen u. a. Wikipedia und Wikivoyage (CC BY-SA 4.0) sowie offizielle Websites für Tourismus, Denkmalpflege und Museen. Gespräch und Stimmen sind KI-generiert.</description>
+      <itunes:summary>Dordrecht verbindet Geschichte und Gegenwart beim Besuch von Sehenswürdigkeiten wie der Grote Kerk, der Groothoofdspoort und den alten Häfen. Im Jahr 1421 verwandelte die Sint-Elisabethsvloed das Umlandsgebiet in Wasser und machte die Stadt zu einer Insel.
+
+Andere Sprachen und mehr über Dordrecht: https://podcast.kajetan.nl/travel/netherlands/dordrecht/
+
+Quellen u. a. Wikipedia und Wikivoyage (CC BY-SA 4.0) sowie offizielle Websites für Tourismus, Denkmalpflege und Museen. Gespräch und Stimmen sind KI-generiert.</itunes:summary>
+      <enclosure url="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/episodes/de/de-dordrecht-1528952691-v1.mp3" length="20285055" type="audio/mpeg"/>
+      <guid isPermaLink="false">c9c31737-1c38-5b5b-92f3-9770c7fd5946</guid>
+      <pubDate>Tue, 13 Oct 2026 18:31:50 +0000</pubDate>
+      <itunes:duration>00:21:00</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Leiden Reiseführer &amp; Geschichte | Von der Belagerung zur Universität</title>
       <link>https://podcast.kajetan.nl/travel/netherlands/leiden/</link>
