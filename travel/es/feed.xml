@@ -14,7 +14,27 @@
     <itunes:type>episodic</itunes:type>
     <itunes:category text="Society &amp; Culture"><itunes:category text="Places &amp; Travel"/></itunes:category>
     <itunes:image href="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/cover-es-3000.jpg"/>
-    <lastBuildDate>Tue, 13 Oct 2026 17:33:05 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 13 Oct 2026 18:02:59 +0000</lastBuildDate>
+    <item>
+      <title>Leiden: guía de viaje e historia | Del asedio al cero absoluto</title>
+      <link>https://podcast.kajetan.nl/travel/netherlands/leiden/</link>
+      <description>Leiden combina su historia en la fortaleza Burcht, los canales y el Museum De Lakenhal como lugares clave qué ver en una visita. En 1908, el físico Heike Kamerlingh Onnes licuó helio por primera vez en su laboratorio local, convirtiéndolo en el lugar más frío de la Tierra.
+
+Otros idiomas y más sobre Leiden: https://podcast.kajetan.nl/travel/netherlands/leiden/
+
+Fuentes, entre otras: Wikipedia y Wikivoyage (CC BY-SA 4.0) y webs oficiales de turismo, patrimonio y museos. La conversación y las voces están generadas por IA.</description>
+      <itunes:summary>Leiden combina su historia en la fortaleza Burcht, los canales y el Museum De Lakenhal como lugares clave qué ver en una visita. En 1908, el físico Heike Kamerlingh Onnes licuó helio por primera vez en su laboratorio local, convirtiéndolo en el lugar más frío de la Tierra.
+
+Otros idiomas y más sobre Leiden: https://podcast.kajetan.nl/travel/netherlands/leiden/
+
+Fuentes, entre otras: Wikipedia y Wikivoyage (CC BY-SA 4.0) y webs oficiales de turismo, patrimonio y museos. La conversación y las voces están generadas por IA.</itunes:summary>
+      <enclosure url="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/episodes/es/es-leiden-1528966223-v1.mp3" length="23865839" type="audio/mpeg"/>
+      <guid isPermaLink="false">9285d840-1b5d-50a3-84a4-29e98cec794d</guid>
+      <pubDate>Tue, 13 Oct 2026 18:02:03 +0000</pubDate>
+      <itunes:duration>00:24:44</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Leeuwarden: guía de viaje e historia | La historia de la torre torcida</title>
       <link>https://podcast.kajetan.nl/travel/netherlands/leeuwarden/</link>
