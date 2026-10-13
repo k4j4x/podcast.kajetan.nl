@@ -14,7 +14,27 @@
     <itunes:type>episodic</itunes:type>
     <itunes:category text="Society &amp; Culture"><itunes:category text="Places &amp; Travel"/></itunes:category>
     <itunes:image href="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/cover-nl-3000.jpg"/>
-    <lastBuildDate>Tue, 13 Oct 2026 17:03:10 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 13 Oct 2026 17:33:04 +0000</lastBuildDate>
+    <item>
+      <title>Leiden reisgids &amp; geschiedenis | Van stadsontzet tot de koudste plek</title>
+      <link>https://podcast.kajetan.nl/travel/netherlands/leiden/</link>
+      <description>Leiden biedt met de Burcht, de grachten en Museum De Lakenhal tal van bezienswaardigheden voor een bezoek. In 1908 maakte natuurkundige Heike Kamerlingh Onnes er voor het eerst helium vloeibaar, wat het laboratorium de koudste plek op aarde maakte.
+
+Andere talen en meer over Leiden: https://podcast.kajetan.nl/travel/netherlands/leiden/
+
+Bronnen o.a. Wikipedia en Wikivoyage (CC BY-SA 4.0) en officiële websites over toerisme, erfgoed en musea. Het gesprek en de stemmen zijn door AI gegenereerd.</description>
+      <itunes:summary>Leiden biedt met de Burcht, de grachten en Museum De Lakenhal tal van bezienswaardigheden voor een bezoek. In 1908 maakte natuurkundige Heike Kamerlingh Onnes er voor het eerst helium vloeibaar, wat het laboratorium de koudste plek op aarde maakte.
+
+Andere talen en meer over Leiden: https://podcast.kajetan.nl/travel/netherlands/leiden/
+
+Bronnen o.a. Wikipedia en Wikivoyage (CC BY-SA 4.0) en officiële websites over toerisme, erfgoed en musea. Het gesprek en de stemmen zijn door AI gegenereerd.</itunes:summary>
+      <enclosure url="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/episodes/nl/nl-leiden-1528966223-v1.mp3" length="16438827" type="audio/mpeg"/>
+      <guid isPermaLink="false">d3ee34f8-3d6d-5046-bf0e-48461b9be44b</guid>
+      <pubDate>Tue, 13 Oct 2026 17:33:04 +0000</pubDate>
+      <itunes:duration>00:17:00</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Leeuwarden reisgids &amp; geschiedenis | Van verdwenen zee tot scheve Oldehove</title>
       <link>https://podcast.kajetan.nl/travel/netherlands/leeuwarden/</link>

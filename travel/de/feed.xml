@@ -14,7 +14,27 @@
     <itunes:type>episodic</itunes:type>
     <itunes:category text="Society &amp; Culture"><itunes:category text="Places &amp; Travel"/></itunes:category>
     <itunes:image href="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/cover-de-3000.jpg"/>
-    <lastBuildDate>Tue, 13 Oct 2026 17:03:09 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 13 Oct 2026 17:33:04 +0000</lastBuildDate>
+    <item>
+      <title>Leiden Reiseführer &amp; Geschichte | Von der Belagerung zur Universität</title>
+      <link>https://podcast.kajetan.nl/travel/netherlands/leiden/</link>
+      <description>Leiden bietet mit der historischen Festung Burcht, den Grachten und dem Museum De Lakenhal zentrale Sehenswürdigkeiten für einen Besuch. Im Jahr 1575 gründete Wilhelm von Oranien dort als Belohnung nach der spanischen Belagerung die älteste Universität der Niederlande.
+
+Andere Sprachen und mehr über Leiden: https://podcast.kajetan.nl/travel/netherlands/leiden/
+
+Quellen u. a. Wikipedia und Wikivoyage (CC BY-SA 4.0) sowie offizielle Websites für Tourismus, Denkmalpflege und Museen. Gespräch und Stimmen sind KI-generiert.</description>
+      <itunes:summary>Leiden bietet mit der historischen Festung Burcht, den Grachten und dem Museum De Lakenhal zentrale Sehenswürdigkeiten für einen Besuch. Im Jahr 1575 gründete Wilhelm von Oranien dort als Belohnung nach der spanischen Belagerung die älteste Universität der Niederlande.
+
+Andere Sprachen und mehr über Leiden: https://podcast.kajetan.nl/travel/netherlands/leiden/
+
+Quellen u. a. Wikipedia und Wikivoyage (CC BY-SA 4.0) sowie offizielle Websites für Tourismus, Denkmalpflege und Museen. Gespräch und Stimmen sind KI-generiert.</itunes:summary>
+      <enclosure url="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/episodes/de/de-leiden-1528966223-v1.mp3" length="23327368" type="audio/mpeg"/>
+      <guid isPermaLink="false">efb4361a-2a13-5b61-bd92-8d05edaa7bcf</guid>
+      <pubDate>Tue, 13 Oct 2026 17:32:02 +0000</pubDate>
+      <itunes:duration>00:24:10</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Leeuwarden Reiseführer &amp; Geschichte | Der schiefe Turm am verschwundenen Meer</title>
       <link>https://podcast.kajetan.nl/travel/netherlands/leeuwarden/</link>
