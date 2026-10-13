@@ -14,7 +14,7 @@
     <itunes:type>episodic</itunes:type>
     <itunes:category text="Society &amp; Culture"><itunes:category text="Places &amp; Travel"/></itunes:category>
     <itunes:image href="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/cover-nl-3000.jpg"/>
-    <lastBuildDate>Tue, 13 Oct 2026 05:00:12 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 13 Oct 2026 05:04:06 +0000</lastBuildDate>
     <item>
       <title>Leeuwarden reisgids &amp; geschiedenis | Van verdwenen zee tot scheve Oldehove</title>
       <link>https://podcast.kajetan.nl/travel/netherlands/leeuwarden/</link>
@@ -134,10 +134,10 @@ Bronnen o.a. Wikipedia en Wikivoyage (CC BY-SA 4.0) en officiële websites over 
 Andere talen en meer over Amersfoort: https://podcast.kajetan.nl/travel/netherlands/amersfoort/
 
 Bronnen o.a. Wikipedia en Wikivoyage (CC BY-SA 4.0) en officiële websites over toerisme, erfgoed en musea. Het gesprek en de stemmen zijn door AI gegenereerd.</itunes:summary>
-      <enclosure url="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/episodes/nl/nl-amersfoort-1528206992-v1.mp3" length="22156510" type="audio/mpeg"/>
+      <enclosure url="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/episodes/nl/nl-amersfoort-1528206992-v2.mp3" length="17103801" type="audio/mpeg"/>
       <guid isPermaLink="false">56f69ba5-85cf-535d-a0b3-d90084893d08</guid>
       <pubDate>Sun, 11 Oct 2026 18:03:30 +0000</pubDate>
-      <itunes:duration>00:22:57</itunes:duration>
+      <itunes:duration>00:17:41</itunes:duration>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>false</itunes:explicit>
     </item>
@@ -239,10 +239,10 @@ Bronnen o.a. Wikipedia en Wikivoyage (CC BY-SA 4.0) en officiële websites over 
 Andere talen en meer over Breda: https://podcast.kajetan.nl/travel/netherlands/breda/
 
 Bronnen o.a. Wikipedia en Wikivoyage (CC BY-SA 4.0) en officiële websites over toerisme, erfgoed en musea. Het gesprek en de stemmen zijn door AI gegenereerd.</itunes:summary>
-      <enclosure url="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/episodes/nl/nl-breda-1528921549-v1.mp3" length="25585449" type="audio/mpeg"/>
+      <enclosure url="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/episodes/nl/nl-breda-1528921549-v3.mp3" length="18546598" type="audio/mpeg"/>
       <guid isPermaLink="false">986264dd-5a8c-5a2a-9258-c14f6359b3e2</guid>
       <pubDate>Sat, 10 Oct 2026 10:36:14 +0000</pubDate>
-      <itunes:duration>00:26:32</itunes:duration>
+      <itunes:duration>00:19:12</itunes:duration>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>false</itunes:explicit>
     </item>
