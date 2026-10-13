@@ -14,7 +14,7 @@
     <itunes:type>episodic</itunes:type>
     <itunes:category text="Society &amp; Culture"><itunes:category text="Places &amp; Travel"/></itunes:category>
     <itunes:image href="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/cover-it-3000.jpg"/>
-    <lastBuildDate>Mon, 12 Oct 2026 20:33:21 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 13 Oct 2026 05:00:13 +0000</lastBuildDate>
     <item>
       <title>Zoetermeer: guida di viaggio e storia | Dai mammut alle patate d'oro</title>
       <link>https://podcast.kajetan.nl/travel/netherlands/zoetermeer/</link>
@@ -38,6 +38,7 @@ Fonti, tra le altre: Wikipedia e Wikivoyage (CC BY-SA 4.0) e siti ufficiali di t
     <item>
       <title>Zwolle: guida di viaggio e storia | Oltre il mito delle Dita Blu</title>
       <link>https://podcast.kajetan.nl/travel/netherlands/zwolle/</link>
+      <podcast:transcript url="https://podcast.kajetan.nl/travel/netherlands/zwolle/transcript-it.txt" type="text/plain" language="it"/>
       <description>Zwolle unisce in una visita la sua storia a luoghi come la Sassenpoort, il Peperbus e il Museum de Fundatie. Nel 1407, la città entrò nella Lega Anseatica e costruì la sua ricchezza sul commercio europeo.
 
 Altre lingue e altro su Zwolle: https://podcast.kajetan.nl/travel/netherlands/zwolle/
@@ -58,6 +59,7 @@ Fonti, tra le altre: Wikipedia e Wikivoyage (CC BY-SA 4.0) e siti ufficiali di t
     <item>
       <title>Apeldoorn: guida di viaggio e storia | Tra palazzi reali e resistenza</title>
       <link>https://podcast.kajetan.nl/travel/netherlands/apeldoorn/</link>
+      <podcast:transcript url="https://podcast.kajetan.nl/travel/netherlands/apeldoorn/transcript-it.txt" type="text/plain" language="it"/>
       <description>Apeldoorn unisce la sua storia reale a luoghi come Paleis Het Loo e il CODA Museum, ottime tappe su cosa vedere durante una visita. Nel 1684, il principe Guglielmo III acquistò la tenuta Het Loo per costruirvi un padiglione da caccia.
 
 Altre lingue e altro su Apeldoorn: https://podcast.kajetan.nl/travel/netherlands/apeldoorn/
@@ -99,6 +101,7 @@ Fonti, tra le altre: Wikipedia e Wikivoyage (CC BY-SA 4.0) e siti ufficiali di t
     <item>
       <title>Amersfoort: guida di viaggio e storia | Dal punto zero al masso sepolto</title>
       <link>https://podcast.kajetan.nl/travel/netherlands/amersfoort/</link>
+      <podcast:transcript url="https://podcast.kajetan.nl/travel/netherlands/amersfoort/transcript-it.txt" type="text/plain" language="it"/>
       <description>Amersfoort mostra la sua storia medievale tra le cose da vedere durante una visita, come la porta Koppelpoort e le case Muurhuizen. Nel 1672, i cittadini seppellirono in Varkensmarkt il masso di sette tonnellate che avevano trascinato in città undici anni prima.
 
 Altre lingue e altro su Amersfoort: https://podcast.kajetan.nl/travel/netherlands/amersfoort/

@@ -14,10 +14,11 @@
     <itunes:type>episodic</itunes:type>
     <itunes:category text="Society &amp; Culture"><itunes:category text="Places &amp; Travel"/></itunes:category>
     <itunes:image href="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/cover-de-3000.jpg"/>
-    <lastBuildDate>Mon, 12 Oct 2026 20:33:20 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 13 Oct 2026 05:00:12 +0000</lastBuildDate>
     <item>
       <title>Leeuwarden Reiseführer &amp; Geschichte | Der schiefe Turm am verschwundenen Meer</title>
       <link>https://podcast.kajetan.nl/travel/netherlands/leeuwarden/</link>
+      <podcast:transcript url="https://podcast.kajetan.nl/travel/netherlands/leeuwarden/transcript-de.txt" type="text/plain" language="de"/>
       <description>Leeuwarden bietet bei einem Besuch Einblicke in die Geschichte mit Sehenswürdigkeiten wie der ehemaligen Strafanstalt Blokhuispoort, der Waag an der Nieuwestad und dem schiefen Turm Oldehove. Bis etwa 1300 verlandete die Middelzee vollständig, wodurch die Stadt ihren direkten Zugang zum offenen Meer verlor.
 
 Andere Sprachen und mehr über Leeuwarden: https://podcast.kajetan.nl/travel/netherlands/leeuwarden/
@@ -38,6 +39,7 @@ Quellen u. a. Wikipedia und Wikivoyage (CC BY-SA 4.0) sowie offizielle Websites 
     <item>
       <title>Zoetermeer Reiseführer &amp; Geschichte | Vom Butterdorf zur New Town</title>
       <link>https://podcast.kajetan.nl/travel/netherlands/zoetermeer/</link>
+      <podcast:transcript url="https://podcast.kajetan.nl/travel/netherlands/zoetermeer/transcript-de.txt" type="text/plain" language="de"/>
       <description>Zoetermeer verbindet in der Dorpsstraat, an der Mühle Molen De Hoop und im Nationaal Videogame Museum seine Geschichte mit bekannten Sehenswürdigkeiten für einen Besuch. Im Jahr 1962 wurde der Ort als Groeistad bestimmt und entwickelte sich rasch zur New Town.
 
 Andere Sprachen und mehr über Zoetermeer: https://podcast.kajetan.nl/travel/netherlands/zoetermeer/
@@ -58,6 +60,7 @@ Quellen u. a. Wikipedia und Wikivoyage (CC BY-SA 4.0) sowie offizielle Websites 
     <item>
       <title>Zwolle Reiseführer &amp; Geschichte | Vom Sumpf zur mächtigen Hansestadt</title>
       <link>https://podcast.kajetan.nl/travel/netherlands/zwolle/</link>
+      <podcast:transcript url="https://podcast.kajetan.nl/travel/netherlands/zwolle/transcript-de.txt" type="text/plain" language="de"/>
       <description>Zwolle verbindet bei einem Besuch seine Geschichte mit Sehenswürdigkeiten wie dem Sassenpoort, dem Peperbus und dem Museum de Fundatie. Im Jahr 1407 trat die Stadt der Deutschen Hanse bei und baute ihren Wohlstand auf dem europäischen Handel auf.
 
 Andere Sprachen und mehr über Zwolle: https://podcast.kajetan.nl/travel/netherlands/zwolle/

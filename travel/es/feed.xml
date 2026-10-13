@@ -14,10 +14,11 @@
     <itunes:type>episodic</itunes:type>
     <itunes:category text="Society &amp; Culture"><itunes:category text="Places &amp; Travel"/></itunes:category>
     <itunes:image href="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/cover-es-3000.jpg"/>
-    <lastBuildDate>Mon, 12 Oct 2026 20:33:21 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 13 Oct 2026 05:00:13 +0000</lastBuildDate>
     <item>
       <title>Zoetermeer: guía de viaje e historia | Fósiles de mamut bajo la ciudad</title>
       <link>https://podcast.kajetan.nl/travel/netherlands/zoetermeer/</link>
+      <podcast:transcript url="https://podcast.kajetan.nl/travel/netherlands/zoetermeer/transcript-es.txt" type="text/plain" language="es"/>
       <description>Zoetermeer combina en la Dorpsstraat, el molino Molen De Hoop y el Nationaal Videogame Museum su historia con diversos lugares para una visita. En 1962, la localidad fue designada como centro de crecimiento urbano, iniciando su rápida transformación.
 
 Otros idiomas y más sobre Zoetermeer: https://podcast.kajetan.nl/travel/netherlands/zoetermeer/
@@ -38,6 +39,7 @@ Fuentes, entre otras: Wikipedia y Wikivoyage (CC BY-SA 4.0) y webs oficiales de 
     <item>
       <title>Zwolle: guía de viaje e historia | Tras la leyenda de los Dedos Azules</title>
       <link>https://podcast.kajetan.nl/travel/netherlands/zwolle/</link>
+      <podcast:transcript url="https://podcast.kajetan.nl/travel/netherlands/zwolle/transcript-es.txt" type="text/plain" language="es"/>
       <description>Zwolle combina en una visita su historia y lugares qué ver como la Sassenpoort, el Peperbus y el Museum de Fundatie. En 1407, la ciudad se unió a la Liga Hanseática y construyó su riqueza con el comercio europeo.
 
 Otros idiomas y más sobre Zwolle: https://podcast.kajetan.nl/travel/netherlands/zwolle/
@@ -58,6 +60,7 @@ Fuentes, entre otras: Wikipedia y Wikivoyage (CC BY-SA 4.0) y webs oficiales de 
     <item>
       <title>Apeldoorn: guía de viaje e historia | De reyes, papel y primates</title>
       <link>https://podcast.kajetan.nl/travel/netherlands/apeldoorn/</link>
+      <podcast:transcript url="https://podcast.kajetan.nl/travel/netherlands/apeldoorn/transcript-es.txt" type="text/plain" language="es"/>
       <description>Apeldoorn combina su historia real con puntos clave como Paleis Het Loo y Apenheul, excelentes opciones sobre qué ver durante una visita. En 1684, el príncipe Guillermo III compró la finca Het Loo para construir un pabellón de caza.
 
 Otros idiomas y más sobre Apeldoorn: https://podcast.kajetan.nl/travel/netherlands/apeldoorn/

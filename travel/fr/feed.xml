@@ -14,10 +14,11 @@
     <itunes:type>episodic</itunes:type>
     <itunes:category text="Society &amp; Culture"><itunes:category text="Places &amp; Travel"/></itunes:category>
     <itunes:image href="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/cover-fr-3000.jpg"/>
-    <lastBuildDate>Mon, 12 Oct 2026 20:33:21 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 13 Oct 2026 05:00:12 +0000</lastBuildDate>
     <item>
       <title>Leeuwarden : guide de voyage et histoire | L'histoire du port sans mer</title>
       <link>https://podcast.kajetan.nl/travel/netherlands/leeuwarden/</link>
+      <podcast:transcript url="https://podcast.kajetan.nl/travel/netherlands/leeuwarden/transcript-fr.txt" type="text/plain" language="fr"/>
       <description>Leeuwarden propose lors d'une visite un aperçu de son histoire avec des sites comme la tour Oldehove, l'ancienne prison Blokhuispoort et le parc Prinsentuin. Vers 1300, la Middelzee s'est complètement asséchée, coupant la ville de son accès direct à la mer.
 
 Autres langues et plus sur Leeuwarden : https://podcast.kajetan.nl/travel/netherlands/leeuwarden/
@@ -38,6 +39,7 @@ Sources, entre autres : Wikipédia et Wikivoyage (CC BY-SA 4.0) ainsi que les si
     <item>
       <title>Zoetermeer : guide de voyage et histoire | Des mammouths sous le béton</title>
       <link>https://podcast.kajetan.nl/travel/netherlands/zoetermeer/</link>
+      <podcast:transcript url="https://podcast.kajetan.nl/travel/netherlands/zoetermeer/transcript-fr.txt" type="text/plain" language="fr"/>
       <description>Zoetermeer réunit dans la Dorpsstraat, au moulin Molen De Hoop et au Nationaal Videogame Museum son histoire avec divers lieux à voir lors d'une visite. En 1962, la commune a été désignée comme centre de croissance urbaine, déclenchant sa rapide transformation.
 
 Autres langues et plus sur Zoetermeer : https://podcast.kajetan.nl/travel/netherlands/zoetermeer/
@@ -58,6 +60,7 @@ Sources, entre autres : Wikipédia et Wikivoyage (CC BY-SA 4.0) ainsi que les si
     <item>
       <title>Zwolle : guide de voyage et histoire | Derrière la légende des Doigts Bleus</title>
       <link>https://podcast.kajetan.nl/travel/netherlands/zwolle/</link>
+      <podcast:transcript url="https://podcast.kajetan.nl/travel/netherlands/zwolle/transcript-fr.txt" type="text/plain" language="fr"/>
       <description>Zwolle réunit lors d'une visite son histoire et des sites à voir comme la Sassenpoort, le Peperbus et le Museum de Fundatie. En 1407, la ville a rejoint la Ligue hanséatique et bâti sa richesse sur le commerce européen.
 
 Autres langues et plus sur Zwolle : https://podcast.kajetan.nl/travel/netherlands/zwolle/
@@ -78,6 +81,7 @@ Sources, entre autres : Wikipédia et Wikivoyage (CC BY-SA 4.0) ainsi que les si
     <item>
       <title>Apeldoorn : guide de voyage et histoire | La métropole dans la forêt</title>
       <link>https://podcast.kajetan.nl/travel/netherlands/apeldoorn/</link>
+      <podcast:transcript url="https://podcast.kajetan.nl/travel/netherlands/apeldoorn/transcript-fr.txt" type="text/plain" language="fr"/>
       <description>Apeldoorn associe son histoire avec des lieux comme Paleis Het Loo et Apenheul, qui sont des endroits à voir pendant une visite. En 1684, le prince Guillaume III a acheté le domaine Het Loo pour y construire un pavillon de chasse.
 
 Autres langues et plus sur Apeldoorn : https://podcast.kajetan.nl/travel/netherlands/apeldoorn/
