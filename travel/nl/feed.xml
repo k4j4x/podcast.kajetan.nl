@@ -14,7 +14,27 @@
     <itunes:type>episodic</itunes:type>
     <itunes:category text="Society &amp; Culture"><itunes:category text="Places &amp; Travel"/></itunes:category>
     <itunes:image href="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/cover-nl-3000.jpg"/>
-    <lastBuildDate>Tue, 13 Oct 2026 18:33:15 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 13 Oct 2026 19:02:44 +0000</lastBuildDate>
+    <item>
+      <title>Dordrecht reisgids &amp; geschiedenis | Van stapelrecht tot de stormvloed</title>
+      <link>https://podcast.kajetan.nl/travel/netherlands/dordrecht/</link>
+      <description>Dordrecht biedt een overzicht van haar geschiedenis bij een bezoek aan bezienswaardigheden als de Grote Kerk, de Groothoofdspoort en de oude havens. In 1421 zette de Sint-Elisabethsvloed het omliggende land onder water en veranderde de handelsstad in een eiland.
+
+Andere talen en meer over Dordrecht: https://podcast.kajetan.nl/travel/netherlands/dordrecht/
+
+Bronnen o.a. Wikipedia en Wikivoyage (CC BY-SA 4.0) en officiële websites over toerisme, erfgoed en musea. Het gesprek en de stemmen zijn door AI gegenereerd.</description>
+      <itunes:summary>Dordrecht biedt een overzicht van haar geschiedenis bij een bezoek aan bezienswaardigheden als de Grote Kerk, de Groothoofdspoort en de oude havens. In 1421 zette de Sint-Elisabethsvloed het omliggende land onder water en veranderde de handelsstad in een eiland.
+
+Andere talen en meer over Dordrecht: https://podcast.kajetan.nl/travel/netherlands/dordrecht/
+
+Bronnen o.a. Wikipedia en Wikivoyage (CC BY-SA 4.0) en officiële websites over toerisme, erfgoed en musea. Het gesprek en de stemmen zijn door AI gegenereerd.</itunes:summary>
+      <enclosure url="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/episodes/nl/nl-dordrecht-1528952691-v1.mp3" length="15341685" type="audio/mpeg"/>
+      <guid isPermaLink="false">a4ae5425-67ef-5231-9e17-7f235f64c2c5</guid>
+      <pubDate>Tue, 13 Oct 2026 19:02:43 +0000</pubDate>
+      <itunes:duration>00:15:51</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Leiden reisgids &amp; geschiedenis | Van stadsontzet tot de koudste plek</title>
       <link>https://podcast.kajetan.nl/travel/netherlands/leiden/</link>

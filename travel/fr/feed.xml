@@ -14,7 +14,27 @@
     <itunes:type>episodic</itunes:type>
     <itunes:category text="Society &amp; Culture"><itunes:category text="Places &amp; Travel"/></itunes:category>
     <itunes:image href="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/cover-fr-3000.jpg"/>
-    <lastBuildDate>Tue, 13 Oct 2026 18:33:15 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 13 Oct 2026 19:02:44 +0000</lastBuildDate>
+    <item>
+      <title>Dordrecht : guide de voyage et histoire | Quand une cité devint une île</title>
+      <link>https://podcast.kajetan.nl/travel/netherlands/dordrecht/</link>
+      <description>Dordrecht dévoile son histoire lors d'une visite passant par la Grote Kerk, la porte Groothoofdspoort et les bassins de la Wolwevershaven. En 1421, la Sint-Elisabethsvloed a submergé le paysage aux alentours et a transformé la cité en île.
+
+Autres langues et plus sur Dordrecht : https://podcast.kajetan.nl/travel/netherlands/dordrecht/
+
+Sources, entre autres : Wikipédia et Wikivoyage (CC BY-SA 4.0) ainsi que les sites officiels du tourisme, du patrimoine et des musées. La conversation et les voix sont générées par IA.</description>
+      <itunes:summary>Dordrecht dévoile son histoire lors d'une visite passant par la Grote Kerk, la porte Groothoofdspoort et les bassins de la Wolwevershaven. En 1421, la Sint-Elisabethsvloed a submergé le paysage aux alentours et a transformé la cité en île.
+
+Autres langues et plus sur Dordrecht : https://podcast.kajetan.nl/travel/netherlands/dordrecht/
+
+Sources, entre autres : Wikipédia et Wikivoyage (CC BY-SA 4.0) ainsi que les sites officiels du tourisme, du patrimoine et des musées. La conversation et les voix sont générées par IA.</itunes:summary>
+      <enclosure url="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/episodes/fr/fr-dordrecht-1528952691-v1.mp3" length="18917521" type="audio/mpeg"/>
+      <guid isPermaLink="false">8e891481-0977-5a8f-9a30-86af8c717f4c</guid>
+      <pubDate>Tue, 13 Oct 2026 19:01:45 +0000</pubDate>
+      <itunes:duration>00:19:35</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Leiden : guide de voyage et histoire | Berceau de Rembrandt et des sciences</title>
       <link>https://podcast.kajetan.nl/travel/netherlands/leiden/</link>
