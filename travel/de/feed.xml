@@ -14,7 +14,27 @@
     <itunes:type>episodic</itunes:type>
     <itunes:category text="Society &amp; Culture"><itunes:category text="Places &amp; Travel"/></itunes:category>
     <itunes:image href="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/cover-de-3000.jpg"/>
-    <lastBuildDate>Tue, 13 Oct 2026 19:32:43 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 13 Oct 2026 20:03:07 +0000</lastBuildDate>
+    <item>
+      <title>Maastricht Reiseführer &amp; Geschichte | Vom Festungswall zur Wiege der EU</title>
+      <link>https://podcast.kajetan.nl/travel/netherlands/maastricht/</link>
+      <description>Maastricht verbindet seine Geschichte bei einem Besuch mit Sehenswürdigkeiten wie Fort Sint Pieter, der Helpoort und der Sint Servaasbrug an der Maas. Im Jahr 1992 unterzeichneten Regierungschefs im Gouvernement den Vertrag von Maastricht, welcher die Europäische Union schuf und den Euro einleitete.
+
+Andere Sprachen und mehr über Maastricht: https://podcast.kajetan.nl/travel/netherlands/maastricht/
+
+Quellen u. a. Wikipedia und Wikivoyage (CC BY-SA 4.0) sowie offizielle Websites für Tourismus, Denkmalpflege und Museen. Gespräch und Stimmen sind KI-generiert.</description>
+      <itunes:summary>Maastricht verbindet seine Geschichte bei einem Besuch mit Sehenswürdigkeiten wie Fort Sint Pieter, der Helpoort und der Sint Servaasbrug an der Maas. Im Jahr 1992 unterzeichneten Regierungschefs im Gouvernement den Vertrag von Maastricht, welcher die Europäische Union schuf und den Euro einleitete.
+
+Andere Sprachen und mehr über Maastricht: https://podcast.kajetan.nl/travel/netherlands/maastricht/
+
+Quellen u. a. Wikipedia und Wikivoyage (CC BY-SA 4.0) sowie offizielle Websites für Tourismus, Denkmalpflege und Museen. Gespräch und Stimmen sind KI-generiert.</itunes:summary>
+      <enclosure url="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/episodes/de/de-maastricht-1528563623-v1.mp3" length="20413781" type="audio/mpeg"/>
+      <guid isPermaLink="false">a84a2112-7652-5950-ac0b-a77a672c7fb6</guid>
+      <pubDate>Tue, 13 Oct 2026 20:01:51 +0000</pubDate>
+      <itunes:duration>00:21:08</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Dordrecht Reiseführer &amp; Geschichte | Von geschmuggelten Schafen und Wasser</title>
       <link>https://podcast.kajetan.nl/travel/netherlands/dordrecht/</link>
