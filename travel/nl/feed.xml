@@ -14,7 +14,27 @@
     <itunes:type>episodic</itunes:type>
     <itunes:category text="Society &amp; Culture"><itunes:category text="Places &amp; Travel"/></itunes:category>
     <itunes:image href="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/cover-nl-3000.jpg"/>
-    <lastBuildDate>Wed, 14 Oct 2026 04:05:14 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 14 Oct 2026 16:32:10 +0000</lastBuildDate>
+    <item>
+      <title>Alkmaar reisgids &amp; geschiedenis | Hoe water de Spanjaarden wegspoelde</title>
+      <link>https://podcast.kajetan.nl/travel/netherlands/alkmaar/</link>
+      <description>Alkmaar biedt historische grachten, het middeleeuwse Waaggebouw en de Grote Sint-Laurenskerk als bezienswaardigheden voor wie tijdens een bezoek de lokale geschiedenis wil verkennen. In 1573 staken de inwoners de dijken door om het omliggende land onder water te zetten en de Spaanse belegering te breken.
+
+Andere talen en meer over Alkmaar: https://podcast.kajetan.nl/travel/netherlands/alkmaar/
+
+Bronnen o.a. Wikipedia en Wikivoyage (CC BY-SA 4.0) en officiële websites over toerisme, erfgoed en musea. Het gesprek en de stemmen zijn door AI gegenereerd.</description>
+      <itunes:summary>Alkmaar biedt historische grachten, het middeleeuwse Waaggebouw en de Grote Sint-Laurenskerk als bezienswaardigheden voor wie tijdens een bezoek de lokale geschiedenis wil verkennen. In 1573 staken de inwoners de dijken door om het omliggende land onder water te zetten en de Spaanse belegering te breken.
+
+Andere talen en meer over Alkmaar: https://podcast.kajetan.nl/travel/netherlands/alkmaar/
+
+Bronnen o.a. Wikipedia en Wikivoyage (CC BY-SA 4.0) en officiële websites over toerisme, erfgoed en musea. Het gesprek en de stemmen zijn door AI gegenereerd.</itunes:summary>
+      <enclosure url="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/episodes/nl/nl-alkmaar-1528566376-v1.mp3" length="24841061" type="audio/mpeg"/>
+      <guid isPermaLink="false">7069995b-e362-59d2-a309-fe98a37ff964</guid>
+      <pubDate>Wed, 14 Oct 2026 16:32:09 +0000</pubDate>
+      <itunes:duration>00:25:45</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Maastricht reisgids &amp; geschiedenis | Historische lagen op elkaar gestapeld</title>
       <link>https://podcast.kajetan.nl/travel/netherlands/maastricht/</link>
