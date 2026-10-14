@@ -14,7 +14,27 @@
     <itunes:type>episodic</itunes:type>
     <itunes:category text="Society &amp; Culture"><itunes:category text="Places &amp; Travel"/></itunes:category>
     <itunes:image href="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/cover-nl-3000.jpg"/>
-    <lastBuildDate>Wed, 14 Oct 2026 18:33:10 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 14 Oct 2026 19:02:37 +0000</lastBuildDate>
+    <item>
+      <title>Emmen reisgids &amp; geschiedenis | Hunebedden tussen de rijtjeshuizen</title>
+      <link>https://podcast.kajetan.nl/travel/netherlands/emmen/</link>
+      <description>Emmen biedt met de hunebedden in de Emmerdennen, de Grote Kerk aan het Marktplein en het Rensenpark talrijke bezienswaardigheden voor een bezoek vol geschiedenis. In 1883 verbleef de schilder Vincent van Gogh in nabijgelegen Nieuw-Amsterdam om de veengebieden te tekenen en schilderen.
+
+Andere talen en meer over Emmen: https://podcast.kajetan.nl/travel/netherlands/emmen/
+
+Bronnen o.a. Wikipedia en Wikivoyage (CC BY-SA 4.0) en officiële websites over toerisme, erfgoed en musea. Het gesprek en de stemmen zijn door AI gegenereerd.</description>
+      <itunes:summary>Emmen biedt met de hunebedden in de Emmerdennen, de Grote Kerk aan het Marktplein en het Rensenpark talrijke bezienswaardigheden voor een bezoek vol geschiedenis. In 1883 verbleef de schilder Vincent van Gogh in nabijgelegen Nieuw-Amsterdam om de veengebieden te tekenen en schilderen.
+
+Andere talen en meer over Emmen: https://podcast.kajetan.nl/travel/netherlands/emmen/
+
+Bronnen o.a. Wikipedia en Wikivoyage (CC BY-SA 4.0) en officiële websites over toerisme, erfgoed en musea. Het gesprek en de stemmen zijn door AI gegenereerd.</itunes:summary>
+      <enclosure url="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/episodes/nl/nl-emmen-1528332075-v1.mp3" length="14268781" type="audio/mpeg"/>
+      <guid isPermaLink="false">f5112b15-2eb6-55a9-9bfa-0821afac3195</guid>
+      <pubDate>Wed, 14 Oct 2026 19:02:37 +0000</pubDate>
+      <itunes:duration>00:14:44</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Delft reisgids &amp; geschiedenis | Van scheve toren tot blauw aardewerk</title>
       <link>https://podcast.kajetan.nl/travel/netherlands/delft/</link>
