@@ -14,7 +14,27 @@
     <itunes:type>episodic</itunes:type>
     <itunes:category text="Society &amp; Culture"><itunes:category text="Places &amp; Travel"/></itunes:category>
     <itunes:image href="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/cover-it-3000.jpg"/>
-    <lastBuildDate>Wed, 14 Oct 2026 17:04:33 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 14 Oct 2026 17:33:24 +0000</lastBuildDate>
+    <item>
+      <title>Alkmaar: guida di viaggio e storia | Oltre la crosta del formaggio</title>
+      <link>https://podcast.kajetan.nl/travel/netherlands/alkmaar/</link>
+      <description>Alkmaar riunisce i canali, il Waaggebouw e la Grote Sint Laurenskerk tra i luoghi principali per chi approfondisce la storia locale durante una visita. Nel 1573, gli abitanti ruppero le dighe per inondare i terreni circostanti e spezzare l'assedio spagnolo.
+
+Altre lingue e altro su Alkmaar: https://podcast.kajetan.nl/travel/netherlands/alkmaar/
+
+Fonti, tra le altre: Wikipedia e Wikivoyage (CC BY-SA 4.0) e siti ufficiali di turismo, patrimonio e musei. La conversazione e le voci sono generate dall'IA.</description>
+      <itunes:summary>Alkmaar riunisce i canali, il Waaggebouw e la Grote Sint Laurenskerk tra i luoghi principali per chi approfondisce la storia locale durante una visita. Nel 1573, gli abitanti ruppero le dighe per inondare i terreni circostanti e spezzare l'assedio spagnolo.
+
+Altre lingue e altro su Alkmaar: https://podcast.kajetan.nl/travel/netherlands/alkmaar/
+
+Fonti, tra le altre: Wikipedia e Wikivoyage (CC BY-SA 4.0) e siti ufficiali di turismo, patrimonio e musei. La conversazione e le voci sono generate dall'IA.</itunes:summary>
+      <enclosure url="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/episodes/it/it-alkmaar-1528566376-v1.mp3" length="18944614" type="audio/mpeg"/>
+      <guid isPermaLink="false">afdb9bf1-624c-580b-bb3c-d9d16aa483c8</guid>
+      <pubDate>Wed, 14 Oct 2026 17:33:23 +0000</pubDate>
+      <itunes:duration>00:19:36</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Maastricht: guida di viaggio e storia | Dai mosasauri fino al Trattato europeo</title>
       <link>https://podcast.kajetan.nl/travel/netherlands/maastricht/</link>
