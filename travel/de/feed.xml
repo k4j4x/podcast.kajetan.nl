@@ -14,7 +14,7 @@
     <itunes:type>episodic</itunes:type>
     <itunes:category text="Society &amp; Culture"><itunes:category text="Places &amp; Travel"/></itunes:category>
     <itunes:image href="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/cover-de-3000.jpg"/>
-    <lastBuildDate>Wed, 14 Oct 2026 03:54:29 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 14 Oct 2026 04:05:14 +0000</lastBuildDate>
     <item>
       <title>Maastricht Reiseführer &amp; Geschichte | Vom Festungswall zur Wiege der EU</title>
       <link>https://podcast.kajetan.nl/travel/netherlands/maastricht/</link>
@@ -92,10 +92,10 @@ Quellen u. a. Wikipedia und Wikivoyage (CC BY-SA 4.0) sowie offizielle Websites 
 Andere Sprachen und mehr über Leeuwarden: https://podcast.kajetan.nl/travel/netherlands/leeuwarden/
 
 Quellen u. a. Wikipedia und Wikivoyage (CC BY-SA 4.0) sowie offizielle Websites für Tourismus, Denkmalpflege und Museen. Gespräch und Stimmen sind KI-generiert.</itunes:summary>
-      <enclosure url="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/episodes/de/de-leeuwarden-1528992603-v1.mp3" length="22553326" type="audio/mpeg"/>
+      <enclosure url="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/episodes/de/de-leeuwarden-1528992603-v2.mp3" length="23486629" type="audio/mpeg"/>
       <guid isPermaLink="false">b0df34b3-3b30-5f0b-9320-5d6bbf7f57ee</guid>
       <pubDate>Mon, 12 Oct 2026 20:03:31 +0000</pubDate>
-      <itunes:duration>00:23:22</itunes:duration>
+      <itunes:duration>00:24:20</itunes:duration>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>false</itunes:explicit>
     </item>
