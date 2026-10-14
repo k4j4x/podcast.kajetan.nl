@@ -14,7 +14,27 @@
     <itunes:type>episodic</itunes:type>
     <itunes:category text="Society &amp; Culture"><itunes:category text="Places &amp; Travel"/></itunes:category>
     <itunes:image href="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/cover-fr-3000.jpg"/>
-    <lastBuildDate>Wed, 14 Oct 2026 17:33:24 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 14 Oct 2026 18:03:28 +0000</lastBuildDate>
+    <item>
+      <title>Delft : guide de voyage et histoire | Des poudres à la faïence bleue</title>
+      <link>https://podcast.kajetan.nl/travel/netherlands/delft/</link>
+      <description>Delft réunit pendant une visite des lieux clés comme la Oude Kerk, la Nieuwe Kerk, le Prinsenhof et le Markt pour comprendre son histoire. En 1584, Willem van Oranje a été assassiné au Prinsenhof, ce qui a changé le destin des Pays-Bas.
+
+Autres langues et plus sur Delft : https://podcast.kajetan.nl/travel/netherlands/delft/
+
+Sources, entre autres : Wikipédia et Wikivoyage (CC BY-SA 4.0) ainsi que les sites officiels du tourisme, du patrimoine et des musées. La conversation et les voix sont générées par IA.</description>
+      <itunes:summary>Delft réunit pendant une visite des lieux clés comme la Oude Kerk, la Nieuwe Kerk, le Prinsenhof et le Markt pour comprendre son histoire. En 1584, Willem van Oranje a été assassiné au Prinsenhof, ce qui a changé le destin des Pays-Bas.
+
+Autres langues et plus sur Delft : https://podcast.kajetan.nl/travel/netherlands/delft/
+
+Sources, entre autres : Wikipédia et Wikivoyage (CC BY-SA 4.0) ainsi que les sites officiels du tourisme, du patrimoine et des musées. La conversation et les voix sont générées par IA.</itunes:summary>
+      <enclosure url="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/episodes/fr/fr-delft-1528448452-v1.mp3" length="20155092" type="audio/mpeg"/>
+      <guid isPermaLink="false">675b414a-3a29-53df-8018-6c345718d25d</guid>
+      <pubDate>Wed, 14 Oct 2026 18:03:27 +0000</pubDate>
+      <itunes:duration>00:20:52</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Alkmaar : guide de voyage et histoire | Comment l'eau a vaincu un empire</title>
       <link>https://podcast.kajetan.nl/travel/netherlands/alkmaar/</link>
