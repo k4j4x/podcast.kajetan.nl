@@ -14,7 +14,27 @@
     <itunes:type>episodic</itunes:type>
     <itunes:category text="Society &amp; Culture"><itunes:category text="Places &amp; Travel"/></itunes:category>
     <itunes:image href="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/cover-de-3000.jpg"/>
-    <lastBuildDate>Wed, 14 Oct 2026 19:33:35 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 14 Oct 2026 20:02:27 +0000</lastBuildDate>
+    <item>
+      <title>Deventer Reiseführer &amp; Geschichte | Eigensinnige Hansestadt an der IJssel</title>
+      <link>https://podcast.kajetan.nl/travel/netherlands/deventer/</link>
+      <description>Deventer verbindet Orte der Geschichte wie den Platz Brink, die Lebuïnuskerk und das Bergkwartier, die bei jedem Besuch als Sehenswürdigkeiten gelten. Im Jahr 1591 eroberte Prinz Moritz von Oranje die Stadt nach einer zehn Tage dauernden Belagerung.
+
+Andere Sprachen und mehr über Deventer: https://podcast.kajetan.nl/travel/netherlands/deventer/
+
+Quellen u. a. Wikipedia und Wikivoyage (CC BY-SA 4.0) sowie offizielle Websites für Tourismus, Denkmalpflege und Museen. Gespräch und Stimmen sind KI-generiert.</description>
+      <itunes:summary>Deventer verbindet Orte der Geschichte wie den Platz Brink, die Lebuïnuskerk und das Bergkwartier, die bei jedem Besuch als Sehenswürdigkeiten gelten. Im Jahr 1591 eroberte Prinz Moritz von Oranje die Stadt nach einer zehn Tage dauernden Belagerung.
+
+Andere Sprachen und mehr über Deventer: https://podcast.kajetan.nl/travel/netherlands/deventer/
+
+Quellen u. a. Wikipedia und Wikivoyage (CC BY-SA 4.0) sowie offizielle Websites für Tourismus, Denkmalpflege und Museen. Gespräch und Stimmen sind KI-generiert.</itunes:summary>
+      <enclosure url="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/episodes/de/de-deventer-1528681564-v1.mp3" length="14137292" type="audio/mpeg"/>
+      <guid isPermaLink="false">6a68718c-7079-57a7-bdc1-4629f0af37d9</guid>
+      <pubDate>Wed, 14 Oct 2026 20:01:29 +0000</pubDate>
+      <itunes:duration>00:14:36</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Emmen Reiseführer &amp; Geschichte | Wie ein Tierpark das Zentrum prägte</title>
       <link>https://podcast.kajetan.nl/travel/netherlands/emmen/</link>

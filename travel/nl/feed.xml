@@ -14,7 +14,27 @@
     <itunes:type>episodic</itunes:type>
     <itunes:category text="Society &amp; Culture"><itunes:category text="Places &amp; Travel"/></itunes:category>
     <itunes:image href="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/cover-nl-3000.jpg"/>
-    <lastBuildDate>Wed, 14 Oct 2026 19:33:35 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 14 Oct 2026 20:02:27 +0000</lastBuildDate>
+    <item>
+      <title>Deventer reisgids &amp; geschiedenis | Hoe de IJssel een Hanzestad vormde</title>
+      <link>https://podcast.kajetan.nl/travel/netherlands/deventer/</link>
+      <description>Deventer toont zijn geschiedenis aan de rivier de IJssel met de Brink, de Lebuïnuskerk en het Bergkwartier, belangrijke bezienswaardigheden voor elk bezoek. In 1591 veroverde prins Maurits van Oranje de stad op de Spanjaarden na een beleg van tien dagen.
+
+Andere talen en meer over Deventer: https://podcast.kajetan.nl/travel/netherlands/deventer/
+
+Bronnen o.a. Wikipedia en Wikivoyage (CC BY-SA 4.0) en officiële websites over toerisme, erfgoed en musea. Het gesprek en de stemmen zijn door AI gegenereerd.</description>
+      <itunes:summary>Deventer toont zijn geschiedenis aan de rivier de IJssel met de Brink, de Lebuïnuskerk en het Bergkwartier, belangrijke bezienswaardigheden voor elk bezoek. In 1591 veroverde prins Maurits van Oranje de stad op de Spanjaarden na een beleg van tien dagen.
+
+Andere talen en meer over Deventer: https://podcast.kajetan.nl/travel/netherlands/deventer/
+
+Bronnen o.a. Wikipedia en Wikivoyage (CC BY-SA 4.0) en officiële websites over toerisme, erfgoed en musea. Het gesprek en de stemmen zijn door AI gegenereerd.</itunes:summary>
+      <enclosure url="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/episodes/nl/nl-deventer-1528681564-v1.mp3" length="14944624" type="audio/mpeg"/>
+      <guid isPermaLink="false">58f4d326-35c9-539a-b5d1-514b1a8fcdee</guid>
+      <pubDate>Wed, 14 Oct 2026 20:02:26 +0000</pubDate>
+      <itunes:duration>00:15:26</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Emmen reisgids &amp; geschiedenis | Hunebedden tussen de rijtjeshuizen</title>
       <link>https://podcast.kajetan.nl/travel/netherlands/emmen/</link>
