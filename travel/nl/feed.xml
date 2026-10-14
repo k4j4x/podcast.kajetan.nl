@@ -14,10 +14,11 @@
     <itunes:type>episodic</itunes:type>
     <itunes:category text="Society &amp; Culture"><itunes:category text="Places &amp; Travel"/></itunes:category>
     <itunes:image href="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/cover-nl-3000.jpg"/>
-    <lastBuildDate>Tue, 13 Oct 2026 21:03:24 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 14 Oct 2026 03:54:29 +0000</lastBuildDate>
     <item>
       <title>Maastricht reisgids &amp; geschiedenis | Historische lagen op elkaar gestapeld</title>
       <link>https://podcast.kajetan.nl/travel/netherlands/maastricht/</link>
+      <podcast:transcript url="https://podcast.kajetan.nl/travel/netherlands/maastricht/transcript-nl.txt" type="text/plain" language="nl"/>
       <description>Maastricht toont zijn geschiedenis tijdens een bezoek aan bezienswaardigheden zoals Fort Sint Pieter, de Helpoort en de Sint Servaasbrug langs de Maas. In 1992 ondertekenden regeringsleiders in het Gouvernement het Verdrag van Maastricht, dat de Europese Unie oprichtte.
 
 Andere talen en meer over Maastricht: https://podcast.kajetan.nl/travel/netherlands/maastricht/
@@ -38,6 +39,7 @@ Bronnen o.a. Wikipedia en Wikivoyage (CC BY-SA 4.0) en officiële websites over 
     <item>
       <title>Dordrecht reisgids &amp; geschiedenis | Van stapelrecht tot de stormvloed</title>
       <link>https://podcast.kajetan.nl/travel/netherlands/dordrecht/</link>
+      <podcast:transcript url="https://podcast.kajetan.nl/travel/netherlands/dordrecht/transcript-nl.txt" type="text/plain" language="nl"/>
       <description>Dordrecht biedt een overzicht van haar geschiedenis bij een bezoek aan bezienswaardigheden als de Grote Kerk, de Groothoofdspoort en de oude havens. In 1421 zette de Sint-Elisabethsvloed het omliggende land onder water en veranderde de handelsstad in een eiland.
 
 Andere talen en meer over Dordrecht: https://podcast.kajetan.nl/travel/netherlands/dordrecht/
@@ -58,6 +60,7 @@ Bronnen o.a. Wikipedia en Wikivoyage (CC BY-SA 4.0) en officiële websites over 
     <item>
       <title>Leiden reisgids &amp; geschiedenis | Van stadsontzet tot de koudste plek</title>
       <link>https://podcast.kajetan.nl/travel/netherlands/leiden/</link>
+      <podcast:transcript url="https://podcast.kajetan.nl/travel/netherlands/leiden/transcript-nl.txt" type="text/plain" language="nl"/>
       <description>Leiden biedt met de Burcht, de grachten en Museum De Lakenhal tal van bezienswaardigheden voor een bezoek. In 1908 maakte natuurkundige Heike Kamerlingh Onnes er voor het eerst helium vloeibaar, wat het laboratorium de koudste plek op aarde maakte.
 
 Andere talen en meer over Leiden: https://podcast.kajetan.nl/travel/netherlands/leiden/

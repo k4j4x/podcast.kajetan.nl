@@ -14,10 +14,11 @@
     <itunes:type>episodic</itunes:type>
     <itunes:category text="Society &amp; Culture"><itunes:category text="Places &amp; Travel"/></itunes:category>
     <itunes:image href="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/cover-es-3000.jpg"/>
-    <lastBuildDate>Tue, 13 Oct 2026 21:03:24 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 14 Oct 2026 03:54:29 +0000</lastBuildDate>
     <item>
       <title>Maastricht: guía de viaje e historia | Fósiles marinos y galerías de piedra</title>
       <link>https://podcast.kajetan.nl/travel/netherlands/maastricht/</link>
+      <podcast:transcript url="https://podcast.kajetan.nl/travel/netherlands/maastricht/transcript-es.txt" type="text/plain" language="es"/>
       <description>Maastricht conecta su historia durante una visita a sitios como Fort Sint Pieter, la Helpoort y el Sint Servaasbrug junto al río Maas. En 1992, varios líderes firmaron en el Gouvernement el Tratado de Maastricht, que creó la Unión Europea.
 
 Otros idiomas y más sobre Maastricht: https://podcast.kajetan.nl/travel/netherlands/maastricht/
@@ -38,6 +39,7 @@ Fuentes, entre otras: Wikipedia y Wikivoyage (CC BY-SA 4.0) y webs oficiales de 
     <item>
       <title>Dordrecht: guía de viaje e historia | El truco de la oveja disfrazada</title>
       <link>https://podcast.kajetan.nl/travel/netherlands/dordrecht/</link>
+      <podcast:transcript url="https://podcast.kajetan.nl/travel/netherlands/dordrecht/transcript-es.txt" type="text/plain" language="es"/>
       <description>Dordrecht ofrece numerosos puntos de interés durante una visita para conocer su historia, entre ellos la Grote Kerk, la Groothoofdspoort y los viejos puertos. En 1421, la inundación de Sint-Elisabethsvloed anegó los terrenos circundantes y convirtió este centro comercial en una isla.
 
 Otros idiomas y más sobre Dordrecht: https://podcast.kajetan.nl/travel/netherlands/dordrecht/
@@ -58,6 +60,7 @@ Fuentes, entre otras: Wikipedia y Wikivoyage (CC BY-SA 4.0) y webs oficiales de 
     <item>
       <title>Leiden: guía de viaje e historia | Del asedio al cero absoluto</title>
       <link>https://podcast.kajetan.nl/travel/netherlands/leiden/</link>
+      <podcast:transcript url="https://podcast.kajetan.nl/travel/netherlands/leiden/transcript-es.txt" type="text/plain" language="es"/>
       <description>Leiden combina su historia en la fortaleza Burcht, los canales y el Museum De Lakenhal como lugares clave qué ver en una visita. En 1908, el físico Heike Kamerlingh Onnes licuó helio por primera vez en su laboratorio local, convirtiéndolo en el lugar más frío de la Tierra.
 
 Otros idiomas y más sobre Leiden: https://podcast.kajetan.nl/travel/netherlands/leiden/
@@ -78,6 +81,7 @@ Fuentes, entre otras: Wikipedia y Wikivoyage (CC BY-SA 4.0) y webs oficiales de 
     <item>
       <title>Leeuwarden: guía de viaje e historia | La historia de la torre torcida</title>
       <link>https://podcast.kajetan.nl/travel/netherlands/leeuwarden/</link>
+      <podcast:transcript url="https://podcast.kajetan.nl/travel/netherlands/leeuwarden/transcript-es.txt" type="text/plain" language="es"/>
       <description>Leeuwarden ofrece durante una visita un recorrido por su historia con lugares como la torre Oldehove, la antigua cárcel Blokhuispoort y el parque Prinsentuin. En 1529 comenzó la construcción de la Oldehove, que se inclinó durante la obra al ceder el terreno.
 
 Otros idiomas y más sobre Leeuwarden: https://podcast.kajetan.nl/travel/netherlands/leeuwarden/

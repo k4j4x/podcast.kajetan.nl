@@ -14,10 +14,11 @@
     <itunes:type>episodic</itunes:type>
     <itunes:category text="Society &amp; Culture"><itunes:category text="Places &amp; Travel"/></itunes:category>
     <itunes:image href="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/cover-de-3000.jpg"/>
-    <lastBuildDate>Tue, 13 Oct 2026 21:03:23 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 14 Oct 2026 03:54:29 +0000</lastBuildDate>
     <item>
       <title>Maastricht Reiseführer &amp; Geschichte | Vom Festungswall zur Wiege der EU</title>
       <link>https://podcast.kajetan.nl/travel/netherlands/maastricht/</link>
+      <podcast:transcript url="https://podcast.kajetan.nl/travel/netherlands/maastricht/transcript-de.txt" type="text/plain" language="de"/>
       <description>Maastricht verbindet seine Geschichte bei einem Besuch mit Sehenswürdigkeiten wie Fort Sint Pieter, der Helpoort und der Sint Servaasbrug an der Maas. Im Jahr 1992 unterzeichneten Regierungschefs im Gouvernement den Vertrag von Maastricht, welcher die Europäische Union schuf und den Euro einleitete.
 
 Andere Sprachen und mehr über Maastricht: https://podcast.kajetan.nl/travel/netherlands/maastricht/
@@ -38,6 +39,7 @@ Quellen u. a. Wikipedia und Wikivoyage (CC BY-SA 4.0) sowie offizielle Websites 
     <item>
       <title>Dordrecht Reiseführer &amp; Geschichte | Von geschmuggelten Schafen und Wasser</title>
       <link>https://podcast.kajetan.nl/travel/netherlands/dordrecht/</link>
+      <podcast:transcript url="https://podcast.kajetan.nl/travel/netherlands/dordrecht/transcript-de.txt" type="text/plain" language="de"/>
       <description>Dordrecht verbindet Geschichte und Gegenwart beim Besuch von Sehenswürdigkeiten wie der Grote Kerk, der Groothoofdspoort und den alten Häfen. Im Jahr 1421 verwandelte die Sint-Elisabethsvloed das Umlandsgebiet in Wasser und machte die Stadt zu einer Insel.
 
 Andere Sprachen und mehr über Dordrecht: https://podcast.kajetan.nl/travel/netherlands/dordrecht/
@@ -58,6 +60,7 @@ Quellen u. a. Wikipedia und Wikivoyage (CC BY-SA 4.0) sowie offizielle Websites 
     <item>
       <title>Leiden Reiseführer &amp; Geschichte | Von der Belagerung zur Universität</title>
       <link>https://podcast.kajetan.nl/travel/netherlands/leiden/</link>
+      <podcast:transcript url="https://podcast.kajetan.nl/travel/netherlands/leiden/transcript-de.txt" type="text/plain" language="de"/>
       <description>Leiden bietet mit der historischen Festung Burcht, den Grachten und dem Museum De Lakenhal zentrale Sehenswürdigkeiten für einen Besuch. Im Jahr 1575 gründete Wilhelm von Oranien dort als Belohnung nach der spanischen Belagerung die älteste Universität der Niederlande.
 
 Andere Sprachen und mehr über Leiden: https://podcast.kajetan.nl/travel/netherlands/leiden/

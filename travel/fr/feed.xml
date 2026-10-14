@@ -14,10 +14,11 @@
     <itunes:type>episodic</itunes:type>
     <itunes:category text="Society &amp; Culture"><itunes:category text="Places &amp; Travel"/></itunes:category>
     <itunes:image href="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/cover-fr-3000.jpg"/>
-    <lastBuildDate>Tue, 13 Oct 2026 21:03:24 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 14 Oct 2026 03:54:29 +0000</lastBuildDate>
     <item>
       <title>Maastricht : guide de voyage et histoire | Des galeries de marne sous la colline</title>
       <link>https://podcast.kajetan.nl/travel/netherlands/maastricht/</link>
+      <podcast:transcript url="https://podcast.kajetan.nl/travel/netherlands/maastricht/transcript-fr.txt" type="text/plain" language="fr"/>
       <description>Maastricht présente son histoire lors d'une visite de sites comme Fort Sint Pieter, la Helpoort et le Sint Servaasbrug sur la Maas. En 1992, des dirigeants y ont signé le traité de Maastricht au Gouvernement, créant l'Union européenne.
 
 Autres langues et plus sur Maastricht : https://podcast.kajetan.nl/travel/netherlands/maastricht/
@@ -38,6 +39,7 @@ Sources, entre autres : Wikipédia et Wikivoyage (CC BY-SA 4.0) ainsi que les si
     <item>
       <title>Dordrecht : guide de voyage et histoire | Quand une cité devint une île</title>
       <link>https://podcast.kajetan.nl/travel/netherlands/dordrecht/</link>
+      <podcast:transcript url="https://podcast.kajetan.nl/travel/netherlands/dordrecht/transcript-fr.txt" type="text/plain" language="fr"/>
       <description>Dordrecht dévoile son histoire lors d'une visite passant par la Grote Kerk, la porte Groothoofdspoort et les bassins de la Wolwevershaven. En 1421, la Sint-Elisabethsvloed a submergé le paysage aux alentours et a transformé la cité en île.
 
 Autres langues et plus sur Dordrecht : https://podcast.kajetan.nl/travel/netherlands/dordrecht/
@@ -58,6 +60,7 @@ Sources, entre autres : Wikipédia et Wikivoyage (CC BY-SA 4.0) ainsi que les si
     <item>
       <title>Leiden : guide de voyage et histoire | Berceau de Rembrandt et des sciences</title>
       <link>https://podcast.kajetan.nl/travel/netherlands/leiden/</link>
+      <podcast:transcript url="https://podcast.kajetan.nl/travel/netherlands/leiden/transcript-fr.txt" type="text/plain" language="fr"/>
       <description>Leiden rassemble les canaux du Rapenburg, la forteresse Burcht et le Museum De Lakenhal comme lieux clés à voir lors d'une visite. En 1606, le peintre Rembrandt van Rijn y est né et y a commencé son apprentissage artistique.
 
 Autres langues et plus sur Leiden : https://podcast.kajetan.nl/travel/netherlands/leiden/

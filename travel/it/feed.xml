@@ -14,10 +14,11 @@
     <itunes:type>episodic</itunes:type>
     <itunes:category text="Society &amp; Culture"><itunes:category text="Places &amp; Travel"/></itunes:category>
     <itunes:image href="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/cover-it-3000.jpg"/>
-    <lastBuildDate>Tue, 13 Oct 2026 21:03:24 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 14 Oct 2026 03:54:30 +0000</lastBuildDate>
     <item>
       <title>Maastricht: guida di viaggio e storia | Dai mosasauri fino al Trattato europeo</title>
       <link>https://podcast.kajetan.nl/travel/netherlands/maastricht/</link>
+      <podcast:transcript url="https://podcast.kajetan.nl/travel/netherlands/maastricht/transcript-it.txt" type="text/plain" language="it"/>
       <description>Maastricht mostra la sua storia durante una visita ai luoghi come Fort Sint Pieter, la Helpoort e il Sint Servaasbrug lungo il fiume Maas. Nel 1992, i leader europei firmarono il Trattato di Maastricht nel palazzo Gouvernement, creando l'Unione europea.
 
 Altre lingue e altro su Maastricht: https://podcast.kajetan.nl/travel/netherlands/maastricht/
@@ -58,6 +59,7 @@ Fonti, tra le altre: Wikipedia e Wikivoyage (CC BY-SA 4.0) e siti ufficiali di t
     <item>
       <title>Leiden: guida di viaggio e storia | Dal grande assedio al freddo estremo</title>
       <link>https://podcast.kajetan.nl/travel/netherlands/leiden/</link>
+      <podcast:transcript url="https://podcast.kajetan.nl/travel/netherlands/leiden/transcript-it.txt" type="text/plain" language="it"/>
       <description>Leiden unisce la sua storia tra la fortezza Burcht, i canali e il Museum De Lakenhal come mete di riferimento per una visita. Nel 1575, Guglielmo d'Orange vi fondò l'università più antica del paese come premio dopo la resistenza all'assedio spagnolo.
 
 Altre lingue e altro su Leiden: https://podcast.kajetan.nl/travel/netherlands/leiden/
@@ -98,6 +100,7 @@ Fonti, tra le altre: Wikipedia e Wikivoyage (CC BY-SA 4.0) e siti ufficiali di t
     <item>
       <title>Zoetermeer: guida di viaggio e storia | Dai mammut alle patate d'oro</title>
       <link>https://podcast.kajetan.nl/travel/netherlands/zoetermeer/</link>
+      <podcast:transcript url="https://podcast.kajetan.nl/travel/netherlands/zoetermeer/transcript-it.txt" type="text/plain" language="it"/>
       <description>Zoetermeer unisce nella Dorpsstraat, presso il mulino Molen De Hoop e nel Nationaal Videogame Museum la sua storia con diversi luoghi da includere in una visita. Nel 1962 la località fu designata come centro di crescita urbana, avviando la sua rapida espansione.
 
 Altre lingue e altro su Zoetermeer: https://podcast.kajetan.nl/travel/netherlands/zoetermeer/
