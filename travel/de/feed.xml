@@ -14,7 +14,27 @@
     <itunes:type>episodic</itunes:type>
     <itunes:category text="Society &amp; Culture"><itunes:category text="Places &amp; Travel"/></itunes:category>
     <itunes:image href="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/cover-de-3000.jpg"/>
-    <lastBuildDate>Wed, 14 Oct 2026 18:03:28 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 14 Oct 2026 18:33:10 +0000</lastBuildDate>
+    <item>
+      <title>Emmen Reiseführer &amp; Geschichte | Wie ein Tierpark das Zentrum prägte</title>
+      <link>https://podcast.kajetan.nl/travel/netherlands/emmen/</link>
+      <description>Emmen in den Niederlanden vereint den Rensenpark, den Wildlands Zoo und die Grote Kerk am Marktplein zu einem Ziel voller Geschichte und Sehenswürdigkeiten. Im Jahr 1935 gründete Willem Oosting den Noorder Dierenpark auf dem Gelände hinter seinem Elternhaus.
+
+Andere Sprachen und mehr über Emmen: https://podcast.kajetan.nl/travel/netherlands/emmen/
+
+Quellen u. a. Wikipedia und Wikivoyage (CC BY-SA 4.0) sowie offizielle Websites für Tourismus, Denkmalpflege und Museen. Gespräch und Stimmen sind KI-generiert.</description>
+      <itunes:summary>Emmen in den Niederlanden vereint den Rensenpark, den Wildlands Zoo und die Grote Kerk am Marktplein zu einem Ziel voller Geschichte und Sehenswürdigkeiten. Im Jahr 1935 gründete Willem Oosting den Noorder Dierenpark auf dem Gelände hinter seinem Elternhaus.
+
+Andere Sprachen und mehr über Emmen: https://podcast.kajetan.nl/travel/netherlands/emmen/
+
+Quellen u. a. Wikipedia und Wikivoyage (CC BY-SA 4.0) sowie offizielle Websites für Tourismus, Denkmalpflege und Museen. Gespräch und Stimmen sind KI-generiert.</itunes:summary>
+      <enclosure url="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/episodes/de/de-emmen-1528332075-v1.mp3" length="20887323" type="audio/mpeg"/>
+      <guid isPermaLink="false">be69b507-bddc-5cea-b254-bb948324fc96</guid>
+      <pubDate>Wed, 14 Oct 2026 18:31:54 +0000</pubDate>
+      <itunes:duration>00:21:38</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Alkmaar Reiseführer &amp; Geschichte | Von Lennons Gitarre zum Käsemarkt</title>
       <link>https://podcast.kajetan.nl/travel/netherlands/alkmaar/</link>
