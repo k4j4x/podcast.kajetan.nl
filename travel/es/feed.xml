@@ -14,10 +14,11 @@
     <itunes:type>episodic</itunes:type>
     <itunes:category text="Society &amp; Culture"><itunes:category text="Places &amp; Travel"/></itunes:category>
     <itunes:image href="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/cover-es-3000.jpg"/>
-    <lastBuildDate>Wed, 14 Oct 2026 21:02:34 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 15 Oct 2026 03:59:09 +0000</lastBuildDate>
     <item>
       <title>Deventer: guía de viaje e historia | Del comercio de bacalao a Dickens</title>
       <link>https://podcast.kajetan.nl/travel/netherlands/deventer/</link>
+      <podcast:transcript url="https://podcast.kajetan.nl/travel/netherlands/deventer/transcript-es.txt" type="text/plain" language="es"/>
       <description>Deventer muestra su historia en la plaza Brink, la iglesia Lebuïnuskerk y el barrio Bergkwartier, puntos de interés durante una visita con mucho qué ver. En 1591, el príncipe Mauricio de Orange tomó la ciudad tras un asedio de diez días.
 
 Otros idiomas y más sobre Deventer: https://podcast.kajetan.nl/travel/netherlands/deventer/
@@ -38,6 +39,7 @@ Fuentes, entre otras: Wikipedia y Wikivoyage (CC BY-SA 4.0) y webs oficiales de 
     <item>
       <title>Emmen: guía de viaje e historia | Del pantano a la ciudad verde</title>
       <link>https://podcast.kajetan.nl/travel/netherlands/emmen/</link>
+      <podcast:transcript url="https://podcast.kajetan.nl/travel/netherlands/emmen/transcript-es.txt" type="text/plain" language="es"/>
       <description>Emmen combina los dólmenes de Emmerdennen, la Grote Kerk en Marktplein y el Rensenpark para una visita centrada en su historia. En 1883, el pintor Vincent van Gogh se alojó en la cercana Nieuw-Amsterdam para retratar los paisajes de turberas.
 
 Otros idiomas y más sobre Emmen: https://podcast.kajetan.nl/travel/netherlands/emmen/
@@ -58,6 +60,7 @@ Fuentes, entre otras: Wikipedia y Wikivoyage (CC BY-SA 4.0) y webs oficiales de 
     <item>
       <title>Delft: guía de viaje e historia | Entre pólvora, ciencia y arte</title>
       <link>https://podcast.kajetan.nl/travel/netherlands/delft/</link>
+      <podcast:transcript url="https://podcast.kajetan.nl/travel/netherlands/delft/transcript-es.txt" type="text/plain" language="es"/>
       <description>Delft reúne en una visita lugares clave como la Oude Kerk, la Nieuwe Kerk, el Prinsenhof y el Markt para entender su historia. En 1584, Willem van Oranje fue asesinado en el Prinsenhof, lo que cambió el rumbo de los Países Bajos.
 
 Otros idiomas y más sobre Delft: https://podcast.kajetan.nl/travel/netherlands/delft/
@@ -78,6 +81,7 @@ Fuentes, entre otras: Wikipedia y Wikivoyage (CC BY-SA 4.0) y webs oficiales de 
     <item>
       <title>Alkmaar: guía de viaje e historia | Cómo el agua venció al imperio</title>
       <link>https://podcast.kajetan.nl/travel/netherlands/alkmaar/</link>
+      <podcast:transcript url="https://podcast.kajetan.nl/travel/netherlands/alkmaar/transcript-es.txt" type="text/plain" language="es"/>
       <description>Alkmaar reúne canales, el Waaggebouw y la Grote Sint Laurenskerk como lugares que ver para quienes exploran su historia durante una visita. En 1573, los habitantes rompieron los diques para inundar los terrenos circundantes y expulsar a las tropas españolas.
 
 Otros idiomas y más sobre Alkmaar: https://podcast.kajetan.nl/travel/netherlands/alkmaar/

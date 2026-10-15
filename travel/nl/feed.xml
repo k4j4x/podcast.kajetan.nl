@@ -14,10 +14,11 @@
     <itunes:type>episodic</itunes:type>
     <itunes:category text="Society &amp; Culture"><itunes:category text="Places &amp; Travel"/></itunes:category>
     <itunes:image href="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/cover-nl-3000.jpg"/>
-    <lastBuildDate>Wed, 14 Oct 2026 21:02:34 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 15 Oct 2026 03:59:09 +0000</lastBuildDate>
     <item>
       <title>Deventer reisgids &amp; geschiedenis | Hoe de IJssel een Hanzestad vormde</title>
       <link>https://podcast.kajetan.nl/travel/netherlands/deventer/</link>
+      <podcast:transcript url="https://podcast.kajetan.nl/travel/netherlands/deventer/transcript-nl.txt" type="text/plain" language="nl"/>
       <description>Deventer toont zijn geschiedenis aan de rivier de IJssel met de Brink, de Lebuïnuskerk en het Bergkwartier, belangrijke bezienswaardigheden voor elk bezoek. In 1591 veroverde prins Maurits van Oranje de stad op de Spanjaarden na een beleg van tien dagen.
 
 Andere talen en meer over Deventer: https://podcast.kajetan.nl/travel/netherlands/deventer/
@@ -38,6 +39,7 @@ Bronnen o.a. Wikipedia en Wikivoyage (CC BY-SA 4.0) en officiële websites over 
     <item>
       <title>Emmen reisgids &amp; geschiedenis | Hunebedden tussen de rijtjeshuizen</title>
       <link>https://podcast.kajetan.nl/travel/netherlands/emmen/</link>
+      <podcast:transcript url="https://podcast.kajetan.nl/travel/netherlands/emmen/transcript-nl.txt" type="text/plain" language="nl"/>
       <description>Emmen biedt met de hunebedden in de Emmerdennen, de Grote Kerk aan het Marktplein en het Rensenpark talrijke bezienswaardigheden voor een bezoek vol geschiedenis. In 1883 verbleef de schilder Vincent van Gogh in nabijgelegen Nieuw-Amsterdam om de veengebieden te tekenen en schilderen.
 
 Andere talen en meer over Emmen: https://podcast.kajetan.nl/travel/netherlands/emmen/
@@ -58,6 +60,7 @@ Bronnen o.a. Wikipedia en Wikivoyage (CC BY-SA 4.0) en officiële websites over 
     <item>
       <title>Delft reisgids &amp; geschiedenis | Van scheve toren tot blauw aardewerk</title>
       <link>https://podcast.kajetan.nl/travel/netherlands/delft/</link>
+      <podcast:transcript url="https://podcast.kajetan.nl/travel/netherlands/delft/transcript-nl.txt" type="text/plain" language="nl"/>
       <description>Delft combineert bekende bezienswaardigheden zoals de Oude Kerk met haar scheve toren, de Markt en het Prinsenhof, wat een bezoek moeite waard maakt. In 1584 werd Willem van Oranje vermoord in het Prinsenhof, wat de geschiedenis van Nederland voorgoed veranderde.
 
 Andere talen en meer over Delft: https://podcast.kajetan.nl/travel/netherlands/delft/
@@ -78,6 +81,7 @@ Bronnen o.a. Wikipedia en Wikivoyage (CC BY-SA 4.0) en officiële websites over 
     <item>
       <title>Alkmaar reisgids &amp; geschiedenis | Hoe water de Spanjaarden wegspoelde</title>
       <link>https://podcast.kajetan.nl/travel/netherlands/alkmaar/</link>
+      <podcast:transcript url="https://podcast.kajetan.nl/travel/netherlands/alkmaar/transcript-nl.txt" type="text/plain" language="nl"/>
       <description>Alkmaar biedt historische grachten, het middeleeuwse Waaggebouw en de Grote Sint-Laurenskerk als bezienswaardigheden voor wie tijdens een bezoek de lokale geschiedenis wil verkennen. In 1573 staken de inwoners de dijken door om het omliggende land onder water te zetten en de Spaanse belegering te breken.
 
 Andere talen en meer over Alkmaar: https://podcast.kajetan.nl/travel/netherlands/alkmaar/

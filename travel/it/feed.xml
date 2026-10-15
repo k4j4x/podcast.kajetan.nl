@@ -14,10 +14,11 @@
     <itunes:type>episodic</itunes:type>
     <itunes:category text="Society &amp; Culture"><itunes:category text="Places &amp; Travel"/></itunes:category>
     <itunes:image href="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/cover-it-3000.jpg"/>
-    <lastBuildDate>Wed, 14 Oct 2026 21:02:34 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 15 Oct 2026 03:59:09 +0000</lastBuildDate>
     <item>
       <title>Deventer: guida di viaggio e storia | Dal calderone alle impronte digitali</title>
       <link>https://podcast.kajetan.nl/travel/netherlands/deventer/</link>
+      <podcast:transcript url="https://podcast.kajetan.nl/travel/netherlands/deventer/transcript-it.txt" type="text/plain" language="it"/>
       <description>Deventer mostra la sua storia nella piazza Brink, la chiesa Lebuïnuskerk e il quartiere Bergkwartier, mete principali durante una visita. Nel 1591, il principe Maurizio di Orange conquistò la città dopo un assedio durato dieci giorni.
 
 Altre lingue e altro su Deventer: https://podcast.kajetan.nl/travel/netherlands/deventer/
@@ -38,6 +39,7 @@ Fonti, tra le altre: Wikipedia e Wikivoyage (CC BY-SA 4.0) e siti ufficiali di t
     <item>
       <title>Emmen: guida di viaggio e storia | L'arcipelago verde tra i dolmen</title>
       <link>https://podcast.kajetan.nl/travel/netherlands/emmen/</link>
+      <podcast:transcript url="https://podcast.kajetan.nl/travel/netherlands/emmen/transcript-it.txt" type="text/plain" language="it"/>
       <description>Emmen offre i dolmen di Emmerdennen, la Grote Kerk sulla Marktplein e il Rensenpark per una visita legata alla storia locale. Nel 1883, il pittore Vincent van Gogh soggiornò nella vicina Nieuw-Amsterdam per dipingere le torbiere.
 
 Altre lingue e altro su Emmen: https://podcast.kajetan.nl/travel/netherlands/emmen/
@@ -58,6 +60,7 @@ Fonti, tra le altre: Wikipedia e Wikivoyage (CC BY-SA 4.0) e siti ufficiali di t
     <item>
       <title>Delft: guida di viaggio e storia | Tra delitti e polvere da sparo</title>
       <link>https://podcast.kajetan.nl/travel/netherlands/delft/</link>
+      <podcast:transcript url="https://podcast.kajetan.nl/travel/netherlands/delft/transcript-it.txt" type="text/plain" language="it"/>
       <description>Delft unisce in una visita luoghi come la Oude Kerk, la Nieuwe Kerk, il Prinsenhof e il Markt per capire la sua storia. Nel 1584 Willem van Oranje fu assassinato nel Prinsenhof, un evento che segnò il paese.
 
 Altre lingue e altro su Delft: https://podcast.kajetan.nl/travel/netherlands/delft/
@@ -78,6 +81,7 @@ Fonti, tra le altre: Wikipedia e Wikivoyage (CC BY-SA 4.0) e siti ufficiali di t
     <item>
       <title>Alkmaar: guida di viaggio e storia | Oltre la crosta del formaggio</title>
       <link>https://podcast.kajetan.nl/travel/netherlands/alkmaar/</link>
+      <podcast:transcript url="https://podcast.kajetan.nl/travel/netherlands/alkmaar/transcript-it.txt" type="text/plain" language="it"/>
       <description>Alkmaar riunisce i canali, il Waaggebouw e la Grote Sint Laurenskerk tra i luoghi principali per chi approfondisce la storia locale durante una visita. Nel 1573, gli abitanti ruppero le dighe per inondare i terreni circostanti e spezzare l'assedio spagnolo.
 
 Altre lingue e altro su Alkmaar: https://podcast.kajetan.nl/travel/netherlands/alkmaar/
@@ -160,6 +164,7 @@ Fonti, tra le altre: Wikipedia e Wikivoyage (CC BY-SA 4.0) e siti ufficiali di t
     <item>
       <title>Leeuwarden: guida di viaggio e storia | La storia della torre storta</title>
       <link>https://podcast.kajetan.nl/travel/netherlands/leeuwarden/</link>
+      <podcast:transcript url="https://podcast.kajetan.nl/travel/netherlands/leeuwarden/transcript-it.txt" type="text/plain" language="it"/>
       <description>Leeuwarden offre durante una visita un percorso nella sua storia attraverso luoghi come la torre Oldehove, l'ex prigione Blokhuispoort e il parco Prinsentuin. Nel 1529 cominciò la costruzione della Oldehove, che si inclinò durante i lavori per via del terreno cedevole.
 
 Altre lingue e altro su Leeuwarden: https://podcast.kajetan.nl/travel/netherlands/leeuwarden/

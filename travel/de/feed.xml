@@ -14,10 +14,11 @@
     <itunes:type>episodic</itunes:type>
     <itunes:category text="Society &amp; Culture"><itunes:category text="Places &amp; Travel"/></itunes:category>
     <itunes:image href="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/cover-de-3000.jpg"/>
-    <lastBuildDate>Wed, 14 Oct 2026 21:02:34 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 15 Oct 2026 03:59:09 +0000</lastBuildDate>
     <item>
       <title>Deventer Reiseführer &amp; Geschichte | Eigensinnige Hansestadt an der IJssel</title>
       <link>https://podcast.kajetan.nl/travel/netherlands/deventer/</link>
+      <podcast:transcript url="https://podcast.kajetan.nl/travel/netherlands/deventer/transcript-de.txt" type="text/plain" language="de"/>
       <description>Deventer verbindet Orte der Geschichte wie den Platz Brink, die Lebuïnuskerk und das Bergkwartier, die bei jedem Besuch als Sehenswürdigkeiten gelten. Im Jahr 1591 eroberte Prinz Moritz von Oranje die Stadt nach einer zehn Tage dauernden Belagerung.
 
 Andere Sprachen und mehr über Deventer: https://podcast.kajetan.nl/travel/netherlands/deventer/
@@ -38,6 +39,7 @@ Quellen u. a. Wikipedia und Wikivoyage (CC BY-SA 4.0) sowie offizielle Websites 
     <item>
       <title>Emmen Reiseführer &amp; Geschichte | Wie ein Tierpark das Zentrum prägte</title>
       <link>https://podcast.kajetan.nl/travel/netherlands/emmen/</link>
+      <podcast:transcript url="https://podcast.kajetan.nl/travel/netherlands/emmen/transcript-de.txt" type="text/plain" language="de"/>
       <description>Emmen in den Niederlanden vereint den Rensenpark, den Wildlands Zoo und die Grote Kerk am Marktplein zu einem Ziel voller Geschichte und Sehenswürdigkeiten. Im Jahr 1935 gründete Willem Oosting den Noorder Dierenpark auf dem Gelände hinter seinem Elternhaus.
 
 Andere Sprachen und mehr über Emmen: https://podcast.kajetan.nl/travel/netherlands/emmen/
@@ -58,6 +60,7 @@ Quellen u. a. Wikipedia und Wikivoyage (CC BY-SA 4.0) sowie offizielle Websites 
     <item>
       <title>Alkmaar Reiseführer &amp; Geschichte | Von Lennons Gitarre zum Käsemarkt</title>
       <link>https://podcast.kajetan.nl/travel/netherlands/alkmaar/</link>
+      <podcast:transcript url="https://podcast.kajetan.nl/travel/netherlands/alkmaar/transcript-de.txt" type="text/plain" language="de"/>
       <description>Alkmaar vereint historische Grachten, das alte Waaggebouw und die Grote Sint Laurenskerk zu bedeutenden Sehenswürdigkeiten für Gäste, die sich für die lokale Geschichte interessieren. Im Jahr 1593 wurde das Alkmaarder Kaasdragersgilde gegründet, das bis heute die Traditionen auf dem Waagplein pflegt.
 
 Andere Sprachen und mehr über Alkmaar: https://podcast.kajetan.nl/travel/netherlands/alkmaar/
