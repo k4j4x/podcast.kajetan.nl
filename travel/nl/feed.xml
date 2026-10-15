@@ -14,7 +14,27 @@
     <itunes:type>episodic</itunes:type>
     <itunes:category text="Society &amp; Culture"><itunes:category text="Places &amp; Travel"/></itunes:category>
     <itunes:image href="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/cover-nl-3000.jpg"/>
-    <lastBuildDate>Thu, 15 Oct 2026 20:02:59 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 15 Oct 2026 20:32:37 +0000</lastBuildDate>
+    <item>
+      <title>Hilversum reisgids &amp; geschiedenis | Het Hollywood van Nederland</title>
+      <link>https://podcast.kajetan.nl/travel/netherlands/hilversum/</link>
+      <description>Hilversum biedt bij een bezoek aan het Media Park, het museum Beeld &amp; Geluid en het Raadhuis van Willem Dudok een overzicht van belangrijke bezienswaardigheden. In 1918 begon met de komst van de Nederlandsche Seintoestellen Fabriek de groei tot het nationale mediacentrum.
+
+Andere talen en meer over Hilversum: https://podcast.kajetan.nl/travel/netherlands/hilversum/
+
+Bronnen o.a. Wikipedia en Wikivoyage (CC BY-SA 4.0) en officiële websites over toerisme, erfgoed en musea. Het gesprek en de stemmen zijn door AI gegenereerd.</description>
+      <itunes:summary>Hilversum biedt bij een bezoek aan het Media Park, het museum Beeld &amp; Geluid en het Raadhuis van Willem Dudok een overzicht van belangrijke bezienswaardigheden. In 1918 begon met de komst van de Nederlandsche Seintoestellen Fabriek de groei tot het nationale mediacentrum.
+
+Andere talen en meer over Hilversum: https://podcast.kajetan.nl/travel/netherlands/hilversum/
+
+Bronnen o.a. Wikipedia en Wikivoyage (CC BY-SA 4.0) en officiële websites over toerisme, erfgoed en musea. Het gesprek en de stemmen zijn door AI gegenereerd.</itunes:summary>
+      <enclosure url="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/episodes/nl/nl-hilversum-1528160832-v1.mp3" length="22668922" type="audio/mpeg"/>
+      <guid isPermaLink="false">08cc4513-fa8a-507e-88da-827055045bfd</guid>
+      <pubDate>Thu, 15 Oct 2026 20:32:36 +0000</pubDate>
+      <itunes:duration>00:23:29</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Helmond reisgids &amp; geschiedenis | Middeleeuws kasteel en kubuswoningen</title>
       <link>https://podcast.kajetan.nl/travel/netherlands/helmond/</link>
