@@ -14,7 +14,27 @@
     <itunes:type>episodic</itunes:type>
     <itunes:category text="Society &amp; Culture"><itunes:category text="Places &amp; Travel"/></itunes:category>
     <itunes:image href="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/cover-es-3000.jpg"/>
-    <lastBuildDate>Thu, 15 Oct 2026 20:32:37 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 15 Oct 2026 21:02:12 +0000</lastBuildDate>
+    <item>
+      <title>Hilversum: guía de viaje e historia | De pueblo agrícola a capital mediática</title>
+      <link>https://podcast.kajetan.nl/travel/netherlands/hilversum/</link>
+      <description>Hilversum ofrece en una visita su historia a través del Raadhuis de Willem Dudok, el museo Beeld &amp; Geluid y el Media Park. En 1918, la llegada de la Nederlandsche Seintoestellen Fabriek inició su transformación en el centro de radiodifusión nacional.
+
+Otros idiomas y más sobre Hilversum: https://podcast.kajetan.nl/travel/netherlands/hilversum/
+
+Fuentes, entre otras: Wikipedia y Wikivoyage (CC BY-SA 4.0) y webs oficiales de turismo, patrimonio y museos. La conversación y las voces están generadas por IA.</description>
+      <itunes:summary>Hilversum ofrece en una visita su historia a través del Raadhuis de Willem Dudok, el museo Beeld &amp; Geluid y el Media Park. En 1918, la llegada de la Nederlandsche Seintoestellen Fabriek inició su transformación en el centro de radiodifusión nacional.
+
+Otros idiomas y más sobre Hilversum: https://podcast.kajetan.nl/travel/netherlands/hilversum/
+
+Fuentes, entre otras: Wikipedia y Wikivoyage (CC BY-SA 4.0) y webs oficiales de turismo, patrimonio y museos. La conversación y las voces están generadas por IA.</itunes:summary>
+      <enclosure url="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/episodes/es/es-hilversum-1528160832-v1.mp3" length="17972225" type="audio/mpeg"/>
+      <guid isPermaLink="false">96b605c3-4da9-5fc2-bbda-4b4a39a48bb3</guid>
+      <pubDate>Thu, 15 Oct 2026 21:01:11 +0000</pubDate>
+      <itunes:duration>00:18:35</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Helmond: guía de viaje e historia | Entre castillos y casas cubo</title>
       <link>https://podcast.kajetan.nl/travel/netherlands/helmond/</link>

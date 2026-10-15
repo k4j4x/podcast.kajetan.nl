@@ -14,7 +14,27 @@
     <itunes:type>episodic</itunes:type>
     <itunes:category text="Society &amp; Culture"><itunes:category text="Places &amp; Travel"/></itunes:category>
     <itunes:image href="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/cover-fr-3000.jpg"/>
-    <lastBuildDate>Thu, 15 Oct 2026 20:32:37 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 15 Oct 2026 21:02:12 +0000</lastBuildDate>
+    <item>
+      <title>Hilversum : guide de voyage et histoire | De la nature à la capitale des médias</title>
+      <link>https://podcast.kajetan.nl/travel/netherlands/hilversum/</link>
+      <description>Hilversum offre lors d'une visite son histoire à travers le Raadhuis de Willem Dudok, le musée Beeld &amp; Geluid et le Media Park. En 1918, l'installation de la Nederlandsche Seintoestellen Fabriek a lancé son développement en tant que centre national de radiodiffusion.
+
+Autres langues et plus sur Hilversum : https://podcast.kajetan.nl/travel/netherlands/hilversum/
+
+Sources, entre autres : Wikipédia et Wikivoyage (CC BY-SA 4.0) ainsi que les sites officiels du tourisme, du patrimoine et des musées. La conversation et les voix sont générées par IA.</description>
+      <itunes:summary>Hilversum offre lors d'une visite son histoire à travers le Raadhuis de Willem Dudok, le musée Beeld &amp; Geluid et le Media Park. En 1918, l'installation de la Nederlandsche Seintoestellen Fabriek a lancé son développement en tant que centre national de radiodiffusion.
+
+Autres langues et plus sur Hilversum : https://podcast.kajetan.nl/travel/netherlands/hilversum/
+
+Sources, entre autres : Wikipédia et Wikivoyage (CC BY-SA 4.0) ainsi que les sites officiels du tourisme, du patrimoine et des musées. La conversation et les voix sont générées par IA.</itunes:summary>
+      <enclosure url="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/episodes/fr/fr-hilversum-1528160832-v1.mp3" length="15496541" type="audio/mpeg"/>
+      <guid isPermaLink="false">c3caaf2b-fd25-5b16-aa80-aabdb4dd2fd1</guid>
+      <pubDate>Thu, 15 Oct 2026 21:02:12 +0000</pubDate>
+      <itunes:duration>00:16:01</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Helmond : guide de voyage et histoire | Du château aux maisons cubes</title>
       <link>https://podcast.kajetan.nl/travel/netherlands/helmond/</link>
