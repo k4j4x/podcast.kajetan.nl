@@ -14,7 +14,27 @@
     <itunes:type>episodic</itunes:type>
     <itunes:category text="Society &amp; Culture"><itunes:category text="Places &amp; Travel"/></itunes:category>
     <itunes:image href="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/cover-de-3000.jpg"/>
-    <lastBuildDate>Thu, 15 Oct 2026 21:02:12 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 15 Oct 2026 21:33:48 +0000</lastBuildDate>
+    <item>
+      <title>Heerlen Reiseführer &amp; Geschichte | Vom Bergbau zur Street-Art-Hauptstadt</title>
+      <link>https://podcast.kajetan.nl/travel/netherlands/heerlen/</link>
+      <description>Heerlen verbindet bei einem Besuch seine Geschichte mit Sehenswürdigkeiten wie Kasteel Hoensbroek, dem Glaspaleis und dem Nederlands Mijnmuseum. Im Jahr 1965 kündigte die niederländische Regierung die Schließung der Zechen an, was den Wandel zur Kunstmetropole auslöste.
+
+Andere Sprachen und mehr über Heerlen: https://podcast.kajetan.nl/travel/netherlands/heerlen/
+
+Quellen u. a. Wikipedia und Wikivoyage (CC BY-SA 4.0) sowie offizielle Websites für Tourismus, Denkmalpflege und Museen. Gespräch und Stimmen sind KI-generiert.</description>
+      <itunes:summary>Heerlen verbindet bei einem Besuch seine Geschichte mit Sehenswürdigkeiten wie Kasteel Hoensbroek, dem Glaspaleis und dem Nederlands Mijnmuseum. Im Jahr 1965 kündigte die niederländische Regierung die Schließung der Zechen an, was den Wandel zur Kunstmetropole auslöste.
+
+Andere Sprachen und mehr über Heerlen: https://podcast.kajetan.nl/travel/netherlands/heerlen/
+
+Quellen u. a. Wikipedia und Wikivoyage (CC BY-SA 4.0) sowie offizielle Websites für Tourismus, Denkmalpflege und Museen. Gespräch und Stimmen sind KI-generiert.</itunes:summary>
+      <enclosure url="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/episodes/de/de-heerlen-1528095552-v1.mp3" length="24465479" type="audio/mpeg"/>
+      <guid isPermaLink="false">55d98ff5-7e48-574a-8ba7-9a6a6d04b3cb</guid>
+      <pubDate>Thu, 15 Oct 2026 21:32:07 +0000</pubDate>
+      <itunes:duration>00:25:21</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Hilversum Reiseführer &amp; Geschichte | Von Schafweiden zu Fernsehstudios</title>
       <link>https://podcast.kajetan.nl/travel/netherlands/hilversum/</link>
