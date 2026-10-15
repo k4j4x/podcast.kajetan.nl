@@ -14,7 +14,27 @@
     <itunes:type>episodic</itunes:type>
     <itunes:category text="Society &amp; Culture"><itunes:category text="Places &amp; Travel"/></itunes:category>
     <itunes:image href="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/cover-de-3000.jpg"/>
-    <lastBuildDate>Thu, 15 Oct 2026 17:03:28 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 15 Oct 2026 18:06:12 +0000</lastBuildDate>
+    <item>
+      <title>Helmond Reiseführer &amp; Geschichte | Die Geschichte hinter dem Ritterhelm</title>
+      <link>https://podcast.kajetan.nl/travel/netherlands/helmond/</link>
+      <description>Helmond, in den Niederlanden, verbindet bei einem Besuch historische Orte der Geschichte mit bekannten Sehenswürdigkeiten wie Kasteel Helmond, den Kubuswoningen und der Cacaofabriek. Im Jahr 1325 begann der Bau der quadratischen Wasserburg, die bis heute das Stadtbild prägt.
+
+Andere Sprachen und mehr über Helmond: https://podcast.kajetan.nl/travel/netherlands/helmond/
+
+Quellen u. a. Wikipedia und Wikivoyage (CC BY-SA 4.0) sowie offizielle Websites für Tourismus, Denkmalpflege und Museen. Gespräch und Stimmen sind KI-generiert.</description>
+      <itunes:summary>Helmond, in den Niederlanden, verbindet bei einem Besuch historische Orte der Geschichte mit bekannten Sehenswürdigkeiten wie Kasteel Helmond, den Kubuswoningen und der Cacaofabriek. Im Jahr 1325 begann der Bau der quadratischen Wasserburg, die bis heute das Stadtbild prägt.
+
+Andere Sprachen und mehr über Helmond: https://podcast.kajetan.nl/travel/netherlands/helmond/
+
+Quellen u. a. Wikipedia und Wikivoyage (CC BY-SA 4.0) sowie offizielle Websites für Tourismus, Denkmalpflege und Museen. Gespräch und Stimmen sind KI-generiert.</itunes:summary>
+      <enclosure url="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/episodes/de/de-helmond-1528158256-v1.mp3" length="22408700" type="audio/mpeg"/>
+      <guid isPermaLink="false">aa6e2b66-fc94-5e84-8581-b7853cecada4</guid>
+      <pubDate>Thu, 15 Oct 2026 18:02:00 +0000</pubDate>
+      <itunes:duration>00:23:13</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Amstelveen Reiseführer &amp; Geschichte | Eine Großstadt ohne Bahnhof</title>
       <link>https://podcast.kajetan.nl/travel/netherlands/amstelveen/</link>

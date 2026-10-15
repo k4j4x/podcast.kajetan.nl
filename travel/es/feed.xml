@@ -14,7 +14,27 @@
     <itunes:type>episodic</itunes:type>
     <itunes:category text="Society &amp; Culture"><itunes:category text="Places &amp; Travel"/></itunes:category>
     <itunes:image href="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/cover-es-3000.jpg"/>
-    <lastBuildDate>Thu, 15 Oct 2026 17:03:28 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 15 Oct 2026 18:06:13 +0000</lastBuildDate>
+    <item>
+      <title>Amstelveen: guía de viaje e historia | Una gran ciudad sin estación de trenes</title>
+      <link>https://podcast.kajetan.nl/travel/netherlands/amstelveen/</link>
+      <description>Amstelveen ofrece para una visita mucha historia y lugares qué ver como el Cobra Museum, el Museum JAN y el Amsterdamse Bos. En 1950, los trenes de pasajeros dejaron de operar en la estación local, por lo que el municipio se quedó sin red ferroviaria.
+
+Otros idiomas y más sobre Amstelveen: https://podcast.kajetan.nl/travel/netherlands/amstelveen/
+
+Fuentes, entre otras: Wikipedia y Wikivoyage (CC BY-SA 4.0) y webs oficiales de turismo, patrimonio y museos. La conversación y las voces están generadas por IA.</description>
+      <itunes:summary>Amstelveen ofrece para una visita mucha historia y lugares qué ver como el Cobra Museum, el Museum JAN y el Amsterdamse Bos. En 1950, los trenes de pasajeros dejaron de operar en la estación local, por lo que el municipio se quedó sin red ferroviaria.
+
+Otros idiomas y más sobre Amstelveen: https://podcast.kajetan.nl/travel/netherlands/amstelveen/
+
+Fuentes, entre otras: Wikipedia y Wikivoyage (CC BY-SA 4.0) y webs oficiales de turismo, patrimonio y museos. La conversación y las voces están generadas por IA.</itunes:summary>
+      <enclosure url="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/episodes/es/es-amstelveen-1528243202-v1.mp3" length="22474483" type="audio/mpeg"/>
+      <guid isPermaLink="false">158dcce8-0995-500d-a9c9-72fd2a9d7db4</guid>
+      <pubDate>Thu, 15 Oct 2026 18:03:26 +0000</pubDate>
+      <itunes:duration>00:23:17</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Deventer: guía de viaje e historia | Del comercio de bacalao a Dickens</title>
       <link>https://podcast.kajetan.nl/travel/netherlands/deventer/</link>

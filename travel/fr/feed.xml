@@ -14,7 +14,27 @@
     <itunes:type>episodic</itunes:type>
     <itunes:category text="Society &amp; Culture"><itunes:category text="Places &amp; Travel"/></itunes:category>
     <itunes:image href="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/cover-fr-3000.jpg"/>
-    <lastBuildDate>Thu, 15 Oct 2026 17:03:28 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 15 Oct 2026 18:06:13 +0000</lastBuildDate>
+    <item>
+      <title>Amstelveen : guide de voyage et histoire | La surprenante voisine d'Amsterdam</title>
+      <link>https://podcast.kajetan.nl/travel/netherlands/amstelveen/</link>
+      <description>Amstelveen offre lors d'une visite une longue histoire et des sites à voir comme le Cobra Museum, le Museum JAN et le Amsterdamse Bos. En 1964, la commune a officiellement changé son nom de Nieuwer-Amstel en Amstelveen après des siècles d'extraction de tourbe.
+
+Autres langues et plus sur Amstelveen : https://podcast.kajetan.nl/travel/netherlands/amstelveen/
+
+Sources, entre autres : Wikipédia et Wikivoyage (CC BY-SA 4.0) ainsi que les sites officiels du tourisme, du patrimoine et des musées. La conversation et les voix sont générées par IA.</description>
+      <itunes:summary>Amstelveen offre lors d'une visite une longue histoire et des sites à voir comme le Cobra Museum, le Museum JAN et le Amsterdamse Bos. En 1964, la commune a officiellement changé son nom de Nieuwer-Amstel en Amstelveen après des siècles d'extraction de tourbe.
+
+Autres langues et plus sur Amstelveen : https://podcast.kajetan.nl/travel/netherlands/amstelveen/
+
+Sources, entre autres : Wikipédia et Wikivoyage (CC BY-SA 4.0) ainsi que les sites officiels du tourisme, du patrimoine et des musées. La conversation et les voix sont générées par IA.</itunes:summary>
+      <enclosure url="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/episodes/fr/fr-amstelveen-1528243202-v1.mp3" length="20504026" type="audio/mpeg"/>
+      <guid isPermaLink="false">387ab3bd-58d6-54e5-a535-d5e109380ec5</guid>
+      <pubDate>Thu, 15 Oct 2026 18:04:46 +0000</pubDate>
+      <itunes:duration>00:21:14</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Deventer : guide de voyage et histoire | Quand la morue finance l'humanisme</title>
       <link>https://podcast.kajetan.nl/travel/netherlands/deventer/</link>
