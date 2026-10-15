@@ -14,7 +14,27 @@
     <itunes:type>episodic</itunes:type>
     <itunes:category text="Society &amp; Culture"><itunes:category text="Places &amp; Travel"/></itunes:category>
     <itunes:image href="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/cover-nl-3000.jpg"/>
-    <lastBuildDate>Thu, 15 Oct 2026 03:59:09 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 15 Oct 2026 17:03:28 +0000</lastBuildDate>
+    <item>
+      <title>Amstelveen reisgids &amp; geschiedenis | Van veenmoeras tot internationale oase</title>
+      <link>https://podcast.kajetan.nl/travel/netherlands/amstelveen/</link>
+      <description>Amstelveen biedt voor een bezoek veel geschiedenis en bezienswaardigheden zoals het Cobra Museum, Museum JAN en het Amsterdamse Bos. In 1964 veranderde de gemeente haar officiële naam van Nieuwer-Amstel in Amstelveen, na eeuwen van turfwinning in het drassige veengebied.
+
+Andere talen en meer over Amstelveen: https://podcast.kajetan.nl/travel/netherlands/amstelveen/
+
+Bronnen o.a. Wikipedia en Wikivoyage (CC BY-SA 4.0) en officiële websites over toerisme, erfgoed en musea. Het gesprek en de stemmen zijn door AI gegenereerd.</description>
+      <itunes:summary>Amstelveen biedt voor een bezoek veel geschiedenis en bezienswaardigheden zoals het Cobra Museum, Museum JAN en het Amsterdamse Bos. In 1964 veranderde de gemeente haar officiële naam van Nieuwer-Amstel in Amstelveen, na eeuwen van turfwinning in het drassige veengebied.
+
+Andere talen en meer over Amstelveen: https://podcast.kajetan.nl/travel/netherlands/amstelveen/
+
+Bronnen o.a. Wikipedia en Wikivoyage (CC BY-SA 4.0) en officiële websites over toerisme, erfgoed en musea. Het gesprek en de stemmen zijn door AI gegenereerd.</itunes:summary>
+      <enclosure url="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/episodes/nl/nl-amstelveen-1528243202-v1.mp3" length="20751337" type="audio/mpeg"/>
+      <guid isPermaLink="false">905fa7ec-d94f-5561-b564-0654708e2873</guid>
+      <pubDate>Thu, 15 Oct 2026 17:03:27 +0000</pubDate>
+      <itunes:duration>00:21:29</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Deventer reisgids &amp; geschiedenis | Hoe de IJssel een Hanzestad vormde</title>
       <link>https://podcast.kajetan.nl/travel/netherlands/deventer/</link>

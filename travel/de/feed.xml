@@ -14,7 +14,27 @@
     <itunes:type>episodic</itunes:type>
     <itunes:category text="Society &amp; Culture"><itunes:category text="Places &amp; Travel"/></itunes:category>
     <itunes:image href="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/cover-de-3000.jpg"/>
-    <lastBuildDate>Thu, 15 Oct 2026 03:59:09 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 15 Oct 2026 17:03:28 +0000</lastBuildDate>
+    <item>
+      <title>Amstelveen Reiseführer &amp; Geschichte | Eine Großstadt ohne Bahnhof</title>
+      <link>https://podcast.kajetan.nl/travel/netherlands/amstelveen/</link>
+      <description>Amstelveen bietet für einen Besuch viel Geschichte und Sehenswürdigkeiten wie das Cobra Museum, das Museum JAN und den Amsterdamse Bos. Im Jahr 1950 wurde der Personenverkehr am eigenen Bahnhof eingestellt, sodass die Stadt heute ohne direkten Schienenanschluss dasteht.
+
+Andere Sprachen und mehr über Amstelveen: https://podcast.kajetan.nl/travel/netherlands/amstelveen/
+
+Quellen u. a. Wikipedia und Wikivoyage (CC BY-SA 4.0) sowie offizielle Websites für Tourismus, Denkmalpflege und Museen. Gespräch und Stimmen sind KI-generiert.</description>
+      <itunes:summary>Amstelveen bietet für einen Besuch viel Geschichte und Sehenswürdigkeiten wie das Cobra Museum, das Museum JAN und den Amsterdamse Bos. Im Jahr 1950 wurde der Personenverkehr am eigenen Bahnhof eingestellt, sodass die Stadt heute ohne direkten Schienenanschluss dasteht.
+
+Andere Sprachen und mehr über Amstelveen: https://podcast.kajetan.nl/travel/netherlands/amstelveen/
+
+Quellen u. a. Wikipedia und Wikivoyage (CC BY-SA 4.0) sowie offizielle Websites für Tourismus, Denkmalpflege und Museen. Gespräch und Stimmen sind KI-generiert.</itunes:summary>
+      <enclosure url="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/episodes/de/de-amstelveen-1528243202-v1.mp3" length="24727526" type="audio/mpeg"/>
+      <guid isPermaLink="false">36c7447a-34c5-55bc-82e0-d6ba95ef93a9</guid>
+      <pubDate>Thu, 15 Oct 2026 17:02:08 +0000</pubDate>
+      <itunes:duration>00:25:38</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Deventer Reiseführer &amp; Geschichte | Eigensinnige Hansestadt an der IJssel</title>
       <link>https://podcast.kajetan.nl/travel/netherlands/deventer/</link>
