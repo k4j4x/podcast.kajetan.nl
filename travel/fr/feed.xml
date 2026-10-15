@@ -14,7 +14,27 @@
     <itunes:type>episodic</itunes:type>
     <itunes:category text="Society &amp; Culture"><itunes:category text="Places &amp; Travel"/></itunes:category>
     <itunes:image href="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/cover-fr-3000.jpg"/>
-    <lastBuildDate>Thu, 15 Oct 2026 18:06:13 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 15 Oct 2026 19:02:23 +0000</lastBuildDate>
+    <item>
+      <title>Helmond : guide de voyage et histoire | Du château aux maisons cubes</title>
+      <link>https://podcast.kajetan.nl/travel/netherlands/helmond/</link>
+      <description>Helmond, aux Pays-Bas, réunit lors d'une visite des monuments d'histoire et des lieux à voir comme Kasteel Helmond, les Kubuswoningen et De Cacaofabriek. En 1325, la construction de la forteresse carrée a débuté, marquant le centre urbain jusqu'à aujourd'hui.
+
+Autres langues et plus sur Helmond : https://podcast.kajetan.nl/travel/netherlands/helmond/
+
+Sources, entre autres : Wikipédia et Wikivoyage (CC BY-SA 4.0) ainsi que les sites officiels du tourisme, du patrimoine et des musées. La conversation et les voix sont générées par IA.</description>
+      <itunes:summary>Helmond, aux Pays-Bas, réunit lors d'une visite des monuments d'histoire et des lieux à voir comme Kasteel Helmond, les Kubuswoningen et De Cacaofabriek. En 1325, la construction de la forteresse carrée a débuté, marquant le centre urbain jusqu'à aujourd'hui.
+
+Autres langues et plus sur Helmond : https://podcast.kajetan.nl/travel/netherlands/helmond/
+
+Sources, entre autres : Wikipédia et Wikivoyage (CC BY-SA 4.0) ainsi que les sites officiels du tourisme, du patrimoine et des musées. La conversation et les voix sont générées par IA.</itunes:summary>
+      <enclosure url="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/episodes/fr/fr-helmond-1528158256-v1.mp3" length="19285319" type="audio/mpeg"/>
+      <guid isPermaLink="false">c7935a2a-b259-50fc-99e1-8e3a90d2d740</guid>
+      <pubDate>Thu, 15 Oct 2026 19:01:16 +0000</pubDate>
+      <itunes:duration>00:19:58</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Amstelveen : guide de voyage et histoire | La surprenante voisine d'Amsterdam</title>
       <link>https://podcast.kajetan.nl/travel/netherlands/amstelveen/</link>
