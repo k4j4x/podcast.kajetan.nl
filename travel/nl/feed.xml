@@ -14,7 +14,27 @@
     <itunes:type>episodic</itunes:type>
     <itunes:category text="Society &amp; Culture"><itunes:category text="Places &amp; Travel"/></itunes:category>
     <itunes:image href="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/cover-nl-3000.jpg"/>
-    <lastBuildDate>Fri, 16 Oct 2026 18:33:15 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 16 Oct 2026 19:02:52 +0000</lastBuildDate>
+    <item>
+      <title>Lelystad reisgids &amp; geschiedenis | Een stad op de bodem van de zee</title>
+      <link>https://podcast.kajetan.nl/travel/netherlands/lelystad/</link>
+      <description>Lelystad combineert bij een bezoek de geschiedenis van de polder met bezienswaardigheden zoals het schip Batavia bij Museum Batavialand en het Natuurpark Lelystad. In juni 1957 viel de polder Oostelijk Flevoland droog en veranderde de voormalige zeebodem in nieuw land.
+
+Andere talen en meer over Lelystad: https://podcast.kajetan.nl/travel/netherlands/lelystad/
+
+Bronnen o.a. Wikipedia en Wikivoyage (CC BY-SA 4.0) en officiële websites over toerisme, erfgoed en musea. Het gesprek en de stemmen zijn door AI gegenereerd.</description>
+      <itunes:summary>Lelystad combineert bij een bezoek de geschiedenis van de polder met bezienswaardigheden zoals het schip Batavia bij Museum Batavialand en het Natuurpark Lelystad. In juni 1957 viel de polder Oostelijk Flevoland droog en veranderde de voormalige zeebodem in nieuw land.
+
+Andere talen en meer over Lelystad: https://podcast.kajetan.nl/travel/netherlands/lelystad/
+
+Bronnen o.a. Wikipedia en Wikivoyage (CC BY-SA 4.0) en officiële websites over toerisme, erfgoed en musea. Het gesprek en de stemmen zijn door AI gegenereerd.</itunes:summary>
+      <enclosure url="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/episodes/nl/nl-lelystad-1528990721-v1.mp3" length="12949702" type="audio/mpeg"/>
+      <guid isPermaLink="false">a129da60-2b13-54b0-b2e3-f1511f7c177e</guid>
+      <pubDate>Fri, 16 Oct 2026 19:02:52 +0000</pubDate>
+      <itunes:duration>00:13:22</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Heerlen reisgids &amp; geschiedenis | Van mijnstad naar streetarthoofdstad</title>
       <link>https://podcast.kajetan.nl/travel/netherlands/heerlen/</link>
