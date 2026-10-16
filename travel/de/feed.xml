@@ -14,7 +14,27 @@
     <itunes:type>episodic</itunes:type>
     <itunes:category text="Society &amp; Culture"><itunes:category text="Places &amp; Travel"/></itunes:category>
     <itunes:image href="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/cover-de-3000.jpg"/>
-    <lastBuildDate>Fri, 16 Oct 2026 19:33:36 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 16 Oct 2026 20:03:04 +0000</lastBuildDate>
+    <item>
+      <title>Schiedam Reiseführer &amp; Geschichte | Vom Schwarzen Nazareth zum Jenever</title>
+      <link>https://podcast.kajetan.nl/travel/netherlands/schiedam/</link>
+      <description>Schiedam verbindet bei einem Besuch an den Grachten der Lange Haven, in der Molen De Walvisch und im Nationaal Jenevermuseum seine Geschichte mit lokalen Sehenswürdigkeiten. Im Jahr 1275 verlieh Aleid van Holland dem Ort die Stadtrechte und prägte damit die weitere Entwicklung zur Brennereistadt.
+
+Andere Sprachen und mehr über Schiedam: https://podcast.kajetan.nl/travel/netherlands/schiedam/
+
+Quellen u. a. Wikipedia und Wikivoyage (CC BY-SA 4.0) sowie offizielle Websites für Tourismus, Denkmalpflege und Museen. Gespräch und Stimmen sind KI-generiert.</description>
+      <itunes:summary>Schiedam verbindet bei einem Besuch an den Grachten der Lange Haven, in der Molen De Walvisch und im Nationaal Jenevermuseum seine Geschichte mit lokalen Sehenswürdigkeiten. Im Jahr 1275 verlieh Aleid van Holland dem Ort die Stadtrechte und prägte damit die weitere Entwicklung zur Brennereistadt.
+
+Andere Sprachen und mehr über Schiedam: https://podcast.kajetan.nl/travel/netherlands/schiedam/
+
+Quellen u. a. Wikipedia und Wikivoyage (CC BY-SA 4.0) sowie offizielle Websites für Tourismus, Denkmalpflege und Museen. Gespräch und Stimmen sind KI-generiert.</itunes:summary>
+      <enclosure url="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/episodes/de/de-schiedam-1528910170-v1.mp3" length="22483513" type="audio/mpeg"/>
+      <guid isPermaLink="false">723d3737-6259-57c6-aca8-44d48a9bf773</guid>
+      <pubDate>Fri, 16 Oct 2026 20:02:02 +0000</pubDate>
+      <itunes:duration>00:23:18</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Lelystad Reiseführer &amp; Geschichte | Eine Stadt auf dem Meeresboden</title>
       <link>https://podcast.kajetan.nl/travel/netherlands/lelystad/</link>
