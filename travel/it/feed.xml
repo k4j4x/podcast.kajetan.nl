@@ -14,7 +14,27 @@
     <itunes:type>episodic</itunes:type>
     <itunes:category text="Society &amp; Culture"><itunes:category text="Places &amp; Travel"/></itunes:category>
     <itunes:image href="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/cover-it-3000.jpg"/>
-    <lastBuildDate>Fri, 16 Oct 2026 18:02:57 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 16 Oct 2026 18:33:15 +0000</lastBuildDate>
+    <item>
+      <title>Heerlen: guida di viaggio e storia | Dal carbone alla street art</title>
+      <link>https://podcast.kajetan.nl/travel/netherlands/heerlen/</link>
+      <description>Heerlen unisce durante una visita la sua storia a luoghi come Kasteel Hoensbroek, il Glaspaleis e il Nederlands Mijnmuseum. Nel 1965, il governo olandese annunciò la chiusura delle miniere di carbone locali, avviando la trasformazione verso la street art.
+
+Altre lingue e altro su Heerlen: https://podcast.kajetan.nl/travel/netherlands/heerlen/
+
+Fonti, tra le altre: Wikipedia e Wikivoyage (CC BY-SA 4.0) e siti ufficiali di turismo, patrimonio e musei. La conversazione e le voci sono generate dall'IA.</description>
+      <itunes:summary>Heerlen unisce durante una visita la sua storia a luoghi come Kasteel Hoensbroek, il Glaspaleis e il Nederlands Mijnmuseum. Nel 1965, il governo olandese annunciò la chiusura delle miniere di carbone locali, avviando la trasformazione verso la street art.
+
+Altre lingue e altro su Heerlen: https://podcast.kajetan.nl/travel/netherlands/heerlen/
+
+Fonti, tra le altre: Wikipedia e Wikivoyage (CC BY-SA 4.0) e siti ufficiali di turismo, patrimonio e musei. La conversazione e le voci sono generate dall'IA.</itunes:summary>
+      <enclosure url="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/episodes/it/it-heerlen-1528095552-v1.mp3" length="14115093" type="audio/mpeg"/>
+      <guid isPermaLink="false">1639994b-ec44-58ce-846e-3bad3dfb2381</guid>
+      <pubDate>Fri, 16 Oct 2026 18:33:14 +0000</pubDate>
+      <itunes:duration>00:14:34</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Hilversum: guida di viaggio e storia | Dai boschi alla capitale dei media</title>
       <link>https://podcast.kajetan.nl/travel/netherlands/hilversum/</link>
