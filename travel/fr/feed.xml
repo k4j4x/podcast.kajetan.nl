@@ -14,7 +14,27 @@
     <itunes:type>episodic</itunes:type>
     <itunes:category text="Society &amp; Culture"><itunes:category text="Places &amp; Travel"/></itunes:category>
     <itunes:image href="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/cover-fr-3000.jpg"/>
-    <lastBuildDate>Fri, 16 Oct 2026 19:02:53 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 16 Oct 2026 19:33:37 +0000</lastBuildDate>
+    <item>
+      <title>Lelystad : guide de voyage et histoire | Une ville née au fond de la mer</title>
+      <link>https://podcast.kajetan.nl/travel/netherlands/lelystad/</link>
+      <description>Lelystad associe lors d'une visite l'histoire locale à des sites à voir comme le navire Batavia au Museum Batavialand et le Natuurpark Lelystad. En juin 1957, le polder Oostelijk Flevoland a été asséché, transformant l'ancien fond marin en terre ferme.
+
+Autres langues et plus sur Lelystad : https://podcast.kajetan.nl/travel/netherlands/lelystad/
+
+Sources, entre autres : Wikipédia et Wikivoyage (CC BY-SA 4.0) ainsi que les sites officiels du tourisme, du patrimoine et des musées. La conversation et les voix sont générées par IA.</description>
+      <itunes:summary>Lelystad associe lors d'une visite l'histoire locale à des sites à voir comme le navire Batavia au Museum Batavialand et le Natuurpark Lelystad. En juin 1957, le polder Oostelijk Flevoland a été asséché, transformant l'ancien fond marin en terre ferme.
+
+Autres langues et plus sur Lelystad : https://podcast.kajetan.nl/travel/netherlands/lelystad/
+
+Sources, entre autres : Wikipédia et Wikivoyage (CC BY-SA 4.0) ainsi que les sites officiels du tourisme, du patrimoine et des musées. La conversation et les voix sont générées par IA.</itunes:summary>
+      <enclosure url="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/episodes/fr/fr-lelystad-1528990721-v1.mp3" length="17868446" type="audio/mpeg"/>
+      <guid isPermaLink="false">2fa53b33-bc0a-5a76-a905-de28a7fc8dce</guid>
+      <pubDate>Fri, 16 Oct 2026 19:33:36 +0000</pubDate>
+      <itunes:duration>00:18:29</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Heerlen : guide de voyage et histoire | Du charbon au street art</title>
       <link>https://podcast.kajetan.nl/travel/netherlands/heerlen/</link>
