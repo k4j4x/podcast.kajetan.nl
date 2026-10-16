@@ -14,10 +14,11 @@
     <itunes:type>episodic</itunes:type>
     <itunes:category text="Society &amp; Culture"><itunes:category text="Places &amp; Travel"/></itunes:category>
     <itunes:image href="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/cover-fr-3000.jpg"/>
-    <lastBuildDate>Thu, 15 Oct 2026 21:33:48 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 16 Oct 2026 03:53:21 +0000</lastBuildDate>
     <item>
       <title>Hilversum : guide de voyage et histoire | De la nature à la capitale des médias</title>
       <link>https://podcast.kajetan.nl/travel/netherlands/hilversum/</link>
+      <podcast:transcript url="https://podcast.kajetan.nl/travel/netherlands/hilversum/transcript-fr.txt" type="text/plain" language="fr"/>
       <description>Hilversum offre lors d'une visite son histoire à travers le Raadhuis de Willem Dudok, le musée Beeld &amp; Geluid et le Media Park. En 1918, l'installation de la Nederlandsche Seintoestellen Fabriek a lancé son développement en tant que centre national de radiodiffusion.
 
 Autres langues et plus sur Hilversum : https://podcast.kajetan.nl/travel/netherlands/hilversum/
@@ -38,6 +39,7 @@ Sources, entre autres : Wikipédia et Wikivoyage (CC BY-SA 4.0) ainsi que les si
     <item>
       <title>Helmond : guide de voyage et histoire | Du château aux maisons cubes</title>
       <link>https://podcast.kajetan.nl/travel/netherlands/helmond/</link>
+      <podcast:transcript url="https://podcast.kajetan.nl/travel/netherlands/helmond/transcript-fr.txt" type="text/plain" language="fr"/>
       <description>Helmond, aux Pays-Bas, réunit lors d'une visite des monuments d'histoire et des lieux à voir comme Kasteel Helmond, les Kubuswoningen et De Cacaofabriek. En 1325, la construction de la forteresse carrée a débuté, marquant le centre urbain jusqu'à aujourd'hui.
 
 Autres langues et plus sur Helmond : https://podcast.kajetan.nl/travel/netherlands/helmond/
@@ -58,6 +60,7 @@ Sources, entre autres : Wikipédia et Wikivoyage (CC BY-SA 4.0) ainsi que les si
     <item>
       <title>Amstelveen : guide de voyage et histoire | La surprenante voisine d'Amsterdam</title>
       <link>https://podcast.kajetan.nl/travel/netherlands/amstelveen/</link>
+      <podcast:transcript url="https://podcast.kajetan.nl/travel/netherlands/amstelveen/transcript-fr.txt" type="text/plain" language="fr"/>
       <description>Amstelveen offre lors d'une visite une longue histoire et des sites à voir comme le Cobra Museum, le Museum JAN et le Amsterdamse Bos. En 1964, la commune a officiellement changé son nom de Nieuwer-Amstel en Amstelveen après des siècles d'extraction de tourbe.
 
 Autres langues et plus sur Amstelveen : https://podcast.kajetan.nl/travel/netherlands/amstelveen/

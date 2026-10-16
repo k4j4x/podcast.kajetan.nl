@@ -14,10 +14,11 @@
     <itunes:type>episodic</itunes:type>
     <itunes:category text="Society &amp; Culture"><itunes:category text="Places &amp; Travel"/></itunes:category>
     <itunes:image href="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/cover-nl-3000.jpg"/>
-    <lastBuildDate>Thu, 15 Oct 2026 21:33:48 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 16 Oct 2026 03:53:21 +0000</lastBuildDate>
     <item>
       <title>Hilversum reisgids &amp; geschiedenis | Het Hollywood van Nederland</title>
       <link>https://podcast.kajetan.nl/travel/netherlands/hilversum/</link>
+      <podcast:transcript url="https://podcast.kajetan.nl/travel/netherlands/hilversum/transcript-nl.txt" type="text/plain" language="nl"/>
       <description>Hilversum biedt bij een bezoek aan het Media Park, het museum Beeld &amp; Geluid en het Raadhuis van Willem Dudok een overzicht van belangrijke bezienswaardigheden. In 1918 begon met de komst van de Nederlandsche Seintoestellen Fabriek de groei tot het nationale mediacentrum.
 
 Andere talen en meer over Hilversum: https://podcast.kajetan.nl/travel/netherlands/hilversum/
@@ -38,6 +39,7 @@ Bronnen o.a. Wikipedia en Wikivoyage (CC BY-SA 4.0) en officiële websites over 
     <item>
       <title>Helmond reisgids &amp; geschiedenis | Middeleeuws kasteel en kubuswoningen</title>
       <link>https://podcast.kajetan.nl/travel/netherlands/helmond/</link>
+      <podcast:transcript url="https://podcast.kajetan.nl/travel/netherlands/helmond/transcript-nl.txt" type="text/plain" language="nl"/>
       <description>Helmond combineert bij een bezoek de lokale geschiedenis met bekende bezienswaardigheden zoals Kasteel Helmond, de Kubuswoningen en De Cacaofabriek. In 1325 begon de bouw van de vierkante waterburcht, die de stad tot op de dag van vandaag vormgeeft.
 
 Andere talen en meer over Helmond: https://podcast.kajetan.nl/travel/netherlands/helmond/
@@ -58,6 +60,7 @@ Bronnen o.a. Wikipedia en Wikivoyage (CC BY-SA 4.0) en officiële websites over 
     <item>
       <title>Amstelveen reisgids &amp; geschiedenis | Van veenmoeras tot internationale oase</title>
       <link>https://podcast.kajetan.nl/travel/netherlands/amstelveen/</link>
+      <podcast:transcript url="https://podcast.kajetan.nl/travel/netherlands/amstelveen/transcript-nl.txt" type="text/plain" language="nl"/>
       <description>Amstelveen biedt voor een bezoek veel geschiedenis en bezienswaardigheden zoals het Cobra Museum, Museum JAN en het Amsterdamse Bos. In 1964 veranderde de gemeente haar officiële naam van Nieuwer-Amstel in Amstelveen, na eeuwen van turfwinning in het drassige veengebied.
 
 Andere talen en meer over Amstelveen: https://podcast.kajetan.nl/travel/netherlands/amstelveen/

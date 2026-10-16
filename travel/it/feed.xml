@@ -14,10 +14,11 @@
     <itunes:type>episodic</itunes:type>
     <itunes:category text="Society &amp; Culture"><itunes:category text="Places &amp; Travel"/></itunes:category>
     <itunes:image href="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/cover-it-3000.jpg"/>
-    <lastBuildDate>Thu, 15 Oct 2026 21:33:49 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 16 Oct 2026 03:53:22 +0000</lastBuildDate>
     <item>
       <title>Hilversum: guida di viaggio e storia | Dai boschi alla capitale dei media</title>
       <link>https://podcast.kajetan.nl/travel/netherlands/hilversum/</link>
+      <podcast:transcript url="https://podcast.kajetan.nl/travel/netherlands/hilversum/transcript-it.txt" type="text/plain" language="it"/>
       <description>Hilversum offre durante una visita la sua storia attraverso il Raadhuis di Willem Dudok, il museo Beeld &amp; Geluid e il Media Park. Nel 1918, l'arrivo della Nederlandsche Seintoestellen Fabriek ha avviato la sua crescita come centro radiotelevisivo nazionale.
 
 Altre lingue e altro su Hilversum: https://podcast.kajetan.nl/travel/netherlands/hilversum/
@@ -38,6 +39,7 @@ Fonti, tra le altre: Wikipedia e Wikivoyage (CC BY-SA 4.0) e siti ufficiali di t
     <item>
       <title>Helmond: guida di viaggio e storia | Castelli medievali e case cubiche</title>
       <link>https://podcast.kajetan.nl/travel/netherlands/helmond/</link>
+      <podcast:transcript url="https://podcast.kajetan.nl/travel/netherlands/helmond/transcript-it.txt" type="text/plain" language="it"/>
       <description>Helmond, nei Paesi Bassi, unisce durante una visita luoghi di storia e siti celebri come Kasteel Helmond, le Kubuswoningen e De Cacaofabriek. Nel 1325 iniziò la costruzione del castello d'acqua quadrato, che definisce la città ancora oggi.
 
 Altre lingue e altro su Helmond: https://podcast.kajetan.nl/travel/netherlands/helmond/
@@ -58,6 +60,7 @@ Fonti, tra le altre: Wikipedia e Wikivoyage (CC BY-SA 4.0) e siti ufficiali di t
     <item>
       <title>Amstelveen: guida di viaggio e storia | Tra parchi verdi e rotte aeree</title>
       <link>https://podcast.kajetan.nl/travel/netherlands/amstelveen/</link>
+      <podcast:transcript url="https://podcast.kajetan.nl/travel/netherlands/amstelveen/transcript-it.txt" type="text/plain" language="it"/>
       <description>Amstelveen offre per una visita molta storia e luoghi chiave su cosa vedere, tra cui il Cobra Museum, il Museum JAN e l'Amsterdamse Bos. Nel 1964 il comune ha cambiato ufficialmente il proprio nome da Nieuwer-Amstel a Amstelveen.
 
 Altre lingue e altro su Amstelveen: https://podcast.kajetan.nl/travel/netherlands/amstelveen/
@@ -183,6 +186,7 @@ Fonti, tra le altre: Wikipedia e Wikivoyage (CC BY-SA 4.0) e siti ufficiali di t
     <item>
       <title>Dordrecht: guida di viaggio e storia | Tra pecore contrabbandate e alluvioni</title>
       <link>https://podcast.kajetan.nl/travel/netherlands/dordrecht/</link>
+      <podcast:transcript url="https://podcast.kajetan.nl/travel/netherlands/dordrecht/transcript-it.txt" type="text/plain" language="it"/>
       <description>Dordrecht offre molti luoghi da includere in una visita dedicata alla storia, tra cui la Grote Kerk, la Groothoofdspoort e i vecchi porti. Nel 1421, l'inondazione della Sint-Elisabethsvloed sommerse il territorio circostante e trasformò la città commerciale in un'isola.
 
 Altre lingue e altro su Dordrecht: https://podcast.kajetan.nl/travel/netherlands/dordrecht/

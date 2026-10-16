@@ -14,10 +14,11 @@
     <itunes:type>episodic</itunes:type>
     <itunes:category text="Society &amp; Culture"><itunes:category text="Places &amp; Travel"/></itunes:category>
     <itunes:image href="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/cover-de-3000.jpg"/>
-    <lastBuildDate>Thu, 15 Oct 2026 21:33:48 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 16 Oct 2026 03:53:21 +0000</lastBuildDate>
     <item>
       <title>Heerlen Reiseführer &amp; Geschichte | Vom Bergbau zur Street-Art-Hauptstadt</title>
       <link>https://podcast.kajetan.nl/travel/netherlands/heerlen/</link>
+      <podcast:transcript url="https://podcast.kajetan.nl/travel/netherlands/heerlen/transcript-de.txt" type="text/plain" language="de"/>
       <description>Heerlen verbindet bei einem Besuch seine Geschichte mit Sehenswürdigkeiten wie Kasteel Hoensbroek, dem Glaspaleis und dem Nederlands Mijnmuseum. Im Jahr 1965 kündigte die niederländische Regierung die Schließung der Zechen an, was den Wandel zur Kunstmetropole auslöste.
 
 Andere Sprachen und mehr über Heerlen: https://podcast.kajetan.nl/travel/netherlands/heerlen/
@@ -38,6 +39,7 @@ Quellen u. a. Wikipedia und Wikivoyage (CC BY-SA 4.0) sowie offizielle Websites 
     <item>
       <title>Hilversum Reiseführer &amp; Geschichte | Von Schafweiden zu Fernsehstudios</title>
       <link>https://podcast.kajetan.nl/travel/netherlands/hilversum/</link>
+      <podcast:transcript url="https://podcast.kajetan.nl/travel/netherlands/hilversum/transcript-de.txt" type="text/plain" language="de"/>
       <description>Hilversum bietet bei einem Besuch Einblicke in seine Geschichte und Sehenswürdigkeiten wie das Raadhuis von Willem Dudok oder den Media Park. Im Jahr 1918 begann mit der Gründung der Nederlandsche Seintoestellen Fabriek die Entwicklung zum Medienzentrum des Landes.
 
 Andere Sprachen und mehr über Hilversum: https://podcast.kajetan.nl/travel/netherlands/hilversum/
@@ -58,6 +60,7 @@ Quellen u. a. Wikipedia und Wikivoyage (CC BY-SA 4.0) sowie offizielle Websites 
     <item>
       <title>Helmond Reiseführer &amp; Geschichte | Die Geschichte hinter dem Ritterhelm</title>
       <link>https://podcast.kajetan.nl/travel/netherlands/helmond/</link>
+      <podcast:transcript url="https://podcast.kajetan.nl/travel/netherlands/helmond/transcript-de.txt" type="text/plain" language="de"/>
       <description>Helmond, in den Niederlanden, verbindet bei einem Besuch historische Orte der Geschichte mit bekannten Sehenswürdigkeiten wie Kasteel Helmond, den Kubuswoningen und der Cacaofabriek. Im Jahr 1325 begann der Bau der quadratischen Wasserburg, die bis heute das Stadtbild prägt.
 
 Andere Sprachen und mehr über Helmond: https://podcast.kajetan.nl/travel/netherlands/helmond/
@@ -78,6 +81,7 @@ Quellen u. a. Wikipedia und Wikivoyage (CC BY-SA 4.0) sowie offizielle Websites 
     <item>
       <title>Amstelveen Reiseführer &amp; Geschichte | Eine Großstadt ohne Bahnhof</title>
       <link>https://podcast.kajetan.nl/travel/netherlands/amstelveen/</link>
+      <podcast:transcript url="https://podcast.kajetan.nl/travel/netherlands/amstelveen/transcript-de.txt" type="text/plain" language="de"/>
       <description>Amstelveen bietet für einen Besuch viel Geschichte und Sehenswürdigkeiten wie das Cobra Museum, das Museum JAN und den Amsterdamse Bos. Im Jahr 1950 wurde der Personenverkehr am eigenen Bahnhof eingestellt, sodass die Stadt heute ohne direkten Schienenanschluss dasteht.
 
 Andere Sprachen und mehr über Amstelveen: https://podcast.kajetan.nl/travel/netherlands/amstelveen/

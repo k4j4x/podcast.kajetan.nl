@@ -14,10 +14,11 @@
     <itunes:type>episodic</itunes:type>
     <itunes:category text="Society &amp; Culture"><itunes:category text="Places &amp; Travel"/></itunes:category>
     <itunes:image href="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/cover-es-3000.jpg"/>
-    <lastBuildDate>Thu, 15 Oct 2026 21:33:48 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 16 Oct 2026 03:53:21 +0000</lastBuildDate>
     <item>
       <title>Hilversum: guía de viaje e historia | De pueblo agrícola a capital mediática</title>
       <link>https://podcast.kajetan.nl/travel/netherlands/hilversum/</link>
+      <podcast:transcript url="https://podcast.kajetan.nl/travel/netherlands/hilversum/transcript-es.txt" type="text/plain" language="es"/>
       <description>Hilversum ofrece en una visita su historia a través del Raadhuis de Willem Dudok, el museo Beeld &amp; Geluid y el Media Park. En 1918, la llegada de la Nederlandsche Seintoestellen Fabriek inició su transformación en el centro de radiodifusión nacional.
 
 Otros idiomas y más sobre Hilversum: https://podcast.kajetan.nl/travel/netherlands/hilversum/
@@ -38,6 +39,7 @@ Fuentes, entre otras: Wikipedia y Wikivoyage (CC BY-SA 4.0) y webs oficiales de 
     <item>
       <title>Helmond: guía de viaje e historia | Entre castillos y casas cubo</title>
       <link>https://podcast.kajetan.nl/travel/netherlands/helmond/</link>
+      <podcast:transcript url="https://podcast.kajetan.nl/travel/netherlands/helmond/transcript-es.txt" type="text/plain" language="es"/>
       <description>Helmond, en los Países Bajos, reúne durante una visita lugares de historia y sitios qué ver como Kasteel Helmond, las Kubuswoningen y De Cacaofabriek. En 1325 comenzó la construcción del castillo de agua cuadrado, que define la ciudad hasta hoy.
 
 Otros idiomas y más sobre Helmond: https://podcast.kajetan.nl/travel/netherlands/helmond/
@@ -58,6 +60,7 @@ Fuentes, entre otras: Wikipedia y Wikivoyage (CC BY-SA 4.0) y webs oficiales de 
     <item>
       <title>Amstelveen: guía de viaje e historia | Una gran ciudad sin estación de trenes</title>
       <link>https://podcast.kajetan.nl/travel/netherlands/amstelveen/</link>
+      <podcast:transcript url="https://podcast.kajetan.nl/travel/netherlands/amstelveen/transcript-es.txt" type="text/plain" language="es"/>
       <description>Amstelveen ofrece para una visita mucha historia y lugares qué ver como el Cobra Museum, el Museum JAN y el Amsterdamse Bos. En 1950, los trenes de pasajeros dejaron de operar en la estación local, por lo que el municipio se quedó sin red ferroviaria.
 
 Otros idiomas y más sobre Amstelveen: https://podcast.kajetan.nl/travel/netherlands/amstelveen/
