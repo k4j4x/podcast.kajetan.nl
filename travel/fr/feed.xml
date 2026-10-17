@@ -14,7 +14,27 @@
     <itunes:type>episodic</itunes:type>
     <itunes:category text="Society &amp; Culture"><itunes:category text="Places &amp; Travel"/></itunes:category>
     <itunes:image href="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/cover-fr-3000.jpg"/>
-    <lastBuildDate>Sat, 17 Oct 2026 18:03:19 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 17 Oct 2026 18:32:53 +0000</lastBuildDate>
+    <item>
+      <title>Roosendaal : guide de voyage et histoire | Bien plus qu'un nœud ferroviaire</title>
+      <link>https://podcast.kajetan.nl/travel/netherlands/roosendaal/</link>
+      <description>Roosendaal, aux Pays-Bas, montre son histoire lors d'une visite du Markt, avec des lieux à voir comme l'église Sint Jan et le Raadhuis. En 1854, une ligne ferroviaire vers Anvers est ouverte, transformant ce village d'extraction de tourbe en nœud de transport international.
+
+Autres langues et plus sur Roosendaal : https://podcast.kajetan.nl/travel/netherlands/roosendaal/
+
+Sources, entre autres : Wikipédia et Wikivoyage (CC BY-SA 4.0) ainsi que les sites officiels du tourisme, du patrimoine et des musées. La conversation et les voix sont générées par IA.</description>
+      <itunes:summary>Roosendaal, aux Pays-Bas, montre son histoire lors d'une visite du Markt, avec des lieux à voir comme l'église Sint Jan et le Raadhuis. En 1854, une ligne ferroviaire vers Anvers est ouverte, transformant ce village d'extraction de tourbe en nœud de transport international.
+
+Autres langues et plus sur Roosendaal : https://podcast.kajetan.nl/travel/netherlands/roosendaal/
+
+Sources, entre autres : Wikipédia et Wikivoyage (CC BY-SA 4.0) ainsi que les sites officiels du tourisme, du patrimoine et des musées. La conversation et les voix sont générées par IA.</itunes:summary>
+      <enclosure url="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/episodes/fr/fr-roosendaal-1528671703-v1.mp3" length="13366613" type="audio/mpeg"/>
+      <guid isPermaLink="false">035eb214-c05b-5616-bbd4-b719d14c8138</guid>
+      <pubDate>Sat, 17 Oct 2026 18:31:26 +0000</pubDate>
+      <itunes:duration>00:13:48</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Schiedam : guide de voyage et histoire | Du genièvre au vert</title>
       <link>https://podcast.kajetan.nl/travel/netherlands/schiedam/</link>

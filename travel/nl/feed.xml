@@ -14,7 +14,27 @@
     <itunes:type>episodic</itunes:type>
     <itunes:category text="Society &amp; Culture"><itunes:category text="Places &amp; Travel"/></itunes:category>
     <itunes:image href="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/cover-nl-3000.jpg"/>
-    <lastBuildDate>Sat, 17 Oct 2026 18:03:19 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 17 Oct 2026 18:32:53 +0000</lastBuildDate>
+    <item>
+      <title>Roosendaal reisgids &amp; geschiedenis | Van grensstation tot snoepstad</title>
+      <link>https://podcast.kajetan.nl/travel/netherlands/roosendaal/</link>
+      <description>Roosendaal toont bij een bezoek zijn geschiedenis met bezienswaardigheden rond de Markt, zoals de kerk Sint Jan en het oude Raadhuis. In 1854 werd de spoorlijn naar Antwerpen geopend, wat het oude turfdorp veranderde in een internationaal knooppunt voor spoor en industrie.
+
+Andere talen en meer over Roosendaal: https://podcast.kajetan.nl/travel/netherlands/roosendaal/
+
+Bronnen o.a. Wikipedia en Wikivoyage (CC BY-SA 4.0) en officiële websites over toerisme, erfgoed en musea. Het gesprek en de stemmen zijn door AI gegenereerd.</description>
+      <itunes:summary>Roosendaal toont bij een bezoek zijn geschiedenis met bezienswaardigheden rond de Markt, zoals de kerk Sint Jan en het oude Raadhuis. In 1854 werd de spoorlijn naar Antwerpen geopend, wat het oude turfdorp veranderde in een internationaal knooppunt voor spoor en industrie.
+
+Andere talen en meer over Roosendaal: https://podcast.kajetan.nl/travel/netherlands/roosendaal/
+
+Bronnen o.a. Wikipedia en Wikivoyage (CC BY-SA 4.0) en officiële websites over toerisme, erfgoed en musea. Het gesprek en de stemmen zijn door AI gegenereerd.</itunes:summary>
+      <enclosure url="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/episodes/nl/nl-roosendaal-1528671703-v1.mp3" length="22569033" type="audio/mpeg"/>
+      <guid isPermaLink="false">482f961f-20ec-5aeb-b8ec-cbe4eaa44d17</guid>
+      <pubDate>Sat, 17 Oct 2026 18:32:52 +0000</pubDate>
+      <itunes:duration>00:23:23</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Schiedam reisgids &amp; geschiedenis | Het rauwe jeneververleden</title>
       <link>https://podcast.kajetan.nl/travel/netherlands/schiedam/</link>
