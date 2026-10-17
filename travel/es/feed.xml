@@ -14,10 +14,11 @@
     <itunes:type>episodic</itunes:type>
     <itunes:category text="Society &amp; Culture"><itunes:category text="Places &amp; Travel"/></itunes:category>
     <itunes:image href="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/cover-es-3000.jpg"/>
-    <lastBuildDate>Fri, 16 Oct 2026 21:01:43 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 17 Oct 2026 03:34:03 +0000</lastBuildDate>
     <item>
       <title>Schiedam: guía de viaje e historia | Molinos gigantes y ginebra</title>
       <link>https://podcast.kajetan.nl/travel/netherlands/schiedam/</link>
+      <podcast:transcript url="https://podcast.kajetan.nl/travel/netherlands/schiedam/transcript-es.txt" type="text/plain" language="es"/>
       <description>Schiedam ofrece los canales de Lange Haven, el molino De Walvisch y el Nationaal Jenevermuseum para una visita centrada en su historia. En 1275, Aleid van Holland otorgó derechos de ciudad a la población, marcando su desarrollo.
 
 Otros idiomas y más sobre Schiedam: https://podcast.kajetan.nl/travel/netherlands/schiedam/
@@ -38,6 +39,7 @@ Fuentes, entre otras: Wikipedia y Wikivoyage (CC BY-SA 4.0) y webs oficiales de 
     <item>
       <title>Lelystad: guía de viaje e historia | Una ciudad ganada al fondo del mar</title>
       <link>https://podcast.kajetan.nl/travel/netherlands/lelystad/</link>
+      <podcast:transcript url="https://podcast.kajetan.nl/travel/netherlands/lelystad/transcript-es.txt" type="text/plain" language="es"/>
       <description>Lelystad combina en una visita la historia local con lugares qué ver como el barco Batavia en el Museum Batavialand y el Natuurpark Lelystad. En junio de 1957, el pólder Oostelijk Flevoland quedó seco y transformó el antiguo fondo marino en tierra firme.
 
 Otros idiomas y más sobre Lelystad: https://podcast.kajetan.nl/travel/netherlands/lelystad/
@@ -58,6 +60,7 @@ Fuentes, entre otras: Wikipedia y Wikivoyage (CC BY-SA 4.0) y webs oficiales de 
     <item>
       <title>Heerlen: guía de viaje e historia | Del carbón al arte urbano</title>
       <link>https://podcast.kajetan.nl/travel/netherlands/heerlen/</link>
+      <podcast:transcript url="https://podcast.kajetan.nl/travel/netherlands/heerlen/transcript-es.txt" type="text/plain" language="es"/>
       <description>Heerlen combina en una visita su historia con lugares qué ver como Kasteel Hoensbroek, el Glaspaleis y el Nederlands Mijnmuseum. En 1965, el gobierno neerlandés anunció el cierre de las minas de carbón locales, lo que inició su transformación hacia el arte urbano.
 
 Otros idiomas y más sobre Heerlen: https://podcast.kajetan.nl/travel/netherlands/heerlen/

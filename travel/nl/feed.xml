@@ -14,10 +14,11 @@
     <itunes:type>episodic</itunes:type>
     <itunes:category text="Society &amp; Culture"><itunes:category text="Places &amp; Travel"/></itunes:category>
     <itunes:image href="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/cover-nl-3000.jpg"/>
-    <lastBuildDate>Fri, 16 Oct 2026 21:01:43 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 17 Oct 2026 03:34:03 +0000</lastBuildDate>
     <item>
       <title>Schiedam reisgids &amp; geschiedenis | Het rauwe jeneververleden</title>
       <link>https://podcast.kajetan.nl/travel/netherlands/schiedam/</link>
+      <podcast:transcript url="https://podcast.kajetan.nl/travel/netherlands/schiedam/transcript-nl.txt" type="text/plain" language="nl"/>
       <description>Schiedam toont de grachten van de Lange Haven, molen De Walvisch en het Nationaal Jenevermuseum voor wie interesse heeft in de lokale geschiedenis en bezienswaardigheden. In 1275 verleende Aleid van Holland stadsrechten aan de nederzetting, wat de basis legde voor de latere ontwikkeling tot jeneverstad.
 
 Andere talen en meer over Schiedam: https://podcast.kajetan.nl/travel/netherlands/schiedam/
@@ -38,6 +39,7 @@ Bronnen o.a. Wikipedia en Wikivoyage (CC BY-SA 4.0) en officiële websites over 
     <item>
       <title>Lelystad reisgids &amp; geschiedenis | Een stad op de bodem van de zee</title>
       <link>https://podcast.kajetan.nl/travel/netherlands/lelystad/</link>
+      <podcast:transcript url="https://podcast.kajetan.nl/travel/netherlands/lelystad/transcript-nl.txt" type="text/plain" language="nl"/>
       <description>Lelystad combineert bij een bezoek de geschiedenis van de polder met bezienswaardigheden zoals het schip Batavia bij Museum Batavialand en het Natuurpark Lelystad. In juni 1957 viel de polder Oostelijk Flevoland droog en veranderde de voormalige zeebodem in nieuw land.
 
 Andere talen en meer over Lelystad: https://podcast.kajetan.nl/travel/netherlands/lelystad/
@@ -58,6 +60,7 @@ Bronnen o.a. Wikipedia en Wikivoyage (CC BY-SA 4.0) en officiële websites over 
     <item>
       <title>Heerlen reisgids &amp; geschiedenis | Van mijnstad naar streetarthoofdstad</title>
       <link>https://podcast.kajetan.nl/travel/netherlands/heerlen/</link>
+      <podcast:transcript url="https://podcast.kajetan.nl/travel/netherlands/heerlen/transcript-nl.txt" type="text/plain" language="nl"/>
       <description>Heerlen verbindt bij een bezoek zijn geschiedenis met bezienswaardigheden zoals Kasteel Hoensbroek, het Glaspaleis en het Nederlands Mijnmuseum. In 1965 kondigde de Nederlandse regering de sluiting van de mijnen aan, wat de transformatie naar streetarthoofdstad inzette.
 
 Andere talen en meer over Heerlen: https://podcast.kajetan.nl/travel/netherlands/heerlen/
