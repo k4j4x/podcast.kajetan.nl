@@ -14,7 +14,7 @@
     <itunes:type>episodic</itunes:type>
     <itunes:category text="Society &amp; Culture"><itunes:category text="Places &amp; Travel"/></itunes:category>
     <itunes:image href="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/cover-de-3000.jpg"/>
-    <lastBuildDate>Sat, 17 Oct 2026 03:43:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 17 Oct 2026 04:04:38 +0000</lastBuildDate>
     <item>
       <title>Schiedam Reiseführer &amp; Geschichte | Vom Schwarzen Nazareth zum Jenever</title>
       <link>https://podcast.kajetan.nl/travel/netherlands/schiedam/</link>
@@ -92,10 +92,10 @@ Quellen u. a. Wikipedia und Wikivoyage (CC BY-SA 4.0) sowie offizielle Websites 
 Andere Sprachen und mehr über Hilversum: https://podcast.kajetan.nl/travel/netherlands/hilversum/
 
 Quellen u. a. Wikipedia und Wikivoyage (CC BY-SA 4.0) sowie offizielle Websites für Tourismus, Denkmalpflege und Museen. Gespräch und Stimmen sind KI-generiert.</itunes:summary>
-      <enclosure url="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/episodes/de/de-hilversum-1528160832-v1.mp3" length="17472600" type="audio/mpeg"/>
+      <enclosure url="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/episodes/de/de-hilversum-1528160832-v2.mp3" length="26123937" type="audio/mpeg"/>
       <guid isPermaLink="false">f1e0c13b-22c2-5db0-a2b0-67632f48617b</guid>
       <pubDate>Thu, 15 Oct 2026 20:31:09 +0000</pubDate>
-      <itunes:duration>00:18:04</itunes:duration>
+      <itunes:duration>00:27:05</itunes:duration>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>false</itunes:explicit>
     </item>
