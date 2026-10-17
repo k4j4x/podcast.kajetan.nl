@@ -14,7 +14,27 @@
     <itunes:type>episodic</itunes:type>
     <itunes:category text="Society &amp; Culture"><itunes:category text="Places &amp; Travel"/></itunes:category>
     <itunes:image href="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/cover-de-3000.jpg"/>
-    <lastBuildDate>Sat, 17 Oct 2026 20:02:51 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 17 Oct 2026 20:33:01 +0000</lastBuildDate>
+    <item>
+      <title>Gouda Reiseführer &amp; Geschichte | Ein schwimmendes Rathaus im Sumpf</title>
+      <link>https://podcast.kajetan.nl/travel/netherlands/gouda/</link>
+      <description>Gouda verbindet bei einem Besuch die lokale Geschichte mit Sehenswürdigkeiten wie der Sint-Janskerk, dem Stadhuis und der Goudse Waag am Markt. Im Jahr 1448 begann auf dem feuchten Marktgelände der Bau des gotischen Stadhuis auf Fundamenten aus schweren Eichenbalken.
+
+Andere Sprachen und mehr über Gouda: https://podcast.kajetan.nl/travel/netherlands/gouda/
+
+Quellen u. a. Wikipedia und Wikivoyage (CC BY-SA 4.0) sowie offizielle Websites für Tourismus, Denkmalpflege und Museen. Gespräch und Stimmen sind KI-generiert.</description>
+      <itunes:summary>Gouda verbindet bei einem Besuch die lokale Geschichte mit Sehenswürdigkeiten wie der Sint-Janskerk, dem Stadhuis und der Goudse Waag am Markt. Im Jahr 1448 begann auf dem feuchten Marktgelände der Bau des gotischen Stadhuis auf Fundamenten aus schweren Eichenbalken.
+
+Andere Sprachen und mehr über Gouda: https://podcast.kajetan.nl/travel/netherlands/gouda/
+
+Quellen u. a. Wikipedia und Wikivoyage (CC BY-SA 4.0) sowie offizielle Websites für Tourismus, Denkmalpflege und Museen. Gespräch und Stimmen sind KI-generiert.</itunes:summary>
+      <enclosure url="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/episodes/de/de-gouda-1528695192-v1.mp3" length="23138865" type="audio/mpeg"/>
+      <guid isPermaLink="false">6b1d7545-2e43-51a1-993d-e06e61481a89</guid>
+      <pubDate>Sat, 17 Oct 2026 20:33:01 +0000</pubDate>
+      <itunes:duration>00:23:59</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Hoorn Reiseführer &amp; Geschichte | Die Hafenstadt hinter Kap Horn</title>
       <link>https://podcast.kajetan.nl/travel/netherlands/hoorn/</link>
