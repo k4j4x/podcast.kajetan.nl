@@ -14,7 +14,27 @@
     <itunes:type>episodic</itunes:type>
     <itunes:category text="Society &amp; Culture"><itunes:category text="Places &amp; Travel"/></itunes:category>
     <itunes:image href="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/cover-nl-3000.jpg"/>
-    <lastBuildDate>Sat, 17 Oct 2026 19:03:25 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 17 Oct 2026 19:33:17 +0000</lastBuildDate>
+    <item>
+      <title>Hoorn reisgids &amp; geschiedenis | Verrezen uit een stormvloed</title>
+      <link>https://podcast.kajetan.nl/travel/netherlands/hoorn/</link>
+      <description>Hoorn verbindt een lange maritieme geschiedenis met bekende bezienswaardigheden zoals de Hoofdtoren, de Oosterpoort en de Roode Steen bij een bezoek. In 1357 kreeg de havenplaats officieel stadsrechten, waarna de handel op de Zuiderzee snel groeide.
+
+Andere talen en meer over Hoorn: https://podcast.kajetan.nl/travel/netherlands/hoorn/
+
+Bronnen o.a. Wikipedia en Wikivoyage (CC BY-SA 4.0) en officiële websites over toerisme, erfgoed en musea. Het gesprek en de stemmen zijn door AI gegenereerd.</description>
+      <itunes:summary>Hoorn verbindt een lange maritieme geschiedenis met bekende bezienswaardigheden zoals de Hoofdtoren, de Oosterpoort en de Roode Steen bij een bezoek. In 1357 kreeg de havenplaats officieel stadsrechten, waarna de handel op de Zuiderzee snel groeide.
+
+Andere talen en meer over Hoorn: https://podcast.kajetan.nl/travel/netherlands/hoorn/
+
+Bronnen o.a. Wikipedia en Wikivoyage (CC BY-SA 4.0) en officiële websites over toerisme, erfgoed en musea. Het gesprek en de stemmen zijn door AI gegenereerd.</itunes:summary>
+      <enclosure url="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/episodes/nl/nl-hoorn-1528487371-v1.mp3" length="17607014" type="audio/mpeg"/>
+      <guid isPermaLink="false">f4279b88-37aa-54c2-8f27-349000d22eba</guid>
+      <pubDate>Sat, 17 Oct 2026 19:33:17 +0000</pubDate>
+      <itunes:duration>00:18:13</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Roosendaal reisgids &amp; geschiedenis | Van grensstation tot snoepstad</title>
       <link>https://podcast.kajetan.nl/travel/netherlands/roosendaal/</link>
