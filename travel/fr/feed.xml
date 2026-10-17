@@ -14,7 +14,27 @@
     <itunes:type>episodic</itunes:type>
     <itunes:category text="Society &amp; Culture"><itunes:category text="Places &amp; Travel"/></itunes:category>
     <itunes:image href="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/cover-fr-3000.jpg"/>
-    <lastBuildDate>Sat, 17 Oct 2026 19:33:18 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 17 Oct 2026 20:02:51 +0000</lastBuildDate>
+    <item>
+      <title>Hoorn : guide de voyage et histoire | Du port néerlandais au Cap Horn</title>
+      <link>https://podcast.kajetan.nl/travel/netherlands/hoorn/</link>
+      <description>Hoorn associe son histoire maritime à des lieux à voir comme la tour Hoofdtoren et la place Roode Steen lors d'une visite. En 1616, des navigateurs néerlandais ont franchi le sud de l'Amérique et nommé le cap Horn d'après ce port.
+
+Autres langues et plus sur Hoorn : https://podcast.kajetan.nl/travel/netherlands/hoorn/
+
+Sources, entre autres : Wikipédia et Wikivoyage (CC BY-SA 4.0) ainsi que les sites officiels du tourisme, du patrimoine et des musées. La conversation et les voix sont générées par IA.</description>
+      <itunes:summary>Hoorn associe son histoire maritime à des lieux à voir comme la tour Hoofdtoren et la place Roode Steen lors d'une visite. En 1616, des navigateurs néerlandais ont franchi le sud de l'Amérique et nommé le cap Horn d'après ce port.
+
+Autres langues et plus sur Hoorn : https://podcast.kajetan.nl/travel/netherlands/hoorn/
+
+Sources, entre autres : Wikipédia et Wikivoyage (CC BY-SA 4.0) ainsi que les sites officiels du tourisme, du patrimoine et des musées. La conversation et les voix sont générées par IA.</itunes:summary>
+      <enclosure url="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/episodes/fr/fr-hoorn-1528487371-v1.mp3" length="14171591" type="audio/mpeg"/>
+      <guid isPermaLink="false">71c44e55-e646-5539-b3e3-54c6add25a44</guid>
+      <pubDate>Sat, 17 Oct 2026 20:02:50 +0000</pubDate>
+      <itunes:duration>00:14:38</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Roosendaal : guide de voyage et histoire | Bien plus qu'un nœud ferroviaire</title>
       <link>https://podcast.kajetan.nl/travel/netherlands/roosendaal/</link>
