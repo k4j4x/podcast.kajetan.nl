@@ -14,7 +14,7 @@
     <itunes:type>episodic</itunes:type>
     <itunes:category text="Society &amp; Culture"><itunes:category text="Places &amp; Travel"/></itunes:category>
     <itunes:image href="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/cover-it-3000.jpg"/>
-    <lastBuildDate>Sun, 18 Oct 2026 03:49:16 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 18 Oct 2026 04:01:55 +0000</lastBuildDate>
     <item>
       <title>Hoorn: guida di viaggio e storia | Dal porto olandese a Capo Horn</title>
       <link>https://podcast.kajetan.nl/travel/netherlands/hoorn/</link>
@@ -91,10 +91,10 @@ Fonti, tra le altre: Wikipedia e Wikivoyage (CC BY-SA 4.0) e siti ufficiali di t
 Altre lingue e altro su Lelystad: https://podcast.kajetan.nl/travel/netherlands/lelystad/
 
 Fonti, tra le altre: Wikipedia e Wikivoyage (CC BY-SA 4.0) e siti ufficiali di turismo, patrimonio e musei. La conversazione e le voci sono generate dall'IA.</itunes:summary>
-      <enclosure url="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/episodes/it/it-lelystad-1528990721-v1.mp3" length="15732664" type="audio/mpeg"/>
+      <enclosure url="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/episodes/it/it-lelystad-1528990721-v2.mp3" length="21347528" type="audio/mpeg"/>
       <guid isPermaLink="false">46549873-3284-5988-bebd-8a95d615bf01</guid>
       <pubDate>Fri, 16 Oct 2026 20:03:04 +0000</pubDate>
-      <itunes:duration>00:16:16</itunes:duration>
+      <itunes:duration>00:22:06</itunes:duration>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>false</itunes:explicit>
     </item>
