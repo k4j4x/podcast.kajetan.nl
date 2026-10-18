@@ -52,7 +52,7 @@ const pts=D.highlights.filter(h=>h.lat);
 const map=new maplibregl.Map({container:'map',style:'https://tiles.openfreemap.org/styles/liberty',attributionControl:{compact:true}});
 const b=new maplibregl.LngLatBounds();pts.forEach(h=>b.extend([h.lon,h.lat]));map.fitBounds(b,{padding:50,maxZoom:16,duration:0});
 map.addControl(new maplibregl.NavigationControl({showCompass:false}));
-const mapEl=document.getElementById('map');const zf=()=>mapEl.classList.toggle('far',map.getZoom()<14.3);map.on('zoom',zf);map.on('load',zf);
+const mapEl=document.getElementById('map');const zf=()=>mapEl.classList.toggle('far',map.getZoom()<13);map.on('zoom',zf);map.on('load',zf);
 map.addControl(new maplibregl.GeolocateControl({positionOptions:{enableHighAccuracy:true},trackUserLocation:true}));
 const inEp=h=>!!(h.episode&&h.episode[L]);const tops=pts.filter(h=>h.top).sort((a,b)=>a.top-b.top);let F='all';
 pts.forEach(h=>{const c=CATS[h.category]||CATS.landmark;const el=document.createElement('div');el.className='pin';
