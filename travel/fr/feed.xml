@@ -14,10 +14,11 @@
     <itunes:type>episodic</itunes:type>
     <itunes:category text="Society &amp; Culture"><itunes:category text="Places &amp; Travel"/></itunes:category>
     <itunes:image href="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/cover-fr-3000.jpg"/>
-    <lastBuildDate>Sat, 17 Oct 2026 20:33:02 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 18 Oct 2026 03:35:47 +0000</lastBuildDate>
     <item>
       <title>Hoorn : guide de voyage et histoire | Du port néerlandais au Cap Horn</title>
       <link>https://podcast.kajetan.nl/travel/netherlands/hoorn/</link>
+      <podcast:transcript url="https://podcast.kajetan.nl/travel/netherlands/hoorn/transcript-fr.txt" type="text/plain" language="fr"/>
       <description>Hoorn associe son histoire maritime à des lieux à voir comme la tour Hoofdtoren et la place Roode Steen lors d'une visite. En 1616, des navigateurs néerlandais ont franchi le sud de l'Amérique et nommé le cap Horn d'après ce port.
 
 Autres langues et plus sur Hoorn : https://podcast.kajetan.nl/travel/netherlands/hoorn/
@@ -38,6 +39,7 @@ Sources, entre autres : Wikipédia et Wikivoyage (CC BY-SA 4.0) ainsi que les si
     <item>
       <title>Roosendaal : guide de voyage et histoire | Bien plus qu'un nœud ferroviaire</title>
       <link>https://podcast.kajetan.nl/travel/netherlands/roosendaal/</link>
+      <podcast:transcript url="https://podcast.kajetan.nl/travel/netherlands/roosendaal/transcript-fr.txt" type="text/plain" language="fr"/>
       <description>Roosendaal, aux Pays-Bas, montre son histoire lors d'une visite du Markt, avec des lieux à voir comme l'église Sint Jan et le Raadhuis. En 1854, une ligne ferroviaire vers Anvers est ouverte, transformant ce village d'extraction de tourbe en nœud de transport international.
 
 Autres langues et plus sur Roosendaal : https://podcast.kajetan.nl/travel/netherlands/roosendaal/
@@ -132,10 +134,10 @@ Sources, entre autres : Wikipédia et Wikivoyage (CC BY-SA 4.0) ainsi que les si
 Autres langues et plus sur Hilversum : https://podcast.kajetan.nl/travel/netherlands/hilversum/
 
 Sources, entre autres : Wikipédia et Wikivoyage (CC BY-SA 4.0) ainsi que les sites officiels du tourisme, du patrimoine et des musées. La conversation et les voix sont générées par IA.</itunes:summary>
-      <enclosure url="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/episodes/fr/fr-hilversum-1528160832-v1.mp3" length="15496541" type="audio/mpeg"/>
+      <enclosure url="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/episodes/fr/fr-hilversum-1528160832-v3.mp3" length="12236460" type="audio/mpeg"/>
       <guid isPermaLink="false">c3caaf2b-fd25-5b16-aa80-aabdb4dd2fd1</guid>
       <pubDate>Thu, 15 Oct 2026 21:02:12 +0000</pubDate>
-      <itunes:duration>00:16:01</itunes:duration>
+      <itunes:duration>00:12:37</itunes:duration>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>false</itunes:explicit>
     </item>

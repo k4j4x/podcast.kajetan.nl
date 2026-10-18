@@ -14,7 +14,7 @@
     <itunes:type>episodic</itunes:type>
     <itunes:category text="Society &amp; Culture"><itunes:category text="Places &amp; Travel"/></itunes:category>
     <itunes:image href="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/cover-de-3000.jpg"/>
-    <lastBuildDate>Sat, 17 Oct 2026 20:33:01 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 18 Oct 2026 03:35:46 +0000</lastBuildDate>
     <item>
       <title>Gouda Reiseführer &amp; Geschichte | Ein schwimmendes Rathaus im Sumpf</title>
       <link>https://podcast.kajetan.nl/travel/netherlands/gouda/</link>
@@ -38,6 +38,7 @@ Quellen u. a. Wikipedia und Wikivoyage (CC BY-SA 4.0) sowie offizielle Websites 
     <item>
       <title>Hoorn Reiseführer &amp; Geschichte | Die Hafenstadt hinter Kap Horn</title>
       <link>https://podcast.kajetan.nl/travel/netherlands/hoorn/</link>
+      <podcast:transcript url="https://podcast.kajetan.nl/travel/netherlands/hoorn/transcript-de.txt" type="text/plain" language="de"/>
       <description>Hoorn, in den Niederlanden, verbindet seine maritime Geschichte mit Sehenswürdigkeiten wie dem Turm Hoofdtoren, dem Stadttor Oosterpoort und dem Platz Roode Steen bei einem Besuch. Im Jahr 1616 umrundeten niederländische Seefahrer die Südspitze von Südamerika und benannten das Kap Hoorn nach diesem Hafen.
 
 Andere Sprachen und mehr über Hoorn: https://podcast.kajetan.nl/travel/netherlands/hoorn/
@@ -58,6 +59,7 @@ Quellen u. a. Wikipedia und Wikivoyage (CC BY-SA 4.0) sowie offizielle Websites 
     <item>
       <title>Roosendaal Reiseführer &amp; Geschichte | Warum der Ort ohne Stadtmauern blieb</title>
       <link>https://podcast.kajetan.nl/travel/netherlands/roosendaal/</link>
+      <podcast:transcript url="https://podcast.kajetan.nl/travel/netherlands/roosendaal/transcript-de.txt" type="text/plain" language="de"/>
       <description>Roosendaal zeigt bei einem Besuch seine Geschichte mit Sehenswürdigkeiten am Markt, wie der Kirche Sint Jan und dem alten Raadhuis. Im Jahr 1572 brannten Watergeuzen das Raadhuis und die Kirche Sint Jan nieder, da dem Ort schützende Stadtmauern fehlten.
 
 Andere Sprachen und mehr über Roosendaal: https://podcast.kajetan.nl/travel/netherlands/roosendaal/

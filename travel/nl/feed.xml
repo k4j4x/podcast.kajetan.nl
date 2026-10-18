@@ -14,10 +14,11 @@
     <itunes:type>episodic</itunes:type>
     <itunes:category text="Society &amp; Culture"><itunes:category text="Places &amp; Travel"/></itunes:category>
     <itunes:image href="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/cover-nl-3000.jpg"/>
-    <lastBuildDate>Sat, 17 Oct 2026 20:33:01 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 18 Oct 2026 03:35:47 +0000</lastBuildDate>
     <item>
       <title>Hoorn reisgids &amp; geschiedenis | Verrezen uit een stormvloed</title>
       <link>https://podcast.kajetan.nl/travel/netherlands/hoorn/</link>
+      <podcast:transcript url="https://podcast.kajetan.nl/travel/netherlands/hoorn/transcript-nl.txt" type="text/plain" language="nl"/>
       <description>Hoorn verbindt een lange maritieme geschiedenis met bekende bezienswaardigheden zoals de Hoofdtoren, de Oosterpoort en de Roode Steen bij een bezoek. In 1357 kreeg de havenplaats officieel stadsrechten, waarna de handel op de Zuiderzee snel groeide.
 
 Andere talen en meer over Hoorn: https://podcast.kajetan.nl/travel/netherlands/hoorn/
@@ -38,6 +39,7 @@ Bronnen o.a. Wikipedia en Wikivoyage (CC BY-SA 4.0) en officiële websites over 
     <item>
       <title>Roosendaal reisgids &amp; geschiedenis | Van grensstation tot snoepstad</title>
       <link>https://podcast.kajetan.nl/travel/netherlands/roosendaal/</link>
+      <podcast:transcript url="https://podcast.kajetan.nl/travel/netherlands/roosendaal/transcript-nl.txt" type="text/plain" language="nl"/>
       <description>Roosendaal toont bij een bezoek zijn geschiedenis met bezienswaardigheden rond de Markt, zoals de kerk Sint Jan en het oude Raadhuis. In 1854 werd de spoorlijn naar Antwerpen geopend, wat het oude turfdorp veranderde in een internationaal knooppunt voor spoor en industrie.
 
 Andere talen en meer over Roosendaal: https://podcast.kajetan.nl/travel/netherlands/roosendaal/
@@ -111,10 +113,10 @@ Bronnen o.a. Wikipedia en Wikivoyage (CC BY-SA 4.0) en officiële websites over 
 Andere talen en meer over Heerlen: https://podcast.kajetan.nl/travel/netherlands/heerlen/
 
 Bronnen o.a. Wikipedia en Wikivoyage (CC BY-SA 4.0) en officiële websites over toerisme, erfgoed en musea. Het gesprek en de stemmen zijn door AI gegenereerd.</itunes:summary>
-      <enclosure url="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/episodes/nl/nl-heerlen-1528095552-v1.mp3" length="20253960" type="audio/mpeg"/>
+      <enclosure url="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/episodes/nl/nl-heerlen-1528095552-v2.mp3" length="20329611" type="audio/mpeg"/>
       <guid isPermaLink="false">ec898241-2248-5ee4-8c7f-4b7d750c8e30</guid>
       <pubDate>Fri, 16 Oct 2026 18:02:56 +0000</pubDate>
-      <itunes:duration>00:20:58</itunes:duration>
+      <itunes:duration>00:21:03</itunes:duration>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>false</itunes:explicit>
     </item>

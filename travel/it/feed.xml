@@ -14,7 +14,7 @@
     <itunes:type>episodic</itunes:type>
     <itunes:category text="Society &amp; Culture"><itunes:category text="Places &amp; Travel"/></itunes:category>
     <itunes:image href="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/cover-it-3000.jpg"/>
-    <lastBuildDate>Sat, 17 Oct 2026 20:33:02 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 18 Oct 2026 03:35:48 +0000</lastBuildDate>
     <item>
       <title>Hoorn: guida di viaggio e storia | Dal porto olandese a Capo Horn</title>
       <link>https://podcast.kajetan.nl/travel/netherlands/hoorn/</link>
@@ -38,6 +38,7 @@ Fonti, tra le altre: Wikipedia e Wikivoyage (CC BY-SA 4.0) e siti ufficiali di t
     <item>
       <title>Roosendaal: guida di viaggio e storia | Tra binari, zucchero e contrabbando</title>
       <link>https://podcast.kajetan.nl/travel/netherlands/roosendaal/</link>
+      <podcast:transcript url="https://podcast.kajetan.nl/travel/netherlands/roosendaal/transcript-it.txt" type="text/plain" language="it"/>
       <description>Roosendaal mostra la sua storia durante una visita al Markt, con luoghi come la chiesa Sint Jan e il vecchio Raadhuis. Nel 1854 la linea ferroviaria per Anversa venne inaugurata, trasformando il borgo della torba in uno snodo internazionale.
 
 Altre lingue e altro su Roosendaal: https://podcast.kajetan.nl/travel/netherlands/roosendaal/
@@ -58,6 +59,7 @@ Fonti, tra le altre: Wikipedia e Wikivoyage (CC BY-SA 4.0) e siti ufficiali di t
     <item>
       <title>Schiedam: guida di viaggio e storia | I grandi mulini dello Jenever</title>
       <link>https://podcast.kajetan.nl/travel/netherlands/schiedam/</link>
+      <podcast:transcript url="https://podcast.kajetan.nl/travel/netherlands/schiedam/transcript-it.txt" type="text/plain" language="it"/>
       <description>Schiedam offre i canali della Lange Haven, il mulino De Walvisch e il Nationaal Jenevermuseum per una visita legata alla sua storia. Nel 1275, Aleid van Holland concesse i diritti cittadini all'insediamento, segnandone lo sviluppo urbano.
 
 Altre lingue e altro su Schiedam: https://podcast.kajetan.nl/travel/netherlands/schiedam/
