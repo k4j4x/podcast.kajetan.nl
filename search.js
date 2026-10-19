@@ -11,8 +11,9 @@
     data.forEach((d, i) => {
       const ok = words.every(w => hay[i].includes(w)) && (!l || d.languages.includes(l));
       items[i].hidden = !ok; if (ok) n++;
+      const a = items[i].querySelector('a'); a.href = d.url + (l ? '?lang=' + l : '');
     });
-    count.textContent = n + (n === 1 ? ' city' : ' cities');
+    count.textContent = (words.length || l) ? '· ' + n + (n === 1 ? ' city' : ' cities') : '';
     none.hidden = n > 0;
   }
   const p = new URLSearchParams(location.search);
