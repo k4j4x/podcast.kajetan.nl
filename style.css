@@ -53,6 +53,8 @@ footer{max-width:760px;margin:0 auto;padding:1rem 1.25rem 2rem;color:var(--muted
 .tile svg{width:52%}.live .tile{box-shadow:0 12px 24px rgba(18,51,51,.2);transition:transform .15s}.live:hover .tile,.live:focus .tile{transform:scale(1.03)}.live:active .tile{transform:scale(.97)}
 .pod .tile{background:linear-gradient(150deg,#f0a04b,#e2683c 60%,#c4502f);--hole:#e2683c}
 .map .tile{background:linear-gradient(150deg,#2f7a76,#1f5554 60%,#123333);--hole:#1f5554}
+.phrases .tile{background:linear-gradient(150deg,#c4502f,#8f3420);--hole:#a8402a}
+.customs .tile{background:linear-gradient(150deg,#3d4f6b,#26334a);--hole:#33435c}
 .soon .tile{background:#efe4d1;color:#cbb999;border:2px dashed #dccbad;--hole:#efe4d1}.soon b{color:#a8997f}
 .tile em{position:absolute;top:10px;right:10px;font:600 .68rem Inter,sans-serif;font-style:normal;background:#fff;color:#a8997f;padding:2px 8px;border-radius:99px}
 .launch .credit{margin:18px 26px 0;text-align:center;font-size:.72rem;color:var(--muted)}.launch .credit a{color:var(--muted)}
