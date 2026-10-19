@@ -27,4 +27,4 @@ Disallow: /
 
 User-agent: *
 Allow: /
-Sitemap: https://podcast.kajetan.nl/sitemap.xml
+Sitemap: https://wanderingcities.com/sitemap.xml

@@ -1,0 +1,859 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:podcast="https://podcastindex.org/namespace/1.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Wandering Cities</title>
+    <link>https://wanderingcities.com/</link>
+    <atom:link href="https://wanderingcities.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <language>en</language>
+    <description>City travel guides and history from the Netherlands. Two curious hosts wander through a different city every episode: how it came to be, the landmarks worth seeing, the food worth trying and the festivals worth planning a trip around. From capitals to small harbour towns, each episode ends with practical tips for your own visit. The conversation and voices are AI-generated.</description>
+    <itunes:summary>City travel guides and history from the Netherlands. Two curious hosts wander through a different city every episode: how it came to be, the landmarks worth seeing, the food worth trying and the festivals worth planning a trip around. From capitals to small harbour towns, each episode ends with practical tips for your own visit. The conversation and voices are AI-generated.</itunes:summary>
+    <itunes:subtitle>City travel guides and history from the Netherlands, one city per episode.</itunes:subtitle>
+    <itunes:author>Wandering Cities</itunes:author>
+    <itunes:owner><itunes:name>Kajetan Studio</itunes:name><itunes:email>travelpodcast@kajetan.nl</itunes:email></itunes:owner>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:type>episodic</itunes:type>
+    <itunes:category text="Society &amp; Culture"><itunes:category text="Places &amp; Travel"/></itunes:category>
+    <itunes:image href="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/cover-3000.jpg"/>
+    <lastBuildDate>Mon, 19 Oct 2026 03:59:23 +0000</lastBuildDate>
+    <item>
+      <title>Zwolle Travel Guide &amp; History | From Swamp Ridge to Powerhouse</title>
+      <link>https://wanderingcities.com/netherlands/zwolle/</link>
+      <podcast:transcript url="https://wanderingcities.com/netherlands/zwolle/transcript-en.txt" type="text/plain" language="en"/>
+      <description>Zwolle, in the Netherlands, rewards a visit for its history, and the things to see include the medieval Sassenpoort, Peperbus tower, and Museum de Fundatie. In 1407, the town joined the Hanseatic League and built its wealth on European trade.
+
+Other languages and more about Zwolle: https://wanderingcities.com/netherlands/zwolle/
+
+Sources include Wikipedia and Wikivoyage (CC BY-SA 4.0) and official tourism, heritage and museum websites. The conversation and voices are AI-generated.</description>
+      <itunes:summary>Zwolle, in the Netherlands, rewards a visit for its history, and the things to see include the medieval Sassenpoort, Peperbus tower, and Museum de Fundatie. In 1407, the town joined the Hanseatic League and built its wealth on European trade.
+
+Other languages and more about Zwolle: https://wanderingcities.com/netherlands/zwolle/
+
+Sources include Wikipedia and Wikivoyage (CC BY-SA 4.0) and official tourism, heritage and museum websites. The conversation and voices are AI-generated.</itunes:summary>
+      <enclosure url="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/episodes/wandering-cities-zwolle-1528690076-v3.mp3" length="18247386" type="audio/mpeg"/>
+      <guid isPermaLink="false">cb20859a-de1a-59bd-a854-449e376af937</guid>
+      <pubDate>Wed, 07 Oct 2026 03:09:48 +0000</pubDate>
+      <itunes:duration>00:18:51</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Leeuwarden Travel Guide &amp; History | The City of Two Hundred Names</title>
+      <link>https://wanderingcities.com/netherlands/leeuwarden/</link>
+      <podcast:transcript url="https://wanderingcities.com/netherlands/leeuwarden/transcript-en.txt" type="text/plain" language="en"/>
+      <description>Leeuwarden, in the Netherlands, mixes history and things to see for anyone planning a visit, from the Blokhuispoort former prison and the Waag butter weigh house to Escher's birthplace in the Princessehof. In 1529, construction began on the Oldehove church tower, which tilted in the soft clay of its dwelling mound and was never finished.
+
+Other languages and more about Leeuwarden: https://wanderingcities.com/netherlands/leeuwarden/
+
+Sources include Wikipedia and Wikivoyage (CC BY-SA 4.0) and official tourism, heritage and museum websites. The conversation and voices are AI-generated.</description>
+      <itunes:summary>Leeuwarden, in the Netherlands, mixes history and things to see for anyone planning a visit, from the Blokhuispoort former prison and the Waag butter weigh house to Escher's birthplace in the Princessehof. In 1529, construction began on the Oldehove church tower, which tilted in the soft clay of its dwelling mound and was never finished.
+
+Other languages and more about Leeuwarden: https://wanderingcities.com/netherlands/leeuwarden/
+
+Sources include Wikipedia and Wikivoyage (CC BY-SA 4.0) and official tourism, heritage and museum websites. The conversation and voices are AI-generated.</itunes:summary>
+      <enclosure url="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/episodes/wandering-cities-leeuwarden-1528992603-v2.mp3" length="21781220" type="audio/mpeg"/>
+      <guid isPermaLink="false">88af9ba0-6e0c-57c9-8963-3f43ceedd42a</guid>
+      <pubDate>Tue, 06 Oct 2026 03:27:34 +0000</pubDate>
+      <itunes:duration>00:22:32</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Breda Travel Guide &amp; History | Royal Roots and Historic Sights</title>
+      <link>https://wanderingcities.com/netherlands/breda/</link>
+      <podcast:transcript url="https://wanderingcities.com/netherlands/breda/transcript-en.txt" type="text/plain" language="en"/>
+      <description>Breda, in the Netherlands, blends centuries of history with real sights like the Grote Kerk and Castle of Breda as key things to see during your visit. In 1590, Dutch troops captured the city from Spanish forces by hiding inside a peat boat.
+
+Other languages and more about Breda: https://wanderingcities.com/netherlands/breda/
+
+Sources include Wikipedia and Wikivoyage (CC BY-SA 4.0) and official tourism, heritage and museum websites. The conversation and voices are AI-generated.</description>
+      <itunes:summary>Breda, in the Netherlands, blends centuries of history with real sights like the Grote Kerk and Castle of Breda as key things to see during your visit. In 1590, Dutch troops captured the city from Spanish forces by hiding inside a peat boat.
+
+Other languages and more about Breda: https://wanderingcities.com/netherlands/breda/
+
+Sources include Wikipedia and Wikivoyage (CC BY-SA 4.0) and official tourism, heritage and museum websites. The conversation and voices are AI-generated.</itunes:summary>
+      <enclosure url="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/episodes/wandering-cities-breda-1528921549-v2.mp3" length="22769690" type="audio/mpeg"/>
+      <guid isPermaLink="false">3f317a85-fa62-5f72-9510-77cce930d979</guid>
+      <pubDate>Tue, 06 Oct 2026 03:25:58 +0000</pubDate>
+      <itunes:duration>00:23:33</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Rotterdam Travel Guide &amp; History | From Ashes to Bold Skyline</title>
+      <link>https://wanderingcities.com/netherlands/rotterdam/</link>
+      <podcast:transcript url="https://wanderingcities.com/netherlands/rotterdam/transcript-en.txt" type="text/plain" language="en"/>
+      <description>Rotterdam, in the Netherlands, offers landmarks to visit, from the tilted Cube Houses and arched Markthal to the Erasmusbrug, giving visitors many things to see. In 1953, the Lijnbaan opened as Europe's first car-free shopping street, showing how wartime destruction prompted radical urban innovation.
+
+Other languages and more about Rotterdam: https://wanderingcities.com/netherlands/rotterdam/
+
+Sources include Wikipedia and Wikivoyage (CC BY-SA 4.0) and official tourism, heritage and museum websites. The conversation and voices are AI-generated.</description>
+      <itunes:summary>Rotterdam, in the Netherlands, offers landmarks to visit, from the tilted Cube Houses and arched Markthal to the Erasmusbrug, giving visitors many things to see. In 1953, the Lijnbaan opened as Europe's first car-free shopping street, showing how wartime destruction prompted radical urban innovation.
+
+Other languages and more about Rotterdam: https://wanderingcities.com/netherlands/rotterdam/
+
+Sources include Wikipedia and Wikivoyage (CC BY-SA 4.0) and official tourism, heritage and museum websites. The conversation and voices are AI-generated.</itunes:summary>
+      <enclosure url="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/episodes/wandering-cities-rotterdam-1528892850-v2.mp3" length="21507452" type="audio/mpeg"/>
+      <guid isPermaLink="false">9c781c63-3559-5a40-9f43-af7ac9911e7e</guid>
+      <pubDate>Tue, 06 Oct 2026 03:24:22 +0000</pubDate>
+      <itunes:duration>00:22:14</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Utrecht Travel Guide &amp; History | The Storm That Split a Cathedral</title>
+      <link>https://wanderingcities.com/netherlands/utrecht/</link>
+      <podcast:transcript url="https://wanderingcities.com/netherlands/utrecht/transcript-en.txt" type="text/plain" language="en"/>
+      <description>Utrecht, in the Netherlands, has key things to see like the Dom Tower and Oudegracht wharf cellars for people who visit. In 1674, a severe storm collapsed the central nave of the Dom Church, separating the tower from the rest of the cathedral.
+
+Other languages and more about Utrecht: https://wanderingcities.com/netherlands/utrecht/
+
+Sources include Wikipedia and Wikivoyage (CC BY-SA 4.0) and official tourism, heritage and museum websites. The conversation and voices are AI-generated.</description>
+      <itunes:summary>Utrecht, in the Netherlands, has key things to see like the Dom Tower and Oudegracht wharf cellars for people who visit. In 1674, a severe storm collapsed the central nave of the Dom Church, separating the tower from the rest of the cathedral.
+
+Other languages and more about Utrecht: https://wanderingcities.com/netherlands/utrecht/
+
+Sources include Wikipedia and Wikivoyage (CC BY-SA 4.0) and official tourism, heritage and museum websites. The conversation and voices are AI-generated.</itunes:summary>
+      <enclosure url="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/episodes/wandering-cities-utrecht-1528871692-v2.mp3" length="22762588" type="audio/mpeg"/>
+      <guid isPermaLink="false">0842d7c9-b8bd-5a72-bee9-02125e3dee1a</guid>
+      <pubDate>Tue, 06 Oct 2026 03:22:51 +0000</pubDate>
+      <itunes:duration>00:23:33</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Tilburg Travel Guide &amp; History | A Wool Empire Reborn</title>
+      <link>https://wanderingcities.com/netherlands/tilburg/</link>
+      <podcast:transcript url="https://wanderingcities.com/netherlands/tilburg/transcript-en.txt" type="text/plain" language="en"/>
+      <description>Tilburg, in the Netherlands, combines industrial history with cultural things to see, including former wool mills at the TextielMuseum and De Pont. In 1871, the city housed 125 wool mills before converting its manufacturing hubs into art venues.
+
+Other languages and more about Tilburg: https://wanderingcities.com/netherlands/tilburg/
+
+Sources include Wikipedia and Wikivoyage (CC BY-SA 4.0) and official tourism, heritage and museum websites. The conversation and voices are AI-generated.</description>
+      <itunes:summary>Tilburg, in the Netherlands, combines industrial history with cultural things to see, including former wool mills at the TextielMuseum and De Pont. In 1871, the city housed 125 wool mills before converting its manufacturing hubs into art venues.
+
+Other languages and more about Tilburg: https://wanderingcities.com/netherlands/tilburg/
+
+Sources include Wikipedia and Wikivoyage (CC BY-SA 4.0) and official tourism, heritage and museum websites. The conversation and voices are AI-generated.</itunes:summary>
+      <enclosure url="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/episodes/wandering-cities-tilburg-1528817379-v2.mp3" length="25475549" type="audio/mpeg"/>
+      <guid isPermaLink="false">0336bbfe-b124-54f0-91f5-2f88e2e19110</guid>
+      <pubDate>Tue, 06 Oct 2026 03:21:13 +0000</pubDate>
+      <itunes:duration>00:26:22</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>The Hague Travel Guide &amp; History | The City Built Without Walls</title>
+      <link>https://wanderingcities.com/netherlands/the-hague/</link>
+      <podcast:transcript url="https://wanderingcities.com/netherlands/the-hague/transcript-en.txt" type="text/plain" language="en"/>
+      <description>The Hague, in the Netherlands, is the seat of the Dutch government, and a visit takes in political history and things to see like the Peace Palace, the Mauritshuis and the beach at Scheveningen. It stayed a village without walls for centuries, until Louis Napoleon named it the kingdom's third city in 1806.
+
+Other languages and more about The Hague: https://wanderingcities.com/netherlands/the-hague/
+
+Sources include Wikipedia and Wikivoyage (CC BY-SA 4.0) and official tourism, heritage and museum websites. The conversation and voices are AI-generated.</description>
+      <itunes:summary>The Hague, in the Netherlands, is the seat of the Dutch government, and a visit takes in political history and things to see like the Peace Palace, the Mauritshuis and the beach at Scheveningen. It stayed a village without walls for centuries, until Louis Napoleon named it the kingdom's third city in 1806.
+
+Other languages and more about The Hague: https://wanderingcities.com/netherlands/the-hague/
+
+Sources include Wikipedia and Wikivoyage (CC BY-SA 4.0) and official tourism, heritage and museum websites. The conversation and voices are AI-generated.</itunes:summary>
+      <enclosure url="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/episodes/wandering-cities-the-hague-1528799905-v2.mp3" length="22959863" type="audio/mpeg"/>
+      <guid isPermaLink="false">75196aad-4aca-5833-bea4-91bc960d2cbf</guid>
+      <pubDate>Tue, 06 Oct 2026 03:19:25 +0000</pubDate>
+      <itunes:duration>00:23:45</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Almere Travel Guide &amp; History | A City Built Below Sea Level</title>
+      <link>https://wanderingcities.com/netherlands/almere/</link>
+      <podcast:transcript url="https://wanderingcities.com/netherlands/almere/transcript-en.txt" type="text/plain" language="en"/>
+      <description>Almere, in the Netherlands, features sights like the floating Kunstlinie theater, the Citadel, and the Oostvaardersplassen nature reserve, offering plenty of things to see for anyone who plans a visit. In 1976, the first house was completed on land reclaimed from the sea, beginning a new chapter.
+
+Other languages and more about Almere: https://wanderingcities.com/netherlands/almere/
+
+Sources include Wikipedia and Wikivoyage (CC BY-SA 4.0) and official tourism, heritage and museum websites. The conversation and voices are AI-generated.</description>
+      <itunes:summary>Almere, in the Netherlands, features sights like the floating Kunstlinie theater, the Citadel, and the Oostvaardersplassen nature reserve, offering plenty of things to see for anyone who plans a visit. In 1976, the first house was completed on land reclaimed from the sea, beginning a new chapter.
+
+Other languages and more about Almere: https://wanderingcities.com/netherlands/almere/
+
+Sources include Wikipedia and Wikivoyage (CC BY-SA 4.0) and official tourism, heritage and museum websites. The conversation and voices are AI-generated.</itunes:summary>
+      <enclosure url="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/episodes/wandering-cities-almere-1528683566-v2.mp3" length="19617022" type="audio/mpeg"/>
+      <guid isPermaLink="false">7c17c12a-723d-593a-aca0-575c714fb3b1</guid>
+      <pubDate>Tue, 06 Oct 2026 03:17:45 +0000</pubDate>
+      <itunes:duration>00:20:16</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Zoetermeer Travel Guide &amp; History | The Village Inside a New Town</title>
+      <link>https://wanderingcities.com/netherlands/zoetermeer/</link>
+      <podcast:transcript url="https://wanderingcities.com/netherlands/zoetermeer/transcript-en.txt" type="text/plain" language="en"/>
+      <description>Zoetermeer, in the Netherlands, is a thousand-year-old village turned planned new town, and a visit mixes history around the Dorpsstraat, Molen De Hoop and the Oude Kerk with things to see like the Nationaal Videogame Museum. In 1614–1616 the Soetermeerse lake was drained into the Meerpolder, which made Zoetermeer a butter village.
+
+Other languages and more about Zoetermeer: https://wanderingcities.com/netherlands/zoetermeer/
+
+Sources include Wikipedia and Wikivoyage (CC BY-SA 4.0) and official tourism, heritage and museum websites. The conversation and voices are AI-generated.</description>
+      <itunes:summary>Zoetermeer, in the Netherlands, is a thousand-year-old village turned planned new town, and a visit mixes history around the Dorpsstraat, Molen De Hoop and the Oude Kerk with things to see like the Nationaal Videogame Museum. In 1614–1616 the Soetermeerse lake was drained into the Meerpolder, which made Zoetermeer a butter village.
+
+Other languages and more about Zoetermeer: https://wanderingcities.com/netherlands/zoetermeer/
+
+Sources include Wikipedia and Wikivoyage (CC BY-SA 4.0) and official tourism, heritage and museum websites. The conversation and voices are AI-generated.</itunes:summary>
+      <enclosure url="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/episodes/wandering-cities-zoetermeer-1528416914-v2.mp3" length="25621424" type="audio/mpeg"/>
+      <guid isPermaLink="false">aa4d9d70-e7da-5758-9e5f-fc022ebc289d</guid>
+      <pubDate>Tue, 06 Oct 2026 03:14:45 +0000</pubDate>
+      <itunes:duration>00:26:32</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Zaanstad Travel Guide &amp; History | Where Wind Powered Industry Began</title>
+      <link>https://wanderingcities.com/netherlands/zaanstad/</link>
+      <podcast:transcript url="https://wanderingcities.com/netherlands/zaanstad/transcript-en.txt" type="text/plain" language="en"/>
+      <description>Zaanstad, in the Netherlands, features historic windmills at the Zaanse Schans, the wooden Tsar Peter House, and the De Kat paint mill for travellers who visit to explore industrial history. In 1697, Tsar Peter the Great stayed in Zaandam to study Dutch shipbuilding.
+
+Other languages and more about Zaanstad: https://wanderingcities.com/netherlands/zaanstad/
+
+Sources include Wikipedia and Wikivoyage (CC BY-SA 4.0) and official tourism, heritage and museum websites. The conversation and voices are AI-generated.</description>
+      <itunes:summary>Zaanstad, in the Netherlands, features historic windmills at the Zaanse Schans, the wooden Tsar Peter House, and the De Kat paint mill for travellers who visit to explore industrial history. In 1697, Tsar Peter the Great stayed in Zaandam to study Dutch shipbuilding.
+
+Other languages and more about Zaanstad: https://wanderingcities.com/netherlands/zaanstad/
+
+Sources include Wikipedia and Wikivoyage (CC BY-SA 4.0) and official tourism, heritage and museum websites. The conversation and voices are AI-generated.</itunes:summary>
+      <enclosure url="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/episodes/wandering-cities-zaanstad-1528395473-v2.mp3" length="21516236" type="audio/mpeg"/>
+      <guid isPermaLink="false">f198a0bc-7616-508b-8fd1-c12a73c66144</guid>
+      <pubDate>Tue, 06 Oct 2026 03:12:55 +0000</pubDate>
+      <itunes:duration>00:22:15</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Groningen Travel Guide &amp; History | Students Rule Medieval Town</title>
+      <link>https://wanderingcities.com/netherlands/groningen/</link>
+      <podcast:transcript url="https://wanderingcities.com/netherlands/groningen/transcript-en.txt" type="text/plain" language="en"/>
+      <description>Groningen, in the Netherlands, mixes a thousand years of history with things to see on a lively student-city visit, from the Martinitoren and the 1635 Goudkantoor on the Grote Markt to hidden almshouse courtyards. In 1672 the bishop of Münster, "Bommen Berend", failed to bombard the city into surrender, and Groningen still celebrates every 28 August.
+
+Other languages and more about Groningen: https://wanderingcities.com/netherlands/groningen/
+
+Sources include Wikipedia and Wikivoyage (CC BY-SA 4.0) and official tourism, heritage and museum websites. The conversation and voices are AI-generated.</description>
+      <itunes:summary>Groningen, in the Netherlands, mixes a thousand years of history with things to see on a lively student-city visit, from the Martinitoren and the 1635 Goudkantoor on the Grote Markt to hidden almshouse courtyards. In 1672 the bishop of Münster, "Bommen Berend", failed to bombard the city into surrender, and Groningen still celebrates every 28 August.
+
+Other languages and more about Groningen: https://wanderingcities.com/netherlands/groningen/
+
+Sources include Wikipedia and Wikivoyage (CC BY-SA 4.0) and official tourism, heritage and museum websites. The conversation and voices are AI-generated.</itunes:summary>
+      <enclosure url="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/episodes/wandering-cities-groningen-1528295161-v2.mp3" length="23852622" type="audio/mpeg"/>
+      <guid isPermaLink="false">92391f36-e7ef-5561-82ee-790de30c34f6</guid>
+      <pubDate>Tue, 06 Oct 2026 03:08:13 +0000</pubDate>
+      <itunes:duration>00:24:41</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Nijmegen Travel Guide &amp; History | Ice-Age Hills, Romans and Ruins</title>
+      <link>https://wanderingcities.com/netherlands/nijmegen/</link>
+      <podcast:transcript url="https://wanderingcities.com/netherlands/nijmegen/transcript-en.txt" type="text/plain" language="en"/>
+      <description>Nijmegen, in the Netherlands, rises on ice-age hills above the Waal, and a visit takes in Roman history, the Valkhof Park, the Stevenskerk and other things to see. On 22 February 1944 a bombing raid wiped out much of the old centre, and on 20 September American paratroopers crossed the Waal in canvas boats to seize its bridge.
+
+Other languages and more about Nijmegen: https://wanderingcities.com/netherlands/nijmegen/
+
+Sources include Wikipedia and Wikivoyage (CC BY-SA 4.0) and official tourism, heritage and museum websites. The conversation and voices are AI-generated.</description>
+      <itunes:summary>Nijmegen, in the Netherlands, rises on ice-age hills above the Waal, and a visit takes in Roman history, the Valkhof Park, the Stevenskerk and other things to see. On 22 February 1944 a bombing raid wiped out much of the old centre, and on 20 September American paratroopers crossed the Waal in canvas boats to seize its bridge.
+
+Other languages and more about Nijmegen: https://wanderingcities.com/netherlands/nijmegen/
+
+Sources include Wikipedia and Wikivoyage (CC BY-SA 4.0) and official tourism, heritage and museum websites. The conversation and voices are AI-generated.</itunes:summary>
+      <enclosure url="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/episodes/wandering-cities-nijmegen-1528136727-v2.mp3" length="19334062" type="audio/mpeg"/>
+      <guid isPermaLink="false">3742481c-ee0a-525c-9505-cf82f43aaaf4</guid>
+      <pubDate>Tue, 06 Oct 2026 03:03:25 +0000</pubDate>
+      <itunes:duration>00:19:59</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Leiden Travel Guide &amp; History | Flooding the Land to Survive</title>
+      <link>https://wanderingcities.com/netherlands/leiden/</link>
+      <podcast:transcript url="https://wanderingcities.com/netherlands/leiden/transcript-en.txt" type="text/plain" language="en"/>
+      <description>Leiden, in the Netherlands, features historic canals, the medieval Burcht fort and the Pieterskerk as key things to see when exploring local history. In 1574, William of Orange ordered dikes breached to flood the Spanish besiegers and save the starving city.
+
+Other languages and more about Leiden: https://wanderingcities.com/netherlands/leiden/
+
+Sources include Wikipedia and Wikivoyage (CC BY-SA 4.0) and official tourism, heritage and museum websites. The conversation and voices are AI-generated.</description>
+      <itunes:summary>Leiden, in the Netherlands, features historic canals, the medieval Burcht fort and the Pieterskerk as key things to see when exploring local history. In 1574, William of Orange ordered dikes breached to flood the Spanish besiegers and save the starving city.
+
+Other languages and more about Leiden: https://wanderingcities.com/netherlands/leiden/
+
+Sources include Wikipedia and Wikivoyage (CC BY-SA 4.0) and official tourism, heritage and museum websites. The conversation and voices are AI-generated.</itunes:summary>
+      <enclosure url="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/episodes/wandering-cities-leiden-1528966223-v1.mp3" length="23956274" type="audio/mpeg"/>
+      <guid isPermaLink="false">b444ca60-e2ee-50b3-b71b-aecdbc387178</guid>
+      <pubDate>Mon, 05 Oct 2026 11:42:22 +0000</pubDate>
+      <itunes:duration>00:24:47</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Dordrecht Travel Guide &amp; History | A Smuggled Sheep in Disguise</title>
+      <link>https://wanderingcities.com/netherlands/dordrecht/</link>
+      <podcast:transcript url="https://wanderingcities.com/netherlands/dordrecht/transcript-en.txt" type="text/plain" language="en"/>
+      <description>Dordrecht features the leaning Grote Kerk, historic harbors, and the medieval Groothoofdspoort gate, giving travelers plenty of things to see while exploring local history. In 1421, the Saint Elizabeth's flood transformed the settlement into an island, forever altering its landscape.
+
+Other languages and more about Dordrecht: https://wanderingcities.com/netherlands/dordrecht/
+
+Sources include Wikipedia and Wikivoyage (CC BY-SA 4.0) and official tourism, heritage and museum websites. The conversation and voices are AI-generated.</description>
+      <itunes:summary>Dordrecht features the leaning Grote Kerk, historic harbors, and the medieval Groothoofdspoort gate, giving travelers plenty of things to see while exploring local history. In 1421, the Saint Elizabeth's flood transformed the settlement into an island, forever altering its landscape.
+
+Other languages and more about Dordrecht: https://wanderingcities.com/netherlands/dordrecht/
+
+Sources include Wikipedia and Wikivoyage (CC BY-SA 4.0) and official tourism, heritage and museum websites. The conversation and voices are AI-generated.</itunes:summary>
+      <enclosure url="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/episodes/wandering-cities-dordrecht-1528952691-v1.mp3" length="20306658" type="audio/mpeg"/>
+      <guid isPermaLink="false">5db3c3c7-bb01-59a6-9a3c-cbfe0a918097</guid>
+      <pubDate>Mon, 05 Oct 2026 11:40:41 +0000</pubDate>
+      <itunes:duration>00:20:59</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Arnhem Travel Guide &amp; History | From War Ruins to Fashion Capital</title>
+      <link>https://wanderingcities.com/netherlands/arnhem/</link>
+      <podcast:transcript url="https://wanderingcities.com/netherlands/arnhem/transcript-en.txt" type="text/plain" language="en"/>
+      <description>Arnhem, in the Netherlands, combines centuries of history with notable places to visit, including the John Frost Bridge, Park Sonsbeek, and the Modekwartier. In September 1944, British airborne forces fought German troops at the Rhine bridge during Operation Market Garden, leaving the city heavily damaged.
+
+Other languages and more about Arnhem: https://wanderingcities.com/netherlands/arnhem/
+
+Sources include Wikipedia and Wikivoyage (CC BY-SA 4.0) and official tourism, heritage and museum websites. The conversation and voices are AI-generated.</description>
+      <itunes:summary>Arnhem, in the Netherlands, combines centuries of history with notable places to visit, including the John Frost Bridge, Park Sonsbeek, and the Modekwartier. In September 1944, British airborne forces fought German troops at the Rhine bridge during Operation Market Garden, leaving the city heavily damaged.
+
+Other languages and more about Arnhem: https://wanderingcities.com/netherlands/arnhem/
+
+Sources include Wikipedia and Wikivoyage (CC BY-SA 4.0) and official tourism, heritage and museum websites. The conversation and voices are AI-generated.</itunes:summary>
+      <enclosure url="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/episodes/wandering-cities-arnhem-1528862562-v1.mp3" length="24310291" type="audio/mpeg"/>
+      <guid isPermaLink="false">553c9dc6-3ba5-545f-95c0-3b5d279e1a8a</guid>
+      <pubDate>Mon, 05 Oct 2026 11:39:16 +0000</pubDate>
+      <itunes:duration>00:25:10</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Haarlem Travel Guide &amp; History | Defying Sieges and Rising Waters</title>
+      <link>https://wanderingcities.com/netherlands/haarlem/</link>
+      <podcast:transcript url="https://wanderingcities.com/netherlands/haarlem/transcript-en.txt" type="text/plain" language="en"/>
+      <description>Haarlem, the capital of North Holland, connects deep history with key things to see around the Grote Markt, from St. Bavo's Church to Teylers Museum on the Spaarne river. In 1573, the city surrendered after a seven-month Spanish siege, leaving a legacy of resilience.
+
+Other languages and more about Haarlem: https://wanderingcities.com/netherlands/haarlem/
+
+Sources include Wikipedia and Wikivoyage (CC BY-SA 4.0) and official tourism, heritage and museum websites. The conversation and voices are AI-generated.</description>
+      <itunes:summary>Haarlem, the capital of North Holland, connects deep history with key things to see around the Grote Markt, from St. Bavo's Church to Teylers Museum on the Spaarne river. In 1573, the city surrendered after a seven-month Spanish siege, leaving a legacy of resilience.
+
+Other languages and more about Haarlem: https://wanderingcities.com/netherlands/haarlem/
+
+Sources include Wikipedia and Wikivoyage (CC BY-SA 4.0) and official tourism, heritage and museum websites. The conversation and voices are AI-generated.</itunes:summary>
+      <enclosure url="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/episodes/wandering-cities-haarlem-1528822178-v1.mp3" length="24996998" type="audio/mpeg"/>
+      <guid isPermaLink="false">074a3dde-dfc8-5bbf-945f-8f85e771d5be</guid>
+      <pubDate>Mon, 05 Oct 2026 11:37:34 +0000</pubDate>
+      <itunes:duration>00:25:53</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Eindhoven Travel Guide &amp; History | From Light Bulbs to Tech Hub</title>
+      <link>https://wanderingcities.com/netherlands/eindhoven/</link>
+      <podcast:transcript url="https://wanderingcities.com/netherlands/eindhoven/transcript-en.txt" type="text/plain" language="en"/>
+      <description>Eindhoven, in the Netherlands, has notable things to see like the Strijp-S district, the Evoluon and the Van Abbemuseum for those planning a visit. In 1891, Gerard Philips began making light bulbs in a small factory on the Emmasingel, starting the city's transformation into a technology hub.
+
+Other languages and more about Eindhoven: https://wanderingcities.com/netherlands/eindhoven/
+
+Sources include Wikipedia and Wikivoyage (CC BY-SA 4.0) and official tourism, heritage and museum websites. The conversation and voices are AI-generated.</description>
+      <itunes:summary>Eindhoven, in the Netherlands, has notable things to see like the Strijp-S district, the Evoluon and the Van Abbemuseum for those planning a visit. In 1891, Gerard Philips began making light bulbs in a small factory on the Emmasingel, starting the city's transformation into a technology hub.
+
+Other languages and more about Eindhoven: https://wanderingcities.com/netherlands/eindhoven/
+
+Sources include Wikipedia and Wikivoyage (CC BY-SA 4.0) and official tourism, heritage and museum websites. The conversation and voices are AI-generated.</itunes:summary>
+      <enclosure url="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/episodes/wandering-cities-eindhoven-1528636212-v1.mp3" length="18824574" type="audio/mpeg"/>
+      <guid isPermaLink="false">d09e2bf2-34fd-5d9b-8a41-e1f9a41dfa10</guid>
+      <pubDate>Mon, 05 Oct 2026 11:35:51 +0000</pubDate>
+      <itunes:duration>00:19:27</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Amersfoort Travel Guide &amp; History | How a Boulder Bet Won Beer</title>
+      <link>https://wanderingcities.com/netherlands/amersfoort/</link>
+      <podcast:transcript url="https://wanderingcities.com/netherlands/amersfoort/transcript-en.txt" type="text/plain" language="en"/>
+      <description>Amersfoort, in the Netherlands, features medieval landmarks like the Koppelpoort gate and the Muurhuizen among the main things to see when you visit. In 1661, four hundred residents dragged a seven-ton boulder into the city centre after a bet over beer and pretzels. Note: Museum Flehite is now called Museum Amersfoort.
+
+Other languages and more about Amersfoort: https://wanderingcities.com/netherlands/amersfoort/
+
+Sources include Wikipedia and Wikivoyage (CC BY-SA 4.0) and official tourism, heritage and museum websites. The conversation and voices are AI-generated.</description>
+      <itunes:summary>Amersfoort, in the Netherlands, features medieval landmarks like the Koppelpoort gate and the Muurhuizen among the main things to see when you visit. In 1661, four hundred residents dragged a seven-ton boulder into the city centre after a bet over beer and pretzels. Note: Museum Flehite is now called Museum Amersfoort.
+
+Other languages and more about Amersfoort: https://wanderingcities.com/netherlands/amersfoort/
+
+Sources include Wikipedia and Wikivoyage (CC BY-SA 4.0) and official tourism, heritage and museum websites. The conversation and voices are AI-generated.</itunes:summary>
+      <enclosure url="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/episodes/wandering-cities-amersfoort-1528206992-v1.mp3" length="19243787" type="audio/mpeg"/>
+      <guid isPermaLink="false">791c38bf-e03e-5d96-971b-6b47eed7148c</guid>
+      <pubDate>Mon, 05 Oct 2026 11:34:34 +0000</pubDate>
+      <itunes:duration>00:19:53</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Enschede Travel Guide &amp; History | How Disasters Built a City</title>
+      <link>https://wanderingcities.com/netherlands/enschede/</link>
+      <podcast:transcript url="https://wanderingcities.com/netherlands/enschede/transcript-en.txt" type="text/plain" language="en"/>
+      <description>Enschede, in the Netherlands, offers key sights to visit, from the medieval Grote Kerk on the Oude Markt to the Roombeek area that reveals its history. In 2000, a fireworks depot explosion destroyed Roombeek, leading to a complete reconstruction of the neighborhood.
+
+Other languages and more about Enschede: https://wanderingcities.com/netherlands/enschede/
+
+Sources include Wikipedia and Wikivoyage (CC BY-SA 4.0) and official tourism, heritage and museum websites. The conversation and voices are AI-generated.</description>
+      <itunes:summary>Enschede, in the Netherlands, offers key sights to visit, from the medieval Grote Kerk on the Oude Markt to the Roombeek area that reveals its history. In 2000, a fireworks depot explosion destroyed Roombeek, leading to a complete reconstruction of the neighborhood.
+
+Other languages and more about Enschede: https://wanderingcities.com/netherlands/enschede/
+
+Sources include Wikipedia and Wikivoyage (CC BY-SA 4.0) and official tourism, heritage and museum websites. The conversation and voices are AI-generated.</itunes:summary>
+      <enclosure url="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/episodes/wandering-cities-enschede-1528181808-v1.mp3" length="19105022" type="audio/mpeg"/>
+      <guid isPermaLink="false">9ca82c6b-6b1a-5792-86ff-38893b67daa8</guid>
+      <pubDate>Mon, 05 Oct 2026 11:33:18 +0000</pubDate>
+      <itunes:duration>00:19:44</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Apeldoorn Travel Guide &amp; History | How Royalty Sculpted a City</title>
+      <link>https://wanderingcities.com/netherlands/apeldoorn/</link>
+      <podcast:transcript url="https://wanderingcities.com/netherlands/apeldoorn/transcript-en.txt" type="text/plain" language="en"/>
+      <description>Apeldoorn, in the Netherlands, combines royal history with sights like Paleis Het Loo, the Apenheul primate park and the Loenen waterfalls, offering plenty of things to see when you visit. In 1684, Prince William III bought Het Loo to build a hunting lodge on the property.
+
+Other languages and more about Apeldoorn: https://wanderingcities.com/netherlands/apeldoorn/
+
+Sources include Wikipedia and Wikivoyage (CC BY-SA 4.0) and official tourism, heritage and museum websites. The conversation and voices are AI-generated.</description>
+      <itunes:summary>Apeldoorn, in the Netherlands, combines royal history with sights like Paleis Het Loo, the Apenheul primate park and the Loenen waterfalls, offering plenty of things to see when you visit. In 1684, Prince William III bought Het Loo to build a hunting lodge on the property.
+
+Other languages and more about Apeldoorn: https://wanderingcities.com/netherlands/apeldoorn/
+
+Sources include Wikipedia and Wikivoyage (CC BY-SA 4.0) and official tourism, heritage and museum websites. The conversation and voices are AI-generated.</itunes:summary>
+      <enclosure url="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/episodes/wandering-cities-apeldoorn-1528057552-v1.mp3" length="21155532" type="audio/mpeg"/>
+      <guid isPermaLink="false">ea9859ab-44a2-5c93-af1c-f49006d65a39</guid>
+      <pubDate>Mon, 05 Oct 2026 11:32:04 +0000</pubDate>
+      <itunes:duration>00:21:52</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Lelystad Travel Guide &amp; History | A City Reclaimed from the Sea</title>
+      <link>https://wanderingcities.com/netherlands/lelystad/</link>
+      <podcast:transcript url="https://wanderingcities.com/netherlands/lelystad/transcript-en.txt" type="text/plain" language="en"/>
+      <description>Lelystad, in the Netherlands, offers key things to see, including the replica ship Batavia at Museum Batavialand and the wildlife at Natuurpark Lelystad, for those who visit. In June 1957, the polder was drained dry, turning former seabed into new land for human settlement.
+
+Other languages and more about Lelystad: https://wanderingcities.com/netherlands/lelystad/
+
+Sources include Wikipedia and Wikivoyage (CC BY-SA 4.0) and official tourism, heritage and museum websites. The conversation and voices are AI-generated.</description>
+      <itunes:summary>Lelystad, in the Netherlands, offers key things to see, including the replica ship Batavia at Museum Batavialand and the wildlife at Natuurpark Lelystad, for those who visit. In June 1957, the polder was drained dry, turning former seabed into new land for human settlement.
+
+Other languages and more about Lelystad: https://wanderingcities.com/netherlands/lelystad/
+
+Sources include Wikipedia and Wikivoyage (CC BY-SA 4.0) and official tourism, heritage and museum websites. The conversation and voices are AI-generated.</itunes:summary>
+      <enclosure url="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/episodes/wandering-cities-lelystad-1528990721-v2.mp3" length="20809477" type="audio/mpeg"/>
+      <guid isPermaLink="false">a3fbae99-a8b2-5546-836d-5637d638e727</guid>
+      <pubDate>Mon, 05 Oct 2026 09:44:35 +0000</pubDate>
+      <itunes:duration>00:21:31</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Scheveningen Travel Guide &amp; History | The Town Spies Could Not Pronounce</title>
+      <link>https://wanderingcities.com/netherlands/scheveningen/</link>
+      <podcast:transcript url="https://wanderingcities.com/netherlands/scheveningen/transcript-en.txt" type="text/plain" language="en"/>
+      <description>Scheveningen, in the Netherlands, combines maritime history with sights to visit, including the Kurhaus hotel, the pier, and the red lighthouse by the North Sea. In 1901, a wooden pier opened in front of the Kurhaus, creating a promenade above the waves.
+
+Other languages and more about Scheveningen: https://wanderingcities.com/netherlands/scheveningen/
+
+Sources include Wikipedia and Wikivoyage (CC BY-SA 4.0) and official tourism, heritage and museum websites. The conversation and voices are AI-generated.</description>
+      <itunes:summary>Scheveningen, in the Netherlands, combines maritime history with sights to visit, including the Kurhaus hotel, the pier, and the red lighthouse by the North Sea. In 1901, a wooden pier opened in front of the Kurhaus, creating a promenade above the waves.
+
+Other languages and more about Scheveningen: https://wanderingcities.com/netherlands/scheveningen/
+
+Sources include Wikipedia and Wikivoyage (CC BY-SA 4.0) and official tourism, heritage and museum websites. The conversation and voices are AI-generated.</itunes:summary>
+      <enclosure url="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/episodes/wandering-cities-scheveningen-1528986041-v1.mp3" length="20392766" type="audio/mpeg"/>
+      <guid isPermaLink="false">a0428979-3b47-5a29-9606-7e6b2bb8745a</guid>
+      <pubDate>Mon, 05 Oct 2026 09:42:59 +0000</pubDate>
+      <itunes:duration>00:21:05</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Schiedam Travel Guide &amp; History | From Soot to Fine Spirits</title>
+      <link>https://wanderingcities.com/netherlands/schiedam/</link>
+      <podcast:transcript url="https://wanderingcities.com/netherlands/schiedam/transcript-en.txt" type="text/plain" language="en"/>
+      <description>Schiedam, in the Netherlands, features Lange Haven canals, De Walvisch windmill, and the Jenevermuseum for travelers interested in local history and things to see. In 1275, Aleid van Holland granted city rights to the town, shaping its growth from a dam into a distilling hub.
+
+Other languages and more about Schiedam: https://wanderingcities.com/netherlands/schiedam/
+
+Sources include Wikipedia and Wikivoyage (CC BY-SA 4.0) and official tourism, heritage and museum websites. The conversation and voices are AI-generated.</description>
+      <itunes:summary>Schiedam, in the Netherlands, features Lange Haven canals, De Walvisch windmill, and the Jenevermuseum for travelers interested in local history and things to see. In 1275, Aleid van Holland granted city rights to the town, shaping its growth from a dam into a distilling hub.
+
+Other languages and more about Schiedam: https://wanderingcities.com/netherlands/schiedam/
+
+Sources include Wikipedia and Wikivoyage (CC BY-SA 4.0) and official tourism, heritage and museum websites. The conversation and voices are AI-generated.</itunes:summary>
+      <enclosure url="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/episodes/wandering-cities-schiedam-1528910170-v3.mp3" length="20534038" type="audio/mpeg"/>
+      <guid isPermaLink="false">535cf1a1-1751-5a6c-93d3-547d03364621</guid>
+      <pubDate>Mon, 05 Oct 2026 09:41:25 +0000</pubDate>
+      <itunes:duration>00:21:14</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Gouda Travel Guide &amp; History | A Sinking City Built on Peat</title>
+      <link>https://wanderingcities.com/netherlands/gouda/</link>
+      <podcast:transcript url="https://wanderingcities.com/netherlands/gouda/transcript-en.txt" type="text/plain" language="en"/>
+      <description>Gouda, in the Netherlands, features historic canals where tourists visit St. John's Church and the central town hall to study local history. In 1272, Count Floris V granted city rights to the town after two centuries of peat collection.
+
+Other languages and more about Gouda: https://wanderingcities.com/netherlands/gouda/
+
+Sources include Wikipedia and Wikivoyage (CC BY-SA 4.0) and official tourism, heritage and museum websites. The conversation and voices are AI-generated.</description>
+      <itunes:summary>Gouda, in the Netherlands, features historic canals where tourists visit St. John's Church and the central town hall to study local history. In 1272, Count Floris V granted city rights to the town after two centuries of peat collection.
+
+Other languages and more about Gouda: https://wanderingcities.com/netherlands/gouda/
+
+Sources include Wikipedia and Wikivoyage (CC BY-SA 4.0) and official tourism, heritage and museum websites. The conversation and voices are AI-generated.</itunes:summary>
+      <enclosure url="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/episodes/wandering-cities-gouda-1528695192-v2.mp3" length="21847265" type="audio/mpeg"/>
+      <guid isPermaLink="false">af6c792d-398c-5c3c-ae82-c662b2a739e0</guid>
+      <pubDate>Mon, 05 Oct 2026 09:39:48 +0000</pubDate>
+      <itunes:duration>00:22:36</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Roosendaal Travel Guide &amp; History | From Peat Bogs to Railway Hub</title>
+      <link>https://wanderingcities.com/netherlands/roosendaal/</link>
+      <podcast:transcript url="https://wanderingcities.com/netherlands/roosendaal/transcript-en.txt" type="text/plain" language="en"/>
+      <description>Roosendaal, in the Netherlands, has centuries of history with key things to see around the Markt, such as the Sint Jan church and the old Raadhuis. In 1854, a new railway line to Antwerp opened, turning the medieval peat mining hub into an international transport junction.
+
+Other languages and more about Roosendaal: https://wanderingcities.com/netherlands/roosendaal/
+
+Sources include Wikipedia and Wikivoyage (CC BY-SA 4.0) and official tourism, heritage and museum websites. The conversation and voices are AI-generated.</description>
+      <itunes:summary>Roosendaal, in the Netherlands, has centuries of history with key things to see around the Markt, such as the Sint Jan church and the old Raadhuis. In 1854, a new railway line to Antwerp opened, turning the medieval peat mining hub into an international transport junction.
+
+Other languages and more about Roosendaal: https://wanderingcities.com/netherlands/roosendaal/
+
+Sources include Wikipedia and Wikivoyage (CC BY-SA 4.0) and official tourism, heritage and museum websites. The conversation and voices are AI-generated.</itunes:summary>
+      <enclosure url="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/episodes/wandering-cities-roosendaal-1528671703-v2.mp3" length="25853828" type="audio/mpeg"/>
+      <guid isPermaLink="false">cdb8285e-1f51-57a2-bab3-22c0de49c84f</guid>
+      <pubDate>Mon, 05 Oct 2026 09:38:09 +0000</pubDate>
+      <itunes:duration>00:26:46</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Hoorn Travel Guide &amp; History | The Dutch Port Behind Cape Horn</title>
+      <link>https://wanderingcities.com/netherlands/hoorn/</link>
+      <podcast:transcript url="https://wanderingcities.com/netherlands/hoorn/transcript-en.txt" type="text/plain" language="en"/>
+      <description>Hoorn, in the Netherlands, connects centuries of maritime history with real sights like the Hoofdtoren tower and the Roode Steen square for travelers who visit. In 1616, Dutch navigators rounded the tip of South America and named Cape Horn after this port.
+
+Other languages and more about Hoorn: https://wanderingcities.com/netherlands/hoorn/
+
+Sources include Wikipedia and Wikivoyage (CC BY-SA 4.0) and official tourism, heritage and museum websites. The conversation and voices are AI-generated.</description>
+      <itunes:summary>Hoorn, in the Netherlands, connects centuries of maritime history with real sights like the Hoofdtoren tower and the Roode Steen square for travelers who visit. In 1616, Dutch navigators rounded the tip of South America and named Cape Horn after this port.
+
+Other languages and more about Hoorn: https://wanderingcities.com/netherlands/hoorn/
+
+Sources include Wikipedia and Wikivoyage (CC BY-SA 4.0) and official tourism, heritage and museum websites. The conversation and voices are AI-generated.</itunes:summary>
+      <enclosure url="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/episodes/wandering-cities-hoorn-1528487371-v2.mp3" length="21601090" type="audio/mpeg"/>
+      <guid isPermaLink="false">67e3c7ba-f35e-583a-970c-4eeac7cc8c57</guid>
+      <pubDate>Mon, 05 Oct 2026 09:36:41 +0000</pubDate>
+      <itunes:duration>00:22:20</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Ede Travel Guide &amp; History | Where Paratroopers Meet Wild Boars</title>
+      <link>https://wanderingcities.com/netherlands/ede/</link>
+      <podcast:transcript url="https://wanderingcities.com/netherlands/ede/transcript-en.txt" type="text/plain" language="en"/>
+      <description>Ede, in the Netherlands, is a base for visiting the Veluwe's heaths and wildlife, with a history that runs from a medieval border fortress to the Second World War. In September 1944 about 2,000 Allied paratroopers landed on the Ginkelse Heide during Operation Market Garden, a day after an Allied bombing raid on the town killed 69 residents.
+
+Other languages and more about Ede: https://wanderingcities.com/netherlands/ede/
+
+Sources include Wikipedia and Wikivoyage (CC BY-SA 4.0) and official tourism, heritage and museum websites. The conversation and voices are AI-generated.</description>
+      <itunes:summary>Ede, in the Netherlands, is a base for visiting the Veluwe's heaths and wildlife, with a history that runs from a medieval border fortress to the Second World War. In September 1944 about 2,000 Allied paratroopers landed on the Ginkelse Heide during Operation Market Garden, a day after an Allied bombing raid on the town killed 69 residents.
+
+Other languages and more about Ede: https://wanderingcities.com/netherlands/ede/
+
+Sources include Wikipedia and Wikivoyage (CC BY-SA 4.0) and official tourism, heritage and museum websites. The conversation and voices are AI-generated.</itunes:summary>
+      <enclosure url="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/episodes/wandering-cities-ede-1528361626-v1.mp3" length="21855197" type="audio/mpeg"/>
+      <guid isPermaLink="false">48ae0ab9-df47-5b85-9889-f371f5c09c06</guid>
+      <pubDate>Mon, 05 Oct 2026 09:34:58 +0000</pubDate>
+      <itunes:duration>00:22:36</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Roermond Travel Guide &amp; History | The Town That Moved a River</title>
+      <link>https://wanderingcities.com/netherlands/roermond/</link>
+      <podcast:transcript url="https://wanderingcities.com/netherlands/roermond/transcript-en.txt" type="text/plain" language="en"/>
+      <description>Roermond, in the Netherlands, features landmarks such as the Munsterkerk, Saint Christopher's Cathedral, and the Cuypershuis museum for travelers who visit to learn about its history. In 1342, local workers redirected the Meuse river to grant the town direct access to major European trade routes.
+
+Other languages and more about Roermond: https://wanderingcities.com/netherlands/roermond/
+
+Sources include Wikipedia and Wikivoyage (CC BY-SA 4.0) and official tourism, heritage and museum websites. The conversation and voices are AI-generated.</description>
+      <itunes:summary>Roermond, in the Netherlands, features landmarks such as the Munsterkerk, Saint Christopher's Cathedral, and the Cuypershuis museum for travelers who visit to learn about its history. In 1342, local workers redirected the Meuse river to grant the town direct access to major European trade routes.
+
+Other languages and more about Roermond: https://wanderingcities.com/netherlands/roermond/
+
+Sources include Wikipedia and Wikivoyage (CC BY-SA 4.0) and official tourism, heritage and museum websites. The conversation and voices are AI-generated.</itunes:summary>
+      <enclosure url="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/episodes/wandering-cities-roermond-1528173066-v1.mp3" length="21452700" type="audio/mpeg"/>
+      <guid isPermaLink="false">45eda041-7011-56ee-ad9a-ab296c16f7b7</guid>
+      <pubDate>Mon, 05 Oct 2026 09:33:25 +0000</pubDate>
+      <itunes:duration>00:22:11</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Almelo Travel Guide &amp; History | The Largest Dutch Bank Heist</title>
+      <link>https://wanderingcities.com/netherlands/almelo/</link>
+      <podcast:transcript url="https://wanderingcities.com/netherlands/almelo/transcript-en.txt" type="text/plain" language="en"/>
+      <description>Almelo, in the Netherlands, offers centuries of history around landmarks like Huize Almelo and the Wevershuisje, giving travelers notable things to see. In 1944, resistance fighters stole 46.1 million guilders from De Nederlandsche Bank during the country's largest heist.
+
+Other languages and more about Almelo: https://wanderingcities.com/netherlands/almelo/
+
+Sources include Wikipedia and Wikivoyage (CC BY-SA 4.0) and official tourism, heritage and museum websites. The conversation and voices are AI-generated.</description>
+      <itunes:summary>Almelo, in the Netherlands, offers centuries of history around landmarks like Huize Almelo and the Wevershuisje, giving travelers notable things to see. In 1944, resistance fighters stole 46.1 million guilders from De Nederlandsche Bank during the country's largest heist.
+
+Other languages and more about Almelo: https://wanderingcities.com/netherlands/almelo/
+
+Sources include Wikipedia and Wikivoyage (CC BY-SA 4.0) and official tourism, heritage and museum websites. The conversation and voices are AI-generated.</itunes:summary>
+      <enclosure url="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/episodes/wandering-cities-almelo-1528084436-v2.mp3" length="22878358" type="audio/mpeg"/>
+      <guid isPermaLink="false">061a3263-f9bc-56dd-a4ab-96acea3cc2c1</guid>
+      <pubDate>Mon, 05 Oct 2026 09:31:56 +0000</pubDate>
+      <itunes:duration>00:23:40</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Deventer Travel Guide &amp; History | Boiling Counterfeiters Alive</title>
+      <link>https://wanderingcities.com/netherlands/deventer/</link>
+      <podcast:transcript url="https://wanderingcities.com/netherlands/deventer/transcript-en.txt" type="text/plain" language="en"/>
+      <description>Deventer, in the Netherlands, features medieval history around the Brink square and the Lebuïnus Church, offering key things to see when you visit. In the French period, by tradition in 1813, Napoleon's soldiers shot holes into the execution kettle where a coin counterfeiter was once boiled alive. Note: the original kettle is now inside Museum De Waag; a replica hangs on the façade.
+
+Other languages and more about Deventer: https://wanderingcities.com/netherlands/deventer/
+
+Sources include Wikipedia and Wikivoyage (CC BY-SA 4.0) and official tourism, heritage and museum websites. The conversation and voices are AI-generated.</description>
+      <itunes:summary>Deventer, in the Netherlands, features medieval history around the Brink square and the Lebuïnus Church, offering key things to see when you visit. In the French period, by tradition in 1813, Napoleon's soldiers shot holes into the execution kettle where a coin counterfeiter was once boiled alive. Note: the original kettle is now inside Museum De Waag; a replica hangs on the façade.
+
+Other languages and more about Deventer: https://wanderingcities.com/netherlands/deventer/
+
+Sources include Wikipedia and Wikivoyage (CC BY-SA 4.0) and official tourism, heritage and museum websites. The conversation and voices are AI-generated.</itunes:summary>
+      <enclosure url="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/episodes/wandering-cities-deventer-1528681564-v1.mp3" length="21048534" type="audio/mpeg"/>
+      <guid isPermaLink="false">53364fc2-5897-5c6c-bcd3-a2dbe0216a45</guid>
+      <pubDate>Mon, 05 Oct 2026 09:11:44 +0000</pubDate>
+      <itunes:duration>00:21:46</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Maastricht Travel Guide &amp; History | Ancient Marlstone Built Forts</title>
+      <link>https://wanderingcities.com/netherlands/maastricht/</link>
+      <podcast:transcript url="https://wanderingcities.com/netherlands/maastricht/transcript-en.txt" type="text/plain" language="en"/>
+      <description>Maastricht, in the Netherlands, features centuries of history and major things to see, including Fort Sint Pieter, Helpoort, and Sint Servaasbrug along the Meuse River. In 1942, officials stored 800 national art treasures inside a North Caves vault to protect them during World War II.
+
+Other languages and more about Maastricht: https://wanderingcities.com/netherlands/maastricht/
+
+Sources include Wikipedia and Wikivoyage (CC BY-SA 4.0) and official tourism, heritage and museum websites. The conversation and voices are AI-generated.</description>
+      <itunes:summary>Maastricht, in the Netherlands, features centuries of history and major things to see, including Fort Sint Pieter, Helpoort, and Sint Servaasbrug along the Meuse River. In 1942, officials stored 800 national art treasures inside a North Caves vault to protect them during World War II.
+
+Other languages and more about Maastricht: https://wanderingcities.com/netherlands/maastricht/
+
+Sources include Wikipedia and Wikivoyage (CC BY-SA 4.0) and official tourism, heritage and museum websites. The conversation and voices are AI-generated.</itunes:summary>
+      <enclosure url="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/episodes/wandering-cities-maastricht-1528563623-v2.mp3" length="21289714" type="audio/mpeg"/>
+      <guid isPermaLink="false">8f2a025d-32d0-5d9a-88a0-dc0ae399b161</guid>
+      <pubDate>Mon, 05 Oct 2026 09:10:02 +0000</pubDate>
+      <itunes:duration>00:22:01</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Emmen Travel Guide &amp; History | Dolmens, Peat and a Green City</title>
+      <link>https://wanderingcities.com/netherlands/emmen/</link>
+      <podcast:transcript url="https://wanderingcities.com/netherlands/emmen/transcript-en.txt" type="text/plain" language="en"/>
+      <description>Emmen, in the Netherlands, is a place to visit for 5,000-year-old hunebedden in the Emmerdennen forest, a history shaped by peat cutting, and things to see in Niek de Boer's post-war "open green city". In May 1935 Willem Oosting opened a zoo in the field behind his family's house, and its successor WILDLANDS still sits beside the town centre.
+
+Other languages and more about Emmen: https://wanderingcities.com/netherlands/emmen/
+
+Sources include Wikipedia and Wikivoyage (CC BY-SA 4.0) and official tourism, heritage and museum websites. The conversation and voices are AI-generated.</description>
+      <itunes:summary>Emmen, in the Netherlands, is a place to visit for 5,000-year-old hunebedden in the Emmerdennen forest, a history shaped by peat cutting, and things to see in Niek de Boer's post-war "open green city". In May 1935 Willem Oosting opened a zoo in the field behind his family's house, and its successor WILDLANDS still sits beside the town centre.
+
+Other languages and more about Emmen: https://wanderingcities.com/netherlands/emmen/
+
+Sources include Wikipedia and Wikivoyage (CC BY-SA 4.0) and official tourism, heritage and museum websites. The conversation and voices are AI-generated.</itunes:summary>
+      <enclosure url="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/episodes/wandering-cities-emmen-1528332075-v2.mp3" length="21282588" type="audio/mpeg"/>
+      <guid isPermaLink="false">eddcc422-7e2f-5e17-a15c-e07c81419e01</guid>
+      <pubDate>Mon, 05 Oct 2026 09:08:18 +0000</pubDate>
+      <itunes:duration>00:22:00</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Amstelveen Travel Guide &amp; History | Defying Amsterdam's Expansion</title>
+      <link>https://wanderingcities.com/netherlands/amstelveen/</link>
+      <podcast:transcript url="https://wanderingcities.com/netherlands/amstelveen/transcript-en.txt" type="text/plain" language="en"/>
+      <description>Amstelveen, in the Netherlands, features local history and popular things to see, including the Cobra Museum, Museum JAN, and the Amsterdamse Bos. In 1964, the municipality officially changed its name from Nieuwer-Amstel to Amstelveen after resisting full annexation.
+
+Other languages and more about Amstelveen: https://wanderingcities.com/netherlands/amstelveen/
+
+Sources include Wikipedia and Wikivoyage (CC BY-SA 4.0) and official tourism, heritage and museum websites. The conversation and voices are AI-generated.</description>
+      <itunes:summary>Amstelveen, in the Netherlands, features local history and popular things to see, including the Cobra Museum, Museum JAN, and the Amsterdamse Bos. In 1964, the municipality officially changed its name from Nieuwer-Amstel to Amstelveen after resisting full annexation.
+
+Other languages and more about Amstelveen: https://wanderingcities.com/netherlands/amstelveen/
+
+Sources include Wikipedia and Wikivoyage (CC BY-SA 4.0) and official tourism, heritage and museum websites. The conversation and voices are AI-generated.</itunes:summary>
+      <enclosure url="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/episodes/wandering-cities-amstelveen-1528243202-v1.mp3" length="22378901" type="audio/mpeg"/>
+      <guid isPermaLink="false">289b348b-6f00-5e1e-936b-33216fe8fd32</guid>
+      <pubDate>Mon, 05 Oct 2026 09:06:30 +0000</pubDate>
+      <itunes:duration>00:23:09</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Hilversum Travel Guide &amp; History | The Making of Dutch Hollywood</title>
+      <link>https://wanderingcities.com/netherlands/hilversum/</link>
+      <podcast:transcript url="https://wanderingcities.com/netherlands/hilversum/transcript-en.txt" type="text/plain" language="en"/>
+      <description>Hilversum, in the Netherlands, offers broadcasting history and key sights to visit, from the Sound &amp; Vision museum at Media Park to Willem Dudok's Town Hall. In 1918, the opening of a radio transmitter factory started the town's rise as the national media capital.
+
+Other languages and more about Hilversum: https://wanderingcities.com/netherlands/hilversum/
+
+Sources include Wikipedia and Wikivoyage (CC BY-SA 4.0) and official tourism, heritage and museum websites. The conversation and voices are AI-generated.</description>
+      <itunes:summary>Hilversum, in the Netherlands, offers broadcasting history and key sights to visit, from the Sound &amp; Vision museum at Media Park to Willem Dudok's Town Hall. In 1918, the opening of a radio transmitter factory started the town's rise as the national media capital.
+
+Other languages and more about Hilversum: https://wanderingcities.com/netherlands/hilversum/
+
+Sources include Wikipedia and Wikivoyage (CC BY-SA 4.0) and official tourism, heritage and museum websites. The conversation and voices are AI-generated.</itunes:summary>
+      <enclosure url="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/episodes/wandering-cities-hilversum-1528160832-v3.mp3" length="22058340" type="audio/mpeg"/>
+      <guid isPermaLink="false">057e106a-ebbe-57b9-91c0-66d01d0a4693</guid>
+      <pubDate>Mon, 05 Oct 2026 09:04:48 +0000</pubDate>
+      <itunes:duration>00:22:49</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Helmond Travel Guide &amp; History | Medieval Castle and Cube Houses</title>
+      <link>https://wanderingcities.com/netherlands/helmond/</link>
+      <podcast:transcript url="https://wanderingcities.com/netherlands/helmond/transcript-en.txt" type="text/plain" language="en"/>
+      <description>Helmond, in the Netherlands, features a medieval moat castle, tilted cube houses, and the Cacaofabriek for travelers who visit to explore local history. Around 1325, construction began on the square water castle, shaping the city for centuries to come.
+
+Other languages and more about Helmond: https://wanderingcities.com/netherlands/helmond/
+
+Sources include Wikipedia and Wikivoyage (CC BY-SA 4.0) and official tourism, heritage and museum websites. The conversation and voices are AI-generated.</description>
+      <itunes:summary>Helmond, in the Netherlands, features a medieval moat castle, tilted cube houses, and the Cacaofabriek for travelers who visit to explore local history. Around 1325, construction began on the square water castle, shaping the city for centuries to come.
+
+Other languages and more about Helmond: https://wanderingcities.com/netherlands/helmond/
+
+Sources include Wikipedia and Wikivoyage (CC BY-SA 4.0) and official tourism, heritage and museum websites. The conversation and voices are AI-generated.</itunes:summary>
+      <enclosure url="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/episodes/wandering-cities-helmond-1528158256-v2.mp3" length="20690763" type="audio/mpeg"/>
+      <guid isPermaLink="false">863c3010-0cf2-533a-9674-9765076e9c45</guid>
+      <pubDate>Mon, 05 Oct 2026 09:03:27 +0000</pubDate>
+      <itunes:duration>00:21:23</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Heerlen Travel Guide &amp; History | From Coal Mines to Street Art</title>
+      <link>https://wanderingcities.com/netherlands/heerlen/</link>
+      <podcast:transcript url="https://wanderingcities.com/netherlands/heerlen/transcript-en.txt" type="text/plain" language="en"/>
+      <description>Heerlen, in the Netherlands, is a city to visit for Roman, mining and street-art history, with things to see like Hoensbroek Castle, the Glaspaleis and the Nederlands Mijnmuseum. On 17 December 1965 the Dutch government announced in Heerlen's theatre that the mines would close, and the city later remade itself as the country's mural capital.
+
+Other languages and more about Heerlen: https://wanderingcities.com/netherlands/heerlen/
+
+Sources include Wikipedia and Wikivoyage (CC BY-SA 4.0) and official tourism, heritage and museum websites. The conversation and voices are AI-generated.</description>
+      <itunes:summary>Heerlen, in the Netherlands, is a city to visit for Roman, mining and street-art history, with things to see like Hoensbroek Castle, the Glaspaleis and the Nederlands Mijnmuseum. On 17 December 1965 the Dutch government announced in Heerlen's theatre that the mines would close, and the city later remade itself as the country's mural capital.
+
+Other languages and more about Heerlen: https://wanderingcities.com/netherlands/heerlen/
+
+Sources include Wikipedia and Wikivoyage (CC BY-SA 4.0) and official tourism, heritage and museum websites. The conversation and voices are AI-generated.</itunes:summary>
+      <enclosure url="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/episodes/wandering-cities-heerlen-1528095552-v2.mp3" length="21144665" type="audio/mpeg"/>
+      <guid isPermaLink="false">25eb3b24-0531-5b81-86f2-0398e583f097</guid>
+      <pubDate>Mon, 05 Oct 2026 09:01:39 +0000</pubDate>
+      <itunes:duration>00:21:52</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Alkmaar Travel Guide &amp; History | Secret Notes in Hollow Poles</title>
+      <link>https://wanderingcities.com/netherlands/alkmaar/</link>
+      <podcast:transcript url="https://wanderingcities.com/netherlands/alkmaar/transcript-en.txt" type="text/plain" language="en"/>
+      <description>Alkmaar, in the Netherlands, features historic canals, the medieval Waaggebouw, and the Grote Sint Laurenskerk for tourists who visit to explore local history. In 1573, residents smuggled secret messages in hollow vaulting poles to request dike breaches, flooding surrounding lands to break a Spanish siege.
+
+Other languages and more about Alkmaar: https://wanderingcities.com/netherlands/alkmaar/
+
+Sources include Wikipedia and Wikivoyage (CC BY-SA 4.0) and official tourism, heritage and museum websites. The conversation and voices are AI-generated.</description>
+      <itunes:summary>Alkmaar, in the Netherlands, features historic canals, the medieval Waaggebouw, and the Grote Sint Laurenskerk for tourists who visit to explore local history. In 1573, residents smuggled secret messages in hollow vaulting poles to request dike breaches, flooding surrounding lands to break a Spanish siege.
+
+Other languages and more about Alkmaar: https://wanderingcities.com/netherlands/alkmaar/
+
+Sources include Wikipedia and Wikivoyage (CC BY-SA 4.0) and official tourism, heritage and museum websites. The conversation and voices are AI-generated.</itunes:summary>
+      <enclosure url="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/episodes/wandering-cities-alkmaar-1528566376-v2.mp3" length="20004485" type="audio/mpeg"/>
+      <guid isPermaLink="false">11885a99-8c55-575f-97c5-db409369ff77</guid>
+      <pubDate>Mon, 05 Oct 2026 08:45:39 +0000</pubDate>
+      <itunes:duration>00:20:41</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Delft Travel Guide &amp; History | Vermeer, Gunpowder and Microbes</title>
+      <link>https://wanderingcities.com/netherlands/delft/</link>
+      <podcast:transcript url="https://wanderingcities.com/netherlands/delft/transcript-en.txt" type="text/plain" language="en"/>
+      <description>Delft, in the Netherlands, is a compact city to visit for its canals, Delftware and the light Vermeer painted, with history on every corner and plenty of things to see. In 1584 William of Orange was shot in the Prinsenhof, now closed for renovation until about 2028, and in 1654 a gunpowder blast tore through the city at the height of its Golden Age.
+
+Other languages and more about Delft: https://wanderingcities.com/netherlands/delft/
+
+Sources include Wikipedia and Wikivoyage (CC BY-SA 4.0) and official tourism, heritage and museum websites. The conversation and voices are AI-generated.</description>
+      <itunes:summary>Delft, in the Netherlands, is a compact city to visit for its canals, Delftware and the light Vermeer painted, with history on every corner and plenty of things to see. In 1584 William of Orange was shot in the Prinsenhof, now closed for renovation until about 2028, and in 1654 a gunpowder blast tore through the city at the height of its Golden Age.
+
+Other languages and more about Delft: https://wanderingcities.com/netherlands/delft/
+
+Sources include Wikipedia and Wikivoyage (CC BY-SA 4.0) and official tourism, heritage and museum websites. The conversation and voices are AI-generated.</itunes:summary>
+      <enclosure url="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/episodes/wandering-cities-delft-1528448452-v2.mp3" length="23078130" type="audio/mpeg"/>
+      <guid isPermaLink="false">ce3a4aba-94c0-5295-9069-81c8122c7820</guid>
+      <pubDate>Sun, 04 Oct 2026 07:34:10 +0000</pubDate>
+      <itunes:duration>00:23:53</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Amsterdam Travel Guide &amp; History | An Empire Built on Mud</title>
+      <link>https://wanderingcities.com/netherlands/amsterdam/</link>
+      <podcast:transcript url="https://wanderingcities.com/netherlands/amsterdam/transcript-en.txt" type="text/plain" language="en"/>
+      <description>Amsterdam began as a muddy settlement behind a dam on the Amstel, and that history still shapes the things to see on a visit, from the canal rings to world-famous museums. In 1275, Count Floris V freed its residents from paying his tolls: a small privilege at the start of a long story.
+
+Other languages and more about Amsterdam: https://wanderingcities.com/netherlands/amsterdam/
+
+Sources include Wikipedia and Wikivoyage (CC BY-SA 4.0) and official tourism, heritage and museum websites. The conversation and voices are AI-generated.</description>
+      <itunes:summary>Amsterdam began as a muddy settlement behind a dam on the Amstel, and that history still shapes the things to see on a visit, from the canal rings to world-famous museums. In 1275, Count Floris V freed its residents from paying his tolls: a small privilege at the start of a long story.
+
+Other languages and more about Amsterdam: https://wanderingcities.com/netherlands/amsterdam/
+
+Sources include Wikipedia and Wikivoyage (CC BY-SA 4.0) and official tourism, heritage and museum websites. The conversation and voices are AI-generated.</itunes:summary>
+      <enclosure url="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/episodes/wandering-cities-amsterdam-1528355309-v2.mp3" length="22382237" type="audio/mpeg"/>
+      <guid isPermaLink="false">6365372e-798c-527b-822e-4ea48149568c</guid>
+      <pubDate>Sun, 04 Oct 2026 07:32:32 +0000</pubDate>
+      <itunes:duration>00:23:09</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Kampen Travel Guide &amp; History | Why It Stopped Collecting Taxes</title>
+      <link>https://wanderingcities.com/netherlands/kampen/</link>
+      <podcast:transcript url="https://wanderingcities.com/netherlands/kampen/transcript-en.txt" type="text/plain" language="en"/>
+      <description>Kampen, in the Netherlands, rewards a visit for its history and things to see: three surviving city gates, the Bovenkerk and a skyline seen across the IJssel. When silting ended its trading heyday, rents from the new Kampereiland let the city stop raising taxes from around 1500.
+
+Other languages and more about Kampen: https://wanderingcities.com/netherlands/kampen/
+
+Sources include Wikipedia and Wikivoyage (CC BY-SA 4.0) and official tourism, heritage and museum websites. The conversation and voices are AI-generated.</description>
+      <itunes:summary>Kampen, in the Netherlands, rewards a visit for its history and things to see: three surviving city gates, the Bovenkerk and a skyline seen across the IJssel. When silting ended its trading heyday, rents from the new Kampereiland let the city stop raising taxes from around 1500.
+
+Other languages and more about Kampen: https://wanderingcities.com/netherlands/kampen/
+
+Sources include Wikipedia and Wikivoyage (CC BY-SA 4.0) and official tourism, heritage and museum websites. The conversation and voices are AI-generated.</itunes:summary>
+      <enclosure url="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/episodes/wandering-cities-kampen-1528270646-v2.mp3" length="22232614" type="audio/mpeg"/>
+      <guid isPermaLink="false">0f201e7a-7825-5001-aae0-6555c41afd75</guid>
+      <pubDate>Sun, 04 Oct 2026 07:30:59 +0000</pubDate>
+      <itunes:duration>00:23:00</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+  </channel>
+</rss>
