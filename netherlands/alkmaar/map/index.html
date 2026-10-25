@@ -20,10 +20,10 @@ body{margin:0}main.mapwrap{max-width:none;padding:0}
  display:none;align-items:center;justify-content:center;box-shadow:0 1px 3px rgba(0,0,0,.45)}.pin.ep .b{display:flex}
 .far .pin .b{width:12px;height:12px;font-size:7px;top:-6px;right:-6px}
 #filt{display:flex;gap:.4rem;padding:.45rem .8rem;background:var(--cream);border-bottom:1px solid var(--line);flex-wrap:wrap}
-#filt button{font:inherit;font-size:.9rem;font-weight:600;padding:.4rem .8rem;border:1.5px solid var(--line);border-radius:8px;background:#fff;cursor:pointer;color:var(--deep)}
-#filt button.on{background:var(--orange);color:#fff;border-color:var(--orange)}
-#vm{display:flex;background:#fff;border-radius:8px;box-shadow:0 1px 4px rgba(0,0,0,.35);overflow:hidden}
-#vm button{border:0;background:#fff;font:700 .8rem Manrope,system-ui,sans-serif;padding:.4rem .75rem;cursor:pointer;color:var(--deep)}#vm button.on{background:var(--orange);color:#fff}
+#filt button{font:inherit;font-size:.9rem;font-weight:600;padding:.4rem .8rem;border:2px solid transparent;border-radius:8px;background:linear-gradient(#fff,#fff) padding-box,var(--grad) border-box;cursor:pointer;color:var(--deep)}
+#filt button.on{background:linear-gradient(#fdeadb,#fdeadb) padding-box,var(--grad) border-box;color:#b4472a;font-weight:800}
+#vm{display:flex;border:2px solid transparent;background:linear-gradient(#fff,#fff) padding-box,var(--grad) border-box;border-radius:8px;box-shadow:0 1px 4px rgba(0,0,0,.25);overflow:hidden}
+#vm button{border:0;background:#fff;font:700 .8rem Manrope,system-ui,sans-serif;padding:.4rem .75rem;cursor:pointer;color:var(--deep)}#vm button.on{background:#fdeadb;color:#b4472a;font-weight:800}
 .far .pin.mini{width:16px;height:16px;background-image:none!important;background:var(--c);border-width:2px;box-shadow:0 0 0 2px #fff}
 #card{position:fixed;left:0;right:0;bottom:0;max-height:70vh;overflow:auto;background:#fff;border-radius:16px 16px 0 0;
  box-shadow:0 -4px 20px rgba(0,0,0,.25);padding:1rem 1.2rem 1.4rem;transform:translateY(110%);transition:transform .25s;z-index:5;max-width:760px;margin:0 auto}
@@ -37,13 +37,14 @@ body{margin:0}main.mapwrap{max-width:none;padding:0}
 .mtop{position:sticky;top:0;z-index:5;background:var(--cream);border-bottom:1px solid var(--line)}.back{display:flex;align-items:center;gap:.7rem;max-width:none;padding:.55rem .8rem;text-decoration:none;color:var(--deep);font-weight:800;font-size:1.05rem}
 .back img{width:42px;height:42px;border-radius:10px;object-fit:cover;box-shadow:0 1px 4px rgba(0,0,0,.18)}.back .ini{display:flex;width:42px;height:42px;border-radius:10px;align-items:center;justify-content:center;background:var(--orange);color:#fff;font-weight:800}
 .back small{color:var(--orange);font-size:1.3rem;font-weight:800}.back:hover #backt{text-decoration:underline}
-#bar h1{font-weight:800}#ep{border-color:var(--orange);color:var(--orange);font-weight:700}
+#bar h1{font-weight:800}#eprow{padding:.5rem .8rem .7rem;background:var(--cream);border-bottom:1px solid var(--line)}#eprow[hidden]{display:none}
 </style>
 </head>
 <body>
 <header class="top mtop"><a href="/netherlands/alkmaar/" class="back" id="home"><img src="/city-art/1528566376.jpg" alt=""><span class="bk"><small>‹</small> <span id="backt">Alkmaar</span></span></a></header>
-<div id="bar"><h1 id="h1"></h1><select id="lang" aria-label="Language"></select><a id="ep" class="btn" href="/netherlands/alkmaar/podcast/"></a></div>
+<div id="bar"><h1 id="h1"></h1><select id="lang" aria-label="Language"></select></div>
 <div id="filt" role="group" aria-label="Filter"></div>
+<div id="eprow" hidden><a id="ep" class="btn" href="/netherlands/alkmaar/podcast/"></a></div>
 <div id="map" role="region" aria-label="Map"></div>
 <div id="list"><p class="legend" id="legend"></p><h2 id="lh"></h2><ol id="items"></ol>
 <p class="credit">Map © <a href="https://openfreemap.org">OpenFreeMap</a> · © <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors · data <a href="https://www.wikidata.org">Wikidata</a> · photos <a href="https://commons.wikimedia.org">Wikimedia Commons</a> (credits per photo)</p><p class="credit">Text, audio and transcripts © Kajetan Studio. Use for AI training, text and data mining or automated scraping is not permitted (opt-out under Art. 4 EU Directive 2019/790). Photos and map drawings: see the licence shown with each.</p></div>
@@ -83,7 +84,7 @@ function show(h){const u=UI[L],c=CATS[h.category]||CATS.landmark,name=h.names[L]
  if(h.status)s+=`<div class="status">${esc(h.status[L]||h.status.en)}</div>`;
  s+=`<p>${esc(text)}</p><div class="row"><button class="btn" id="rd">🔊 ${u.read}</button>`;
  const w=h.wikipedia&&(h.wikipedia[L]||h.wikipedia.en||h.wikipedia.nl);if(w)s+=`<a class="btn" href="${w}" target="_blank" rel="noopener">${u.wiki}</a>`;
- if(inEp(h))s+=`<a class="btn" href="/netherlands/alkmaar/podcast/#${L}">${u.listen}</a>`;s+='</div>';
+ if(inEp(h))s+=`<a class="btn" href="/netherlands/alkmaar/podcast/#${L}">🎧 ${u.listen}</a>`;s+='</div>';
  document.getElementById('cc').innerHTML=s;document.getElementById('rd').onclick=e=>speak(name+'. '+text,e.target);
  document.getElementById('card').classList.add('open');map.easeTo({center:[h.lon,h.lat],offset:[0,-120],duration:400})}
 document.getElementById('x').onclick=()=>{document.getElementById('card').classList.remove('open');if('speechSynthesis'in window)speechSynthesis.cancel()};
@@ -95,7 +96,7 @@ function render(){const u=UI[L];document.documentElement.lang=L;document.getElem
  const ne=pts.filter(inEp).length;if(ne)fs.push(['ep','🎧 '+u.ep+' ('+ne+')']);if(!fs.some(f=>f[0]===F))F='all';
  const fb=document.getElementById('filt');fb.innerHTML='';fs.forEach(([k,t])=>{const bt=document.createElement('button');bt.textContent=t;
   bt.className=k===F?'on':'';bt.setAttribute('aria-pressed',k===F);bt.onclick=()=>{F=k;render();fit()};fb.appendChild(bt)});
- const vis=h=>F==='all'||(F==='top'&&h.top)||(F==='ep'&&inEp(h));pts.forEach(h=>h._el.style.display=vis(h)?'':'none');
+ document.getElementById('eprow').hidden=F!=='ep';const vis=h=>F==='all'||(F==='top'&&h.top)||(F==='ep'&&inEp(h));pts.forEach(h=>h._el.style.display=vis(h)?'':'none');
  document.getElementById('lh').textContent=F==='all'?u.list:fs.find(f=>f[0]===F)[1];
  const ol=document.getElementById('items');ol.innerHTML='';(F==='top'?tops:pts).filter(vis).forEach(h=>{const li=document.createElement('li');
   li.textContent=(h.top?'⭐ ':'')+(h.names[L]||h.names.en)+(inEp(h)?' 🎧':'');li.onclick=()=>{show(h);window.scrollTo({top:0,behavior:'smooth'})};ol.appendChild(li)})}
