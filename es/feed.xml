@@ -14,7 +14,27 @@
     <itunes:type>episodic</itunes:type>
     <itunes:category text="Society &amp; Culture"><itunes:category text="Places &amp; Travel"/></itunes:category>
     <itunes:image href="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/cover-es-3000.jpg"/>
-    <lastBuildDate>Mon, 26 Oct 2026 05:02:55 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 26 Oct 2026 05:33:19 +0000</lastBuildDate>
+    <item>
+      <title>’s-Hertogenbosch: guía de viaje e historia | Cómo Den Bosch se volvió el Dragón</title>
+      <link>https://wanderingcities.com/netherlands/s-hertogenbosch/</link>
+      <description>’s-Hertogenbosch muestra su historia durante una visita a la Sint-Janskathedraal, la Binnendieze subterránea y el edificio medieval De Moriaan. En 1629, Frederik Hendrik van Oranje conquistó la fortaleza tras cuatro meses y medio de sitio al secar los pantanos circundantes.
+
+Otros idiomas y más sobre ’s-Hertogenbosch: https://wanderingcities.com/netherlands/s-hertogenbosch/
+
+Fuentes, entre otras: Wikipedia y Wikivoyage (CC BY-SA 4.0) y webs oficiales de turismo, patrimonio y museos. La conversación y las voces están generadas por IA.</description>
+      <itunes:summary>’s-Hertogenbosch muestra su historia durante una visita a la Sint-Janskathedraal, la Binnendieze subterránea y el edificio medieval De Moriaan. En 1629, Frederik Hendrik van Oranje conquistó la fortaleza tras cuatro meses y medio de sitio al secar los pantanos circundantes.
+
+Otros idiomas y más sobre ’s-Hertogenbosch: https://wanderingcities.com/netherlands/s-hertogenbosch/
+
+Fuentes, entre otras: Wikipedia y Wikivoyage (CC BY-SA 4.0) y webs oficiales de turismo, patrimonio y museos. La conversación y las voces están generadas por IA.</itunes:summary>
+      <enclosure url="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/episodes/es/es-s-hertogenbosch-1528012333-v1.mp3" length="27911300" type="audio/mpeg"/>
+      <guid isPermaLink="false">55c71ca5-8684-5b0c-b15a-1922cac8f617</guid>
+      <pubDate>Mon, 26 Oct 2026 05:32:28 +0000</pubDate>
+      <itunes:duration>00:28:57</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Hoorn: guía de viaje e historia | Del puerto holandés al Cabo de Hornos</title>
       <link>https://wanderingcities.com/netherlands/hoorn/</link>
