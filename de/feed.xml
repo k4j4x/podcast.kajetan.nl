@@ -14,7 +14,27 @@
     <itunes:type>episodic</itunes:type>
     <itunes:category text="Society &amp; Culture"><itunes:category text="Places &amp; Travel"/></itunes:category>
     <itunes:image href="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/cover-de-3000.jpg"/>
-    <lastBuildDate>Sun, 25 Oct 2026 09:16:27 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 26 Oct 2026 03:33:44 +0000</lastBuildDate>
+    <item>
+      <title>’s-Hertogenbosch Reiseführer &amp; Geschichte | Wie Den Bosch zum Sumpfdrachen wurde</title>
+      <link>https://wanderingcities.com/netherlands/s-hertogenbosch/</link>
+      <description>’s-Hertogenbosch zeigt bei einem Besuch historische Sehenswürdigkeiten wie die Sint-Janskathedraal, die unterirdische Binnendieze und das alte Backsteinhaus De Moriaan. Im Jahr 1629 eroberte Frederik Hendrik van Oranje die Festung nach viereinhalb Monaten Belagerung durch das Trockenlegen der umliegenden Sümpfe.
+
+Andere Sprachen und mehr über ’s-Hertogenbosch: https://wanderingcities.com/netherlands/s-hertogenbosch/
+
+Quellen u. a. Wikipedia und Wikivoyage (CC BY-SA 4.0) sowie offizielle Websites für Tourismus, Denkmalpflege und Museen. Gespräch und Stimmen sind KI-generiert.</description>
+      <itunes:summary>’s-Hertogenbosch zeigt bei einem Besuch historische Sehenswürdigkeiten wie die Sint-Janskathedraal, die unterirdische Binnendieze und das alte Backsteinhaus De Moriaan. Im Jahr 1629 eroberte Frederik Hendrik van Oranje die Festung nach viereinhalb Monaten Belagerung durch das Trockenlegen der umliegenden Sümpfe.
+
+Andere Sprachen und mehr über ’s-Hertogenbosch: https://wanderingcities.com/netherlands/s-hertogenbosch/
+
+Quellen u. a. Wikipedia und Wikivoyage (CC BY-SA 4.0) sowie offizielle Websites für Tourismus, Denkmalpflege und Museen. Gespräch und Stimmen sind KI-generiert.</itunes:summary>
+      <enclosure url="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/episodes/de/de-s-hertogenbosch-1528012333-v1.mp3" length="27487758" type="audio/mpeg"/>
+      <guid isPermaLink="false">ba773b00-e50f-5559-b59e-ace92d65ac38</guid>
+      <pubDate>Mon, 26 Oct 2026 03:32:29 +0000</pubDate>
+      <itunes:duration>00:28:30</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Gouda Reiseführer &amp; Geschichte | Ein schwimmendes Rathaus im Sumpf</title>
       <link>https://wanderingcities.com/netherlands/gouda/</link>
