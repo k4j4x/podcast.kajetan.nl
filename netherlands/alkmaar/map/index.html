@@ -55,9 +55,9 @@ body{margin:0}main.mapwrap{max-width:none;padding:0}
 #map{-webkit-touch-callout:none;-webkit-user-select:none;user-select:none}#map .pp input{-webkit-user-select:text;user-select:text}
 #mine li{cursor:pointer}.tip{font-size:.85rem;color:var(--muted)}
 .far .pin.mini{width:16px;height:16px;background-image:none!important;background:var(--c);border-width:2px;box-shadow:0 0 0 2px #fff}
-#card{position:fixed;left:0;right:0;bottom:0;max-height:70vh;max-height:min(70vh,calc(100dvh - 5rem));overflow:auto;background:#fff;border-radius:16px 16px 0 0;
+#card{position:fixed;left:0;right:0;bottom:0;max-height:70vh;max-height:min(70vh,calc(100dvh - 5rem));overflow:hidden;display:flex;flex-direction:column;background:#fff;border-radius:16px 16px 0 0;
  box-shadow:0 -4px 20px rgba(0,0,0,.25);padding:1rem 1.2rem 1.4rem;transform:translateY(110%);transition:transform .25s;z-index:30;max-width:760px;margin:0 auto}
-#card.open{transform:none}#card img{width:100%;max-height:240px;object-fit:cover;border-radius:10px}
+#card.open{transform:none}#cc{overflow:auto;min-height:0;flex:1 1 auto;overscroll-behavior:contain}#card img{width:100%;max-height:240px;object-fit:cover;border-radius:10px}
 #card h2{margin:.5rem 0 .2rem;font-size:1.25rem}.credit{font-size:.75rem;color:var(--muted)}.badges .chip{margin-top:.3rem}
 .status{background:#fff3cd;border:1px solid #f0d27a;border-radius:8px;padding:.4rem .6rem;font-size:.92rem;margin:.5rem 0}
 #card .row{display:flex;gap:.5rem;flex-wrap:wrap;margin-top:.6rem}#x{position:absolute;right:.8rem;top:.6rem;border:0;background:#eee;border-radius:50%;width:2rem;height:2rem;font-size:1rem;cursor:pointer}
