@@ -14,7 +14,27 @@
     <itunes:type>episodic</itunes:type>
     <itunes:category text="Society &amp; Culture"><itunes:category text="Places &amp; Travel"/></itunes:category>
     <itunes:image href="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/cover-nl-3000.jpg"/>
-    <lastBuildDate>Mon, 26 Oct 2026 05:56:33 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 26 Oct 2026 06:06:37 +0000</lastBuildDate>
+    <item>
+      <title>Gouda reisgids &amp; geschiedenis | Van zompig moeras tot zinkende bierstad</title>
+      <link>https://wanderingcities.com/netherlands/gouda/</link>
+      <description>Gouda verbindt bij een bezoek de lokale geschiedenis met bezienswaardigheden zoals de Sint-Janskerk, het Stadhuis en de Goudse Waag op de Markt. In 1272 verleende graaf Floris V stadsrechten aan de stad na twee eeuwen van turfwinning.
+
+Andere talen en meer over Gouda: https://wanderingcities.com/netherlands/gouda/
+
+Bronnen o.a. Wikipedia en Wikivoyage (CC BY-SA 4.0) en officiële websites over toerisme, erfgoed en musea. Het gesprek en de stemmen zijn door AI gegenereerd.</description>
+      <itunes:summary>Gouda verbindt bij een bezoek de lokale geschiedenis met bezienswaardigheden zoals de Sint-Janskerk, het Stadhuis en de Goudse Waag op de Markt. In 1272 verleende graaf Floris V stadsrechten aan de stad na twee eeuwen van turfwinning.
+
+Andere talen en meer over Gouda: https://wanderingcities.com/netherlands/gouda/
+
+Bronnen o.a. Wikipedia en Wikivoyage (CC BY-SA 4.0) en officiële websites over toerisme, erfgoed en musea. Het gesprek en de stemmen zijn door AI gegenereerd.</itunes:summary>
+      <enclosure url="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/episodes/nl/nl-gouda-1528695192-v1.mp3" length="23501922" type="audio/mpeg"/>
+      <guid isPermaLink="false">d4149ebb-6759-562d-81d0-250ddbc0ab91</guid>
+      <pubDate>Mon, 26 Oct 2026 06:06:37 +0000</pubDate>
+      <itunes:duration>00:24:21</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>’s-Hertogenbosch reisgids &amp; geschiedenis | Van de moerasdraak tot de Bossche bol</title>
       <link>https://wanderingcities.com/netherlands/s-hertogenbosch/</link>

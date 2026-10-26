@@ -14,7 +14,7 @@
     <itunes:type>episodic</itunes:type>
     <itunes:category text="Society &amp; Culture"><itunes:category text="Places &amp; Travel"/></itunes:category>
     <itunes:image href="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/cover-it-3000.jpg"/>
-    <lastBuildDate>Mon, 26 Oct 2026 05:56:34 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 26 Oct 2026 06:06:38 +0000</lastBuildDate>
     <item>
       <title>’s-Hertogenbosch: guida di viaggio e storia | Come Den Bosch diventò il Drago</title>
       <link>https://wanderingcities.com/netherlands/s-hertogenbosch/</link>
@@ -50,10 +50,10 @@ Fonti, tra le altre: Wikipedia e Wikivoyage (CC BY-SA 4.0) e siti ufficiali di t
 Altre lingue e altro su Hoorn: https://wanderingcities.com/netherlands/hoorn/
 
 Fonti, tra le altre: Wikipedia e Wikivoyage (CC BY-SA 4.0) e siti ufficiali di turismo, patrimonio e musei. La conversazione e le voci sono generate dall'IA.</itunes:summary>
-      <enclosure url="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/episodes/it/it-hoorn-1528487371-v1.mp3" length="15209311" type="audio/mpeg"/>
+      <enclosure url="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/episodes/it/it-hoorn-1528487371-v2.mp3" length="19841971" type="audio/mpeg"/>
       <guid isPermaLink="false">1959a402-0d0b-5e86-aa57-094adfb0b7fd</guid>
       <pubDate>Sat, 17 Oct 2026 20:31:33 +0000</pubDate>
-      <itunes:duration>00:15:43</itunes:duration>
+      <itunes:duration>00:20:32</itunes:duration>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>false</itunes:explicit>
     </item>
