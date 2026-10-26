@@ -14,7 +14,27 @@
     <itunes:type>episodic</itunes:type>
     <itunes:category text="Society &amp; Culture"><itunes:category text="Places &amp; Travel"/></itunes:category>
     <itunes:image href="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/cover-es-3000.jpg"/>
-    <lastBuildDate>Mon, 26 Oct 2026 07:30:58 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 26 Oct 2026 07:33:41 +0000</lastBuildDate>
+    <item>
+      <title>Gouda: guía de viaje e historia | La ciudad construida sobre el pantano</title>
+      <link>https://wanderingcities.com/netherlands/gouda/</link>
+      <description>Gouda reúne en una visita monumentos de su historia como la Sint-Janskerk, el Stadhuis y la Goudse Waag en la plaza Markt. En 1272, el conde Floris V concedió los derechos de ciudad a la localidad tras dos siglos de extracción de turba.
+
+Otros idiomas y más sobre Gouda: https://wanderingcities.com/netherlands/gouda/
+
+Fuentes, entre otras: Wikipedia y Wikivoyage (CC BY-SA 4.0) y webs oficiales de turismo, patrimonio y museos. La conversación y las voces están generadas por IA.</description>
+      <itunes:summary>Gouda reúne en una visita monumentos de su historia como la Sint-Janskerk, el Stadhuis y la Goudse Waag en la plaza Markt. En 1272, el conde Floris V concedió los derechos de ciudad a la localidad tras dos siglos de extracción de turba.
+
+Otros idiomas y más sobre Gouda: https://wanderingcities.com/netherlands/gouda/
+
+Fuentes, entre otras: Wikipedia y Wikivoyage (CC BY-SA 4.0) y webs oficiales de turismo, patrimonio y museos. La conversación y las voces están generadas por IA.</itunes:summary>
+      <enclosure url="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/episodes/es/es-gouda-1528695192-v1.mp3" length="20686024" type="audio/mpeg"/>
+      <guid isPermaLink="false">cbb3a3fd-f6d5-5101-af7f-263e602a6e16</guid>
+      <pubDate>Mon, 26 Oct 2026 07:32:03 +0000</pubDate>
+      <itunes:duration>00:21:25</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>’s-Hertogenbosch: guía de viaje e historia | Cómo Den Bosch se volvió el Dragón</title>
       <link>https://wanderingcities.com/netherlands/s-hertogenbosch/</link>
