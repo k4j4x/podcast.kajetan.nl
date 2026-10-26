@@ -14,7 +14,27 @@
     <itunes:type>episodic</itunes:type>
     <itunes:category text="Society &amp; Culture"><itunes:category text="Places &amp; Travel"/></itunes:category>
     <itunes:image href="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/cover-nl-3000.jpg"/>
-    <lastBuildDate>Mon, 26 Oct 2026 04:31:53 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 26 Oct 2026 05:02:54 +0000</lastBuildDate>
+    <item>
+      <title>’s-Hertogenbosch reisgids &amp; geschiedenis | Van de moerasdraak tot de Bossche bol</title>
+      <link>https://wanderingcities.com/netherlands/s-hertogenbosch/</link>
+      <description>’s-Hertogenbosch toont zijn geschiedenis tijdens een bezoek aan de Sint-Janskathedraal, de ondergrondse Binnendieze en het middeleeuwse pand De Moriaan. In 1629 veroverde Frederik Hendrik van Oranje de vesting na een beleg van vierenhalve maand door het droogleggen van de omringende moerassen.
+
+Andere talen en meer over ’s-Hertogenbosch: https://wanderingcities.com/netherlands/s-hertogenbosch/
+
+Bronnen o.a. Wikipedia en Wikivoyage (CC BY-SA 4.0) en officiële websites over toerisme, erfgoed en musea. Het gesprek en de stemmen zijn door AI gegenereerd.</description>
+      <itunes:summary>’s-Hertogenbosch toont zijn geschiedenis tijdens een bezoek aan de Sint-Janskathedraal, de ondergrondse Binnendieze en het middeleeuwse pand De Moriaan. In 1629 veroverde Frederik Hendrik van Oranje de vesting na een beleg van vierenhalve maand door het droogleggen van de omringende moerassen.
+
+Andere talen en meer over ’s-Hertogenbosch: https://wanderingcities.com/netherlands/s-hertogenbosch/
+
+Bronnen o.a. Wikipedia en Wikivoyage (CC BY-SA 4.0) en officiële websites over toerisme, erfgoed en musea. Het gesprek en de stemmen zijn door AI gegenereerd.</itunes:summary>
+      <enclosure url="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/episodes/nl/nl-s-hertogenbosch-1528012333-v1.mp3" length="10846210" type="audio/mpeg"/>
+      <guid isPermaLink="false">043768e5-15bd-583c-b9a9-c0d4f7aa71fd</guid>
+      <pubDate>Mon, 26 Oct 2026 05:02:54 +0000</pubDate>
+      <itunes:duration>00:11:10</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Hoorn reisgids &amp; geschiedenis | Verrezen uit een stormvloed</title>
       <link>https://wanderingcities.com/netherlands/hoorn/</link>
