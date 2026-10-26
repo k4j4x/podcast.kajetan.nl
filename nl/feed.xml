@@ -14,10 +14,11 @@
     <itunes:type>episodic</itunes:type>
     <itunes:category text="Society &amp; Culture"><itunes:category text="Places &amp; Travel"/></itunes:category>
     <itunes:image href="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/cover-nl-3000.jpg"/>
-    <lastBuildDate>Mon, 26 Oct 2026 05:33:19 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 26 Oct 2026 05:56:33 +0000</lastBuildDate>
     <item>
       <title>’s-Hertogenbosch reisgids &amp; geschiedenis | Van de moerasdraak tot de Bossche bol</title>
       <link>https://wanderingcities.com/netherlands/s-hertogenbosch/</link>
+      <podcast:transcript url="https://wanderingcities.com/netherlands/s-hertogenbosch/transcript-nl.txt" type="text/plain" language="nl"/>
       <description>’s-Hertogenbosch toont zijn geschiedenis tijdens een bezoek aan de Sint-Janskathedraal, de ondergrondse Binnendieze en het middeleeuwse pand De Moriaan. In 1629 veroverde Frederik Hendrik van Oranje de vesting na een beleg van vierenhalve maand door het droogleggen van de omringende moerassen.
 
 Andere talen en meer over ’s-Hertogenbosch: https://wanderingcities.com/netherlands/s-hertogenbosch/

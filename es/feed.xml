@@ -14,10 +14,11 @@
     <itunes:type>episodic</itunes:type>
     <itunes:category text="Society &amp; Culture"><itunes:category text="Places &amp; Travel"/></itunes:category>
     <itunes:image href="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/cover-es-3000.jpg"/>
-    <lastBuildDate>Mon, 26 Oct 2026 05:33:19 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 26 Oct 2026 05:56:34 +0000</lastBuildDate>
     <item>
       <title>’s-Hertogenbosch: guía de viaje e historia | Cómo Den Bosch se volvió el Dragón</title>
       <link>https://wanderingcities.com/netherlands/s-hertogenbosch/</link>
+      <podcast:transcript url="https://wanderingcities.com/netherlands/s-hertogenbosch/transcript-es.txt" type="text/plain" language="es"/>
       <description>’s-Hertogenbosch muestra su historia durante una visita a la Sint-Janskathedraal, la Binnendieze subterránea y el edificio medieval De Moriaan. En 1629, Frederik Hendrik van Oranje conquistó la fortaleza tras cuatro meses y medio de sitio al secar los pantanos circundantes.
 
 Otros idiomas y más sobre ’s-Hertogenbosch: https://wanderingcities.com/netherlands/s-hertogenbosch/
