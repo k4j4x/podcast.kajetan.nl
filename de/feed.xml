@@ -14,10 +14,11 @@
     <itunes:type>episodic</itunes:type>
     <itunes:category text="Society &amp; Culture"><itunes:category text="Places &amp; Travel"/></itunes:category>
     <itunes:image href="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/cover-de-3000.jpg"/>
-    <lastBuildDate>Mon, 26 Oct 2026 03:33:44 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 26 Oct 2026 04:14:17 +0000</lastBuildDate>
     <item>
       <title>’s-Hertogenbosch Reiseführer &amp; Geschichte | Wie Den Bosch zum Sumpfdrachen wurde</title>
       <link>https://wanderingcities.com/netherlands/s-hertogenbosch/</link>
+      <podcast:transcript url="https://wanderingcities.com/netherlands/s-hertogenbosch/transcript-de.txt" type="text/plain" language="de"/>
       <description>’s-Hertogenbosch zeigt bei einem Besuch historische Sehenswürdigkeiten wie die Sint-Janskathedraal, die unterirdische Binnendieze und das alte Backsteinhaus De Moriaan. Im Jahr 1629 eroberte Frederik Hendrik van Oranje die Festung nach viereinhalb Monaten Belagerung durch das Trockenlegen der umliegenden Sümpfe.
 
 Andere Sprachen und mehr über ’s-Hertogenbosch: https://wanderingcities.com/netherlands/s-hertogenbosch/
@@ -38,6 +39,7 @@ Quellen u. a. Wikipedia und Wikivoyage (CC BY-SA 4.0) sowie offizielle Websites 
     <item>
       <title>Gouda Reiseführer &amp; Geschichte | Ein schwimmendes Rathaus im Sumpf</title>
       <link>https://wanderingcities.com/netherlands/gouda/</link>
+      <podcast:transcript url="https://wanderingcities.com/netherlands/gouda/transcript-de.txt" type="text/plain" language="de"/>
       <description>Gouda verbindet bei einem Besuch die lokale Geschichte mit Sehenswürdigkeiten wie der Sint-Janskerk, dem Stadhuis und der Goudse Waag am Markt. Im Jahr 1448 begann auf dem feuchten Marktgelände der Bau des gotischen Stadhuis auf Fundamenten aus schweren Eichenbalken.
 
 Andere Sprachen und mehr über Gouda: https://wanderingcities.com/netherlands/gouda/
