@@ -14,7 +14,27 @@
     <itunes:type>episodic</itunes:type>
     <itunes:category text="Society &amp; Culture"><itunes:category text="Places &amp; Travel"/></itunes:category>
     <itunes:image href="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/cover-de-3000.jpg"/>
-    <lastBuildDate>Mon, 26 Oct 2026 07:42:23 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 26 Oct 2026 08:02:11 +0000</lastBuildDate>
+    <item>
+      <title>Almelo Reiseführer &amp; Geschichte | Der größte Bankraub des Widerstands</title>
+      <link>https://wanderingcities.com/netherlands/almelo/</link>
+      <description>Almelo in den Niederlanden zeigt seine Geschichte bei einem Besuch von Orten wie Huize Almelo und dem Wevershuisje als Sehenswürdigkeiten. Im Jahr 1944 erbeuteten Widerstandskämpfer dort 46,1 Millionen Gulden aus der Niederlassung der De Nederlandsche Bank an der Wierdensestraat.
+
+Andere Sprachen und mehr über Almelo: https://wanderingcities.com/netherlands/almelo/
+
+Quellen u. a. Wikipedia und Wikivoyage (CC BY-SA 4.0) sowie offizielle Websites für Tourismus, Denkmalpflege und Museen. Gespräch und Stimmen sind KI-generiert.</description>
+      <itunes:summary>Almelo in den Niederlanden zeigt seine Geschichte bei einem Besuch von Orten wie Huize Almelo und dem Wevershuisje als Sehenswürdigkeiten. Im Jahr 1944 erbeuteten Widerstandskämpfer dort 46,1 Millionen Gulden aus der Niederlassung der De Nederlandsche Bank an der Wierdensestraat.
+
+Andere Sprachen und mehr über Almelo: https://wanderingcities.com/netherlands/almelo/
+
+Quellen u. a. Wikipedia und Wikivoyage (CC BY-SA 4.0) sowie offizielle Websites für Tourismus, Denkmalpflege und Museen. Gespräch und Stimmen sind KI-generiert.</itunes:summary>
+      <enclosure url="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/episodes/de/de-almelo-1528084436-v1.mp3" length="20747726" type="audio/mpeg"/>
+      <guid isPermaLink="false">9857bd39-23e1-5e0c-94d3-aab9b08ec2a2</guid>
+      <pubDate>Mon, 26 Oct 2026 08:02:11 +0000</pubDate>
+      <itunes:duration>00:21:29</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>’s-Hertogenbosch Reiseführer &amp; Geschichte | Wie Den Bosch zum Sumpfdrachen wurde</title>
       <link>https://wanderingcities.com/netherlands/s-hertogenbosch/</link>
