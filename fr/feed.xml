@@ -14,7 +14,27 @@
     <itunes:type>episodic</itunes:type>
     <itunes:category text="Society &amp; Culture"><itunes:category text="Places &amp; Travel"/></itunes:category>
     <itunes:image href="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/cover-fr-3000.jpg"/>
-    <lastBuildDate>Tue, 27 Oct 2026 06:03:13 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 27 Oct 2026 06:33:36 +0000</lastBuildDate>
+    <item>
+      <title>Ede : guide de voyage et histoire | Sur les traces du Big Five néerlandais</title>
+      <link>https://wanderingcities.com/netherlands/ede/</link>
+      <description>Ede associe l'histoire militaire de la Ginkelse Heide et des sites à voir comme Landgoed Kernhem pour votre prochaine visite. En septembre 1944, plus de 2000 parachutistes alliés ont atterri sur la Ginkelse Heide pendant l'Operatie Market Garden.
+
+Autres langues et plus sur Ede : https://wanderingcities.com/netherlands/ede/
+
+Sources, entre autres : Wikipédia et Wikivoyage (CC BY-SA 4.0) ainsi que les sites officiels du tourisme, du patrimoine et des musées. La conversation et les voix sont générées par IA.</description>
+      <itunes:summary>Ede associe l'histoire militaire de la Ginkelse Heide et des sites à voir comme Landgoed Kernhem pour votre prochaine visite. En septembre 1944, plus de 2000 parachutistes alliés ont atterri sur la Ginkelse Heide pendant l'Operatie Market Garden.
+
+Autres langues et plus sur Ede : https://wanderingcities.com/netherlands/ede/
+
+Sources, entre autres : Wikipédia et Wikivoyage (CC BY-SA 4.0) ainsi que les sites officiels du tourisme, du patrimoine et des musées. La conversation et les voix sont générées par IA.</itunes:summary>
+      <enclosure url="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/episodes/fr/fr-ede-1528361626-v1.mp3" length="20707646" type="audio/mpeg"/>
+      <guid isPermaLink="false">25ea034c-2c06-52c9-b94e-cf466111db04</guid>
+      <pubDate>Tue, 27 Oct 2026 06:33:35 +0000</pubDate>
+      <itunes:duration>00:21:26</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Almelo : guide de voyage et histoire | Le plus grand casse de la Résistance</title>
       <link>https://wanderingcities.com/netherlands/almelo/</link>

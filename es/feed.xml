@@ -14,7 +14,27 @@
     <itunes:type>episodic</itunes:type>
     <itunes:category text="Society &amp; Culture"><itunes:category text="Places &amp; Travel"/></itunes:category>
     <itunes:image href="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/cover-es-3000.jpg"/>
-    <lastBuildDate>Tue, 27 Oct 2026 06:03:13 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 27 Oct 2026 06:33:36 +0000</lastBuildDate>
+    <item>
+      <title>Ede: guía de viaje e historia | Entre ciervos y paracaidistas</title>
+      <link>https://wanderingcities.com/netherlands/ede/</link>
+      <description>Ede combina la historia militar en Ginkelse Heide con lugares que ver como Landgoed Kernhem para su próxima visita. En septiembre de 1944, más de 2000 paracaidistas aliados aterrizaron en Ginkelse Heide durante la Operación Market Garden.
+
+Otros idiomas y más sobre Ede: https://wanderingcities.com/netherlands/ede/
+
+Fuentes, entre otras: Wikipedia y Wikivoyage (CC BY-SA 4.0) y webs oficiales de turismo, patrimonio y museos. La conversación y las voces están generadas por IA.</description>
+      <itunes:summary>Ede combina la historia militar en Ginkelse Heide con lugares que ver como Landgoed Kernhem para su próxima visita. En septiembre de 1944, más de 2000 paracaidistas aliados aterrizaron en Ginkelse Heide durante la Operación Market Garden.
+
+Otros idiomas y más sobre Ede: https://wanderingcities.com/netherlands/ede/
+
+Fuentes, entre otras: Wikipedia y Wikivoyage (CC BY-SA 4.0) y webs oficiales de turismo, patrimonio y museos. La conversación y las voces están generadas por IA.</itunes:summary>
+      <enclosure url="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/episodes/es/es-ede-1528361626-v1.mp3" length="21811568" type="audio/mpeg"/>
+      <guid isPermaLink="false">6ec17570-0d59-55d6-aff5-3bd4fea09764</guid>
+      <pubDate>Tue, 27 Oct 2026 06:32:14 +0000</pubDate>
+      <itunes:duration>00:22:35</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Almelo: guía de viaje e historia | Feudos, industria y resistencia</title>
       <link>https://wanderingcities.com/netherlands/almelo/</link>
