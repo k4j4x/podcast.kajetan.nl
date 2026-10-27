@@ -14,7 +14,27 @@
     <itunes:type>episodic</itunes:type>
     <itunes:category text="Society &amp; Culture"><itunes:category text="Places &amp; Travel"/></itunes:category>
     <itunes:image href="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/cover-fr-3000.jpg"/>
-    <lastBuildDate>Tue, 27 Oct 2026 04:32:19 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 27 Oct 2026 05:03:40 +0000</lastBuildDate>
+    <item>
+      <title>Almelo : guide de voyage et histoire | Le plus grand casse de la Résistance</title>
+      <link>https://wanderingcities.com/netherlands/almelo/</link>
+      <description>Almelo, aux Pays-Bas, présente son histoire lors d’une visite de lieux comme Huize Almelo et le Wevershuisje. En 1944, des résistants y ont volé 46,1 millions de florins dans la succursale de De Nederlandsche Bank située Wierdensestraat.
+
+Autres langues et plus sur Almelo : https://wanderingcities.com/netherlands/almelo/
+
+Sources, entre autres : Wikipédia et Wikivoyage (CC BY-SA 4.0) ainsi que les sites officiels du tourisme, du patrimoine et des musées. La conversation et les voix sont générées par IA.</description>
+      <itunes:summary>Almelo, aux Pays-Bas, présente son histoire lors d’une visite de lieux comme Huize Almelo et le Wevershuisje. En 1944, des résistants y ont volé 46,1 millions de florins dans la succursale de De Nederlandsche Bank située Wierdensestraat.
+
+Autres langues et plus sur Almelo : https://wanderingcities.com/netherlands/almelo/
+
+Sources, entre autres : Wikipédia et Wikivoyage (CC BY-SA 4.0) ainsi que les sites officiels du tourisme, du patrimoine et des musées. La conversation et les voix sont générées par IA.</itunes:summary>
+      <enclosure url="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/episodes/fr/fr-almelo-1528084436-v1.mp3" length="22144174" type="audio/mpeg"/>
+      <guid isPermaLink="false">6e9e7f94-ddf9-5839-87ee-379304f557d7</guid>
+      <pubDate>Tue, 27 Oct 2026 05:02:12 +0000</pubDate>
+      <itunes:duration>00:22:56</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Gouda : guide de voyage et histoire | La ville qui s'enfonce dans le marais</title>
       <link>https://wanderingcities.com/netherlands/gouda/</link>
