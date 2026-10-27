@@ -14,7 +14,27 @@
     <itunes:type>episodic</itunes:type>
     <itunes:category text="Society &amp; Culture"><itunes:category text="Places &amp; Travel"/></itunes:category>
     <itunes:image href="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/cover-nl-3000.jpg"/>
-    <lastBuildDate>Tue, 27 Oct 2026 08:03:20 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 27 Oct 2026 08:31:32 +0000</lastBuildDate>
+    <item>
+      <title>Roermond reisgids &amp; geschiedenis | Vijf nationaliteiten in één leven</title>
+      <link>https://wanderingcities.com/netherlands/roermond/</link>
+      <description>Roermond toont haar geschiedenis via bezienswaardigheden zoals de Munsterkerk, de Sint-Christoffelkathedraal en het Cuypershuis tijdens een bezoek. Pas in 1867 werden de banden met de Duitse Bond doorgesneden, waarmee de stad na eeuwen van wisselende heersers definitief Nederlands werd.
+
+Andere talen en meer over Roermond: https://wanderingcities.com/netherlands/roermond/
+
+Bronnen o.a. Wikipedia en Wikivoyage (CC BY-SA 4.0) en officiële websites over toerisme, erfgoed en musea. Het gesprek en de stemmen zijn door AI gegenereerd.</description>
+      <itunes:summary>Roermond toont haar geschiedenis via bezienswaardigheden zoals de Munsterkerk, de Sint-Christoffelkathedraal en het Cuypershuis tijdens een bezoek. Pas in 1867 werden de banden met de Duitse Bond doorgesneden, waarmee de stad na eeuwen van wisselende heersers definitief Nederlands werd.
+
+Andere talen en meer over Roermond: https://wanderingcities.com/netherlands/roermond/
+
+Bronnen o.a. Wikipedia en Wikivoyage (CC BY-SA 4.0) en officiële websites over toerisme, erfgoed en musea. Het gesprek en de stemmen zijn door AI gegenereerd.</itunes:summary>
+      <enclosure url="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/episodes/nl/nl-roermond-1528173066-v1.mp3" length="10937719" type="audio/mpeg"/>
+      <guid isPermaLink="false">66a68d83-5214-58e2-b9ef-b57f791e0451</guid>
+      <pubDate>Tue, 27 Oct 2026 08:31:32 +0000</pubDate>
+      <itunes:duration>00:11:16</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Scheveningen reisgids &amp; geschiedenis | Van vissersdorp tot badplaats aan zee</title>
       <link>https://wanderingcities.com/netherlands/scheveningen/</link>
