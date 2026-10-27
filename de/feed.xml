@@ -14,10 +14,11 @@
     <itunes:type>episodic</itunes:type>
     <itunes:category text="Society &amp; Culture"><itunes:category text="Places &amp; Travel"/></itunes:category>
     <itunes:image href="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/cover-de-3000.jpg"/>
-    <lastBuildDate>Mon, 26 Oct 2026 08:53:30 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 27 Oct 2026 04:03:10 +0000</lastBuildDate>
     <item>
       <title>Almelo Reiseführer &amp; Geschichte | Der größte Bankraub des Widerstands</title>
       <link>https://wanderingcities.com/netherlands/almelo/</link>
+      <podcast:transcript url="https://wanderingcities.com/netherlands/almelo/transcript-de.txt" type="text/plain" language="de"/>
       <description>Almelo in den Niederlanden zeigt seine Geschichte bei einem Besuch von Orten wie Huize Almelo und dem Wevershuisje als Sehenswürdigkeiten. Im Jahr 1944 erbeuteten Widerstandskämpfer dort 46,1 Millionen Gulden aus der Niederlassung der De Nederlandsche Bank an der Wierdensestraat.
 
 Andere Sprachen und mehr über Almelo: https://wanderingcities.com/netherlands/almelo/
@@ -154,10 +155,10 @@ Quellen u. a. Wikipedia und Wikivoyage (CC BY-SA 4.0) sowie offizielle Websites 
 Andere Sprachen und mehr über Lelystad: https://wanderingcities.com/netherlands/lelystad/
 
 Quellen u. a. Wikipedia und Wikivoyage (CC BY-SA 4.0) sowie offizielle Websites für Tourismus, Denkmalpflege und Museen. Gespräch und Stimmen sind KI-generiert.</itunes:summary>
-      <enclosure url="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/episodes/de/de-lelystad-1528990721-v1.mp3" length="21809337" type="audio/mpeg"/>
+      <enclosure url="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/episodes/de/de-lelystad-1528990721-v4.mp3" length="17602995" type="audio/mpeg"/>
       <guid isPermaLink="false">84d4e5eb-1358-5edc-b16a-04c80e2e3fde</guid>
       <pubDate>Fri, 16 Oct 2026 19:02:00 +0000</pubDate>
-      <itunes:duration>00:22:35</itunes:duration>
+      <itunes:duration>00:18:13</itunes:duration>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>false</itunes:explicit>
     </item>

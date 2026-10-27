@@ -14,10 +14,11 @@
     <itunes:type>episodic</itunes:type>
     <itunes:category text="Society &amp; Culture"><itunes:category text="Places &amp; Travel"/></itunes:category>
     <itunes:image href="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/cover-es-3000.jpg"/>
-    <lastBuildDate>Mon, 26 Oct 2026 08:53:31 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 27 Oct 2026 04:03:10 +0000</lastBuildDate>
     <item>
       <title>Gouda: guía de viaje e historia | La ciudad construida sobre el pantano</title>
       <link>https://wanderingcities.com/netherlands/gouda/</link>
+      <podcast:transcript url="https://wanderingcities.com/netherlands/gouda/transcript-es.txt" type="text/plain" language="es"/>
       <description>Gouda reúne en una visita monumentos de su historia como la Sint-Janskerk, el Stadhuis y la Goudse Waag en la plaza Markt. En 1272, el conde Floris V concedió los derechos de ciudad a la localidad tras dos siglos de extracción de turba.
 
 Otros idiomas y más sobre Gouda: https://wanderingcities.com/netherlands/gouda/
