@@ -14,7 +14,27 @@
     <itunes:type>episodic</itunes:type>
     <itunes:category text="Society &amp; Culture"><itunes:category text="Places &amp; Travel"/></itunes:category>
     <itunes:image href="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/cover-it-3000.jpg"/>
-    <lastBuildDate>Tue, 27 Oct 2026 09:03:34 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 27 Oct 2026 09:33:09 +0000</lastBuildDate>
+    <item>
+      <title>Roermond: guida di viaggio e storia | La città che spostò un fiume</title>
+      <link>https://wanderingcities.com/netherlands/roermond/</link>
+      <description>Roermond mostra la sua storia ai viaggiatori durante una visita a monumenti come la Munsterkerk, la Sint-Christoffelkathedraal e il Cuypershuis. Nel 1342, gli abitanti deviarono il fiume Mosa per ottenere un accesso diretto alle rotte commerciali europee.
+
+Altre lingue e altro su Roermond: https://wanderingcities.com/netherlands/roermond/
+
+Fonti, tra le altre: Wikipedia e Wikivoyage (CC BY-SA 4.0) e siti ufficiali di turismo, patrimonio e musei. La conversazione e le voci sono generate dall'IA.</description>
+      <itunes:summary>Roermond mostra la sua storia ai viaggiatori durante una visita a monumenti come la Munsterkerk, la Sint-Christoffelkathedraal e il Cuypershuis. Nel 1342, gli abitanti deviarono il fiume Mosa per ottenere un accesso diretto alle rotte commerciali europee.
+
+Altre lingue e altro su Roermond: https://wanderingcities.com/netherlands/roermond/
+
+Fonti, tra le altre: Wikipedia e Wikivoyage (CC BY-SA 4.0) e siti ufficiali di turismo, patrimonio e musei. La conversazione e le voci sono generate dall'IA.</itunes:summary>
+      <enclosure url="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/episodes/it/it-roermond-1528173066-v1.mp3" length="15662031" type="audio/mpeg"/>
+      <guid isPermaLink="false">43e8f08f-afd8-5ac2-9951-5e01e565d4c4</guid>
+      <pubDate>Tue, 27 Oct 2026 09:31:49 +0000</pubDate>
+      <itunes:duration>00:16:11</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Scheveningen: guida di viaggio e storia | Tra miti bellici e la costa del mare</title>
       <link>https://wanderingcities.com/netherlands/scheveningen/</link>
