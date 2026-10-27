@@ -14,7 +14,7 @@
     <itunes:type>episodic</itunes:type>
     <itunes:category text="Society &amp; Culture"><itunes:category text="Places &amp; Travel"/></itunes:category>
     <itunes:image href="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/cover-es-3000.jpg"/>
-    <lastBuildDate>Tue, 27 Oct 2026 04:03:31 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 27 Oct 2026 04:32:19 +0000</lastBuildDate>
     <item>
       <title>Gouda: guía de viaje e historia | La ciudad construida sobre el pantano</title>
       <link>https://wanderingcities.com/netherlands/gouda/</link>
@@ -134,10 +134,10 @@ Fuentes, entre otras: Wikipedia y Wikivoyage (CC BY-SA 4.0) y webs oficiales de 
 Otros idiomas y más sobre Lelystad: https://wanderingcities.com/netherlands/lelystad/
 
 Fuentes, entre otras: Wikipedia y Wikivoyage (CC BY-SA 4.0) y webs oficiales de turismo, patrimonio y museos. La conversación y las voces están generadas por IA.</itunes:summary>
-      <enclosure url="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/episodes/es/es-lelystad-1528990721-v1.mp3" length="29056492" type="audio/mpeg"/>
+      <enclosure url="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/episodes/es/es-lelystad-1528990721-v4.mp3" length="23732110" type="audio/mpeg"/>
       <guid isPermaLink="false">bf36027b-1850-5bb9-91bb-60c3ecf1be30</guid>
       <pubDate>Fri, 16 Oct 2026 19:32:26 +0000</pubDate>
-      <itunes:duration>00:30:08</itunes:duration>
+      <itunes:duration>00:24:35</itunes:duration>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>false</itunes:explicit>
     </item>
