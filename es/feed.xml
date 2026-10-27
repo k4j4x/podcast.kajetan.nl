@@ -14,7 +14,27 @@
     <itunes:type>episodic</itunes:type>
     <itunes:category text="Society &amp; Culture"><itunes:category text="Places &amp; Travel"/></itunes:category>
     <itunes:image href="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/cover-es-3000.jpg"/>
-    <lastBuildDate>Tue, 27 Oct 2026 07:33:13 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 27 Oct 2026 08:03:20 +0000</lastBuildDate>
+    <item>
+      <title>Scheveningen: guía de viaje e historia | De pueblo pesquero a centro balneario</title>
+      <link>https://wanderingcities.com/netherlands/scheveningen/</link>
+      <description>Scheveningen combina su historia marítima con lugares sobre qué ver en una visita, como el Kurhaus, De Pier y el faro junto al mar del Norte. En 1901 se inauguró un primer muelle de madera frente al Kurhaus, permitiendo pasear sobre las olas.
+
+Otros idiomas y más sobre Scheveningen: https://wanderingcities.com/netherlands/scheveningen/
+
+Fuentes, entre otras: Wikipedia y Wikivoyage (CC BY-SA 4.0) y webs oficiales de turismo, patrimonio y museos. La conversación y las voces están generadas por IA.</description>
+      <itunes:summary>Scheveningen combina su historia marítima con lugares sobre qué ver en una visita, como el Kurhaus, De Pier y el faro junto al mar del Norte. En 1901 se inauguró un primer muelle de madera frente al Kurhaus, permitiendo pasear sobre las olas.
+
+Otros idiomas y más sobre Scheveningen: https://wanderingcities.com/netherlands/scheveningen/
+
+Fuentes, entre otras: Wikipedia y Wikivoyage (CC BY-SA 4.0) y webs oficiales de turismo, patrimonio y museos. La conversación y las voces están generadas por IA.</itunes:summary>
+      <enclosure url="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/episodes/es/es-scheveningen-1528986041-v1.mp3" length="26034661" type="audio/mpeg"/>
+      <guid isPermaLink="false">0003e1a6-0d28-5588-97cb-3542ad647652</guid>
+      <pubDate>Tue, 27 Oct 2026 08:02:29 +0000</pubDate>
+      <itunes:duration>00:26:59</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Ede: guía de viaje e historia | Entre ciervos y paracaidistas</title>
       <link>https://wanderingcities.com/netherlands/ede/</link>

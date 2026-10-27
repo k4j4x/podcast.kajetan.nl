@@ -14,7 +14,27 @@
     <itunes:type>episodic</itunes:type>
     <itunes:category text="Society &amp; Culture"><itunes:category text="Places &amp; Travel"/></itunes:category>
     <itunes:image href="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/cover-it-3000.jpg"/>
-    <lastBuildDate>Tue, 27 Oct 2026 07:33:13 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 27 Oct 2026 08:03:20 +0000</lastBuildDate>
+    <item>
+      <title>Scheveningen: guida di viaggio e storia | Tra miti bellici e la costa del mare</title>
+      <link>https://wanderingcities.com/netherlands/scheveningen/</link>
+      <description>Scheveningen unisce la sua storia marittima con luoghi su cosa vedere durante una visita, come il Kurhaus, De Pier e il faro lungo il mare del Nord. Nel 1901 venne inaugurato un primo pontile in legno davanti al Kurhaus, permettendo passeggiate sopra le onde.
+
+Altre lingue e altro su Scheveningen: https://wanderingcities.com/netherlands/scheveningen/
+
+Fonti, tra le altre: Wikipedia e Wikivoyage (CC BY-SA 4.0) e siti ufficiali di turismo, patrimonio e musei. La conversazione e le voci sono generate dall'IA.</description>
+      <itunes:summary>Scheveningen unisce la sua storia marittima con luoghi su cosa vedere durante una visita, come il Kurhaus, De Pier e il faro lungo il mare del Nord. Nel 1901 venne inaugurato un primo pontile in legno davanti al Kurhaus, permettendo passeggiate sopra le onde.
+
+Altre lingue e altro su Scheveningen: https://wanderingcities.com/netherlands/scheveningen/
+
+Fonti, tra le altre: Wikipedia e Wikivoyage (CC BY-SA 4.0) e siti ufficiali di turismo, patrimonio e musei. La conversazione e le voci sono generate dall'IA.</itunes:summary>
+      <enclosure url="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/episodes/it/it-scheveningen-1528986041-v1.mp3" length="12716198" type="audio/mpeg"/>
+      <guid isPermaLink="false">71f50246-bb78-5dd1-bb52-0b1cf67b2cc0</guid>
+      <pubDate>Tue, 27 Oct 2026 08:03:19 +0000</pubDate>
+      <itunes:duration>00:13:07</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Ede: guida di viaggio e storia | Tra paracadutisti e brughiera viola</title>
       <link>https://wanderingcities.com/netherlands/ede/</link>
