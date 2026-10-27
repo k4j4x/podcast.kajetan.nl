@@ -14,7 +14,27 @@
     <itunes:type>episodic</itunes:type>
     <itunes:category text="Society &amp; Culture"><itunes:category text="Places &amp; Travel"/></itunes:category>
     <itunes:image href="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/cover-nl-3000.jpg"/>
-    <lastBuildDate>Tue, 27 Oct 2026 07:04:09 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 27 Oct 2026 07:33:13 +0000</lastBuildDate>
+    <item>
+      <title>Scheveningen reisgids &amp; geschiedenis | Van vissersdorp tot badplaats aan zee</title>
+      <link>https://wanderingcities.com/netherlands/scheveningen/</link>
+      <description>Scheveningen verbindt zijn maritieme geschiedenis met bekende bezienswaardigheden voor een bezoek, waaronder het historische Kurhaus, De Pier en de rode vuurtoren aan de Noordzee. In 1901 opende een eerste houten wandelhoofd voor het Kurhaus, waar bezoekers boven de golven wandelden.
+
+Andere talen en meer over Scheveningen: https://wanderingcities.com/netherlands/scheveningen/
+
+Bronnen o.a. Wikipedia en Wikivoyage (CC BY-SA 4.0) en officiële websites over toerisme, erfgoed en musea. Het gesprek en de stemmen zijn door AI gegenereerd.</description>
+      <itunes:summary>Scheveningen verbindt zijn maritieme geschiedenis met bekende bezienswaardigheden voor een bezoek, waaronder het historische Kurhaus, De Pier en de rode vuurtoren aan de Noordzee. In 1901 opende een eerste houten wandelhoofd voor het Kurhaus, waar bezoekers boven de golven wandelden.
+
+Andere talen en meer over Scheveningen: https://wanderingcities.com/netherlands/scheveningen/
+
+Bronnen o.a. Wikipedia en Wikivoyage (CC BY-SA 4.0) en officiële websites over toerisme, erfgoed en musea. Het gesprek en de stemmen zijn door AI gegenereerd.</itunes:summary>
+      <enclosure url="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/episodes/nl/nl-scheveningen-1528986041-v1.mp3" length="20603798" type="audio/mpeg"/>
+      <guid isPermaLink="false">3f205f07-31bb-5bee-b0c8-c0ca87e836d4</guid>
+      <pubDate>Tue, 27 Oct 2026 07:33:12 +0000</pubDate>
+      <itunes:duration>00:21:20</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Ede reisgids &amp; geschiedenis | Tussen oorlogssporen en Veluwse heide</title>
       <link>https://wanderingcities.com/netherlands/ede/</link>

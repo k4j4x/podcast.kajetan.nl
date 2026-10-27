@@ -14,7 +14,27 @@
     <itunes:type>episodic</itunes:type>
     <itunes:category text="Society &amp; Culture"><itunes:category text="Places &amp; Travel"/></itunes:category>
     <itunes:image href="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/cover-fr-3000.jpg"/>
-    <lastBuildDate>Tue, 27 Oct 2026 07:04:09 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 27 Oct 2026 07:33:13 +0000</lastBuildDate>
+    <item>
+      <title>Scheveningen : guide de voyage et histoire | Du village de pêcheurs à la station</title>
+      <link>https://wanderingcities.com/netherlands/scheveningen/</link>
+      <description>Scheveningen associe son histoire maritime aux sites à voir lors d'une visite, comme le Kurhaus, De Pier et le phare au bord de la mer du Nord. En 1901, une première jetée en bois a ouvert devant le Kurhaus.
+
+Autres langues et plus sur Scheveningen : https://wanderingcities.com/netherlands/scheveningen/
+
+Sources, entre autres : Wikipédia et Wikivoyage (CC BY-SA 4.0) ainsi que les sites officiels du tourisme, du patrimoine et des musées. La conversation et les voix sont générées par IA.</description>
+      <itunes:summary>Scheveningen associe son histoire maritime aux sites à voir lors d'une visite, comme le Kurhaus, De Pier et le phare au bord de la mer du Nord. En 1901, une première jetée en bois a ouvert devant le Kurhaus.
+
+Autres langues et plus sur Scheveningen : https://wanderingcities.com/netherlands/scheveningen/
+
+Sources, entre autres : Wikipédia et Wikivoyage (CC BY-SA 4.0) ainsi que les sites officiels du tourisme, du patrimoine et des musées. La conversation et les voix sont générées par IA.</itunes:summary>
+      <enclosure url="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/episodes/fr/fr-scheveningen-1528986041-v1.mp3" length="16670173" type="audio/mpeg"/>
+      <guid isPermaLink="false">c9778122-fcca-5b3c-9b49-96928c57cdae</guid>
+      <pubDate>Tue, 27 Oct 2026 07:31:52 +0000</pubDate>
+      <itunes:duration>00:17:14</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Ede : guide de voyage et histoire | Sur les traces du Big Five néerlandais</title>
       <link>https://wanderingcities.com/netherlands/ede/</link>
