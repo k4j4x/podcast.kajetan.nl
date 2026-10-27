@@ -14,7 +14,27 @@
     <itunes:type>episodic</itunes:type>
     <itunes:category text="Society &amp; Culture"><itunes:category text="Places &amp; Travel"/></itunes:category>
     <itunes:image href="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/cover-de-3000.jpg"/>
-    <lastBuildDate>Tue, 27 Oct 2026 07:00:30 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 27 Oct 2026 07:04:08 +0000</lastBuildDate>
+    <item>
+      <title>Scheveningen Reiseführer &amp; Geschichte | Das Wort, das Spione enttarnte</title>
+      <link>https://wanderingcities.com/netherlands/scheveningen/</link>
+      <description>Scheveningen verbindet seine maritime Geschichte mit bekannten Sehenswürdigkeiten für einen Besuch, darunter das historische Kurhaus, De Pier und der rote Leuchtturm an der Nordsee. Im Jahr 1901 eröffnete eine hölzerne Seebrücke vor dem Kurhaus und prägte den Küstenort.
+
+Andere Sprachen und mehr über Scheveningen: https://wanderingcities.com/netherlands/scheveningen/
+
+Quellen u. a. Wikipedia und Wikivoyage (CC BY-SA 4.0) sowie offizielle Websites für Tourismus, Denkmalpflege und Museen. Gespräch und Stimmen sind KI-generiert.</description>
+      <itunes:summary>Scheveningen verbindet seine maritime Geschichte mit bekannten Sehenswürdigkeiten für einen Besuch, darunter das historische Kurhaus, De Pier und der rote Leuchtturm an der Nordsee. Im Jahr 1901 eröffnete eine hölzerne Seebrücke vor dem Kurhaus und prägte den Küstenort.
+
+Andere Sprachen und mehr über Scheveningen: https://wanderingcities.com/netherlands/scheveningen/
+
+Quellen u. a. Wikipedia und Wikivoyage (CC BY-SA 4.0) sowie offizielle Websites für Tourismus, Denkmalpflege und Museen. Gespräch und Stimmen sind KI-generiert.</itunes:summary>
+      <enclosure url="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/episodes/de/de-scheveningen-1528986041-v1.mp3" length="24452101" type="audio/mpeg"/>
+      <guid isPermaLink="false">98662722-1e79-5c28-a3e6-4f741f4aedcf</guid>
+      <pubDate>Tue, 27 Oct 2026 07:04:08 +0000</pubDate>
+      <itunes:duration>00:25:21</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Ede Reiseführer &amp; Geschichte | Von Fallschirmjägern und Mufflons</title>
       <link>https://wanderingcities.com/netherlands/ede/</link>
