@@ -14,7 +14,27 @@
     <itunes:type>episodic</itunes:type>
     <itunes:category text="Society &amp; Culture"><itunes:category text="Places &amp; Travel"/></itunes:category>
     <itunes:image href="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/cover-es-3000.jpg"/>
-    <lastBuildDate>Tue, 27 Oct 2026 08:31:33 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 27 Oct 2026 09:03:34 +0000</lastBuildDate>
+    <item>
+      <title>Roermond: guía de viaje e historia | Cuatro imperios en una sola historia</title>
+      <link>https://wanderingcities.com/netherlands/roermond/</link>
+      <description>Roermond muestra su historia a los viajeros durante su visita a monumentos como la Munsterkerk, la Sint-Christoffelkathedraal y el Cuypershuis. En 1342, los habitantes desviaron el río Mosa para obtener acceso directo a las rutas comerciales de Europa.
+
+Otros idiomas y más sobre Roermond: https://wanderingcities.com/netherlands/roermond/
+
+Fuentes, entre otras: Wikipedia y Wikivoyage (CC BY-SA 4.0) y webs oficiales de turismo, patrimonio y museos. La conversación y las voces están generadas por IA.</description>
+      <itunes:summary>Roermond muestra su historia a los viajeros durante su visita a monumentos como la Munsterkerk, la Sint-Christoffelkathedraal y el Cuypershuis. En 1342, los habitantes desviaron el río Mosa para obtener acceso directo a las rutas comerciales de Europa.
+
+Otros idiomas y más sobre Roermond: https://wanderingcities.com/netherlands/roermond/
+
+Fuentes, entre otras: Wikipedia y Wikivoyage (CC BY-SA 4.0) y webs oficiales de turismo, patrimonio y museos. La conversación y las voces están generadas por IA.</itunes:summary>
+      <enclosure url="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/episodes/es/es-roermond-1528173066-v1.mp3" length="22396317" type="audio/mpeg"/>
+      <guid isPermaLink="false">e70ec6eb-7b8a-5b44-91bc-0b1fde4fbfe9</guid>
+      <pubDate>Tue, 27 Oct 2026 09:02:18 +0000</pubDate>
+      <itunes:duration>00:23:12</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Scheveningen: guía de viaje e historia | De pueblo pesquero a centro balneario</title>
       <link>https://wanderingcities.com/netherlands/scheveningen/</link>
