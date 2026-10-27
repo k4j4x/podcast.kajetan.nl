@@ -14,7 +14,27 @@
     <itunes:type>episodic</itunes:type>
     <itunes:category text="Society &amp; Culture"><itunes:category text="Places &amp; Travel"/></itunes:category>
     <itunes:image href="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/cover-nl-3000.jpg"/>
-    <lastBuildDate>Tue, 27 Oct 2026 05:49:50 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 27 Oct 2026 06:03:13 +0000</lastBuildDate>
+    <item>
+      <title>Ede reisgids &amp; geschiedenis | Tussen oorlogssporen en Veluwse heide</title>
+      <link>https://wanderingcities.com/netherlands/ede/</link>
+      <description>Ede verbindt militaire geschiedenis op de Ginkelse Heide met bezienswaardigheden zoals het Kröller-Müller Museum voor uw volgende bezoek. In september 1944 landden ruim 2.000 geallieerde parachutisten op de Ginkelse Heide tijdens Operatie Market Garden om strategische bruggen te veroveren.
+
+Andere talen en meer over Ede: https://wanderingcities.com/netherlands/ede/
+
+Bronnen o.a. Wikipedia en Wikivoyage (CC BY-SA 4.0) en officiële websites over toerisme, erfgoed en musea. Het gesprek en de stemmen zijn door AI gegenereerd.</description>
+      <itunes:summary>Ede verbindt militaire geschiedenis op de Ginkelse Heide met bezienswaardigheden zoals het Kröller-Müller Museum voor uw volgende bezoek. In september 1944 landden ruim 2.000 geallieerde parachutisten op de Ginkelse Heide tijdens Operatie Market Garden om strategische bruggen te veroveren.
+
+Andere talen en meer over Ede: https://wanderingcities.com/netherlands/ede/
+
+Bronnen o.a. Wikipedia en Wikivoyage (CC BY-SA 4.0) en officiële websites over toerisme, erfgoed en musea. Het gesprek en de stemmen zijn door AI gegenereerd.</itunes:summary>
+      <enclosure url="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/episodes/nl/nl-ede-1528361626-v1.mp3" length="17238382" type="audio/mpeg"/>
+      <guid isPermaLink="false">5eb65356-4ddf-5bf5-85d0-569dfa06b59d</guid>
+      <pubDate>Tue, 27 Oct 2026 06:03:12 +0000</pubDate>
+      <itunes:duration>00:17:50</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Almelo reisgids &amp; geschiedenis | De grootste bankoverval van het verzet</title>
       <link>https://wanderingcities.com/netherlands/almelo/</link>

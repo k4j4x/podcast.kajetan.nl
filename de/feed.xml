@@ -14,7 +14,27 @@
     <itunes:type>episodic</itunes:type>
     <itunes:category text="Society &amp; Culture"><itunes:category text="Places &amp; Travel"/></itunes:category>
     <itunes:image href="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/cover-de-3000.jpg"/>
-    <lastBuildDate>Tue, 27 Oct 2026 05:49:50 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 27 Oct 2026 06:03:12 +0000</lastBuildDate>
+    <item>
+      <title>Ede Reiseführer &amp; Geschichte | Von Fallschirmjägern und Mufflons</title>
+      <link>https://wanderingcities.com/netherlands/ede/</link>
+      <description>Ede verbindet militärische Geschichte auf der Ginkelse Heide mit Sehenswürdigkeiten wie Landgoed Kernhem und der Doesburgermolen für Ihren nächsten Besuch. Im September 1944 landeten rund 2.200 alliierte Fallschirmjäger während der Operatie Market Garden auf der Ginkelse Heide.
+
+Andere Sprachen und mehr über Ede: https://wanderingcities.com/netherlands/ede/
+
+Quellen u. a. Wikipedia und Wikivoyage (CC BY-SA 4.0) sowie offizielle Websites für Tourismus, Denkmalpflege und Museen. Gespräch und Stimmen sind KI-generiert.</description>
+      <itunes:summary>Ede verbindet militärische Geschichte auf der Ginkelse Heide mit Sehenswürdigkeiten wie Landgoed Kernhem und der Doesburgermolen für Ihren nächsten Besuch. Im September 1944 landeten rund 2.200 alliierte Fallschirmjäger während der Operatie Market Garden auf der Ginkelse Heide.
+
+Andere Sprachen und mehr über Ede: https://wanderingcities.com/netherlands/ede/
+
+Quellen u. a. Wikipedia und Wikivoyage (CC BY-SA 4.0) sowie offizielle Websites für Tourismus, Denkmalpflege und Museen. Gespräch und Stimmen sind KI-generiert.</itunes:summary>
+      <enclosure url="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/episodes/de/de-ede-1528361626-v1.mp3" length="20005421" type="audio/mpeg"/>
+      <guid isPermaLink="false">2043a3ae-e573-53a5-90ee-0da5a3b7f315</guid>
+      <pubDate>Tue, 27 Oct 2026 06:02:06 +0000</pubDate>
+      <itunes:duration>00:20:43</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Almelo Reiseführer &amp; Geschichte | Der größte Bankraub des Widerstands</title>
       <link>https://wanderingcities.com/netherlands/almelo/</link>
