@@ -14,7 +14,27 @@
     <itunes:type>episodic</itunes:type>
     <itunes:category text="Society &amp; Culture"><itunes:category text="Places &amp; Travel"/></itunes:category>
     <itunes:image href="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/cover-es-3000.jpg"/>
-    <lastBuildDate>Tue, 27 Oct 2026 05:03:40 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 27 Oct 2026 05:33:46 +0000</lastBuildDate>
+    <item>
+      <title>Almelo: guía de viaje e historia | Feudos, industria y resistencia</title>
+      <link>https://wanderingcities.com/netherlands/almelo/</link>
+      <description>Almelo, en los Países Bajos, muestra su historia durante una visita a monumentos como Huize Almelo, la Grote Kerk y el Wevershuisje. En 1944, combatientes de la resistencia robaron allí 46,1 millones de florines en la sucursal del De Nederlandsche Bank de Wierdensestraat.
+
+Otros idiomas y más sobre Almelo: https://wanderingcities.com/netherlands/almelo/
+
+Fuentes, entre otras: Wikipedia y Wikivoyage (CC BY-SA 4.0) y webs oficiales de turismo, patrimonio y museos. La conversación y las voces están generadas por IA.</description>
+      <itunes:summary>Almelo, en los Países Bajos, muestra su historia durante una visita a monumentos como Huize Almelo, la Grote Kerk y el Wevershuisje. En 1944, combatientes de la resistencia robaron allí 46,1 millones de florines en la sucursal del De Nederlandsche Bank de Wierdensestraat.
+
+Otros idiomas y más sobre Almelo: https://wanderingcities.com/netherlands/almelo/
+
+Fuentes, entre otras: Wikipedia y Wikivoyage (CC BY-SA 4.0) y webs oficiales de turismo, patrimonio y museos. La conversación y las voces están generadas por IA.</itunes:summary>
+      <enclosure url="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/episodes/es/es-almelo-1528084436-v1.mp3" length="23547780" type="audio/mpeg"/>
+      <guid isPermaLink="false">a07a6100-f4c6-5f23-ba3a-b1196686a121</guid>
+      <pubDate>Tue, 27 Oct 2026 05:32:26 +0000</pubDate>
+      <itunes:duration>00:24:24</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Gouda: guía de viaje e historia | La ciudad construida sobre el pantano</title>
       <link>https://wanderingcities.com/netherlands/gouda/</link>

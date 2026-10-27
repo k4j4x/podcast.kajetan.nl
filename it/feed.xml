@@ -14,7 +14,27 @@
     <itunes:type>episodic</itunes:type>
     <itunes:category text="Society &amp; Culture"><itunes:category text="Places &amp; Travel"/></itunes:category>
     <itunes:image href="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/cover-it-3000.jpg"/>
-    <lastBuildDate>Tue, 27 Oct 2026 05:03:40 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 27 Oct 2026 05:33:46 +0000</lastBuildDate>
+    <item>
+      <title>Almelo: guida di viaggio e storia | La grande rapina della Resistenza</title>
+      <link>https://wanderingcities.com/netherlands/almelo/</link>
+      <description>Almelo, nei Paesi Bassi, mostra la sua storia durante una visita a monumenti come Huize Almelo, la Grote Kerk e il Wevershuisje. Nel 1944, i partigiani della Resistenza rubarono 46,1 milioni di fiorini nella filiale della De Nederlandsche Bank in Wierdensestraat.
+
+Altre lingue e altro su Almelo: https://wanderingcities.com/netherlands/almelo/
+
+Fonti, tra le altre: Wikipedia e Wikivoyage (CC BY-SA 4.0) e siti ufficiali di turismo, patrimonio e musei. La conversazione e le voci sono generate dall'IA.</description>
+      <itunes:summary>Almelo, nei Paesi Bassi, mostra la sua storia durante una visita a monumenti come Huize Almelo, la Grote Kerk e il Wevershuisje. Nel 1944, i partigiani della Resistenza rubarono 46,1 milioni di fiorini nella filiale della De Nederlandsche Bank in Wierdensestraat.
+
+Altre lingue e altro su Almelo: https://wanderingcities.com/netherlands/almelo/
+
+Fonti, tra le altre: Wikipedia e Wikivoyage (CC BY-SA 4.0) e siti ufficiali di turismo, patrimonio e musei. La conversazione e le voci sono generate dall'IA.</itunes:summary>
+      <enclosure url="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/episodes/it/it-almelo-1528084436-v1.mp3" length="16726925" type="audio/mpeg"/>
+      <guid isPermaLink="false">d27e4a73-e417-541a-9636-0994ba7472c1</guid>
+      <pubDate>Tue, 27 Oct 2026 05:33:45 +0000</pubDate>
+      <itunes:duration>00:17:18</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Gouda: guida di viaggio e storia | Una città oltre il formaggio</title>
       <link>https://wanderingcities.com/netherlands/gouda/</link>
