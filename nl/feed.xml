@@ -14,7 +14,27 @@
     <itunes:type>episodic</itunes:type>
     <itunes:category text="Society &amp; Culture"><itunes:category text="Places &amp; Travel"/></itunes:category>
     <itunes:image href="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/cover-nl-3000.jpg"/>
-    <lastBuildDate>Wed, 28 Oct 2026 06:33:55 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 28 Oct 2026 07:03:19 +0000</lastBuildDate>
+    <item>
+      <title>Bergen op Zoom reisgids &amp; geschiedenis | Van vestingstad tot vitrage</title>
+      <link>https://wanderingcities.com/netherlands/bergen-op-zoom/</link>
+      <description>Bergen op Zoom biedt bij een bezoek historische bezienswaardigheden zoals het stadspaleis het Markiezenhof, de Gevangenpoort en de Sint-Gertrudiskerk. In 1747 veroverden Franse troepen de stad na een belegering van zeventig dagen en braken daarmee haar faam als onneembare vesting.
+
+Andere talen en meer over Bergen op Zoom: https://wanderingcities.com/netherlands/bergen-op-zoom/
+
+Bronnen o.a. Wikipedia en Wikivoyage (CC BY-SA 4.0) en officiële websites over toerisme, erfgoed en musea. Het gesprek en de stemmen zijn door AI gegenereerd.</description>
+      <itunes:summary>Bergen op Zoom biedt bij een bezoek historische bezienswaardigheden zoals het stadspaleis het Markiezenhof, de Gevangenpoort en de Sint-Gertrudiskerk. In 1747 veroverden Franse troepen de stad na een belegering van zeventig dagen en braken daarmee haar faam als onneembare vesting.
+
+Andere talen en meer over Bergen op Zoom: https://wanderingcities.com/netherlands/bergen-op-zoom/
+
+Bronnen o.a. Wikipedia en Wikivoyage (CC BY-SA 4.0) en officiële websites over toerisme, erfgoed en musea. Het gesprek en de stemmen zijn door AI gegenereerd.</itunes:summary>
+      <enclosure url="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/episodes/nl/nl-bergen-op-zoom-1528854489-v1.mp3" length="24028548" type="audio/mpeg"/>
+      <guid isPermaLink="false">d3bea90b-f0e5-5ec5-88ce-fa53b44be0c8</guid>
+      <pubDate>Wed, 28 Oct 2026 07:03:19 +0000</pubDate>
+      <itunes:duration>00:24:54</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Roermond reisgids &amp; geschiedenis | Vijf nationaliteiten in één leven</title>
       <link>https://wanderingcities.com/netherlands/roermond/</link>
