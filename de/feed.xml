@@ -14,7 +14,27 @@
     <itunes:type>episodic</itunes:type>
     <itunes:category text="Society &amp; Culture"><itunes:category text="Places &amp; Travel"/></itunes:category>
     <itunes:image href="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/cover-de-3000.jpg"/>
-    <lastBuildDate>Wed, 28 Oct 2026 07:34:09 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 28 Oct 2026 08:03:11 +0000</lastBuildDate>
+    <item>
+      <title>Den Helder Reiseführer &amp; Geschichte | Das Gibraltar des Nordens</title>
+      <link>https://wanderingcities.com/netherlands/den-helder/</link>
+      <description>Den Helder verbindet maritime Geschichte mit Zielen für einen Besuch und Sehenswürdigkeiten wie der Werft Willemsoord, dem Marinemuseum und Fort Kijkduin. Im Jahr 1811 besichtigte Napoleon Bonaparte den Ort und ordnete den Bau von Fort Kijkduin an.
+
+Andere Sprachen und mehr über Den Helder: https://wanderingcities.com/netherlands/den-helder/
+
+Quellen u. a. Wikipedia und Wikivoyage (CC BY-SA 4.0) sowie offizielle Websites für Tourismus, Denkmalpflege und Museen. Gespräch und Stimmen sind KI-generiert.</description>
+      <itunes:summary>Den Helder verbindet maritime Geschichte mit Zielen für einen Besuch und Sehenswürdigkeiten wie der Werft Willemsoord, dem Marinemuseum und Fort Kijkduin. Im Jahr 1811 besichtigte Napoleon Bonaparte den Ort und ordnete den Bau von Fort Kijkduin an.
+
+Andere Sprachen und mehr über Den Helder: https://wanderingcities.com/netherlands/den-helder/
+
+Quellen u. a. Wikipedia und Wikivoyage (CC BY-SA 4.0) sowie offizielle Websites für Tourismus, Denkmalpflege und Museen. Gespräch und Stimmen sind KI-generiert.</itunes:summary>
+      <enclosure url="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/episodes/de/de-den-helder-1528605675-v1.mp3" length="14827322" type="audio/mpeg"/>
+      <guid isPermaLink="false">c817e6ff-b390-595f-b90b-274282dcac0c</guid>
+      <pubDate>Wed, 28 Oct 2026 08:01:48 +0000</pubDate>
+      <itunes:duration>00:15:19</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Bergen op Zoom Reiseführer &amp; Geschichte | Die unbesiegbare Festung im Wasser</title>
       <link>https://wanderingcities.com/netherlands/bergen-op-zoom/</link>
