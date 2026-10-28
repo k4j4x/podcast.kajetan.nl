@@ -14,10 +14,11 @@
     <itunes:type>episodic</itunes:type>
     <itunes:category text="Society &amp; Culture"><itunes:category text="Places &amp; Travel"/></itunes:category>
     <itunes:image href="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/cover-de-3000.jpg"/>
-    <lastBuildDate>Tue, 27 Oct 2026 09:33:08 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 28 Oct 2026 04:36:00 +0000</lastBuildDate>
     <item>
       <title>Scheveningen Reiseführer &amp; Geschichte | Das Wort, das Spione enttarnte</title>
       <link>https://wanderingcities.com/netherlands/scheveningen/</link>
+      <podcast:transcript url="https://wanderingcities.com/netherlands/scheveningen/transcript-de.txt" type="text/plain" language="de"/>
       <description>Scheveningen verbindet seine maritime Geschichte mit bekannten Sehenswürdigkeiten für einen Besuch, darunter das historische Kurhaus, De Pier und der rote Leuchtturm an der Nordsee. Im Jahr 1901 eröffnete eine hölzerne Seebrücke vor dem Kurhaus und prägte den Küstenort.
 
 Andere Sprachen und mehr über Scheveningen: https://wanderingcities.com/netherlands/scheveningen/
@@ -38,6 +39,7 @@ Quellen u. a. Wikipedia und Wikivoyage (CC BY-SA 4.0) sowie offizielle Websites 
     <item>
       <title>Ede Reiseführer &amp; Geschichte | Von Fallschirmjägern und Mufflons</title>
       <link>https://wanderingcities.com/netherlands/ede/</link>
+      <podcast:transcript url="https://wanderingcities.com/netherlands/ede/transcript-de.txt" type="text/plain" language="de"/>
       <description>Ede verbindet militärische Geschichte auf der Ginkelse Heide mit Sehenswürdigkeiten wie Landgoed Kernhem und der Doesburgermolen für Ihren nächsten Besuch. Im September 1944 landeten rund 2.200 alliierte Fallschirmjäger während der Operatie Market Garden auf der Ginkelse Heide.
 
 Andere Sprachen und mehr über Ede: https://wanderingcities.com/netherlands/ede/

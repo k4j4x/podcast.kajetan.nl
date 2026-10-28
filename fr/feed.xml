@@ -14,10 +14,11 @@
     <itunes:type>episodic</itunes:type>
     <itunes:category text="Society &amp; Culture"><itunes:category text="Places &amp; Travel"/></itunes:category>
     <itunes:image href="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/cover-fr-3000.jpg"/>
-    <lastBuildDate>Tue, 27 Oct 2026 09:33:08 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 28 Oct 2026 04:36:00 +0000</lastBuildDate>
     <item>
       <title>Roermond : guide de voyage et histoire | La ville qui détourna la Meuse</title>
       <link>https://wanderingcities.com/netherlands/roermond/</link>
+      <podcast:transcript url="https://wanderingcities.com/netherlands/roermond/transcript-fr.txt" type="text/plain" language="fr"/>
       <description>Roermond présente son histoire à travers des monuments comme la Munsterkerk, la Sint-Christoffelkathedraal et le musée Cuypershuis lors d'une visite. En 1342, les habitants ont détourné la Meuse pour obtenir un accès direct aux routes commerciales européennes.
 
 Autres langues et plus sur Roermond : https://wanderingcities.com/netherlands/roermond/
@@ -38,6 +39,7 @@ Sources, entre autres : Wikipédia et Wikivoyage (CC BY-SA 4.0) ainsi que les si
     <item>
       <title>Scheveningen : guide de voyage et histoire | Du village de pêcheurs à la station</title>
       <link>https://wanderingcities.com/netherlands/scheveningen/</link>
+      <podcast:transcript url="https://wanderingcities.com/netherlands/scheveningen/transcript-fr.txt" type="text/plain" language="fr"/>
       <description>Scheveningen associe son histoire maritime aux sites à voir lors d'une visite, comme le Kurhaus, De Pier et le phare au bord de la mer du Nord. En 1901, une première jetée en bois a ouvert devant le Kurhaus.
 
 Autres langues et plus sur Scheveningen : https://wanderingcities.com/netherlands/scheveningen/
@@ -58,6 +60,7 @@ Sources, entre autres : Wikipédia et Wikivoyage (CC BY-SA 4.0) ainsi que les si
     <item>
       <title>Ede : guide de voyage et histoire | Sur les traces du Big Five néerlandais</title>
       <link>https://wanderingcities.com/netherlands/ede/</link>
+      <podcast:transcript url="https://wanderingcities.com/netherlands/ede/transcript-fr.txt" type="text/plain" language="fr"/>
       <description>Ede associe l'histoire militaire de la Ginkelse Heide et des sites à voir comme Landgoed Kernhem pour votre prochaine visite. En septembre 1944, plus de 2000 parachutistes alliés ont atterri sur la Ginkelse Heide pendant l'Operatie Market Garden.
 
 Autres langues et plus sur Ede : https://wanderingcities.com/netherlands/ede/
@@ -78,6 +81,7 @@ Sources, entre autres : Wikipédia et Wikivoyage (CC BY-SA 4.0) ainsi que les si
     <item>
       <title>Almelo : guide de voyage et histoire | Le plus grand casse de la Résistance</title>
       <link>https://wanderingcities.com/netherlands/almelo/</link>
+      <podcast:transcript url="https://wanderingcities.com/netherlands/almelo/transcript-fr.txt" type="text/plain" language="fr"/>
       <description>Almelo, aux Pays-Bas, présente son histoire lors d’une visite de lieux comme Huize Almelo et le Wevershuisje. En 1944, des résistants y ont volé 46,1 millions de florins dans la succursale de De Nederlandsche Bank située Wierdensestraat.
 
 Autres langues et plus sur Almelo : https://wanderingcities.com/netherlands/almelo/

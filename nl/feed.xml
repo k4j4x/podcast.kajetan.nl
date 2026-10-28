@@ -14,10 +14,11 @@
     <itunes:type>episodic</itunes:type>
     <itunes:category text="Society &amp; Culture"><itunes:category text="Places &amp; Travel"/></itunes:category>
     <itunes:image href="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/cover-nl-3000.jpg"/>
-    <lastBuildDate>Tue, 27 Oct 2026 09:33:08 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 28 Oct 2026 04:36:00 +0000</lastBuildDate>
     <item>
       <title>Roermond reisgids &amp; geschiedenis | Vijf nationaliteiten in één leven</title>
       <link>https://wanderingcities.com/netherlands/roermond/</link>
+      <podcast:transcript url="https://wanderingcities.com/netherlands/roermond/transcript-nl.txt" type="text/plain" language="nl"/>
       <description>Roermond toont haar geschiedenis via bezienswaardigheden zoals de Munsterkerk, de Sint-Christoffelkathedraal en het Cuypershuis tijdens een bezoek. Pas in 1867 werden de banden met de Duitse Bond doorgesneden, waarmee de stad na eeuwen van wisselende heersers definitief Nederlands werd.
 
 Andere talen en meer over Roermond: https://wanderingcities.com/netherlands/roermond/
@@ -38,6 +39,7 @@ Bronnen o.a. Wikipedia en Wikivoyage (CC BY-SA 4.0) en officiële websites over 
     <item>
       <title>Scheveningen reisgids &amp; geschiedenis | Van vissersdorp tot badplaats aan zee</title>
       <link>https://wanderingcities.com/netherlands/scheveningen/</link>
+      <podcast:transcript url="https://wanderingcities.com/netherlands/scheveningen/transcript-nl.txt" type="text/plain" language="nl"/>
       <description>Scheveningen verbindt zijn maritieme geschiedenis met bekende bezienswaardigheden voor een bezoek, waaronder het historische Kurhaus, De Pier en de rode vuurtoren aan de Noordzee. In 1901 opende een eerste houten wandelhoofd voor het Kurhaus, waar bezoekers boven de golven wandelden.
 
 Andere talen en meer over Scheveningen: https://wanderingcities.com/netherlands/scheveningen/
@@ -58,6 +60,7 @@ Bronnen o.a. Wikipedia en Wikivoyage (CC BY-SA 4.0) en officiële websites over 
     <item>
       <title>Ede reisgids &amp; geschiedenis | Tussen oorlogssporen en Veluwse heide</title>
       <link>https://wanderingcities.com/netherlands/ede/</link>
+      <podcast:transcript url="https://wanderingcities.com/netherlands/ede/transcript-nl.txt" type="text/plain" language="nl"/>
       <description>Ede verbindt militaire geschiedenis op de Ginkelse Heide met bezienswaardigheden zoals het Kröller-Müller Museum voor uw volgende bezoek. In september 1944 landden ruim 2.000 geallieerde parachutisten op de Ginkelse Heide tijdens Operatie Market Garden om strategische bruggen te veroveren.
 
 Andere talen en meer over Ede: https://wanderingcities.com/netherlands/ede/
@@ -78,6 +81,7 @@ Bronnen o.a. Wikipedia en Wikivoyage (CC BY-SA 4.0) en officiële websites over 
     <item>
       <title>Almelo reisgids &amp; geschiedenis | De grootste bankoverval van het verzet</title>
       <link>https://wanderingcities.com/netherlands/almelo/</link>
+      <podcast:transcript url="https://wanderingcities.com/netherlands/almelo/transcript-nl.txt" type="text/plain" language="nl"/>
       <description>Almelo toont zijn geschiedenis tijdens een bezoek aan bezienswaardigheden zoals het kasteel Huize Almelo, de Grote Kerk en het Wevershuisje. In 1944 stalen verzetsstrijders daar 46,1 miljoen gulden uit het bijkantoor van De Nederlandsche Bank aan de Wierdensestraat.
 
 Andere talen en meer over Almelo: https://wanderingcities.com/netherlands/almelo/

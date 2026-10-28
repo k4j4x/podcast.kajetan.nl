@@ -14,10 +14,11 @@
     <itunes:type>episodic</itunes:type>
     <itunes:category text="Society &amp; Culture"><itunes:category text="Places &amp; Travel"/></itunes:category>
     <itunes:image href="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/cover-it-3000.jpg"/>
-    <lastBuildDate>Tue, 27 Oct 2026 09:33:09 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 28 Oct 2026 04:36:00 +0000</lastBuildDate>
     <item>
       <title>Roermond: guida di viaggio e storia | La città che spostò un fiume</title>
       <link>https://wanderingcities.com/netherlands/roermond/</link>
+      <podcast:transcript url="https://wanderingcities.com/netherlands/roermond/transcript-it.txt" type="text/plain" language="it"/>
       <description>Roermond mostra la sua storia ai viaggiatori durante una visita a monumenti come la Munsterkerk, la Sint-Christoffelkathedraal e il Cuypershuis. Nel 1342, gli abitanti deviarono il fiume Mosa per ottenere un accesso diretto alle rotte commerciali europee.
 
 Altre lingue e altro su Roermond: https://wanderingcities.com/netherlands/roermond/
@@ -38,6 +39,7 @@ Fonti, tra le altre: Wikipedia e Wikivoyage (CC BY-SA 4.0) e siti ufficiali di t
     <item>
       <title>Scheveningen: guida di viaggio e storia | Tra miti bellici e la costa del mare</title>
       <link>https://wanderingcities.com/netherlands/scheveningen/</link>
+      <podcast:transcript url="https://wanderingcities.com/netherlands/scheveningen/transcript-it.txt" type="text/plain" language="it"/>
       <description>Scheveningen unisce la sua storia marittima con luoghi su cosa vedere durante una visita, come il Kurhaus, De Pier e il faro lungo il mare del Nord. Nel 1901 venne inaugurato un primo pontile in legno davanti al Kurhaus, permettendo passeggiate sopra le onde.
 
 Altre lingue e altro su Scheveningen: https://wanderingcities.com/netherlands/scheveningen/
@@ -78,6 +80,7 @@ Fonti, tra le altre: Wikipedia e Wikivoyage (CC BY-SA 4.0) e siti ufficiali di t
     <item>
       <title>Almelo: guida di viaggio e storia | La grande rapina della Resistenza</title>
       <link>https://wanderingcities.com/netherlands/almelo/</link>
+      <podcast:transcript url="https://wanderingcities.com/netherlands/almelo/transcript-it.txt" type="text/plain" language="it"/>
       <description>Almelo, nei Paesi Bassi, mostra la sua storia durante una visita a monumenti come Huize Almelo, la Grote Kerk e il Wevershuisje. Nel 1944, i partigiani della Resistenza rubarono 46,1 milioni di fiorini nella filiale della De Nederlandsche Bank in Wierdensestraat.
 
 Altre lingue e altro su Almelo: https://wanderingcities.com/netherlands/almelo/
