@@ -14,7 +14,27 @@
     <itunes:type>episodic</itunes:type>
     <itunes:category text="Society &amp; Culture"><itunes:category text="Places &amp; Travel"/></itunes:category>
     <itunes:image href="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/cover-es-3000.jpg"/>
-    <lastBuildDate>Wed, 28 Oct 2026 07:03:20 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 28 Oct 2026 07:34:10 +0000</lastBuildDate>
+    <item>
+      <title>Bergen op Zoom: guía de viaje e historia | La fortaleza inexpugnable</title>
+      <link>https://wanderingcities.com/netherlands/bergen-op-zoom/</link>
+      <description>Bergen op Zoom combina historia y lugares clave qué ver durante una visita, como el palacio Markiezenhof, la puerta Gevangenpoort y la iglesia Sint-Gertrudiskerk. En 1747, las tropas francesas tomaron la ciudad fortificada tras un sitio de setenta días, terminando con su reputación de inexpugnable.
+
+Otros idiomas y más sobre Bergen op Zoom: https://wanderingcities.com/netherlands/bergen-op-zoom/
+
+Fuentes, entre otras: Wikipedia y Wikivoyage (CC BY-SA 4.0) y webs oficiales de turismo, patrimonio y museos. La conversación y las voces están generadas por IA.</description>
+      <itunes:summary>Bergen op Zoom combina historia y lugares clave qué ver durante una visita, como el palacio Markiezenhof, la puerta Gevangenpoort y la iglesia Sint-Gertrudiskerk. En 1747, las tropas francesas tomaron la ciudad fortificada tras un sitio de setenta días, terminando con su reputación de inexpugnable.
+
+Otros idiomas y más sobre Bergen op Zoom: https://wanderingcities.com/netherlands/bergen-op-zoom/
+
+Fuentes, entre otras: Wikipedia y Wikivoyage (CC BY-SA 4.0) y webs oficiales de turismo, patrimonio y museos. La conversación y las voces están generadas por IA.</itunes:summary>
+      <enclosure url="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/episodes/es/es-bergen-op-zoom-1528854489-v1.mp3" length="24448486" type="audio/mpeg"/>
+      <guid isPermaLink="false">99c4b0d3-e7c7-5944-b2f0-0755275849ad</guid>
+      <pubDate>Wed, 28 Oct 2026 07:32:22 +0000</pubDate>
+      <itunes:duration>00:25:20</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Roermond: guía de viaje e historia | Cuatro imperios en una sola historia</title>
       <link>https://wanderingcities.com/netherlands/roermond/</link>

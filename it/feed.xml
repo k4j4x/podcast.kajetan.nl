@@ -14,7 +14,27 @@
     <itunes:type>episodic</itunes:type>
     <itunes:category text="Society &amp; Culture"><itunes:category text="Places &amp; Travel"/></itunes:category>
     <itunes:image href="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/cover-it-3000.jpg"/>
-    <lastBuildDate>Wed, 28 Oct 2026 07:03:20 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 28 Oct 2026 07:34:10 +0000</lastBuildDate>
+    <item>
+      <title>Bergen op Zoom: guida di viaggio e storia | La roccaforte inespugnabile</title>
+      <link>https://wanderingcities.com/netherlands/bergen-op-zoom/</link>
+      <description>Bergen op Zoom unisce storia e luoghi chiave su cosa vedere durante una visita, come il palazzo Markiezenhof, la porta Gevangenpoort e la chiesa Sint-Gertrudiskerk. Nel 1747, le truppe francesi conquistarono la città fortificata dopo un assedio di settanta giorni, ponendo fine alla sua fama di fortezza inespugnabile.
+
+Altre lingue e altro su Bergen op Zoom: https://wanderingcities.com/netherlands/bergen-op-zoom/
+
+Fonti, tra le altre: Wikipedia e Wikivoyage (CC BY-SA 4.0) e siti ufficiali di turismo, patrimonio e musei. La conversazione e le voci sono generate dall'IA.</description>
+      <itunes:summary>Bergen op Zoom unisce storia e luoghi chiave su cosa vedere durante una visita, come il palazzo Markiezenhof, la porta Gevangenpoort e la chiesa Sint-Gertrudiskerk. Nel 1747, le truppe francesi conquistarono la città fortificata dopo un assedio di settanta giorni, ponendo fine alla sua fama di fortezza inespugnabile.
+
+Altre lingue e altro su Bergen op Zoom: https://wanderingcities.com/netherlands/bergen-op-zoom/
+
+Fonti, tra le altre: Wikipedia e Wikivoyage (CC BY-SA 4.0) e siti ufficiali di turismo, patrimonio e musei. La conversazione e le voci sono generate dall'IA.</itunes:summary>
+      <enclosure url="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/episodes/it/it-bergen-op-zoom-1528854489-v1.mp3" length="27818728" type="audio/mpeg"/>
+      <guid isPermaLink="false">a0cd9860-f7f4-5b76-97f9-8c17daeb3c25</guid>
+      <pubDate>Wed, 28 Oct 2026 07:34:09 +0000</pubDate>
+      <itunes:duration>00:28:51</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Roermond: guida di viaggio e storia | La città che spostò un fiume</title>
       <link>https://wanderingcities.com/netherlands/roermond/</link>
