@@ -14,7 +14,27 @@
     <itunes:type>episodic</itunes:type>
     <itunes:category text="Society &amp; Culture"><itunes:category text="Places &amp; Travel"/></itunes:category>
     <itunes:image href="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/cover-fr-3000.jpg"/>
-    <lastBuildDate>Wed, 28 Oct 2026 09:03:42 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 28 Oct 2026 09:33:23 +0000</lastBuildDate>
+    <item>
+      <title>Kampen : guide de voyage et histoire | Quand le sable remplaça les impôts</title>
+      <link>https://wanderingcities.com/netherlands/kampen/</link>
+      <description>Kampen offre lors d'une visite toute son histoire à travers des monuments à voir comme la Bovenkerk, la Koornmarktspoort et la Stadsbrug. Dès 1500, la ville loua le Kampereiland formé par le sable, tirant assez de pacht pour annuler les impôts.
+
+Autres langues et plus sur Kampen : https://wanderingcities.com/netherlands/kampen/
+
+Sources, entre autres : Wikipédia et Wikivoyage (CC BY-SA 4.0) ainsi que les sites officiels du tourisme, du patrimoine et des musées. La conversation et les voix sont générées par IA.</description>
+      <itunes:summary>Kampen offre lors d'une visite toute son histoire à travers des monuments à voir comme la Bovenkerk, la Koornmarktspoort et la Stadsbrug. Dès 1500, la ville loua le Kampereiland formé par le sable, tirant assez de pacht pour annuler les impôts.
+
+Autres langues et plus sur Kampen : https://wanderingcities.com/netherlands/kampen/
+
+Sources, entre autres : Wikipédia et Wikivoyage (CC BY-SA 4.0) ainsi que les sites officiels du tourisme, du patrimoine et des musées. La conversation et les voix sont générées par IA.</itunes:summary>
+      <enclosure url="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/episodes/fr/fr-kampen-1528270646-v1.mp3" length="15517009" type="audio/mpeg"/>
+      <guid isPermaLink="false">b07fb863-9228-5d4c-b60e-5543964f4a26</guid>
+      <pubDate>Wed, 28 Oct 2026 09:31:49 +0000</pubDate>
+      <itunes:duration>00:16:02</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Den Helder : guide de voyage et histoire | La forteresse napoléonienne réinventée</title>
       <link>https://wanderingcities.com/netherlands/den-helder/</link>
