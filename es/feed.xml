@@ -14,7 +14,27 @@
     <itunes:type>episodic</itunes:type>
     <itunes:category text="Society &amp; Culture"><itunes:category text="Places &amp; Travel"/></itunes:category>
     <itunes:image href="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/cover-es-3000.jpg"/>
-    <lastBuildDate>Wed, 28 Oct 2026 08:03:12 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 28 Oct 2026 08:32:57 +0000</lastBuildDate>
+    <item>
+      <title>Den Helder: guía de viaje e historia | La fortaleza soleada de Holanda</title>
+      <link>https://wanderingcities.com/netherlands/den-helder/</link>
+      <description>Den Helder combina la historia naval con opciones para una visita y lugares qué ver, como el astillero Willemsoord, el Marinemuseum y Fort Kijkduin. En 1811, el emperador Napoleón Bonaparte inspeccionó el puerto y ordenó la construcción de Fort Kijkduin.
+
+Otros idiomas y más sobre Den Helder: https://wanderingcities.com/netherlands/den-helder/
+
+Fuentes, entre otras: Wikipedia y Wikivoyage (CC BY-SA 4.0) y webs oficiales de turismo, patrimonio y museos. La conversación y las voces están generadas por IA.</description>
+      <itunes:summary>Den Helder combina la historia naval con opciones para una visita y lugares qué ver, como el astillero Willemsoord, el Marinemuseum y Fort Kijkduin. En 1811, el emperador Napoleón Bonaparte inspeccionó el puerto y ordenó la construcción de Fort Kijkduin.
+
+Otros idiomas y más sobre Den Helder: https://wanderingcities.com/netherlands/den-helder/
+
+Fuentes, entre otras: Wikipedia y Wikivoyage (CC BY-SA 4.0) y webs oficiales de turismo, patrimonio y museos. La conversación y las voces están generadas por IA.</itunes:summary>
+      <enclosure url="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/episodes/es/es-den-helder-1528605675-v1.mp3" length="22427240" type="audio/mpeg"/>
+      <guid isPermaLink="false">7dde2b4e-df60-508c-9a8c-14e4d61be5f7</guid>
+      <pubDate>Wed, 28 Oct 2026 08:32:14 +0000</pubDate>
+      <itunes:duration>00:23:14</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Bergen op Zoom: guía de viaje e historia | La fortaleza inexpugnable</title>
       <link>https://wanderingcities.com/netherlands/bergen-op-zoom/</link>
