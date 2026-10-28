@@ -14,7 +14,27 @@
     <itunes:type>episodic</itunes:type>
     <itunes:category text="Society &amp; Culture"><itunes:category text="Places &amp; Travel"/></itunes:category>
     <itunes:image href="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/cover-de-3000.jpg"/>
-    <lastBuildDate>Wed, 28 Oct 2026 04:36:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 28 Oct 2026 06:33:55 +0000</lastBuildDate>
+    <item>
+      <title>Bergen op Zoom Reiseführer &amp; Geschichte | Die unbesiegbare Festung im Wasser</title>
+      <link>https://wanderingcities.com/netherlands/bergen-op-zoom/</link>
+      <description>Bergen op Zoom bietet bei einem Besuch historische Sehenswürdigkeiten wie den Palast Markiezenhof, das Stadttor Gevangenpoort und die Sint-Gertrudiskerk. Im Jahr 1747 eroberten französische Truppen nach einer siebzig Tage langen Belagerung die Festung und brachen ihren Ruf der Uneinnehmbarkeit.
+
+Andere Sprachen und mehr über Bergen op Zoom: https://wanderingcities.com/netherlands/bergen-op-zoom/
+
+Quellen u. a. Wikipedia und Wikivoyage (CC BY-SA 4.0) sowie offizielle Websites für Tourismus, Denkmalpflege und Museen. Gespräch und Stimmen sind KI-generiert.</description>
+      <itunes:summary>Bergen op Zoom bietet bei einem Besuch historische Sehenswürdigkeiten wie den Palast Markiezenhof, das Stadttor Gevangenpoort und die Sint-Gertrudiskerk. Im Jahr 1747 eroberten französische Truppen nach einer siebzig Tage langen Belagerung die Festung und brachen ihren Ruf der Uneinnehmbarkeit.
+
+Andere Sprachen und mehr über Bergen op Zoom: https://wanderingcities.com/netherlands/bergen-op-zoom/
+
+Quellen u. a. Wikipedia und Wikivoyage (CC BY-SA 4.0) sowie offizielle Websites für Tourismus, Denkmalpflege und Museen. Gespräch und Stimmen sind KI-generiert.</itunes:summary>
+      <enclosure url="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/episodes/de/de-bergen-op-zoom-1528854489-v1.mp3" length="23590281" type="audio/mpeg"/>
+      <guid isPermaLink="false">30400ee6-b4b0-598b-9d64-7b2f167361a1</guid>
+      <pubDate>Wed, 28 Oct 2026 06:32:19 +0000</pubDate>
+      <itunes:duration>00:24:27</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Scheveningen Reiseführer &amp; Geschichte | Das Wort, das Spione enttarnte</title>
       <link>https://wanderingcities.com/netherlands/scheveningen/</link>
