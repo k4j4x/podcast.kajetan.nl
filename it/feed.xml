@@ -14,7 +14,27 @@
     <itunes:type>episodic</itunes:type>
     <itunes:category text="Society &amp; Culture"><itunes:category text="Places &amp; Travel"/></itunes:category>
     <itunes:image href="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/cover-it-3000.jpg"/>
-    <lastBuildDate>Wed, 28 Oct 2026 09:33:24 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 28 Oct 2026 10:03:14 +0000</lastBuildDate>
+    <item>
+      <title>Kampen: guida di viaggio e storia | Come il fango ha cancellato le tasse</title>
+      <link>https://wanderingcities.com/netherlands/kampen/</link>
+      <description>Kampen offre durante una visita la sua storia con indicazioni su cosa vedere, come la Bovenkerk, la Koornmarktspoort e la Stadsbrug. A partire dal 1500 la città affittò il territorio di Kampereiland e incassò rendite tali da eliminare le tasse.
+
+Altre lingue e altro su Kampen: https://wanderingcities.com/netherlands/kampen/
+
+Fonti, tra le altre: Wikipedia e Wikivoyage (CC BY-SA 4.0) e siti ufficiali di turismo, patrimonio e musei. La conversazione e le voci sono generate dall'IA.</description>
+      <itunes:summary>Kampen offre durante una visita la sua storia con indicazioni su cosa vedere, come la Bovenkerk, la Koornmarktspoort e la Stadsbrug. A partire dal 1500 la città affittò il territorio di Kampereiland e incassò rendite tali da eliminare le tasse.
+
+Altre lingue e altro su Kampen: https://wanderingcities.com/netherlands/kampen/
+
+Fonti, tra le altre: Wikipedia e Wikivoyage (CC BY-SA 4.0) e siti ufficiali di turismo, patrimonio e musei. La conversazione e le voci sono generate dall'IA.</itunes:summary>
+      <enclosure url="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/episodes/it/it-kampen-1528270646-v1.mp3" length="17166203" type="audio/mpeg"/>
+      <guid isPermaLink="false">f1292f52-641c-5eb8-8856-1702ac4f0394</guid>
+      <pubDate>Wed, 28 Oct 2026 10:03:13 +0000</pubDate>
+      <itunes:duration>00:17:45</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Den Helder: guida di viaggio e storia | La Gibilterra del Nord</title>
       <link>https://wanderingcities.com/netherlands/den-helder/</link>
