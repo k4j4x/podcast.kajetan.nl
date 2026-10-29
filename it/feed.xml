@@ -14,7 +14,27 @@
     <itunes:type>episodic</itunes:type>
     <itunes:category text="Society &amp; Culture"><itunes:category text="Places &amp; Travel"/></itunes:category>
     <itunes:image href="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/cover-it-3000.jpg"/>
-    <lastBuildDate>Thu, 29 Oct 2026 09:33:35 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 29 Oct 2026 10:03:17 +0000</lastBuildDate>
+    <item>
+      <title>Middelburg: guida di viaggio e storia | Dove nacque il primo telescopio</title>
+      <link>https://wanderingcities.com/netherlands/middelburg/</link>
+      <description>Middelburg offre secoli di storia e vari luoghi su cosa vedere in una visita, come l'Abdij, la torre Lange Jan e lo Stadhuis sulla Markt. Nel 1608, l'ottico Hans Lipperhey vi inventò il telescopio, trasformando la città in un centro di innovazione scientifica.
+
+Altre lingue e altro su Middelburg: https://wanderingcities.com/netherlands/middelburg/
+
+Fonti, tra le altre: Wikipedia e Wikivoyage (CC BY-SA 4.0) e siti ufficiali di turismo, patrimonio e musei. La conversazione e le voci sono generate dall'IA.</description>
+      <itunes:summary>Middelburg offre secoli di storia e vari luoghi su cosa vedere in una visita, come l'Abdij, la torre Lange Jan e lo Stadhuis sulla Markt. Nel 1608, l'ottico Hans Lipperhey vi inventò il telescopio, trasformando la città in un centro di innovazione scientifica.
+
+Altre lingue e altro su Middelburg: https://wanderingcities.com/netherlands/middelburg/
+
+Fonti, tra le altre: Wikipedia e Wikivoyage (CC BY-SA 4.0) e siti ufficiali di turismo, patrimonio e musei. La conversazione e le voci sono generate dall'IA.</itunes:summary>
+      <enclosure url="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/episodes/it/it-middelburg-1528241984-v1.mp3" length="16642081" type="audio/mpeg"/>
+      <guid isPermaLink="false">823ed11c-586f-5c5b-aa9c-57f6b968ab61</guid>
+      <pubDate>Thu, 29 Oct 2026 10:01:54 +0000</pubDate>
+      <itunes:duration>00:17:12</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Woerden: guida di viaggio e storia | Una nave romana sotto il parcheggio</title>
       <link>https://wanderingcities.com/netherlands/woerden/</link>

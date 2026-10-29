@@ -14,7 +14,27 @@
     <itunes:type>episodic</itunes:type>
     <itunes:category text="Society &amp; Culture"><itunes:category text="Places &amp; Travel"/></itunes:category>
     <itunes:image href="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/cover-3000.jpg"/>
-    <lastBuildDate>Thu, 29 Oct 2026 09:33:34 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 29 Oct 2026 10:03:16 +0000</lastBuildDate>
+    <item>
+      <title>Zutphen Travel Guide &amp; History | How a Medieval Town Saved Its Soul</title>
+      <link>https://wanderingcities.com/netherlands/zutphen/</link>
+      <description>Zutphen showcases medieval history along the IJssel river, where travelers visit sights like the Walburgiskerk, the Bourgonjetoren, and the Berkelpoort. In 1564, church wardens opened the Librije inside the Walburgiskerk to create a public reading room with chained books.
+
+Other languages and more about Zutphen: https://wanderingcities.com/netherlands/zutphen/
+
+Sources include Wikipedia and Wikivoyage (CC BY-SA 4.0) and official tourism, heritage and museum websites. The conversation and voices are AI-generated.</description>
+      <itunes:summary>Zutphen showcases medieval history along the IJssel river, where travelers visit sights like the Walburgiskerk, the Bourgonjetoren, and the Berkelpoort. In 1564, church wardens opened the Librije inside the Walburgiskerk to create a public reading room with chained books.
+
+Other languages and more about Zutphen: https://wanderingcities.com/netherlands/zutphen/
+
+Sources include Wikipedia and Wikivoyage (CC BY-SA 4.0) and official tourism, heritage and museum websites. The conversation and voices are AI-generated.</itunes:summary>
+      <enclosure url="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/episodes/wandering-cities-zutphen-1528580352-v1.mp3" length="21246248" type="audio/mpeg"/>
+      <guid isPermaLink="false">0f0c05e2-1f3d-5959-8da8-825fc18da78f</guid>
+      <pubDate>Thu, 29 Oct 2026 10:03:16 +0000</pubDate>
+      <itunes:duration>00:21:58</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Middelburg Travel Guide &amp; History | Rising from the Wartime Ashes</title>
       <link>https://wanderingcities.com/netherlands/middelburg/</link>
