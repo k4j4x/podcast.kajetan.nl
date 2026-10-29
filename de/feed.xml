@@ -14,7 +14,27 @@
     <itunes:type>episodic</itunes:type>
     <itunes:category text="Society &amp; Culture"><itunes:category text="Places &amp; Travel"/></itunes:category>
     <itunes:image href="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/cover-de-3000.jpg"/>
-    <lastBuildDate>Thu, 29 Oct 2026 08:33:21 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 29 Oct 2026 09:03:53 +0000</lastBuildDate>
+    <item>
+      <title>Middelburg Reiseführer &amp; Geschichte | Wie eine Stadt ihre Seele rettete</title>
+      <link>https://wanderingcities.com/netherlands/middelburg/</link>
+      <description>Middelburg bietet bei einem Besuch viel Geschichte und Sehenswürdigkeiten wie die Abdij, den Turm Lange Jan und das Stadhuis am Markt. Im Mai 1940 zerstörten Brände über fünfhundert Gebäude im Stadtzentrum, woraufhin ein fünfzehnjähriger Wiederaufbau die historischen Bauwerke rekonstruierte.
+
+Andere Sprachen und mehr über Middelburg: https://wanderingcities.com/netherlands/middelburg/
+
+Quellen u. a. Wikipedia und Wikivoyage (CC BY-SA 4.0) sowie offizielle Websites für Tourismus, Denkmalpflege und Museen. Gespräch und Stimmen sind KI-generiert.</description>
+      <itunes:summary>Middelburg bietet bei einem Besuch viel Geschichte und Sehenswürdigkeiten wie die Abdij, den Turm Lange Jan und das Stadhuis am Markt. Im Mai 1940 zerstörten Brände über fünfhundert Gebäude im Stadtzentrum, woraufhin ein fünfzehnjähriger Wiederaufbau die historischen Bauwerke rekonstruierte.
+
+Andere Sprachen und mehr über Middelburg: https://wanderingcities.com/netherlands/middelburg/
+
+Quellen u. a. Wikipedia und Wikivoyage (CC BY-SA 4.0) sowie offizielle Websites für Tourismus, Denkmalpflege und Museen. Gespräch und Stimmen sind KI-generiert.</itunes:summary>
+      <enclosure url="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/episodes/de/de-middelburg-1528241984-v1.mp3" length="26421944" type="audio/mpeg"/>
+      <guid isPermaLink="false">799d9696-f97f-5407-9aa3-6bd5d54cb888</guid>
+      <pubDate>Thu, 29 Oct 2026 09:02:31 +0000</pubDate>
+      <itunes:duration>00:27:24</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Woerden Reiseführer &amp; Geschichte | Ein Parkhaus auf alten Römerschiffen</title>
       <link>https://wanderingcities.com/netherlands/woerden/</link>
