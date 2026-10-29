@@ -14,7 +14,27 @@
     <itunes:type>episodic</itunes:type>
     <itunes:category text="Society &amp; Culture"><itunes:category text="Places &amp; Travel"/></itunes:category>
     <itunes:image href="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/cover-es-3000.jpg"/>
-    <lastBuildDate>Thu, 29 Oct 2026 09:03:54 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 29 Oct 2026 09:33:35 +0000</lastBuildDate>
+    <item>
+      <title>Middelburg: guía de viaje e historia | Una ciudad reconstruida piedra a piedra</title>
+      <link>https://wanderingcities.com/netherlands/middelburg/</link>
+      <description>Middelburg reúne siglos de historia y lugares qué ver en una visita, como la Abdij, la torre Lange Jan y el Stadhuis en la Markt. En mayo de 1940, incendios bélicos destruyeron más de quinientos edificios del centro, impulsando una reconstrucción de quince años.
+
+Otros idiomas y más sobre Middelburg: https://wanderingcities.com/netherlands/middelburg/
+
+Fuentes, entre otras: Wikipedia y Wikivoyage (CC BY-SA 4.0) y webs oficiales de turismo, patrimonio y museos. La conversación y las voces están generadas por IA.</description>
+      <itunes:summary>Middelburg reúne siglos de historia y lugares qué ver en una visita, como la Abdij, la torre Lange Jan y el Stadhuis en la Markt. En mayo de 1940, incendios bélicos destruyeron más de quinientos edificios del centro, impulsando una reconstrucción de quince años.
+
+Otros idiomas y más sobre Middelburg: https://wanderingcities.com/netherlands/middelburg/
+
+Fuentes, entre otras: Wikipedia y Wikivoyage (CC BY-SA 4.0) y webs oficiales de turismo, patrimonio y museos. La conversación y las voces están generadas por IA.</itunes:summary>
+      <enclosure url="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/episodes/es/es-middelburg-1528241984-v1.mp3" length="28537401" type="audio/mpeg"/>
+      <guid isPermaLink="false">c4c0a9a9-3e0a-54d1-83bf-7b2900113af5</guid>
+      <pubDate>Thu, 29 Oct 2026 09:32:37 +0000</pubDate>
+      <itunes:duration>00:29:36</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Woerden: guía de viaje e historia | De fuerte romano a capital del queso</title>
       <link>https://wanderingcities.com/netherlands/woerden/</link>
