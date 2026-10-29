@@ -14,7 +14,27 @@
     <itunes:type>episodic</itunes:type>
     <itunes:category text="Society &amp; Culture"><itunes:category text="Places &amp; Travel"/></itunes:category>
     <itunes:image href="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/cover-de-3000.jpg"/>
-    <lastBuildDate>Thu, 29 Oct 2026 05:03:53 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 29 Oct 2026 07:35:01 +0000</lastBuildDate>
+    <item>
+      <title>Woerden Reiseführer &amp; Geschichte | Ein Parkhaus auf alten Römerschiffen</title>
+      <link>https://wanderingcities.com/netherlands/woerden/</link>
+      <description>Woerden vereint historische Sehenswürdigkeiten wie Kasteel Woerden, die Windmühle De Windhond und die Petrustoren, sodass sich ein Besuch der Stadt an der Oude Rijn lohnt. Im Jahr 2003 wurde beim Bau der Parkgarage Castellum ein antikes Römerschiff freigelegt, das man dort bis heute bestaunen kann.
+
+Andere Sprachen und mehr über Woerden: https://wanderingcities.com/netherlands/woerden/
+
+Quellen u. a. Wikipedia und Wikivoyage (CC BY-SA 4.0) sowie offizielle Websites für Tourismus, Denkmalpflege und Museen. Gespräch und Stimmen sind KI-generiert.</description>
+      <itunes:summary>Woerden vereint historische Sehenswürdigkeiten wie Kasteel Woerden, die Windmühle De Windhond und die Petrustoren, sodass sich ein Besuch der Stadt an der Oude Rijn lohnt. Im Jahr 2003 wurde beim Bau der Parkgarage Castellum ein antikes Römerschiff freigelegt, das man dort bis heute bestaunen kann.
+
+Andere Sprachen und mehr über Woerden: https://wanderingcities.com/netherlands/woerden/
+
+Quellen u. a. Wikipedia und Wikivoyage (CC BY-SA 4.0) sowie offizielle Websites für Tourismus, Denkmalpflege und Museen. Gespräch und Stimmen sind KI-generiert.</itunes:summary>
+      <enclosure url="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/episodes/de/de-woerden-1528805215-v1.mp3" length="26518911" type="audio/mpeg"/>
+      <guid isPermaLink="false">cba8a896-83b1-59e3-9973-640c04128539</guid>
+      <pubDate>Thu, 29 Oct 2026 07:32:31 +0000</pubDate>
+      <itunes:duration>00:27:30</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Kampen Reiseführer &amp; Geschichte | Wie angespültes Land Steuern ersparte</title>
       <link>https://wanderingcities.com/netherlands/kampen/</link>

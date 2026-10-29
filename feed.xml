@@ -14,7 +14,28 @@
     <itunes:type>episodic</itunes:type>
     <itunes:category text="Society &amp; Culture"><itunes:category text="Places &amp; Travel"/></itunes:category>
     <itunes:image href="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/cover-3000.jpg"/>
-    <lastBuildDate>Thu, 29 Oct 2026 05:03:53 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 29 Oct 2026 07:35:00 +0000</lastBuildDate>
+    <item>
+      <title>Woerden Travel Guide &amp; History | From Roman Fort to Cheese City</title>
+      <link>https://wanderingcities.com/netherlands/woerden/</link>
+      <podcast:transcript url="https://wanderingcities.com/netherlands/woerden/transcript-en.txt" type="text/plain" language="en"/>
+      <description>Woerden is ideal to visit for history and key things to see, including Kasteel Woerden, the windmill De Windhond, and the Petruskerk. In 1885, local farmers established the weekly cheese market on Kerkplein, starting a tradition that continues to this day.
+
+Other languages and more about Woerden: https://wanderingcities.com/netherlands/woerden/
+
+Sources include Wikipedia and Wikivoyage (CC BY-SA 4.0) and official tourism, heritage and museum websites. The conversation and voices are AI-generated.</description>
+      <itunes:summary>Woerden is ideal to visit for history and key things to see, including Kasteel Woerden, the windmill De Windhond, and the Petruskerk. In 1885, local farmers established the weekly cheese market on Kerkplein, starting a tradition that continues to this day.
+
+Other languages and more about Woerden: https://wanderingcities.com/netherlands/woerden/
+
+Sources include Wikipedia and Wikivoyage (CC BY-SA 4.0) and official tourism, heritage and museum websites. The conversation and voices are AI-generated.</itunes:summary>
+      <enclosure url="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/episodes/wandering-cities-woerden-1528805215-v1.mp3" length="18732637" type="audio/mpeg"/>
+      <guid isPermaLink="false">77f0a4d0-0336-5407-b10a-f08325ba8f87</guid>
+      <pubDate>Thu, 29 Oct 2026 07:33:43 +0000</pubDate>
+      <itunes:duration>00:19:21</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Bergen op Zoom Travel Guide &amp; History | The Invincible Water Fortress</title>
       <link>https://wanderingcities.com/netherlands/bergen-op-zoom/</link>

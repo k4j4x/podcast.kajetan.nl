@@ -14,7 +14,27 @@
     <itunes:type>episodic</itunes:type>
     <itunes:category text="Society &amp; Culture"><itunes:category text="Places &amp; Travel"/></itunes:category>
     <itunes:image href="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/cover-nl-3000.jpg"/>
-    <lastBuildDate>Thu, 29 Oct 2026 05:03:53 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 29 Oct 2026 07:35:01 +0000</lastBuildDate>
+    <item>
+      <title>Woerden reisgids &amp; geschiedenis | Van Romeins fort tot kaasstad</title>
+      <link>https://wanderingcities.com/netherlands/woerden/</link>
+      <description>Woerden heeft belangrijke bezienswaardigheden zoals Kasteel Woerden, molen De Windhond en het Kaaspakhuis, wat de stad ideaal maakt voor een bezoek. In 1885 begonnen lokale boeren met de wekelijkse kaasmarkt op het Kerkplein, een traditionele handel die daar nog altijd plaatsvindt.
+
+Andere talen en meer over Woerden: https://wanderingcities.com/netherlands/woerden/
+
+Bronnen o.a. Wikipedia en Wikivoyage (CC BY-SA 4.0) en officiële websites over toerisme, erfgoed en musea. Het gesprek en de stemmen zijn door AI gegenereerd.</description>
+      <itunes:summary>Woerden heeft belangrijke bezienswaardigheden zoals Kasteel Woerden, molen De Windhond en het Kaaspakhuis, wat de stad ideaal maakt voor een bezoek. In 1885 begonnen lokale boeren met de wekelijkse kaasmarkt op het Kerkplein, een traditionele handel die daar nog altijd plaatsvindt.
+
+Andere talen en meer over Woerden: https://wanderingcities.com/netherlands/woerden/
+
+Bronnen o.a. Wikipedia en Wikivoyage (CC BY-SA 4.0) en officiële websites over toerisme, erfgoed en musea. Het gesprek en de stemmen zijn door AI gegenereerd.</itunes:summary>
+      <enclosure url="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/episodes/nl/nl-woerden-1528805215-v1.mp3" length="19927109" type="audio/mpeg"/>
+      <guid isPermaLink="false">36d541cc-8d30-56df-b364-2334665feeb7</guid>
+      <pubDate>Thu, 29 Oct 2026 07:35:00 +0000</pubDate>
+      <itunes:duration>00:20:38</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Kampen reisgids &amp; geschiedenis | Hoe aangeslibd land belasting verving</title>
       <link>https://wanderingcities.com/netherlands/kampen/</link>
