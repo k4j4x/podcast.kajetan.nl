@@ -14,7 +14,27 @@
     <itunes:type>episodic</itunes:type>
     <itunes:category text="Society &amp; Culture"><itunes:category text="Places &amp; Travel"/></itunes:category>
     <itunes:image href="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/cover-3000.jpg"/>
-    <lastBuildDate>Thu, 29 Oct 2026 08:03:13 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 29 Oct 2026 08:33:21 +0000</lastBuildDate>
+    <item>
+      <title>Middelburg Travel Guide &amp; History | Rising from the Wartime Ashes</title>
+      <link>https://wanderingcities.com/netherlands/middelburg/</link>
+      <description>Middelburg offers rich history and many things to see, including the Abdij, the Lange Jan tower, and the Stadhuis on the Markt. In May 1940, wartime fires destroyed over five hundred buildings in the center, prompting a fifteen-year reconstruction that rebuilt these landmarks.
+
+Other languages and more about Middelburg: https://wanderingcities.com/netherlands/middelburg/
+
+Sources include Wikipedia and Wikivoyage (CC BY-SA 4.0) and official tourism, heritage and museum websites. The conversation and voices are AI-generated.</description>
+      <itunes:summary>Middelburg offers rich history and many things to see, including the Abdij, the Lange Jan tower, and the Stadhuis on the Markt. In May 1940, wartime fires destroyed over five hundred buildings in the center, prompting a fifteen-year reconstruction that rebuilt these landmarks.
+
+Other languages and more about Middelburg: https://wanderingcities.com/netherlands/middelburg/
+
+Sources include Wikipedia and Wikivoyage (CC BY-SA 4.0) and official tourism, heritage and museum websites. The conversation and voices are AI-generated.</itunes:summary>
+      <enclosure url="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/episodes/wandering-cities-middelburg-1528241984-v1.mp3" length="22720806" type="audio/mpeg"/>
+      <guid isPermaLink="false">743d0e21-7a5a-5330-8687-3550029d7e29</guid>
+      <pubDate>Thu, 29 Oct 2026 08:32:16 +0000</pubDate>
+      <itunes:duration>00:23:30</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Woerden Travel Guide &amp; History | From Roman Fort to Cheese City</title>
       <link>https://wanderingcities.com/netherlands/woerden/</link>
