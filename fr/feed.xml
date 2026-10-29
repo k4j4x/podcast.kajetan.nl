@@ -14,7 +14,27 @@
     <itunes:type>episodic</itunes:type>
     <itunes:category text="Society &amp; Culture"><itunes:category text="Places &amp; Travel"/></itunes:category>
     <itunes:image href="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/cover-fr-3000.jpg"/>
-    <lastBuildDate>Thu, 29 Oct 2026 07:35:01 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 29 Oct 2026 08:03:14 +0000</lastBuildDate>
+    <item>
+      <title>Woerden : guide de voyage et histoire | Des légionnaires romains au fromage</title>
+      <link>https://wanderingcities.com/netherlands/woerden/</link>
+      <description>Woerden rassemble des sites majeurs à voir comme Kasteel Woerden, le moulin De Windhond et le Kaaspakhuis, parfaits pour comprendre son histoire. En 1885, les agriculteurs locaux ont lancé le marché hebdomadaire du fromage sur Kerkplein, une tradition qui dure encore.
+
+Autres langues et plus sur Woerden : https://wanderingcities.com/netherlands/woerden/
+
+Sources, entre autres : Wikipédia et Wikivoyage (CC BY-SA 4.0) ainsi que les sites officiels du tourisme, du patrimoine et des musées. La conversation et les voix sont générées par IA.</description>
+      <itunes:summary>Woerden rassemble des sites majeurs à voir comme Kasteel Woerden, le moulin De Windhond et le Kaaspakhuis, parfaits pour comprendre son histoire. En 1885, les agriculteurs locaux ont lancé le marché hebdomadaire du fromage sur Kerkplein, une tradition qui dure encore.
+
+Autres langues et plus sur Woerden : https://wanderingcities.com/netherlands/woerden/
+
+Sources, entre autres : Wikipédia et Wikivoyage (CC BY-SA 4.0) ainsi que les sites officiels du tourisme, du patrimoine et des musées. La conversation et les voix sont générées par IA.</itunes:summary>
+      <enclosure url="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/episodes/fr/fr-woerden-1528805215-v1.mp3" length="14694052" type="audio/mpeg"/>
+      <guid isPermaLink="false">4bc36421-0af6-5645-b3e2-e1008439d202</guid>
+      <pubDate>Thu, 29 Oct 2026 08:03:13 +0000</pubDate>
+      <itunes:duration>00:15:11</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Kampen : guide de voyage et histoire | Quand le sable remplaça les impôts</title>
       <link>https://wanderingcities.com/netherlands/kampen/</link>

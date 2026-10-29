@@ -14,7 +14,27 @@
     <itunes:type>episodic</itunes:type>
     <itunes:category text="Society &amp; Culture"><itunes:category text="Places &amp; Travel"/></itunes:category>
     <itunes:image href="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/cover-es-3000.jpg"/>
-    <lastBuildDate>Thu, 29 Oct 2026 07:35:01 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 29 Oct 2026 08:03:14 +0000</lastBuildDate>
+    <item>
+      <title>Woerden: guía de viaje e historia | De fuerte romano a capital del queso</title>
+      <link>https://wanderingcities.com/netherlands/woerden/</link>
+      <description>Woerden reúne lugares qué ver e historia, como Kasteel Woerden, el molino De Windhond y el Kaaspakhuis, ideales para planificar una visita. En 1885, los agricultores locales comenzaron el mercado semanal de queso en Kerkplein, una tradición comercial que continúa en la actualidad.
+
+Otros idiomas y más sobre Woerden: https://wanderingcities.com/netherlands/woerden/
+
+Fuentes, entre otras: Wikipedia y Wikivoyage (CC BY-SA 4.0) y webs oficiales de turismo, patrimonio y museos. La conversación y las voces están generadas por IA.</description>
+      <itunes:summary>Woerden reúne lugares qué ver e historia, como Kasteel Woerden, el molino De Windhond y el Kaaspakhuis, ideales para planificar una visita. En 1885, los agricultores locales comenzaron el mercado semanal de queso en Kerkplein, una tradición comercial que continúa en la actualidad.
+
+Otros idiomas y más sobre Woerden: https://wanderingcities.com/netherlands/woerden/
+
+Fuentes, entre otras: Wikipedia y Wikivoyage (CC BY-SA 4.0) y webs oficiales de turismo, patrimonio y museos. La conversación y las voces están generadas por IA.</itunes:summary>
+      <enclosure url="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/episodes/es/es-woerden-1528805215-v1.mp3" length="22701843" type="audio/mpeg"/>
+      <guid isPermaLink="false">b1c925fa-ead7-586d-8eff-a452dd342721</guid>
+      <pubDate>Thu, 29 Oct 2026 08:02:15 +0000</pubDate>
+      <itunes:duration>00:23:31</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Kampen: guía de viaje e historia | Un barco hundido a propósito en el río</title>
       <link>https://wanderingcities.com/netherlands/kampen/</link>
