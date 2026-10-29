@@ -14,7 +14,27 @@
     <itunes:type>episodic</itunes:type>
     <itunes:category text="Society &amp; Culture"><itunes:category text="Places &amp; Travel"/></itunes:category>
     <itunes:image href="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/cover-de-3000.jpg"/>
-    <lastBuildDate>Thu, 29 Oct 2026 10:03:17 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 29 Oct 2026 10:33:07 +0000</lastBuildDate>
+    <item>
+      <title>Zutphen Reiseführer &amp; Geschichte | Vom Wikingerüberfall zur Turmstadt</title>
+      <link>https://wanderingcities.com/netherlands/zutphen/</link>
+      <description>Zutphen zeigt seine Geschichte an der IJssel, wo Gäste bei einem Besuch Sehenswürdigkeiten wie die Walburgiskerk, die Bourgonjetoren und die Berkelpoort besichtigen. Im Jahr 1564 eröffneten Kirchenpfleger die Librije in der Walburgiskerk als öffentliche Bibliothek mit angeketteten Büchern.
+
+Andere Sprachen und mehr über Zutphen: https://wanderingcities.com/netherlands/zutphen/
+
+Quellen u. a. Wikipedia und Wikivoyage (CC BY-SA 4.0) sowie offizielle Websites für Tourismus, Denkmalpflege und Museen. Gespräch und Stimmen sind KI-generiert.</description>
+      <itunes:summary>Zutphen zeigt seine Geschichte an der IJssel, wo Gäste bei einem Besuch Sehenswürdigkeiten wie die Walburgiskerk, die Bourgonjetoren und die Berkelpoort besichtigen. Im Jahr 1564 eröffneten Kirchenpfleger die Librije in der Walburgiskerk als öffentliche Bibliothek mit angeketteten Büchern.
+
+Andere Sprachen und mehr über Zutphen: https://wanderingcities.com/netherlands/zutphen/
+
+Quellen u. a. Wikipedia und Wikivoyage (CC BY-SA 4.0) sowie offizielle Websites für Tourismus, Denkmalpflege und Museen. Gespräch und Stimmen sind KI-generiert.</itunes:summary>
+      <enclosure url="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/episodes/de/de-zutphen-1528580352-v1.mp3" length="24531093" type="audio/mpeg"/>
+      <guid isPermaLink="false">c16c497e-b1a9-50b4-a1a9-d8ca09eacd73</guid>
+      <pubDate>Thu, 29 Oct 2026 10:32:22 +0000</pubDate>
+      <itunes:duration>00:25:26</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Middelburg Reiseführer &amp; Geschichte | Wie eine Stadt ihre Seele rettete</title>
       <link>https://wanderingcities.com/netherlands/middelburg/</link>
