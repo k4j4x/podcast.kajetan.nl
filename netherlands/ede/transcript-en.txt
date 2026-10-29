@@ -14,7 +14,7 @@ Host 2: It's quite a contrast.
 
 Host 1: It really is. Welcome to Ede in the Netherlands. Today, we're doing a deep dive into why this unassuming kind of midsize municipality is basically the ultimate base camp for your next trip.
 
-Host 2: Yep. It really completely shatters that binary of what a travel destination is supposed to be.
+Host 2: Yep. It really completely shatters that binary of what a travel destination is supposed to be, you know?
 
 Host 1: Yeah. Usually, you get either the chaotic metropolis or like a sleepy picturesque nature retreat,
 
@@ -28,7 +28,7 @@ Host 1: Okay, lay it out for us.
 
 Host 2: So, it's right in the middle of the Netherlands in the province of Gelderland and it's positioned directly on a geographical fault line. On the eastern side, you have the Hoge Veluwe National Park
 
-Host 1: which is just like vast rolling forests, right?
+Host 1: which is just like vast forests, right?
 
 Host 2: Exactly. Forests, undulating heathlands. It's very wild. But then on the western side, it drops into the Gelderse Vallei, the Gelderland Valley, which is flat, highly cultivated agricultural land.
 
@@ -56,7 +56,7 @@ Host 1: Very typical Dutch imagery.
 
 Host 2: Yeah. But then you unbutton the shirt and underneath is this superhero level action-packed history. Where does that dramatic volatile past actually come from?
 
-Host 1: It comes mechanically from being that border town we just described, going all the way back to the Middle Ages. Ede wasn't just an ecological border. It was a geopolitical fault line.
+Host 1: It comes mechanically from being that border town we just described going all the way back to the Middle Ages. Ede wasn't just an ecological border. It was a geopolitical fault line.
 
 Host 2: A fault line between who?
 
@@ -74,7 +74,7 @@ Host 2: And this vassal had quite the name, right?
 
 Host 1: Yes. History recorded his name as Udo de Booze.
 
-Host 2: Udo the Evil. I mean, let's just pause on that. You do not get the historical moniker 'the evil' for simply forgetting to pay your taxes?
+Host 2: Udo the evil. I mean, let's just pause on that. You do not get the historical moniker 'the Evil' for simply forgetting to pay your taxes?
 
 Host 1: No, you definitely don't.
 
@@ -84,7 +84,7 @@ Host 1: Well, the specific daily atrocities of Udo are somewhat lost to time, bu
 
 Host 2: and probably extracting resources from the local peasantry.
 
-Host 1: Precisely. It was a violent, unstable time. Udo was likely the iron fist of the Duke. It sets a very specific tone for Ede. It was never a sleepy village. It was born in conflict and hardship.
+Host 1: Precisely. It was a violent, unstable time. Udo was likely the iron fist of the Duke. It sets a very specific tone for Ede, you know. It was never a sleepy village. It was born in conflict and hardship.
 
 Host 2: And that hardship wasn't just military either. The human stories of resilience here are staggering. Like the dysentery epidemic of 1783.
 
@@ -110,11 +110,11 @@ Host 2: From 1915 to 1918, a town that was still relatively small absorbed thous
 
 Host 1: The logistics of that must have been immense.
 
-Host 2: Building temporary infrastructure, feeding them, providing sanitation. It was a massive undertaking. And what highlights Ede's character is what happened after the armistice.
+Host 2: A building temporary infrastructure, feeding them, providing sanitation. It was a massive undertaking. And what highlights Ede's character is what happened after the armistice.
 
 Host 1: Right. When the war ended, they didn't just abandon the camp or like sell it off to the highest bidder.
 
-Host 2: No, they dismantled the buildings and ship the materials back to Belgium to help rebuild the shattered cities there.
+Host 2: No, they dismantled the buildings and shipped the materials back to Belgium to help rebuild the shattered cities there.
 
 Host 1: They literally gave the roofs over their heads to put a neighboring country back together. That's incredible.
 
@@ -170,11 +170,11 @@ Host 2: It's a heavy burden.
 
 Host 1: I mean, Ede's entire history is this cycle of external forces wrecking their quiet lives. Feudal warlords, disease, foreign refugees, and then friendly fire. How did the town not just fracture into a million resentful pieces?
 
-Host 2: Well, Ede survived because a 600-year-old secret weapon running in the background.
+Host 2: Well, they survived because of a 600-year-old secret weapon running in the background.
 
 Host 1: Okay, I love a secret weapon.
 
-Host 2: It's a concept of deep structural democracy. Have you encountered the history of the Buurt, or Buurtschap Ede en Veldhuizen?
+Host 2: It's a concept of deep structural democracy. Have you encountered the history of the Buurt or Buurtschap Ede en Veldhuizen?
 
 Host 1: I saw the name when I was looking into this, but honestly the mechanics of medieval democracy usually just amount to whoever has the biggest sword makes the rules. How is this different?
 
@@ -212,7 +212,7 @@ Host 1: It really is striking. In late summer, it's just this vast ocean of purp
 
 Host 2: Flocks of sheep are grazing, keeping the landscape open.
 
-Host 1: But right in the middle of this pastoral beauty is the airborne monument. And next to it is this striking 6 m tall steel landmark called Vensters op het Verleden, Windows on the Past.
+Host 1: But right in the middle of this pastoral beauty is the airborne monument. And next to it is this striking 6 m tall steel landmark called Vensters op het Verleden, windows on the past.
 
 Host 2: It's a powerful piece.
 
@@ -220,13 +220,13 @@ Host 1: I looked at the design of this landmark. It doesn't just sit there like 
 
 Host 2: right? It marks the exact drop zones
 
-Host 1: you stand there looking through this massive steel structure and you realize you are standing on the precise soil where those young men landed. It bridges the natural beauty with the historical gravity so perfectly.
+Host 1: You stand there looking through this massive steel structure and you realize you are standing on the precise soil where those young men landed. It bridges the natural beauty with the historical gravity so perfectly.
 
 Host 2: And that philosophy of living inside history continues as you move from the heath into the eastern side of the town itself.
 
 Host 1: Yeah, let's talk about the town.
 
-Host 2: This area is defined by the old military barracks, the Kazerneterrein, like the Mauritskazerne.
+Host 2: This area is defined by the old military barracks, the kazerneterrein, like the Maurits Kazerne.
 
 Host 1: But they haven't turned these massive military complexes into abandoned ruins. And they haven't put them behind velvet ropes as sterile museums either.
 
@@ -250,7 +250,7 @@ Host 2: Yes. Just outside the main town in the village of Lunteren,
 
 Host 1: right, there's a place called the Goudsberg. You can walk through ancient Celtic fields and see a reconstructed Iron Age farm.
 
-Host 2: Though, we should probably apply a quick correction. there because Celtic fields is actually a historical misnomer.
+Host 2: Though, we should probably apply a quick correction there because Celtic fields is actually a historical misnomer.
 
 Host 1: Oh, really?
 
@@ -310,7 +310,7 @@ Host 2: Oh, yeah. An amazing find.
 
 Host 1: You can't just throw that in the back of a van and drive it to a local library. How does a museum physically operate without a home?
 
-Host 2: Well, they utilize modular climate control display cases that can pop up in different public spaces across the municipality. Most frequently in the Cultura building in the town center.
+Host 2: Well, they utilize modular climate-controlled display cases that can pop up in different public spaces across the municipality. Most frequently in the Cultura building in the town center.
 
 Host 1: So, it's basically a distributed hard drive. Instead of storing all the historical data on one massive server, a traditional museum building, they distribute the data locally across the network of the town.
 
@@ -358,7 +358,7 @@ Host 2: Yes, the biodiversity here is fantastic. Let's walk through the mechanic
 
 Host 1: Right.
 
-Host 2: Second, the wild boar. And if you go in the spring, the piglets are running around. Locals call them gestreepte pyjama's. Striped pajamas because of their markings.
+Host 2: Second, the wild boar. And if you go in the spring, the piglets are running around. Locals call them gestreepte pyjamaatjes. Striped pajamas because of their markings.
 
 Host 1: That's a very cute name for a very robust animal. The third is the mouflon.
 
@@ -378,7 +378,7 @@ Host 2: That is brilliant landscape engineering. Okay. Fourth is the badger, whi
 
 Host 1: Yeah, good luck with that one.
 
-Host 2: And fifth is the undisputed king of the forest, the majestic red deer. If you visit in September during the wedding season. Hearing the males roar in the morning mist is haunting.
+Host 2: And fifth is the undisputed king of the forest, the majestic red deer. If you visit in September during the rutting season. Hearing the males roar in the morning mist, it's haunting.
 
 Host 1: It is. But spotting these animals requires strict adherence to local rules.
 
@@ -388,7 +388,7 @@ Host 1: You cannot just wander into the woods at noon. Timing is everything. You
 
 Host 2: Okay.
 
-Host 1: You need to wear dark clothing to blend in. You should use the designated viewing screens, the wildkansels, which are basically wooden walls with slots built into the forest to hide your human silhouette. And then there's the most crucial rule. The one tourists constantly mess up. The deodorant rule.
+Host 1: You need to wear dark clothing to blend in. You should use the designated viewing screens, the wildschermen, which are basically wooden walls with slots built into the forest to hide your human silhouette. And then there's the most crucial rule. The one tourists constantly mess up. The deodorant rule.
 
 Host 2: Oh yes.
 
@@ -404,7 +404,7 @@ Host 1: So they know you're coming.
 
 Host 2: They will vanish long before you even get close to the viewing screen.
 
-Host 1: So, embrace your natural scent, people. Now, a quick note on safety. Ede is generally very safe, but practically speaking, it is advised to avoid the area around the Ede-Wageningen station past midnight.
+Host 1: So, embrace your natural scent, people. Now, a quick note on safety. EDA is generally very safe, but practically speaking, it is advised to avoid the area around the Ede-Wageningen station past midnight.
 
 Host 2: Just standard travel precautions.
 
@@ -412,7 +412,7 @@ Host 1: Exactly. Also, regarding the wildlife, especially those wild boars, if y
 
 Host 2: Please don't.
 
-Host 1: They are wild, heavy animals. Just calmly turn around and walk away. Okay. And as a general travel rule, event dates for things like Airborne Month or the location of the historical museum change, so always check before you go.
+Host 1: They are wild, heavy animals. Just calmly turn around and walk away. Okay. And as a general travel rule, event dates for things like Airborne Month or the location of the Historisch Museum change, so always check before you go.
 
 Host 2: Very good advice. We've covered a massive amount of ground today. From feudal warlords to World War II paratroopers,
 
@@ -434,7 +434,7 @@ Host 2: You are on the exact soil where 2,200 young men fell from the sky to fig
 
 Host 1: It is the ultimate Clark Kent town. The perfect blend of deep natural peace and intense superhero history.
 
-Host 2: It truly is. And it leads me with one final thought to ponder.
+Host 2: It truly is. And it leaves me with one final thought to ponder.
 
 Host 1: What's that?
 
@@ -442,7 +442,7 @@ Host 2: In our modern age, we constantly discuss digital isolation and civic dis
 
 Host 1: Oh, definitely.
 
-Host 2: But look at Ede's 600-year-old Buurtschap. A medieval model of rural neighborhood cooperation that figured out how to manage shared resources and survive dysentery, Spanish invasions, and world wars.
+Host 2: But look at Ede's 600-year-old buurtschap. A medieval model of rural neighborhood cooperation that figured out how to manage shared resources and survive dysentery, Spanish invasions, and world wars.
 
 Host 1: It's a proven system.
 

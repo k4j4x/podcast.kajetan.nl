@@ -14,10 +14,11 @@
     <itunes:type>episodic</itunes:type>
     <itunes:category text="Society &amp; Culture"><itunes:category text="Places &amp; Travel"/></itunes:category>
     <itunes:image href="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/cover-it-3000.jpg"/>
-    <lastBuildDate>Wed, 28 Oct 2026 10:03:14 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 29 Oct 2026 04:52:05 +0000</lastBuildDate>
     <item>
       <title>Kampen: guida di viaggio e storia | Come il fango ha cancellato le tasse</title>
       <link>https://wanderingcities.com/netherlands/kampen/</link>
+      <podcast:transcript url="https://wanderingcities.com/netherlands/kampen/transcript-it.txt" type="text/plain" language="it"/>
       <description>Kampen offre durante una visita la sua storia con indicazioni su cosa vedere, come la Bovenkerk, la Koornmarktspoort e la Stadsbrug. A partire dal 1500 la città affittò il territorio di Kampereiland e incassò rendite tali da eliminare le tasse.
 
 Altre lingue e altro su Kampen: https://wanderingcities.com/netherlands/kampen/
@@ -38,6 +39,7 @@ Fonti, tra le altre: Wikipedia e Wikivoyage (CC BY-SA 4.0) e siti ufficiali di t
     <item>
       <title>Den Helder: guida di viaggio e storia | La Gibilterra del Nord</title>
       <link>https://wanderingcities.com/netherlands/den-helder/</link>
+      <podcast:transcript url="https://wanderingcities.com/netherlands/den-helder/transcript-it.txt" type="text/plain" language="it"/>
       <description>Den Helder unisce la storia navale a consigli su cosa vedere durante una visita, tra cui il cantiere Willemsoord, il Marinemuseum e Fort Kijkduin. Nel 1811, Napoleone Bonaparte visitò il porto e ordinò la costruzione di Fort Kijkduin.
 
 Altre lingue e altro su Den Helder: https://wanderingcities.com/netherlands/den-helder/
@@ -58,6 +60,7 @@ Fonti, tra le altre: Wikipedia e Wikivoyage (CC BY-SA 4.0) e siti ufficiali di t
     <item>
       <title>Bergen op Zoom: guida di viaggio e storia | La roccaforte inespugnabile</title>
       <link>https://wanderingcities.com/netherlands/bergen-op-zoom/</link>
+      <podcast:transcript url="https://wanderingcities.com/netherlands/bergen-op-zoom/transcript-it.txt" type="text/plain" language="it"/>
       <description>Bergen op Zoom unisce storia e luoghi chiave su cosa vedere durante una visita, come il palazzo Markiezenhof, la porta Gevangenpoort e la chiesa Sint-Gertrudiskerk. Nel 1747, le truppe francesi conquistarono la città fortificata dopo un assedio di settanta giorni, ponendo fine alla sua fama di fortezza inespugnabile.
 
 Altre lingue e altro su Bergen op Zoom: https://wanderingcities.com/netherlands/bergen-op-zoom/

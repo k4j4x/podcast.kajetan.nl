@@ -14,10 +14,11 @@
     <itunes:type>episodic</itunes:type>
     <itunes:category text="Society &amp; Culture"><itunes:category text="Places &amp; Travel"/></itunes:category>
     <itunes:image href="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/cover-fr-3000.jpg"/>
-    <lastBuildDate>Wed, 28 Oct 2026 10:03:13 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 29 Oct 2026 04:52:05 +0000</lastBuildDate>
     <item>
       <title>Kampen : guide de voyage et histoire | Quand le sable remplaça les impôts</title>
       <link>https://wanderingcities.com/netherlands/kampen/</link>
+      <podcast:transcript url="https://wanderingcities.com/netherlands/kampen/transcript-fr.txt" type="text/plain" language="fr"/>
       <description>Kampen offre lors d'une visite toute son histoire à travers des monuments à voir comme la Bovenkerk, la Koornmarktspoort et la Stadsbrug. Dès 1500, la ville loua le Kampereiland formé par le sable, tirant assez de pacht pour annuler les impôts.
 
 Autres langues et plus sur Kampen : https://wanderingcities.com/netherlands/kampen/
@@ -38,6 +39,7 @@ Sources, entre autres : Wikipédia et Wikivoyage (CC BY-SA 4.0) ainsi que les si
     <item>
       <title>Den Helder : guide de voyage et histoire | La forteresse napoléonienne réinventée</title>
       <link>https://wanderingcities.com/netherlands/den-helder/</link>
+      <podcast:transcript url="https://wanderingcities.com/netherlands/den-helder/transcript-fr.txt" type="text/plain" language="fr"/>
       <description>Den Helder associe l'histoire navale à des lieux à voir comme le chantier naval Willemsoord, le Marinemuseum et Fort Kijkduin. En 1811, l'empereur Napoléon Bonaparte a inspecté le port et a ordonné la construction de Fort Kijkduin.
 
 Autres langues et plus sur Den Helder : https://wanderingcities.com/netherlands/den-helder/
@@ -58,6 +60,7 @@ Sources, entre autres : Wikipédia et Wikivoyage (CC BY-SA 4.0) ainsi que les si
     <item>
       <title>Bergen op Zoom : guide de voyage et histoire | L'invincible forteresse d'eau</title>
       <link>https://wanderingcities.com/netherlands/bergen-op-zoom/</link>
+      <podcast:transcript url="https://wanderingcities.com/netherlands/bergen-op-zoom/transcript-fr.txt" type="text/plain" language="fr"/>
       <description>Bergen op Zoom réunit des monuments majeurs à voir lors d'une visite, comme le palais du Markiezenhof, la porte Gevangenpoort et l'église Sint-Gertrudiskerk. En 1747, les troupes françaises ont pris la ville fortifiée après un siège de soixante-dix jours, mettant fin à sa réputation d'invincibilité.
 
 Autres langues et plus sur Bergen op Zoom : https://wanderingcities.com/netherlands/bergen-op-zoom/

@@ -14,10 +14,11 @@
     <itunes:type>episodic</itunes:type>
     <itunes:category text="Society &amp; Culture"><itunes:category text="Places &amp; Travel"/></itunes:category>
     <itunes:image href="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/cover-nl-3000.jpg"/>
-    <lastBuildDate>Wed, 28 Oct 2026 10:03:13 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 29 Oct 2026 04:52:05 +0000</lastBuildDate>
     <item>
       <title>Kampen reisgids &amp; geschiedenis | Hoe aangeslibd land belasting verving</title>
       <link>https://wanderingcities.com/netherlands/kampen/</link>
+      <podcast:transcript url="https://wanderingcities.com/netherlands/kampen/transcript-nl.txt" type="text/plain" language="nl"/>
       <description>Kampen toont bij een bezoek zijn geschiedenis langs bezienswaardigheden zoals de Bovenkerk, de Koornmarktspoort en de Stadsbrug aan de IJssel. Vanaf 1500 verpachtte de stad het door slib ontstane Kampereiland en ontving zo veel pacht dat belastingen overbodig werden.
 
 Andere talen en meer over Kampen: https://wanderingcities.com/netherlands/kampen/
@@ -38,6 +39,7 @@ Bronnen o.a. Wikipedia en Wikivoyage (CC BY-SA 4.0) en officiële websites over 
     <item>
       <title>Den Helder reisgids &amp; geschiedenis | Van Napoleons vesting tot marinestad</title>
       <link>https://wanderingcities.com/netherlands/den-helder/</link>
+      <podcast:transcript url="https://wanderingcities.com/netherlands/den-helder/transcript-nl.txt" type="text/plain" language="nl"/>
       <description>Den Helder verbindt maritieme geschiedenis met gevarieerde bezienswaardigheden voor een bezoek, zoals het Marinemuseum, Fort Kijkduin en de oude rijkswerf Willemsoord. In 1811 bezocht keizer Napoleon Bonaparte de zeehaven en gaf hij het bevel om Fort Kijkduin te bouwen als verdedigingswerk.
 
 Andere talen en meer over Den Helder: https://wanderingcities.com/netherlands/den-helder/
@@ -58,6 +60,7 @@ Bronnen o.a. Wikipedia en Wikivoyage (CC BY-SA 4.0) en officiële websites over 
     <item>
       <title>Bergen op Zoom reisgids &amp; geschiedenis | Van vestingstad tot vitrage</title>
       <link>https://wanderingcities.com/netherlands/bergen-op-zoom/</link>
+      <podcast:transcript url="https://wanderingcities.com/netherlands/bergen-op-zoom/transcript-nl.txt" type="text/plain" language="nl"/>
       <description>Bergen op Zoom biedt bij een bezoek historische bezienswaardigheden zoals het stadspaleis het Markiezenhof, de Gevangenpoort en de Sint-Gertrudiskerk. In 1747 veroverden Franse troepen de stad na een belegering van zeventig dagen en braken daarmee haar faam als onneembare vesting.
 
 Andere talen en meer over Bergen op Zoom: https://wanderingcities.com/netherlands/bergen-op-zoom/

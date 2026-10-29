@@ -14,10 +14,11 @@
     <itunes:type>episodic</itunes:type>
     <itunes:category text="Society &amp; Culture"><itunes:category text="Places &amp; Travel"/></itunes:category>
     <itunes:image href="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/cover-3000.jpg"/>
-    <lastBuildDate>Wed, 28 Oct 2026 10:03:13 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 29 Oct 2026 04:52:04 +0000</lastBuildDate>
     <item>
       <title>Bergen op Zoom Travel Guide &amp; History | The Invincible Water Fortress</title>
       <link>https://wanderingcities.com/netherlands/bergen-op-zoom/</link>
+      <podcast:transcript url="https://wanderingcities.com/netherlands/bergen-op-zoom/transcript-en.txt" type="text/plain" language="en"/>
       <description>Bergen op Zoom combines local history with key things to see during a visit, such as Markiezenhof, Gevangenpoort, and Sint-Gertrudiskerk on Grote Markt. In 1747, French troops captured the fortified town after a seventy-day siege, ending its long reputation for impregnability.
 
 Other languages and more about Bergen op Zoom: https://wanderingcities.com/netherlands/bergen-op-zoom/
