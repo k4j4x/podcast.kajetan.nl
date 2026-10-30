@@ -14,7 +14,7 @@
     <itunes:type>episodic</itunes:type>
     <itunes:category text="Society &amp; Culture"><itunes:category text="Places &amp; Travel"/></itunes:category>
     <itunes:image href="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/cover-es-3000.jpg"/>
-    <lastBuildDate>Fri, 30 Oct 2026 05:11:02 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 30 Oct 2026 05:31:50 +0000</lastBuildDate>
     <item>
       <title>Middelburg: guía de viaje e historia | Una ciudad reconstruida piedra a piedra</title>
       <link>https://wanderingcities.com/netherlands/middelburg/</link>
@@ -71,10 +71,10 @@ Fuentes, entre otras: Wikipedia y Wikivoyage (CC BY-SA 4.0) y webs oficiales de 
 Otros idiomas y más sobre Kampen: https://wanderingcities.com/netherlands/kampen/
 
 Fuentes, entre otras: Wikipedia y Wikivoyage (CC BY-SA 4.0) y webs oficiales de turismo, patrimonio y museos. La conversación y las voces están generadas por IA.</itunes:summary>
-      <enclosure url="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/episodes/es/es-kampen-1528270646-v1.mp3" length="19305509" type="audio/mpeg"/>
+      <enclosure url="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/episodes/es/es-kampen-1528270646-v2.mp3" length="15570207" type="audio/mpeg"/>
       <guid isPermaLink="false">64a7823e-a6ed-5d08-ab2f-5b6626193815</guid>
       <pubDate>Wed, 28 Oct 2026 10:02:03 +0000</pubDate>
-      <itunes:duration>00:19:59</itunes:duration>
+      <itunes:duration>00:16:05</itunes:duration>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>false</itunes:explicit>
     </item>
