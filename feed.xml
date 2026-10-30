@@ -14,7 +14,27 @@
     <itunes:type>episodic</itunes:type>
     <itunes:category text="Society &amp; Culture"><itunes:category text="Places &amp; Travel"/></itunes:category>
     <itunes:image href="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/cover-3000.jpg"/>
-    <lastBuildDate>Fri, 30 Oct 2026 09:02:58 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 30 Oct 2026 09:33:44 +0000</lastBuildDate>
+    <item>
+      <title>Lisse Travel Guide &amp; History | How Mud Turned Into Tulips</title>
+      <link>https://wanderingcities.com/netherlands/lisse/</link>
+      <description>Lisse draws travelers who visit for its bulb history, featuring sights like Keukenhof, the medieval tower 't Huys Dever, and Museum de Zwarte Tulp. In 1950, local growers opened Keukenhof as a spring exhibition, welcoming 236,000 visitors that year.
+
+Other languages and more about Lisse: https://wanderingcities.com/netherlands/lisse/
+
+Sources include Wikipedia and Wikivoyage (CC BY-SA 4.0) and official tourism, heritage and museum websites. The conversation and voices are AI-generated.</description>
+      <itunes:summary>Lisse draws travelers who visit for its bulb history, featuring sights like Keukenhof, the medieval tower 't Huys Dever, and Museum de Zwarte Tulp. In 1950, local growers opened Keukenhof as a spring exhibition, welcoming 236,000 visitors that year.
+
+Other languages and more about Lisse: https://wanderingcities.com/netherlands/lisse/
+
+Sources include Wikipedia and Wikivoyage (CC BY-SA 4.0) and official tourism, heritage and museum websites. The conversation and voices are AI-generated.</itunes:summary>
+      <enclosure url="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/episodes/wandering-cities-lisse-1528160050-v1.mp3" length="22769699" type="audio/mpeg"/>
+      <guid isPermaLink="false">c85dd785-5947-5db5-8198-9eaebcc01cc4</guid>
+      <pubDate>Fri, 30 Oct 2026 09:32:15 +0000</pubDate>
+      <itunes:duration>00:23:33</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Elburg Travel Guide &amp; History | How Greed Saved a Fortress</title>
       <link>https://wanderingcities.com/netherlands/elburg/</link>
