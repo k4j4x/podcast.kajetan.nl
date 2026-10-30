@@ -14,7 +14,27 @@
     <itunes:type>episodic</itunes:type>
     <itunes:category text="Society &amp; Culture"><itunes:category text="Places &amp; Travel"/></itunes:category>
     <itunes:image href="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/cover-it-3000.jpg"/>
-    <lastBuildDate>Fri, 30 Oct 2026 10:32:56 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 30 Oct 2026 11:03:23 +0000</lastBuildDate>
+    <item>
+      <title>Lisse: guida di viaggio e storia | Cosa si nasconde sotto i campi</title>
+      <link>https://wanderingcities.com/netherlands/lisse/</link>
+      <description>Lisse offre durante una visita un viaggio nella sua storia attraverso luoghi come Keukenhof, 't Huys Dever e il Museum de Zwarte Tulp. Nel 1950 i coltivatori locali aprirono il parco Keukenhof, che accolse 236.000 visitatori durante la sua prima stagione.
+
+Altre lingue e altro su Lisse: https://wanderingcities.com/netherlands/lisse/
+
+Fonti, tra le altre: Wikipedia e Wikivoyage (CC BY-SA 4.0) e siti ufficiali di turismo, patrimonio e musei. La conversazione e le voci sono generate dall'IA.</description>
+      <itunes:summary>Lisse offre durante una visita un viaggio nella sua storia attraverso luoghi come Keukenhof, 't Huys Dever e il Museum de Zwarte Tulp. Nel 1950 i coltivatori locali aprirono il parco Keukenhof, che accolse 236.000 visitatori durante la sua prima stagione.
+
+Altre lingue e altro su Lisse: https://wanderingcities.com/netherlands/lisse/
+
+Fonti, tra le altre: Wikipedia e Wikivoyage (CC BY-SA 4.0) e siti ufficiali di turismo, patrimonio e musei. La conversazione e le voci sono generate dall'IA.</itunes:summary>
+      <enclosure url="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/episodes/it/it-lisse-1528160050-v1.mp3" length="20267871" type="audio/mpeg"/>
+      <guid isPermaLink="false">c7097aa4-8188-5a42-82d3-7187229c3342</guid>
+      <pubDate>Fri, 30 Oct 2026 11:02:10 +0000</pubDate>
+      <itunes:duration>00:20:59</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Elburg: guida di viaggio e storia | La città medievale nella Sezione Aurea</title>
       <link>https://wanderingcities.com/netherlands/elburg/</link>
