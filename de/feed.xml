@@ -14,7 +14,27 @@
     <itunes:type>episodic</itunes:type>
     <itunes:category text="Society &amp; Culture"><itunes:category text="Places &amp; Travel"/></itunes:category>
     <itunes:image href="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/cover-de-3000.jpg"/>
-    <lastBuildDate>Fri, 30 Oct 2026 09:33:44 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 30 Oct 2026 10:03:31 +0000</lastBuildDate>
+    <item>
+      <title>Lisse Reiseführer &amp; Geschichte | Wie Herrenhäuser für Tulpen wichen</title>
+      <link>https://wanderingcities.com/netherlands/lisse/</link>
+      <description>Lisse bietet bei einem Besuch Einblicke in die Geschichte der Bollenstreek mit Sehenswürdigkeiten wie Keukenhof, 't Huys Dever und dem Museum de Zwarte Tulp. Im Jahr 1950 eröffneten Züchter dort den Frühlingspark Keukenhof, der bereits in der ersten Saison 236.000 Besucher anlockte.
+
+Andere Sprachen und mehr über Lisse: https://wanderingcities.com/netherlands/lisse/
+
+Quellen u. a. Wikipedia und Wikivoyage (CC BY-SA 4.0) sowie offizielle Websites für Tourismus, Denkmalpflege und Museen. Gespräch und Stimmen sind KI-generiert.</description>
+      <itunes:summary>Lisse bietet bei einem Besuch Einblicke in die Geschichte der Bollenstreek mit Sehenswürdigkeiten wie Keukenhof, 't Huys Dever und dem Museum de Zwarte Tulp. Im Jahr 1950 eröffneten Züchter dort den Frühlingspark Keukenhof, der bereits in der ersten Saison 236.000 Besucher anlockte.
+
+Andere Sprachen und mehr über Lisse: https://wanderingcities.com/netherlands/lisse/
+
+Quellen u. a. Wikipedia und Wikivoyage (CC BY-SA 4.0) sowie offizielle Websites für Tourismus, Denkmalpflege und Museen. Gespräch und Stimmen sind KI-generiert.</itunes:summary>
+      <enclosure url="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/episodes/de/de-lisse-1528160050-v1.mp3" length="22488522" type="audio/mpeg"/>
+      <guid isPermaLink="false">f242d4bd-55ad-522a-a796-a228cb39ba56</guid>
+      <pubDate>Fri, 30 Oct 2026 10:02:17 +0000</pubDate>
+      <itunes:duration>00:23:18</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Elburg Reiseführer &amp; Geschichte | Eine Planstadt im Goldenen Schnitt</title>
       <link>https://wanderingcities.com/netherlands/elburg/</link>
