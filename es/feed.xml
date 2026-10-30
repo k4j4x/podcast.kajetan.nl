@@ -14,7 +14,27 @@
     <itunes:type>episodic</itunes:type>
     <itunes:category text="Society &amp; Culture"><itunes:category text="Places &amp; Travel"/></itunes:category>
     <itunes:image href="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/cover-es-3000.jpg"/>
-    <lastBuildDate>Fri, 30 Oct 2026 08:33:01 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 30 Oct 2026 09:02:59 +0000</lastBuildDate>
+    <item>
+      <title>Elburg: guía de viaje e historia | El pelotazo urbanístico medieval</title>
+      <link>https://wanderingcities.com/netherlands/elburg/</link>
+      <description>Elburg ofrece historia y lugares qué ver durante una visita a la Vischpoort, el Agnietenconvent y la Visserijhaven. En 1392, el duque Willem van Gulik ordenó trasladar la ciudad, tras lo cual Arent thoe Boecop diseñó su trazado en cuadrícula.
+
+Otros idiomas y más sobre Elburg: https://wanderingcities.com/netherlands/elburg/
+
+Fuentes, entre otras: Wikipedia y Wikivoyage (CC BY-SA 4.0) y webs oficiales de turismo, patrimonio y museos. La conversación y las voces están generadas por IA.</description>
+      <itunes:summary>Elburg ofrece historia y lugares qué ver durante una visita a la Vischpoort, el Agnietenconvent y la Visserijhaven. En 1392, el duque Willem van Gulik ordenó trasladar la ciudad, tras lo cual Arent thoe Boecop diseñó su trazado en cuadrícula.
+
+Otros idiomas y más sobre Elburg: https://wanderingcities.com/netherlands/elburg/
+
+Fuentes, entre otras: Wikipedia y Wikivoyage (CC BY-SA 4.0) y webs oficiales de turismo, patrimonio y museos. La conversación y las voces están generadas por IA.</itunes:summary>
+      <enclosure url="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/episodes/es/es-elburg-1528998186-v1.mp3" length="18258091" type="audio/mpeg"/>
+      <guid isPermaLink="false">5975921f-ae99-5039-b09e-06e6b4603e79</guid>
+      <pubDate>Fri, 30 Oct 2026 09:01:59 +0000</pubDate>
+      <itunes:duration>00:18:53</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Zutphen: guía de viaje e historia | La ciudad de las torres medievales</title>
       <link>https://wanderingcities.com/netherlands/zutphen/</link>
