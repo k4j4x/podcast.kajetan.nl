@@ -14,7 +14,27 @@
     <itunes:type>episodic</itunes:type>
     <itunes:category text="Society &amp; Culture"><itunes:category text="Places &amp; Travel"/></itunes:category>
     <itunes:image href="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/cover-es-3000.jpg"/>
-    <lastBuildDate>Fri, 30 Oct 2026 05:31:50 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 30 Oct 2026 07:33:20 +0000</lastBuildDate>
+    <item>
+      <title>Zutphen: guía de viaje e historia | La ciudad de las torres medievales</title>
+      <link>https://wanderingcities.com/netherlands/zutphen/</link>
+      <description>Zutphen muestra su historia junto al río IJssel, donde los viajeros encuentran qué ver en una visita a la Walburgiskerk, la Bourgonjetoren y la Berkelpoort. En 1564, los administradores de la iglesia abrieron la Librije en la Walburgiskerk como biblioteca pública con libros encadenados.
+
+Otros idiomas y más sobre Zutphen: https://wanderingcities.com/netherlands/zutphen/
+
+Fuentes, entre otras: Wikipedia y Wikivoyage (CC BY-SA 4.0) y webs oficiales de turismo, patrimonio y museos. La conversación y las voces están generadas por IA.</description>
+      <itunes:summary>Zutphen muestra su historia junto al río IJssel, donde los viajeros encuentran qué ver en una visita a la Walburgiskerk, la Bourgonjetoren y la Berkelpoort. En 1564, los administradores de la iglesia abrieron la Librije en la Walburgiskerk como biblioteca pública con libros encadenados.
+
+Otros idiomas y más sobre Zutphen: https://wanderingcities.com/netherlands/zutphen/
+
+Fuentes, entre otras: Wikipedia y Wikivoyage (CC BY-SA 4.0) y webs oficiales de turismo, patrimonio y museos. La conversación y las voces están generadas por IA.</itunes:summary>
+      <enclosure url="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/episodes/es/es-zutphen-1528580352-v1.mp3" length="18429878" type="audio/mpeg"/>
+      <guid isPermaLink="false">69262f0f-e6da-5ccb-a0ea-a34856aa3d29</guid>
+      <pubDate>Fri, 30 Oct 2026 07:32:01 +0000</pubDate>
+      <itunes:duration>00:19:04</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Middelburg: guía de viaje e historia | Una ciudad reconstruida piedra a piedra</title>
       <link>https://wanderingcities.com/netherlands/middelburg/</link>

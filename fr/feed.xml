@@ -14,7 +14,27 @@
     <itunes:type>episodic</itunes:type>
     <itunes:category text="Society &amp; Culture"><itunes:category text="Places &amp; Travel"/></itunes:category>
     <itunes:image href="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/cover-fr-3000.jpg"/>
-    <lastBuildDate>Fri, 30 Oct 2026 05:31:50 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 30 Oct 2026 07:33:20 +0000</lastBuildDate>
+    <item>
+      <title>Zutphen : guide de voyage et histoire | Le prototype du Siècle d'or</title>
+      <link>https://wanderingcities.com/netherlands/zutphen/</link>
+      <description>Zutphen dévoile son histoire au bord de l'IJssel, où les voyageurs trouvent des sites à voir lors d'une visite de la Walburgiskerk, de la Bourgonjetoren et de la Berkelpoort. En 1564, les marguilliers ont ouvert la Librije dans la Walburgiskerk comme bibliothèque publique avec des livres enchaînés.
+
+Autres langues et plus sur Zutphen : https://wanderingcities.com/netherlands/zutphen/
+
+Sources, entre autres : Wikipédia et Wikivoyage (CC BY-SA 4.0) ainsi que les sites officiels du tourisme, du patrimoine et des musées. La conversation et les voix sont générées par IA.</description>
+      <itunes:summary>Zutphen dévoile son histoire au bord de l'IJssel, où les voyageurs trouvent des sites à voir lors d'une visite de la Walburgiskerk, de la Bourgonjetoren et de la Berkelpoort. En 1564, les marguilliers ont ouvert la Librije dans la Walburgiskerk comme bibliothèque publique avec des livres enchaînés.
+
+Autres langues et plus sur Zutphen : https://wanderingcities.com/netherlands/zutphen/
+
+Sources, entre autres : Wikipédia et Wikivoyage (CC BY-SA 4.0) ainsi que les sites officiels du tourisme, du patrimoine et des musées. La conversation et les voix sont générées par IA.</itunes:summary>
+      <enclosure url="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/episodes/fr/fr-zutphen-1528580352-v1.mp3" length="20048511" type="audio/mpeg"/>
+      <guid isPermaLink="false">9223fec7-89d6-5a99-a248-98555f949147</guid>
+      <pubDate>Fri, 30 Oct 2026 07:33:19 +0000</pubDate>
+      <itunes:duration>00:20:45</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Middelburg : guide de voyage et histoire | Du télescope à sa reconstruction</title>
       <link>https://wanderingcities.com/netherlands/middelburg/</link>
