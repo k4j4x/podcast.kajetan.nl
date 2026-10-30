@@ -14,10 +14,11 @@
     <itunes:type>episodic</itunes:type>
     <itunes:category text="Society &amp; Culture"><itunes:category text="Places &amp; Travel"/></itunes:category>
     <itunes:image href="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/cover-nl-3000.jpg"/>
-    <lastBuildDate>Fri, 30 Oct 2026 02:40:35 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 30 Oct 2026 05:10:35 +0000</lastBuildDate>
     <item>
       <title>Zutphen reisgids &amp; geschiedenis | Van Vikingen tot Hanzestad</title>
       <link>https://wanderingcities.com/netherlands/zutphen/</link>
+      <podcast:transcript url="https://wanderingcities.com/netherlands/zutphen/transcript-nl.txt" type="text/plain" language="nl"/>
       <description>Zutphen toont zijn geschiedenis aan de IJssel, waar reizigers bij een bezoek bezienswaardigheden zoals de Walburgiskerk, de Bourgonjetoren en de Berkelpoort bekijken. In 882 verwoestten Vikingen de nederzetting, waarna de plaats uitgroeide tot een welvarende Hanzestad.
 
 Andere talen en meer over Zutphen: https://wanderingcities.com/netherlands/zutphen/
@@ -38,6 +39,7 @@ Bronnen o.a. Wikipedia en Wikivoyage (CC BY-SA 4.0) en officiële websites over 
     <item>
       <title>Middelburg reisgids &amp; geschiedenis | Van Vikingen tot de wederopbouw</title>
       <link>https://wanderingcities.com/netherlands/middelburg/</link>
+      <podcast:transcript url="https://wanderingcities.com/netherlands/middelburg/transcript-nl.txt" type="text/plain" language="nl"/>
       <description>Middelburg biedt bij een bezoek veel geschiedenis en bekende bezienswaardigheden zoals de Abdij, de Lange Jan en het Stadhuis op de Markt. In mei 1940 verwoestten stadsbranden ruim vijfhonderd gebouwen in het centrum, waarna een vijftienjarige herbouw de historische monumenten herstelde.
 
 Andere talen en meer over Middelburg: https://wanderingcities.com/netherlands/middelburg/
@@ -58,6 +60,7 @@ Bronnen o.a. Wikipedia en Wikivoyage (CC BY-SA 4.0) en officiële websites over 
     <item>
       <title>Woerden reisgids &amp; geschiedenis | Van Romeins fort tot kaasstad</title>
       <link>https://wanderingcities.com/netherlands/woerden/</link>
+      <podcast:transcript url="https://wanderingcities.com/netherlands/woerden/transcript-nl.txt" type="text/plain" language="nl"/>
       <description>Woerden heeft belangrijke bezienswaardigheden zoals Kasteel Woerden, molen De Windhond en het Kaaspakhuis, wat de stad ideaal maakt voor een bezoek. In 1885 begonnen lokale boeren met de wekelijkse kaasmarkt op het Kerkplein, een traditionele handel die daar nog altijd plaatsvindt.
 
 Andere talen en meer over Woerden: https://wanderingcities.com/netherlands/woerden/
@@ -131,10 +134,10 @@ Bronnen o.a. Wikipedia en Wikivoyage (CC BY-SA 4.0) en officiële websites over 
 Andere talen en meer over Bergen op Zoom: https://wanderingcities.com/netherlands/bergen-op-zoom/
 
 Bronnen o.a. Wikipedia en Wikivoyage (CC BY-SA 4.0) en officiële websites over toerisme, erfgoed en musea. Het gesprek en de stemmen zijn door AI gegenereerd.</itunes:summary>
-      <enclosure url="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/episodes/nl/nl-bergen-op-zoom-1528854489-v1.mp3" length="24028548" type="audio/mpeg"/>
+      <enclosure url="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/episodes/nl/nl-bergen-op-zoom-1528854489-v1.mp3" length="17324482" type="audio/mpeg"/>
       <guid isPermaLink="false">d3bea90b-f0e5-5ec5-88ce-fa53b44be0c8</guid>
       <pubDate>Wed, 28 Oct 2026 07:03:19 +0000</pubDate>
-      <itunes:duration>00:24:54</itunes:duration>
+      <itunes:duration>00:17:55</itunes:duration>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>false</itunes:explicit>
     </item>
@@ -215,10 +218,10 @@ Bronnen o.a. Wikipedia en Wikivoyage (CC BY-SA 4.0) en officiële websites over 
 Andere talen en meer over Almelo: https://wanderingcities.com/netherlands/almelo/
 
 Bronnen o.a. Wikipedia en Wikivoyage (CC BY-SA 4.0) en officiële websites over toerisme, erfgoed en musea. Het gesprek en de stemmen zijn door AI gegenereerd.</itunes:summary>
-      <enclosure url="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/episodes/nl/nl-almelo-1528084436-v1.mp3" length="22844472" type="audio/mpeg"/>
+      <enclosure url="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/episodes/nl/nl-almelo-1528084436-v3.mp3" length="21231986" type="audio/mpeg"/>
       <guid isPermaLink="false">4289f2fc-8917-5245-8dc9-c872f9b9f4d3</guid>
       <pubDate>Tue, 27 Oct 2026 05:03:39 +0000</pubDate>
-      <itunes:duration>00:23:40</itunes:duration>
+      <itunes:duration>00:21:59</itunes:duration>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>false</itunes:explicit>
     </item>

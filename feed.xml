@@ -14,10 +14,11 @@
     <itunes:type>episodic</itunes:type>
     <itunes:category text="Society &amp; Culture"><itunes:category text="Places &amp; Travel"/></itunes:category>
     <itunes:image href="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/cover-3000.jpg"/>
-    <lastBuildDate>Fri, 30 Oct 2026 02:40:34 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 30 Oct 2026 05:10:35 +0000</lastBuildDate>
     <item>
       <title>Zutphen Travel Guide &amp; History | How a Medieval Town Saved Its Soul</title>
       <link>https://wanderingcities.com/netherlands/zutphen/</link>
+      <podcast:transcript url="https://wanderingcities.com/netherlands/zutphen/transcript-en.txt" type="text/plain" language="en"/>
       <description>Zutphen showcases medieval history along the IJssel river, where travelers visit sights like the Walburgiskerk, the Bourgonjetoren, and the Berkelpoort. In 1564, church wardens opened the Librije inside the Walburgiskerk to create a public reading room with chained books.
 
 Other languages and more about Zutphen: https://wanderingcities.com/netherlands/zutphen/
@@ -38,6 +39,7 @@ Sources include Wikipedia and Wikivoyage (CC BY-SA 4.0) and official tourism, he
     <item>
       <title>Middelburg Travel Guide &amp; History | Rising from the Wartime Ashes</title>
       <link>https://wanderingcities.com/netherlands/middelburg/</link>
+      <podcast:transcript url="https://wanderingcities.com/netherlands/middelburg/transcript-en.txt" type="text/plain" language="en"/>
       <description>Middelburg offers rich history and many things to see, including the Abdij, the Lange Jan tower, and the Stadhuis on the Markt. In May 1940, wartime fires destroyed over five hundred buildings in the center, prompting a fifteen-year reconstruction that rebuilt these landmarks.
 
 Other languages and more about Middelburg: https://wanderingcities.com/netherlands/middelburg/
@@ -90,10 +92,10 @@ Sources include Wikipedia and Wikivoyage (CC BY-SA 4.0) and official tourism, he
 Other languages and more about Bergen op Zoom: https://wanderingcities.com/netherlands/bergen-op-zoom/
 
 Sources include Wikipedia and Wikivoyage (CC BY-SA 4.0) and official tourism, heritage and museum websites. The conversation and voices are AI-generated.</itunes:summary>
-      <enclosure url="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/episodes/wandering-cities-bergen-op-zoom-1528854489-v1.mp3" length="24984059" type="audio/mpeg"/>
+      <enclosure url="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/episodes/wandering-cities-bergen-op-zoom-1528854489-v2.mp3" length="25484774" type="audio/mpeg"/>
       <guid isPermaLink="false">0f3658ff-c9a7-5b59-beff-aa394efffbc8</guid>
       <pubDate>Wed, 28 Oct 2026 06:33:54 +0000</pubDate>
-      <itunes:duration>00:25:52</itunes:duration>
+      <itunes:duration>00:26:23</itunes:duration>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>false</itunes:explicit>
     </item>

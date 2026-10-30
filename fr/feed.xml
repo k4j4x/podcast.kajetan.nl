@@ -14,10 +14,11 @@
     <itunes:type>episodic</itunes:type>
     <itunes:category text="Society &amp; Culture"><itunes:category text="Places &amp; Travel"/></itunes:category>
     <itunes:image href="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/cover-fr-3000.jpg"/>
-    <lastBuildDate>Fri, 30 Oct 2026 02:40:35 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 30 Oct 2026 05:10:35 +0000</lastBuildDate>
     <item>
       <title>Middelburg : guide de voyage et histoire | Du télescope à sa reconstruction</title>
       <link>https://wanderingcities.com/netherlands/middelburg/</link>
+      <podcast:transcript url="https://wanderingcities.com/netherlands/middelburg/transcript-fr.txt" type="text/plain" language="fr"/>
       <description>Middelburg propose une histoire ancienne et de nombreux lieux à voir lors d'une visite, comme l'Abdij, la tour Lange Jan et le Stadhuis sur la Markt. En mai 1940, des incendies ont détruit plus de cinq cents bâtiments du centre-ville, lançant une reconstruction de quinze ans.
 
 Autres langues et plus sur Middelburg : https://wanderingcities.com/netherlands/middelburg/
@@ -38,6 +39,7 @@ Sources, entre autres : Wikipédia et Wikivoyage (CC BY-SA 4.0) ainsi que les si
     <item>
       <title>Woerden : guide de voyage et histoire | Des légionnaires romains au fromage</title>
       <link>https://wanderingcities.com/netherlands/woerden/</link>
+      <podcast:transcript url="https://wanderingcities.com/netherlands/woerden/transcript-fr.txt" type="text/plain" language="fr"/>
       <description>Woerden rassemble des sites majeurs à voir comme Kasteel Woerden, le moulin De Windhond et le Kaaspakhuis, parfaits pour comprendre son histoire. En 1885, les agriculteurs locaux ont lancé le marché hebdomadaire du fromage sur Kerkplein, une tradition qui dure encore.
 
 Autres langues et plus sur Woerden : https://wanderingcities.com/netherlands/woerden/
@@ -111,10 +113,10 @@ Sources, entre autres : Wikipédia et Wikivoyage (CC BY-SA 4.0) ainsi que les si
 Autres langues et plus sur Bergen op Zoom : https://wanderingcities.com/netherlands/bergen-op-zoom/
 
 Sources, entre autres : Wikipédia et Wikivoyage (CC BY-SA 4.0) ainsi que les sites officiels du tourisme, du patrimoine et des musées. La conversation et les voix sont générées par IA.</itunes:summary>
-      <enclosure url="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/episodes/fr/fr-bergen-op-zoom-1528854489-v1.mp3" length="14515088" type="audio/mpeg"/>
+      <enclosure url="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/episodes/fr/fr-bergen-op-zoom-1528854489-v2.mp3" length="16844375" type="audio/mpeg"/>
       <guid isPermaLink="false">3cfb59ac-9921-5877-ab89-b9117362bdd7</guid>
       <pubDate>Wed, 28 Oct 2026 07:01:46 +0000</pubDate>
-      <itunes:duration>00:14:59</itunes:duration>
+      <itunes:duration>00:17:25</itunes:duration>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>false</itunes:explicit>
     </item>

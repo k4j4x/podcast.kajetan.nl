@@ -14,10 +14,11 @@
     <itunes:type>episodic</itunes:type>
     <itunes:category text="Society &amp; Culture"><itunes:category text="Places &amp; Travel"/></itunes:category>
     <itunes:image href="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/cover-de-3000.jpg"/>
-    <lastBuildDate>Fri, 30 Oct 2026 02:40:35 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 30 Oct 2026 05:10:35 +0000</lastBuildDate>
     <item>
       <title>Zutphen Reiseführer &amp; Geschichte | Vom Wikingerüberfall zur Turmstadt</title>
       <link>https://wanderingcities.com/netherlands/zutphen/</link>
+      <podcast:transcript url="https://wanderingcities.com/netherlands/zutphen/transcript-de.txt" type="text/plain" language="de"/>
       <description>Zutphen zeigt seine Geschichte an der IJssel, wo Gäste bei einem Besuch Sehenswürdigkeiten wie die Walburgiskerk, die Bourgonjetoren und die Berkelpoort besichtigen. Im Jahr 1564 eröffneten Kirchenpfleger die Librije in der Walburgiskerk als öffentliche Bibliothek mit angeketteten Büchern.
 
 Andere Sprachen und mehr über Zutphen: https://wanderingcities.com/netherlands/zutphen/
@@ -38,6 +39,7 @@ Quellen u. a. Wikipedia und Wikivoyage (CC BY-SA 4.0) sowie offizielle Websites 
     <item>
       <title>Middelburg Reiseführer &amp; Geschichte | Wie eine Stadt ihre Seele rettete</title>
       <link>https://wanderingcities.com/netherlands/middelburg/</link>
+      <podcast:transcript url="https://wanderingcities.com/netherlands/middelburg/transcript-de.txt" type="text/plain" language="de"/>
       <description>Middelburg bietet bei einem Besuch viel Geschichte und Sehenswürdigkeiten wie die Abdij, den Turm Lange Jan und das Stadhuis am Markt. Im Mai 1940 zerstörten Brände über fünfhundert Gebäude im Stadtzentrum, woraufhin ein fünfzehnjähriger Wiederaufbau die historischen Bauwerke rekonstruierte.
 
 Andere Sprachen und mehr über Middelburg: https://wanderingcities.com/netherlands/middelburg/
@@ -58,6 +60,7 @@ Quellen u. a. Wikipedia und Wikivoyage (CC BY-SA 4.0) sowie offizielle Websites 
     <item>
       <title>Woerden Reiseführer &amp; Geschichte | Ein Parkhaus auf alten Römerschiffen</title>
       <link>https://wanderingcities.com/netherlands/woerden/</link>
+      <podcast:transcript url="https://wanderingcities.com/netherlands/woerden/transcript-de.txt" type="text/plain" language="de"/>
       <description>Woerden vereint historische Sehenswürdigkeiten wie Kasteel Woerden, die Windmühle De Windhond und die Petrustoren, sodass sich ein Besuch der Stadt an der Oude Rijn lohnt. Im Jahr 2003 wurde beim Bau der Parkgarage Castellum ein antikes Römerschiff freigelegt, das man dort bis heute bestaunen kann.
 
 Andere Sprachen und mehr über Woerden: https://wanderingcities.com/netherlands/woerden/
@@ -131,10 +134,10 @@ Quellen u. a. Wikipedia und Wikivoyage (CC BY-SA 4.0) sowie offizielle Websites 
 Andere Sprachen und mehr über Bergen op Zoom: https://wanderingcities.com/netherlands/bergen-op-zoom/
 
 Quellen u. a. Wikipedia und Wikivoyage (CC BY-SA 4.0) sowie offizielle Websites für Tourismus, Denkmalpflege und Museen. Gespräch und Stimmen sind KI-generiert.</itunes:summary>
-      <enclosure url="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/episodes/de/de-bergen-op-zoom-1528854489-v1.mp3" length="23590281" type="audio/mpeg"/>
+      <enclosure url="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/episodes/de/de-bergen-op-zoom-1528854489-v2.mp3" length="17447953" type="audio/mpeg"/>
       <guid isPermaLink="false">30400ee6-b4b0-598b-9d64-7b2f167361a1</guid>
       <pubDate>Wed, 28 Oct 2026 06:32:19 +0000</pubDate>
-      <itunes:duration>00:24:27</itunes:duration>
+      <itunes:duration>00:18:03</itunes:duration>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>false</itunes:explicit>
     </item>
