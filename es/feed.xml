@@ -14,7 +14,27 @@
     <itunes:type>episodic</itunes:type>
     <itunes:category text="Society &amp; Culture"><itunes:category text="Places &amp; Travel"/></itunes:category>
     <itunes:image href="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/cover-es-3000.jpg"/>
-    <lastBuildDate>Fri, 30 Oct 2026 10:03:31 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 30 Oct 2026 10:32:56 +0000</lastBuildDate>
+    <item>
+      <title>Lisse: guía de viaje e historia | Castillos destruidos por tulipanes</title>
+      <link>https://wanderingcities.com/netherlands/lisse/</link>
+      <description>Lisse ofrece en una visita datos sobre su historia con puntos qué ver como Keukenhof, 't Huys Dever y el Museum de Zwarte Tulp. En 1950, los cultivadores locales abrieron el parque Keukenhof, que acogió a 236.000 visitantes en su primer año.
+
+Otros idiomas y más sobre Lisse: https://wanderingcities.com/netherlands/lisse/
+
+Fuentes, entre otras: Wikipedia y Wikivoyage (CC BY-SA 4.0) y webs oficiales de turismo, patrimonio y museos. La conversación y las voces están generadas por IA.</description>
+      <itunes:summary>Lisse ofrece en una visita datos sobre su historia con puntos qué ver como Keukenhof, 't Huys Dever y el Museum de Zwarte Tulp. En 1950, los cultivadores locales abrieron el parque Keukenhof, que acogió a 236.000 visitantes en su primer año.
+
+Otros idiomas y más sobre Lisse: https://wanderingcities.com/netherlands/lisse/
+
+Fuentes, entre otras: Wikipedia y Wikivoyage (CC BY-SA 4.0) y webs oficiales de turismo, patrimonio y museos. La conversación y las voces están generadas por IA.</itunes:summary>
+      <enclosure url="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/episodes/es/es-lisse-1528160050-v1.mp3" length="18741672" type="audio/mpeg"/>
+      <guid isPermaLink="false">e94c56fb-86af-57f3-99e2-f8d8463df795</guid>
+      <pubDate>Fri, 30 Oct 2026 10:32:03 +0000</pubDate>
+      <itunes:duration>00:19:23</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Elburg: guía de viaje e historia | El pelotazo urbanístico medieval</title>
       <link>https://wanderingcities.com/netherlands/elburg/</link>
