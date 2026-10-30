@@ -14,7 +14,27 @@
     <itunes:type>episodic</itunes:type>
     <itunes:category text="Society &amp; Culture"><itunes:category text="Places &amp; Travel"/></itunes:category>
     <itunes:image href="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/cover-nl-3000.jpg"/>
-    <lastBuildDate>Fri, 30 Oct 2026 08:03:15 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 30 Oct 2026 08:33:01 +0000</lastBuildDate>
+    <item>
+      <title>Elburg reisgids &amp; geschiedenis | Waarom een vestingstad kaarsrecht is</title>
+      <link>https://wanderingcities.com/netherlands/elburg/</link>
+      <description>Elburg combineert een rijke geschiedenis met bezienswaardigheden zoals de Vischpoort, de Visserijhaven en het middeleeuwse Agnietenconvent. In 1392 gaf hertog Willem van Gulik de opdracht om de stad te verplaatsen, waarna Arent thoe Boecop het kaarsrechte stratenpatroon ontwierp.
+
+Andere talen en meer over Elburg: https://wanderingcities.com/netherlands/elburg/
+
+Bronnen o.a. Wikipedia en Wikivoyage (CC BY-SA 4.0) en officiële websites over toerisme, erfgoed en musea. Het gesprek en de stemmen zijn door AI gegenereerd.</description>
+      <itunes:summary>Elburg combineert een rijke geschiedenis met bezienswaardigheden zoals de Vischpoort, de Visserijhaven en het middeleeuwse Agnietenconvent. In 1392 gaf hertog Willem van Gulik de opdracht om de stad te verplaatsen, waarna Arent thoe Boecop het kaarsrechte stratenpatroon ontwierp.
+
+Andere talen en meer over Elburg: https://wanderingcities.com/netherlands/elburg/
+
+Bronnen o.a. Wikipedia en Wikivoyage (CC BY-SA 4.0) en officiële websites over toerisme, erfgoed en musea. Het gesprek en de stemmen zijn door AI gegenereerd.</itunes:summary>
+      <enclosure url="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/episodes/nl/nl-elburg-1528998186-v1.mp3" length="19430998" type="audio/mpeg"/>
+      <guid isPermaLink="false">3034a259-f110-5463-9875-16388160ff5c</guid>
+      <pubDate>Fri, 30 Oct 2026 08:33:00 +0000</pubDate>
+      <itunes:duration>00:20:07</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Zutphen reisgids &amp; geschiedenis | Van Vikingen tot Hanzestad</title>
       <link>https://wanderingcities.com/netherlands/zutphen/</link>
