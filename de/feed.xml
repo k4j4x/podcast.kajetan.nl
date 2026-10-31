@@ -14,7 +14,27 @@
     <itunes:type>episodic</itunes:type>
     <itunes:category text="Society &amp; Culture"><itunes:category text="Places &amp; Travel"/></itunes:category>
     <itunes:image href="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/cover-de-3000.jpg"/>
-    <lastBuildDate>Sat, 31 Oct 2026 05:03:25 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 31 Oct 2026 10:04:00 +0000</lastBuildDate>
+    <item>
+      <title>Vlissingen Reiseführer &amp; Geschichte | Ozeanriesen hautnah am Strand</title>
+      <link>https://wanderingcities.com/netherlands/vlissingen/</link>
+      <description>Vlissingen verbindet eine lange Geschichte an der Westerschelde mit markanten Sehenswürdigkeiten wie dem Bellamypark, der historischen Oranjemolen und dem Keizersbolwerk am Boulevard de Ruyter. Am 6. April 1572 vertrieben die Einwohner die spanischen Truppen eigenständig aus der Stadt, was einen wichtigen Wendepunkt im Achtzigjährigen Krieg markierte.
+
+Andere Sprachen und mehr über Vlissingen: https://wanderingcities.com/netherlands/vlissingen/
+
+Quellen u. a. Wikipedia und Wikivoyage (CC BY-SA 4.0) sowie offizielle Websites für Tourismus, Denkmalpflege und Museen. Gespräch und Stimmen sind KI-generiert.</description>
+      <itunes:summary>Vlissingen verbindet eine lange Geschichte an der Westerschelde mit markanten Sehenswürdigkeiten wie dem Bellamypark, der historischen Oranjemolen und dem Keizersbolwerk am Boulevard de Ruyter. Am 6. April 1572 vertrieben die Einwohner die spanischen Truppen eigenständig aus der Stadt, was einen wichtigen Wendepunkt im Achtzigjährigen Krieg markierte.
+
+Andere Sprachen und mehr über Vlissingen: https://wanderingcities.com/netherlands/vlissingen/
+
+Quellen u. a. Wikipedia und Wikivoyage (CC BY-SA 4.0) sowie offizielle Websites für Tourismus, Denkmalpflege und Museen. Gespräch und Stimmen sind KI-generiert.</itunes:summary>
+      <enclosure url="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/episodes/de/de-vlissingen-1528524195-v1.mp3" length="25872320" type="audio/mpeg"/>
+      <guid isPermaLink="false">a4f2964b-2340-512c-9e57-b8a92cddb4fd</guid>
+      <pubDate>Sat, 31 Oct 2026 10:02:30 +0000</pubDate>
+      <itunes:duration>00:26:49</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Lisse Reiseführer &amp; Geschichte | Wie Herrenhäuser für Tulpen wichen</title>
       <link>https://wanderingcities.com/netherlands/lisse/</link>

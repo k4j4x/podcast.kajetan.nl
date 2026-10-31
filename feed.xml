@@ -14,7 +14,27 @@
     <itunes:type>episodic</itunes:type>
     <itunes:category text="Society &amp; Culture"><itunes:category text="Places &amp; Travel"/></itunes:category>
     <itunes:image href="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/cover-3000.jpg"/>
-    <lastBuildDate>Sat, 31 Oct 2026 05:03:25 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 31 Oct 2026 10:04:00 +0000</lastBuildDate>
+    <item>
+      <title>Vlissingen Travel Guide &amp; History | Ocean Giants Right off the Beach</title>
+      <link>https://wanderingcities.com/netherlands/vlissingen/</link>
+      <description>Vlissingen combines maritime history with landmark sights such as Boulevard de Ruyter, the Oranjemolen, and Bellamypark for anyone planning a visit. In 1572, citizens expelled Spanish troops from the city, marking a pivotal turning point in the Eighty Years' War.
+
+Other languages and more about Vlissingen: https://wanderingcities.com/netherlands/vlissingen/
+
+Sources include Wikipedia and Wikivoyage (CC BY-SA 4.0) and official tourism, heritage and museum websites. The conversation and voices are AI-generated.</description>
+      <itunes:summary>Vlissingen combines maritime history with landmark sights such as Boulevard de Ruyter, the Oranjemolen, and Bellamypark for anyone planning a visit. In 1572, citizens expelled Spanish troops from the city, marking a pivotal turning point in the Eighty Years' War.
+
+Other languages and more about Vlissingen: https://wanderingcities.com/netherlands/vlissingen/
+
+Sources include Wikipedia and Wikivoyage (CC BY-SA 4.0) and official tourism, heritage and museum websites. The conversation and voices are AI-generated.</itunes:summary>
+      <enclosure url="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/episodes/wandering-cities-vlissingen-1528524195-v1.mp3" length="22650592" type="audio/mpeg"/>
+      <guid isPermaLink="false">b5e14f81-0d95-501d-87e3-0dda2c1a0882</guid>
+      <pubDate>Sat, 31 Oct 2026 10:04:00 +0000</pubDate>
+      <itunes:duration>00:23:26</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Enkhuizen Travel Guide &amp; History | Saved by an Economic Crash</title>
       <link>https://wanderingcities.com/netherlands/enkhuizen/</link>
