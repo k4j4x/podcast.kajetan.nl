@@ -14,7 +14,27 @@
     <itunes:type>episodic</itunes:type>
     <itunes:category text="Society &amp; Culture"><itunes:category text="Places &amp; Travel"/></itunes:category>
     <itunes:image href="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/cover-fr-3000.jpg"/>
-    <lastBuildDate>Sat, 31 Oct 2026 10:04:01 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 31 Oct 2026 10:33:05 +0000</lastBuildDate>
+    <item>
+      <title>Vlissingen : guide de voyage et histoire | Les géants des mers frôlent la plage</title>
+      <link>https://wanderingcities.com/netherlands/vlissingen/</link>
+      <description>Vlissingen associe son histoire maritime aux vues du Boulevard de Ruyter, du Bellamypark et du moulin Oranjemolen, des étapes clés lors d'une visite. En 1572, les habitants chassèrent la garnison espagnole de la ville, marquant un tournant majeur de la guerre de Quatre-Vingts Ans.
+
+Autres langues et plus sur Vlissingen : https://wanderingcities.com/netherlands/vlissingen/
+
+Sources, entre autres : Wikipédia et Wikivoyage (CC BY-SA 4.0) ainsi que les sites officiels du tourisme, du patrimoine et des musées. La conversation et les voix sont générées par IA.</description>
+      <itunes:summary>Vlissingen associe son histoire maritime aux vues du Boulevard de Ruyter, du Bellamypark et du moulin Oranjemolen, des étapes clés lors d'une visite. En 1572, les habitants chassèrent la garnison espagnole de la ville, marquant un tournant majeur de la guerre de Quatre-Vingts Ans.
+
+Autres langues et plus sur Vlissingen : https://wanderingcities.com/netherlands/vlissingen/
+
+Sources, entre autres : Wikipédia et Wikivoyage (CC BY-SA 4.0) ainsi que les sites officiels du tourisme, du patrimoine et des musées. La conversation et les voix sont générées par IA.</itunes:summary>
+      <enclosure url="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/episodes/fr/fr-vlissingen-1528524195-v1.mp3" length="20104541" type="audio/mpeg"/>
+      <guid isPermaLink="false">77f4ea30-1ac7-560f-bd6c-58cbde39cb6c</guid>
+      <pubDate>Sat, 31 Oct 2026 10:32:07 +0000</pubDate>
+      <itunes:duration>00:20:49</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Lisse : guide de voyage et histoire | L'histoire cachée sous les tulipes</title>
       <link>https://wanderingcities.com/netherlands/lisse/</link>

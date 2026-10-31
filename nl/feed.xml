@@ -14,7 +14,27 @@
     <itunes:type>episodic</itunes:type>
     <itunes:category text="Society &amp; Culture"><itunes:category text="Places &amp; Travel"/></itunes:category>
     <itunes:image href="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/cover-nl-3000.jpg"/>
-    <lastBuildDate>Sat, 31 Oct 2026 10:04:01 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 31 Oct 2026 10:33:05 +0000</lastBuildDate>
+    <item>
+      <title>Vlissingen reisgids &amp; geschiedenis | Zeeschepen rakelings langs het strand</title>
+      <link>https://wanderingcities.com/netherlands/vlissingen/</link>
+      <description>Vlissingen verbindt maritieme geschiedenis aan de Westerschelde met bezienswaardigheden zoals Boulevard de Ruyter, de Oranjemolen en het Bellamypark. In 1572 verjoegen de inwoners de Spaanse troepen uit de stad, wat een belangrijk keerpunt vormde in de Tachtigjarige Oorlog.
+
+Andere talen en meer over Vlissingen: https://wanderingcities.com/netherlands/vlissingen/
+
+Bronnen o.a. Wikipedia en Wikivoyage (CC BY-SA 4.0) en officiële websites over toerisme, erfgoed en musea. Het gesprek en de stemmen zijn door AI gegenereerd.</description>
+      <itunes:summary>Vlissingen verbindt maritieme geschiedenis aan de Westerschelde met bezienswaardigheden zoals Boulevard de Ruyter, de Oranjemolen en het Bellamypark. In 1572 verjoegen de inwoners de Spaanse troepen uit de stad, wat een belangrijk keerpunt vormde in de Tachtigjarige Oorlog.
+
+Andere talen en meer over Vlissingen: https://wanderingcities.com/netherlands/vlissingen/
+
+Bronnen o.a. Wikipedia en Wikivoyage (CC BY-SA 4.0) en officiële websites over toerisme, erfgoed en musea. Het gesprek en de stemmen zijn door AI gegenereerd.</itunes:summary>
+      <enclosure url="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/episodes/nl/nl-vlissingen-1528524195-v1.mp3" length="14398774" type="audio/mpeg"/>
+      <guid isPermaLink="false">b1507f8b-cb24-5b0d-821f-cd89b0904960</guid>
+      <pubDate>Sat, 31 Oct 2026 10:33:05 +0000</pubDate>
+      <itunes:duration>00:14:52</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Lisse reisgids &amp; geschiedenis | Van ridders tot hightech tulpen</title>
       <link>https://wanderingcities.com/netherlands/lisse/</link>
