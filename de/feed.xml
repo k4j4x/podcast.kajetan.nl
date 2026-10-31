@@ -14,7 +14,27 @@
     <itunes:type>episodic</itunes:type>
     <itunes:category text="Society &amp; Culture"><itunes:category text="Places &amp; Travel"/></itunes:category>
     <itunes:image href="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/cover-de-3000.jpg"/>
-    <lastBuildDate>Sat, 31 Oct 2026 11:03:13 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 31 Oct 2026 11:33:44 +0000</lastBuildDate>
+    <item>
+      <title>Gorinchem Reiseführer &amp; Geschichte | Schönste Festungsstadt der Niederlande</title>
+      <link>https://wanderingcities.com/netherlands/gorinchem/</link>
+      <description>Gorinchem bietet bei einem Besuch historische Sehenswürdigkeiten wie die Dalempoort, den Lingehaven und den Grote Toren an der Merwede. Im Jahr 2021 wählte der ANWB Gorinchem zur schönsten Festungsstadt der Niederlande, was die lange Geschichte dieser Festung unterstreicht.
+
+Andere Sprachen und mehr über Gorinchem: https://wanderingcities.com/netherlands/gorinchem/
+
+Quellen u. a. Wikipedia und Wikivoyage (CC BY-SA 4.0) sowie offizielle Websites für Tourismus, Denkmalpflege und Museen. Gespräch und Stimmen sind KI-generiert.</description>
+      <itunes:summary>Gorinchem bietet bei einem Besuch historische Sehenswürdigkeiten wie die Dalempoort, den Lingehaven und den Grote Toren an der Merwede. Im Jahr 2021 wählte der ANWB Gorinchem zur schönsten Festungsstadt der Niederlande, was die lange Geschichte dieser Festung unterstreicht.
+
+Andere Sprachen und mehr über Gorinchem: https://wanderingcities.com/netherlands/gorinchem/
+
+Quellen u. a. Wikipedia und Wikivoyage (CC BY-SA 4.0) sowie offizielle Websites für Tourismus, Denkmalpflege und Museen. Gespräch und Stimmen sind KI-generiert.</itunes:summary>
+      <enclosure url="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/episodes/de/de-gorinchem-1528005855-v1.mp3" length="23053619" type="audio/mpeg"/>
+      <guid isPermaLink="false">0cd78820-b038-554a-9736-1e6e72918fde</guid>
+      <pubDate>Sat, 31 Oct 2026 11:32:16 +0000</pubDate>
+      <itunes:duration>00:23:53</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Vlissingen Reiseführer &amp; Geschichte | Ozeanriesen hautnah am Strand</title>
       <link>https://wanderingcities.com/netherlands/vlissingen/</link>
