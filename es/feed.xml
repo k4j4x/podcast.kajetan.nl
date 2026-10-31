@@ -14,7 +14,27 @@
     <itunes:type>episodic</itunes:type>
     <itunes:category text="Society &amp; Culture"><itunes:category text="Places &amp; Travel"/></itunes:category>
     <itunes:image href="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/cover-es-3000.jpg"/>
-    <lastBuildDate>Sat, 31 Oct 2026 10:33:06 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 31 Oct 2026 11:03:13 +0000</lastBuildDate>
+    <item>
+      <title>Vlissingen: guía de viaje e historia | Gigantes del mar junto a la playa</title>
+      <link>https://wanderingcities.com/netherlands/vlissingen/</link>
+      <description>Vlissingen combina su historia marítima con el Boulevard de Ruyter, el Bellamypark y el molino Oranjemolen para organizar una visita. En 1572, los vecinos expulsaron a las tropas españolas de la ciudad, marcando un punto de inflexión en la guerra de los Ochenta Años.
+
+Otros idiomas y más sobre Vlissingen: https://wanderingcities.com/netherlands/vlissingen/
+
+Fuentes, entre otras: Wikipedia y Wikivoyage (CC BY-SA 4.0) y webs oficiales de turismo, patrimonio y museos. La conversación y las voces están generadas por IA.</description>
+      <itunes:summary>Vlissingen combina su historia marítima con el Boulevard de Ruyter, el Bellamypark y el molino Oranjemolen para organizar una visita. En 1572, los vecinos expulsaron a las tropas españolas de la ciudad, marcando un punto de inflexión en la guerra de los Ochenta Años.
+
+Otros idiomas y más sobre Vlissingen: https://wanderingcities.com/netherlands/vlissingen/
+
+Fuentes, entre otras: Wikipedia y Wikivoyage (CC BY-SA 4.0) y webs oficiales de turismo, patrimonio y museos. La conversación y las voces están generadas por IA.</itunes:summary>
+      <enclosure url="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/episodes/es/es-vlissingen-1528524195-v1.mp3" length="19439672" type="audio/mpeg"/>
+      <guid isPermaLink="false">85344f92-1672-5d7f-86b9-fd0cb85490ab</guid>
+      <pubDate>Sat, 31 Oct 2026 11:02:04 +0000</pubDate>
+      <itunes:duration>00:20:07</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Lisse: guía de viaje e historia | Castillos destruidos por tulipanes</title>
       <link>https://wanderingcities.com/netherlands/lisse/</link>
