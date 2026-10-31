@@ -14,10 +14,11 @@
     <itunes:type>episodic</itunes:type>
     <itunes:category text="Society &amp; Culture"><itunes:category text="Places &amp; Travel"/></itunes:category>
     <itunes:image href="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/cover-nl-3000.jpg"/>
-    <lastBuildDate>Sat, 31 Oct 2026 02:23:39 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 31 Oct 2026 04:36:39 +0000</lastBuildDate>
     <item>
       <title>Lisse reisgids &amp; geschiedenis | Van ridders tot hightech tulpen</title>
       <link>https://wanderingcities.com/netherlands/lisse/</link>
+      <podcast:transcript url="https://wanderingcities.com/netherlands/lisse/transcript-nl.txt" type="text/plain" language="nl"/>
       <description>Lisse biedt bij een bezoek zicht op de geschiedenis met bezienswaardigheden zoals Kasteel Keukenhof, 't Huys Dever en Museum de Zwarte Tulp. In 1950 openden bloembollenkwekers hier het lentepark Keukenhof, dat in het eerste jaar 236.000 bezoekers ontving.
 
 Andere talen en meer over Lisse: https://wanderingcities.com/netherlands/lisse/
@@ -38,6 +39,7 @@ Bronnen o.a. Wikipedia en Wikivoyage (CC BY-SA 4.0) en officiële websites over 
     <item>
       <title>Elburg reisgids &amp; geschiedenis | Waarom een vestingstad kaarsrecht is</title>
       <link>https://wanderingcities.com/netherlands/elburg/</link>
+      <podcast:transcript url="https://wanderingcities.com/netherlands/elburg/transcript-nl.txt" type="text/plain" language="nl"/>
       <description>Elburg combineert een rijke geschiedenis met bezienswaardigheden zoals de Vischpoort, de Visserijhaven en het middeleeuwse Agnietenconvent. In 1392 gaf hertog Willem van Gulik de opdracht om de stad te verplaatsen, waarna Arent thoe Boecop het kaarsrechte stratenpatroon ontwierp.
 
 Andere talen en meer over Elburg: https://wanderingcities.com/netherlands/elburg/

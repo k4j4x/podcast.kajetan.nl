@@ -14,10 +14,11 @@
     <itunes:type>episodic</itunes:type>
     <itunes:category text="Society &amp; Culture"><itunes:category text="Places &amp; Travel"/></itunes:category>
     <itunes:image href="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/cover-it-3000.jpg"/>
-    <lastBuildDate>Sat, 31 Oct 2026 02:23:40 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 31 Oct 2026 04:36:40 +0000</lastBuildDate>
     <item>
       <title>Lisse: guida di viaggio e storia | Cosa si nasconde sotto i campi</title>
       <link>https://wanderingcities.com/netherlands/lisse/</link>
+      <podcast:transcript url="https://wanderingcities.com/netherlands/lisse/transcript-it.txt" type="text/plain" language="it"/>
       <description>Lisse offre durante una visita un viaggio nella sua storia attraverso luoghi come Keukenhof, 't Huys Dever e il Museum de Zwarte Tulp. Nel 1950 i coltivatori locali aprirono il parco Keukenhof, che accolse 236.000 visitatori durante la sua prima stagione.
 
 Altre lingue e altro su Lisse: https://wanderingcities.com/netherlands/lisse/
@@ -38,6 +39,7 @@ Fonti, tra le altre: Wikipedia e Wikivoyage (CC BY-SA 4.0) e siti ufficiali di t
     <item>
       <title>Elburg: guida di viaggio e storia | La città medievale nella Sezione Aurea</title>
       <link>https://wanderingcities.com/netherlands/elburg/</link>
+      <podcast:transcript url="https://wanderingcities.com/netherlands/elburg/transcript-it.txt" type="text/plain" language="it"/>
       <description>Elburg offre storia e suggerimenti su cosa vedere durante una visita alla Vischpoort, al monastero Agnietenconvent e al porto Visserijhaven. Nel 1392 il duca Willem van Gulik ordinò di spostare la città, dopodiché Arent thoe Boecop ne progettò la pianta nella Sezione Aurea.
 
 Altre lingue e altro su Elburg: https://wanderingcities.com/netherlands/elburg/
@@ -58,6 +60,7 @@ Fonti, tra le altre: Wikipedia e Wikivoyage (CC BY-SA 4.0) e siti ufficiali di t
     <item>
       <title>Zutphen: guida di viaggio e storia | La biblioteca dei libri incatenati</title>
       <link>https://wanderingcities.com/netherlands/zutphen/</link>
+      <podcast:transcript url="https://wanderingcities.com/netherlands/zutphen/transcript-it.txt" type="text/plain" language="it"/>
       <description>Zutphen mostra la sua storia lungo il fiume IJssel, dove i viaggiatori trovano cosa vedere in una visita alla Walburgiskerk, alla Bourgonjetoren e alla Berkelpoort. Nel 1564, i massari della chiesa aprirono la Librije nella Walburgiskerk come biblioteca pubblica con libri incatenati.
 
 Altre lingue e altro su Zutphen: https://wanderingcities.com/netherlands/zutphen/

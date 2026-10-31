@@ -14,10 +14,11 @@
     <itunes:type>episodic</itunes:type>
     <itunes:category text="Society &amp; Culture"><itunes:category text="Places &amp; Travel"/></itunes:category>
     <itunes:image href="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/cover-3000.jpg"/>
-    <lastBuildDate>Sat, 31 Oct 2026 02:23:39 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 31 Oct 2026 04:36:39 +0000</lastBuildDate>
     <item>
       <title>Enkhuizen Travel Guide &amp; History | Saved by an Economic Crash</title>
       <link>https://wanderingcities.com/netherlands/enkhuizen/</link>
+      <podcast:transcript url="https://wanderingcities.com/netherlands/enkhuizen/transcript-en.txt" type="text/plain" language="en"/>
       <description>Enkhuizen combines maritime history with notable things to see, such as the Drommedaris tower and the Zuiderzeemuseum. Between 1650 and 1850, economic decline shrank the population from 22,000 to 5,400, leaving its Golden Age buildings intact for future generations.
 
 Other languages and more about Enkhuizen: https://wanderingcities.com/netherlands/enkhuizen/
@@ -38,6 +39,7 @@ Sources include Wikipedia and Wikivoyage (CC BY-SA 4.0) and official tourism, he
     <item>
       <title>Lisse Travel Guide &amp; History | How Mud Turned Into Tulips</title>
       <link>https://wanderingcities.com/netherlands/lisse/</link>
+      <podcast:transcript url="https://wanderingcities.com/netherlands/lisse/transcript-en.txt" type="text/plain" language="en"/>
       <description>Lisse draws travelers who visit for its bulb history, featuring sights like Keukenhof, the medieval tower 't Huys Dever, and Museum de Zwarte Tulp. In 1950, local growers opened Keukenhof as a spring exhibition, welcoming 236,000 visitors that year.
 
 Other languages and more about Lisse: https://wanderingcities.com/netherlands/lisse/
@@ -58,6 +60,7 @@ Sources include Wikipedia and Wikivoyage (CC BY-SA 4.0) and official tourism, he
     <item>
       <title>Elburg Travel Guide &amp; History | How Greed Saved a Fortress</title>
       <link>https://wanderingcities.com/netherlands/elburg/</link>
+      <podcast:transcript url="https://wanderingcities.com/netherlands/elburg/transcript-en.txt" type="text/plain" language="en"/>
       <description>Elburg features rich history and many things to see, including the fortified Vischpoort, the historic Visserijhaven, and pebble pavements along Beekstraat. In 1863, high land prices caused the new railway to bypass the town, preserving its medieval layout.
 
 Other languages and more about Elburg: https://wanderingcities.com/netherlands/elburg/

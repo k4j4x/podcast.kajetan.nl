@@ -14,10 +14,11 @@
     <itunes:type>episodic</itunes:type>
     <itunes:category text="Society &amp; Culture"><itunes:category text="Places &amp; Travel"/></itunes:category>
     <itunes:image href="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/cover-de-3000.jpg"/>
-    <lastBuildDate>Sat, 31 Oct 2026 02:23:39 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 31 Oct 2026 04:36:39 +0000</lastBuildDate>
     <item>
       <title>Lisse Reiseführer &amp; Geschichte | Wie Herrenhäuser für Tulpen wichen</title>
       <link>https://wanderingcities.com/netherlands/lisse/</link>
+      <podcast:transcript url="https://wanderingcities.com/netherlands/lisse/transcript-de.txt" type="text/plain" language="de"/>
       <description>Lisse bietet bei einem Besuch Einblicke in die Geschichte der Bollenstreek mit Sehenswürdigkeiten wie Keukenhof, 't Huys Dever und dem Museum de Zwarte Tulp. Im Jahr 1950 eröffneten Züchter dort den Frühlingspark Keukenhof, der bereits in der ersten Saison 236.000 Besucher anlockte.
 
 Andere Sprachen und mehr über Lisse: https://wanderingcities.com/netherlands/lisse/
@@ -38,6 +39,7 @@ Quellen u. a. Wikipedia und Wikivoyage (CC BY-SA 4.0) sowie offizielle Websites 
     <item>
       <title>Elburg Reiseführer &amp; Geschichte | Eine Planstadt im Goldenen Schnitt</title>
       <link>https://wanderingcities.com/netherlands/elburg/</link>
+      <podcast:transcript url="https://wanderingcities.com/netherlands/elburg/transcript-de.txt" type="text/plain" language="de"/>
       <description>Elburg bietet Geschichte und Sehenswürdigkeiten für einen Besuch der Vischpoort, des Agnietenconvents und der Visserijhaven. Im Jahr 1392 befahl Herzog Willem van Gulik die Verlegung der Stadt, woraufhin Arent thoe Boecop den Grundriss im Goldenen Schnitt anlegte.
 
 Andere Sprachen und mehr über Elburg: https://wanderingcities.com/netherlands/elburg/

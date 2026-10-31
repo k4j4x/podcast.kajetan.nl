@@ -14,10 +14,11 @@
     <itunes:type>episodic</itunes:type>
     <itunes:category text="Society &amp; Culture"><itunes:category text="Places &amp; Travel"/></itunes:category>
     <itunes:image href="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/cover-fr-3000.jpg"/>
-    <lastBuildDate>Sat, 31 Oct 2026 02:23:40 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 31 Oct 2026 04:36:39 +0000</lastBuildDate>
     <item>
       <title>Lisse : guide de voyage et histoire | L'histoire cachée sous les tulipes</title>
       <link>https://wanderingcities.com/netherlands/lisse/</link>
+      <podcast:transcript url="https://wanderingcities.com/netherlands/lisse/transcript-fr.txt" type="text/plain" language="fr"/>
       <description>Lisse offre lors d'une visite des repères sur son histoire et des lieux à voir comme Keukenhof, 't Huys Dever et le Museum de Zwarte Tulp. En 1950, des cultivateurs locaux ont ouvert le parc floral Keukenhof, accueillant 236 000 visiteurs dès la première année.
 
 Autres langues et plus sur Lisse : https://wanderingcities.com/netherlands/lisse/
@@ -38,6 +39,7 @@ Sources, entre autres : Wikipédia et Wikivoyage (CC BY-SA 4.0) ainsi que les si
     <item>
       <title>Elburg : guide de voyage et histoire | Une cité médiévale au plan en damier</title>
       <link>https://wanderingcities.com/netherlands/elburg/</link>
+      <podcast:transcript url="https://wanderingcities.com/netherlands/elburg/transcript-fr.txt" type="text/plain" language="fr"/>
       <description>Elburg propose son histoire et des sites à voir durant une visite de la Vischpoort, de la Beekstraat et du Visserijhaven. En 1392, le duc Willem van Gulik a ordonné le déplacement de la ville, puis Arent thoe Boecop a dessiné le plan en damier.
 
 Autres langues et plus sur Elburg : https://wanderingcities.com/netherlands/elburg/
@@ -58,6 +60,7 @@ Sources, entre autres : Wikipédia et Wikivoyage (CC BY-SA 4.0) ainsi que les si
     <item>
       <title>Zutphen : guide de voyage et histoire | Le prototype du Siècle d'or</title>
       <link>https://wanderingcities.com/netherlands/zutphen/</link>
+      <podcast:transcript url="https://wanderingcities.com/netherlands/zutphen/transcript-fr.txt" type="text/plain" language="fr"/>
       <description>Zutphen dévoile son histoire au bord de l'IJssel, où les voyageurs trouvent des sites à voir lors d'une visite de la Walburgiskerk, de la Bourgonjetoren et de la Berkelpoort. En 1564, les marguilliers ont ouvert la Librije dans la Walburgiskerk comme bibliothèque publique avec des livres enchaînés.
 
 Autres langues et plus sur Zutphen : https://wanderingcities.com/netherlands/zutphen/
