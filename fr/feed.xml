@@ -14,7 +14,27 @@
     <itunes:type>episodic</itunes:type>
     <itunes:category text="Society &amp; Culture"><itunes:category text="Places &amp; Travel"/></itunes:category>
     <itunes:image href="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/cover-fr-3000.jpg"/>
-    <lastBuildDate>Sun, 01 Nov 2026 10:03:04 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 01 Nov 2026 10:33:33 +0000</lastBuildDate>
+    <item>
+      <title>Enkhuizen : guide de voyage et histoire | Sauvée par son déclin économique</title>
+      <link>https://wanderingcities.com/netherlands/enkhuizen/</link>
+      <description>Enkhuizen associe son histoire maritime à des monuments à voir comme la tour Drommedaris et le Zuiderzeemuseum. Entre 1650 et 1850, le déclin économique réduisit sa population de 25 000 à 5 400 habitants, préservant ses bâtiments intacts.
+
+Autres langues et plus sur Enkhuizen : https://wanderingcities.com/netherlands/enkhuizen/
+
+Sources, entre autres : Wikipédia et Wikivoyage (CC BY-SA 4.0) ainsi que les sites officiels du tourisme, du patrimoine et des musées. La conversation et les voix sont générées par IA.</description>
+      <itunes:summary>Enkhuizen associe son histoire maritime à des monuments à voir comme la tour Drommedaris et le Zuiderzeemuseum. Entre 1650 et 1850, le déclin économique réduisit sa population de 25 000 à 5 400 habitants, préservant ses bâtiments intacts.
+
+Autres langues et plus sur Enkhuizen : https://wanderingcities.com/netherlands/enkhuizen/
+
+Sources, entre autres : Wikipédia et Wikivoyage (CC BY-SA 4.0) ainsi que les sites officiels du tourisme, du patrimoine et des musées. La conversation et les voix sont générées par IA.</itunes:summary>
+      <enclosure url="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/episodes/fr/fr-enkhuizen-1528919863-v1.mp3" length="19053364" type="audio/mpeg"/>
+      <guid isPermaLink="false">519f4440-66e1-5002-98be-520f0e9bd951</guid>
+      <pubDate>Sun, 01 Nov 2026 10:33:33 +0000</pubDate>
+      <itunes:duration>00:19:43</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Hulst : guide de voyage et histoire | Une ambiance flamande aux Pays-Bas</title>
       <link>https://wanderingcities.com/netherlands/hulst/</link>

@@ -14,7 +14,27 @@
     <itunes:type>episodic</itunes:type>
     <itunes:category text="Society &amp; Culture"><itunes:category text="Places &amp; Travel"/></itunes:category>
     <itunes:image href="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/cover-es-3000.jpg"/>
-    <lastBuildDate>Sun, 01 Nov 2026 10:03:04 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 01 Nov 2026 10:33:34 +0000</lastBuildDate>
+    <item>
+      <title>Enkhuizen: guía de viaje e historia | De potencia naval a imperio de semillas</title>
+      <link>https://wanderingcities.com/netherlands/enkhuizen/</link>
+      <description>Enkhuizen combina su historia marítima con puntos qué ver, como la torre Drommedaris, la Koepoort y el Zuiderzeemuseum. En 1867, la fundación de la empresa Sluis &amp; Groot comenzó la transformación de la ciudad en un centro internacional de semillas.
+
+Otros idiomas y más sobre Enkhuizen: https://wanderingcities.com/netherlands/enkhuizen/
+
+Fuentes, entre otras: Wikipedia y Wikivoyage (CC BY-SA 4.0) y webs oficiales de turismo, patrimonio y museos. La conversación y las voces están generadas por IA.</description>
+      <itunes:summary>Enkhuizen combina su historia marítima con puntos qué ver, como la torre Drommedaris, la Koepoort y el Zuiderzeemuseum. En 1867, la fundación de la empresa Sluis &amp; Groot comenzó la transformación de la ciudad en un centro internacional de semillas.
+
+Otros idiomas y más sobre Enkhuizen: https://wanderingcities.com/netherlands/enkhuizen/
+
+Fuentes, entre otras: Wikipedia y Wikivoyage (CC BY-SA 4.0) y webs oficiales de turismo, patrimonio y museos. La conversación y las voces están generadas por IA.</itunes:summary>
+      <enclosure url="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/episodes/es/es-enkhuizen-1528919863-v1.mp3" length="23980808" type="audio/mpeg"/>
+      <guid isPermaLink="false">108baa61-b7bc-51f8-bf4c-e24e5f31d9a5</guid>
+      <pubDate>Sun, 01 Nov 2026 10:32:19 +0000</pubDate>
+      <itunes:duration>00:24:51</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Hulst: guía de viaje e historia | Ambiente flamenco en los Países Bajos</title>
       <link>https://wanderingcities.com/netherlands/hulst/</link>
