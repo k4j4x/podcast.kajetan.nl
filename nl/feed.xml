@@ -14,7 +14,27 @@
     <itunes:type>episodic</itunes:type>
     <itunes:category text="Society &amp; Culture"><itunes:category text="Places &amp; Travel"/></itunes:category>
     <itunes:image href="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/cover-nl-3000.jpg"/>
-    <lastBuildDate>Sun, 01 Nov 2026 08:33:36 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 01 Nov 2026 09:02:32 +0000</lastBuildDate>
+    <item>
+      <title>Hulst reisgids &amp; geschiedenis | Een Belgisch gevoel in Nederland</title>
+      <link>https://wanderingcities.com/netherlands/hulst/</link>
+      <description>Hulst verbindt een lange geschiedenis met bezienswaardigheden zoals de Sint-Willibrordusbasiliek, de Gentse Poort en de stadswallen, wat een bezoek waardevol maakt. In 1645 veroverde prins Frederik Hendrik de vesting na een beleg van 28 dagen op de Spanjaarden.
+
+Andere talen en meer over Hulst: https://wanderingcities.com/netherlands/hulst/
+
+Bronnen o.a. Wikipedia en Wikivoyage (CC BY-SA 4.0) en officiële websites over toerisme, erfgoed en musea. Het gesprek en de stemmen zijn door AI gegenereerd.</description>
+      <itunes:summary>Hulst verbindt een lange geschiedenis met bezienswaardigheden zoals de Sint-Willibrordusbasiliek, de Gentse Poort en de stadswallen, wat een bezoek waardevol maakt. In 1645 veroverde prins Frederik Hendrik de vesting na een beleg van 28 dagen op de Spanjaarden.
+
+Andere talen en meer over Hulst: https://wanderingcities.com/netherlands/hulst/
+
+Bronnen o.a. Wikipedia en Wikivoyage (CC BY-SA 4.0) en officiële websites over toerisme, erfgoed en musea. Het gesprek en de stemmen zijn door AI gegenereerd.</itunes:summary>
+      <enclosure url="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/episodes/nl/nl-hulst-1528357490-v1.mp3" length="13602552" type="audio/mpeg"/>
+      <guid isPermaLink="false">4d0ab341-1700-5d16-91d7-4be322bc7610</guid>
+      <pubDate>Sun, 01 Nov 2026 09:02:32 +0000</pubDate>
+      <itunes:duration>00:14:03</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Gorinchem reisgids &amp; geschiedenis | De mooiste vestingstad van Nederland</title>
       <link>https://wanderingcities.com/netherlands/gorinchem/</link>
