@@ -14,7 +14,27 @@
     <itunes:type>episodic</itunes:type>
     <itunes:category text="Society &amp; Culture"><itunes:category text="Places &amp; Travel"/></itunes:category>
     <itunes:image href="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/cover-nl-3000.jpg"/>
-    <lastBuildDate>Sun, 01 Nov 2026 03:31:05 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 01 Nov 2026 07:33:23 +0000</lastBuildDate>
+    <item>
+      <title>Gorinchem reisgids &amp; geschiedenis | De mooiste vestingstad van Nederland</title>
+      <link>https://wanderingcities.com/netherlands/gorinchem/</link>
+      <description>Gorinchem toont tijdens een bezoek haar geschiedenis via bezienswaardigheden zoals de Dalempoort, de Lingehaven en de Grote Toren aan de Merwede. In 2021 verkoos de ANWB de stad tot mooiste vestingstad van Nederland om haar bewaarde verdedigingswerken en historische monumenten.
+
+Andere talen en meer over Gorinchem: https://wanderingcities.com/netherlands/gorinchem/
+
+Bronnen o.a. Wikipedia en Wikivoyage (CC BY-SA 4.0) en officiële websites over toerisme, erfgoed en musea. Het gesprek en de stemmen zijn door AI gegenereerd.</description>
+      <itunes:summary>Gorinchem toont tijdens een bezoek haar geschiedenis via bezienswaardigheden zoals de Dalempoort, de Lingehaven en de Grote Toren aan de Merwede. In 2021 verkoos de ANWB de stad tot mooiste vestingstad van Nederland om haar bewaarde verdedigingswerken en historische monumenten.
+
+Andere talen en meer over Gorinchem: https://wanderingcities.com/netherlands/gorinchem/
+
+Bronnen o.a. Wikipedia en Wikivoyage (CC BY-SA 4.0) en officiële websites over toerisme, erfgoed en musea. Het gesprek en de stemmen zijn door AI gegenereerd.</itunes:summary>
+      <enclosure url="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/episodes/nl/nl-gorinchem-1528005855-v1.mp3" length="24829362" type="audio/mpeg"/>
+      <guid isPermaLink="false">513b0891-771b-5e70-b64f-100456750f96</guid>
+      <pubDate>Sun, 01 Nov 2026 07:33:23 +0000</pubDate>
+      <itunes:duration>00:25:44</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Vlissingen reisgids &amp; geschiedenis | Zeeschepen rakelings langs het strand</title>
       <link>https://wanderingcities.com/netherlands/vlissingen/</link>
