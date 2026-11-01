@@ -14,7 +14,27 @@
     <itunes:type>episodic</itunes:type>
     <itunes:category text="Society &amp; Culture"><itunes:category text="Places &amp; Travel"/></itunes:category>
     <itunes:image href="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/cover-it-3000.jpg"/>
-    <lastBuildDate>Sun, 01 Nov 2026 10:33:34 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 01 Nov 2026 11:03:12 +0000</lastBuildDate>
+    <item>
+      <title>Enkhuizen: guida di viaggio e storia | Dal grande porto alla Seed Valley</title>
+      <link>https://wanderingcities.com/netherlands/enkhuizen/</link>
+      <description>Enkhuizen unisce la sua storia marittima a luoghi per una visita tra la torre Drommedaris, la porta Koepoort e il Zuiderzeemuseum. Nel 1867, la fondazione di Sluis &amp; Groot avviò la trasformazione della città in un centro internazionale delle sementi.
+
+Altre lingue e altro su Enkhuizen: https://wanderingcities.com/netherlands/enkhuizen/
+
+Fonti, tra le altre: Wikipedia e Wikivoyage (CC BY-SA 4.0) e siti ufficiali di turismo, patrimonio e musei. La conversazione e le voci sono generate dall'IA.</description>
+      <itunes:summary>Enkhuizen unisce la sua storia marittima a luoghi per una visita tra la torre Drommedaris, la porta Koepoort e il Zuiderzeemuseum. Nel 1867, la fondazione di Sluis &amp; Groot avviò la trasformazione della città in un centro internazionale delle sementi.
+
+Altre lingue e altro su Enkhuizen: https://wanderingcities.com/netherlands/enkhuizen/
+
+Fonti, tra le altre: Wikipedia e Wikivoyage (CC BY-SA 4.0) e siti ufficiali di turismo, patrimonio e musei. La conversazione e le voci sono generate dall'IA.</itunes:summary>
+      <enclosure url="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/episodes/it/it-enkhuizen-1528919863-v1.mp3" length="13914063" type="audio/mpeg"/>
+      <guid isPermaLink="false">6a5752b4-56d7-5157-94d6-8c07e175593f</guid>
+      <pubDate>Sun, 01 Nov 2026 11:03:10 +0000</pubDate>
+      <itunes:duration>00:14:22</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Hulst: guida di viaggio e storia | L'anima fiamminga nei Paesi Bassi</title>
       <link>https://wanderingcities.com/netherlands/hulst/</link>

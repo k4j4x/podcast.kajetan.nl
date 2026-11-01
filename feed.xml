@@ -14,7 +14,27 @@
     <itunes:type>episodic</itunes:type>
     <itunes:category text="Society &amp; Culture"><itunes:category text="Places &amp; Travel"/></itunes:category>
     <itunes:image href="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/cover-3000.jpg"/>
-    <lastBuildDate>Sun, 01 Nov 2026 10:33:33 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 01 Nov 2026 11:03:11 +0000</lastBuildDate>
+    <item>
+      <title>Harlingen Travel Guide &amp; History | From Monks to Whaling Wealth</title>
+      <link>https://wanderingcities.com/netherlands/harlingen/</link>
+      <description>Harlingen offers rich maritime history alongside real sights like the Zoutsloot canal and Noorderhaven harbor, filling your visit with remarkable things to see. In 1645, the Admiralty of Friesland moved to the Zuiderhaven port, turning the town into a key naval stronghold.
+
+Other languages and more about Harlingen: https://wanderingcities.com/netherlands/harlingen/
+
+Sources include Wikipedia and Wikivoyage (CC BY-SA 4.0) and official tourism, heritage and museum websites. The conversation and voices are AI-generated.</description>
+      <itunes:summary>Harlingen offers rich maritime history alongside real sights like the Zoutsloot canal and Noorderhaven harbor, filling your visit with remarkable things to see. In 1645, the Admiralty of Friesland moved to the Zuiderhaven port, turning the town into a key naval stronghold.
+
+Other languages and more about Harlingen: https://wanderingcities.com/netherlands/harlingen/
+
+Sources include Wikipedia and Wikivoyage (CC BY-SA 4.0) and official tourism, heritage and museum websites. The conversation and voices are AI-generated.</itunes:summary>
+      <enclosure url="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/episodes/wandering-cities-harlingen-1528687785-v1.mp3" length="22543589" type="audio/mpeg"/>
+      <guid isPermaLink="false">58832583-abf7-5bec-8f7f-23688cc07cc5</guid>
+      <pubDate>Sun, 01 Nov 2026 11:02:16 +0000</pubDate>
+      <itunes:duration>00:23:19</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Hulst Travel Guide &amp; History | Flemish Flavor in the Netherlands</title>
       <link>https://wanderingcities.com/netherlands/hulst/</link>
