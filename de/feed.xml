@@ -14,7 +14,27 @@
     <itunes:type>episodic</itunes:type>
     <itunes:category text="Society &amp; Culture"><itunes:category text="Places &amp; Travel"/></itunes:category>
     <itunes:image href="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/cover-de-3000.jpg"/>
-    <lastBuildDate>Sun, 01 Nov 2026 08:02:05 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 01 Nov 2026 08:33:36 +0000</lastBuildDate>
+    <item>
+      <title>Hulst Reiseführer &amp; Geschichte | Flämische Lebensart in Zeeland</title>
+      <link>https://wanderingcities.com/netherlands/hulst/</link>
+      <description>Hulst vereint historische Sehenswürdigkeiten wie die Sint-Willibrordusbasiliek, die Gentse Poort und die Festungswälle, sodass ein Besuch direkt in die Geschichte führt. Im Jahr 1645 eroberte Prinz Frederik Hendrik die Festung nach 28 Tagen Belagerung von den Spaniern zurück.
+
+Andere Sprachen und mehr über Hulst: https://wanderingcities.com/netherlands/hulst/
+
+Quellen u. a. Wikipedia und Wikivoyage (CC BY-SA 4.0) sowie offizielle Websites für Tourismus, Denkmalpflege und Museen. Gespräch und Stimmen sind KI-generiert.</description>
+      <itunes:summary>Hulst vereint historische Sehenswürdigkeiten wie die Sint-Willibrordusbasiliek, die Gentse Poort und die Festungswälle, sodass ein Besuch direkt in die Geschichte führt. Im Jahr 1645 eroberte Prinz Frederik Hendrik die Festung nach 28 Tagen Belagerung von den Spaniern zurück.
+
+Andere Sprachen und mehr über Hulst: https://wanderingcities.com/netherlands/hulst/
+
+Quellen u. a. Wikipedia und Wikivoyage (CC BY-SA 4.0) sowie offizielle Websites für Tourismus, Denkmalpflege und Museen. Gespräch und Stimmen sind KI-generiert.</itunes:summary>
+      <enclosure url="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/episodes/de/de-hulst-1528357490-v1.mp3" length="23503737" type="audio/mpeg"/>
+      <guid isPermaLink="false">f62f9e00-0ac7-50aa-847d-494e554517fc</guid>
+      <pubDate>Sun, 01 Nov 2026 08:32:18 +0000</pubDate>
+      <itunes:duration>00:24:21</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Gorinchem Reiseführer &amp; Geschichte | Schönste Festungsstadt der Niederlande</title>
       <link>https://wanderingcities.com/netherlands/gorinchem/</link>

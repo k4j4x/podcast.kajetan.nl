@@ -14,7 +14,27 @@
     <itunes:type>episodic</itunes:type>
     <itunes:category text="Society &amp; Culture"><itunes:category text="Places &amp; Travel"/></itunes:category>
     <itunes:image href="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/cover-3000.jpg"/>
-    <lastBuildDate>Sun, 01 Nov 2026 08:02:04 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 01 Nov 2026 08:33:35 +0000</lastBuildDate>
+    <item>
+      <title>Hulst Travel Guide &amp; History | Flemish Flavor in the Netherlands</title>
+      <link>https://wanderingcities.com/netherlands/hulst/</link>
+      <description>Hulst combines rich history with sights like the Sint-Willibrordusbasiliek, the Gentse Poort, and city ramparts, offering many things to see on a visit. In 1645, Prince Frederik Hendrik captured the fortress from the Spanish after a 28-day siege.
+
+Other languages and more about Hulst: https://wanderingcities.com/netherlands/hulst/
+
+Sources include Wikipedia and Wikivoyage (CC BY-SA 4.0) and official tourism, heritage and museum websites. The conversation and voices are AI-generated.</description>
+      <itunes:summary>Hulst combines rich history with sights like the Sint-Willibrordusbasiliek, the Gentse Poort, and city ramparts, offering many things to see on a visit. In 1645, Prince Frederik Hendrik captured the fortress from the Spanish after a 28-day siege.
+
+Other languages and more about Hulst: https://wanderingcities.com/netherlands/hulst/
+
+Sources include Wikipedia and Wikivoyage (CC BY-SA 4.0) and official tourism, heritage and museum websites. The conversation and voices are AI-generated.</itunes:summary>
+      <enclosure url="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/episodes/wandering-cities-hulst-1528357490-v1.mp3" length="20125278" type="audio/mpeg"/>
+      <guid isPermaLink="false">7958e63a-16d1-55a4-b9be-8fbb5beab7e9</guid>
+      <pubDate>Sun, 01 Nov 2026 08:33:35 +0000</pubDate>
+      <itunes:duration>00:20:48</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Gorinchem Travel Guide &amp; History | Holland's Finest Fortified Town</title>
       <link>https://wanderingcities.com/netherlands/gorinchem/</link>
