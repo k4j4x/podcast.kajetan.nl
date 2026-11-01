@@ -14,7 +14,27 @@
     <itunes:type>episodic</itunes:type>
     <itunes:category text="Society &amp; Culture"><itunes:category text="Places &amp; Travel"/></itunes:category>
     <itunes:image href="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/cover-de-3000.jpg"/>
-    <lastBuildDate>Sun, 01 Nov 2026 09:33:17 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 01 Nov 2026 10:03:04 +0000</lastBuildDate>
+    <item>
+      <title>Enkhuizen Reiseführer &amp; Geschichte | Vom Welthafen zum Seed Valley</title>
+      <link>https://wanderingcities.com/netherlands/enkhuizen/</link>
+      <description>Enkhuizen verbindet seine lange maritime Geschichte mit bedeutenden Sehenswürdigkeiten wie dem Zuiderzeemuseum und dem historischen Wehrturm Drommedaris. Im Jahr 1867 legte die Gründung von Sluis &amp; Groot den Grundstein für die spätere Entwicklung der Stadt zum weltweiten Zentrum der Saatzucht.
+
+Andere Sprachen und mehr über Enkhuizen: https://wanderingcities.com/netherlands/enkhuizen/
+
+Quellen u. a. Wikipedia und Wikivoyage (CC BY-SA 4.0) sowie offizielle Websites für Tourismus, Denkmalpflege und Museen. Gespräch und Stimmen sind KI-generiert.</description>
+      <itunes:summary>Enkhuizen verbindet seine lange maritime Geschichte mit bedeutenden Sehenswürdigkeiten wie dem Zuiderzeemuseum und dem historischen Wehrturm Drommedaris. Im Jahr 1867 legte die Gründung von Sluis &amp; Groot den Grundstein für die spätere Entwicklung der Stadt zum weltweiten Zentrum der Saatzucht.
+
+Andere Sprachen und mehr über Enkhuizen: https://wanderingcities.com/netherlands/enkhuizen/
+
+Quellen u. a. Wikipedia und Wikivoyage (CC BY-SA 4.0) sowie offizielle Websites für Tourismus, Denkmalpflege und Museen. Gespräch und Stimmen sind KI-generiert.</itunes:summary>
+      <enclosure url="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/episodes/de/de-enkhuizen-1528919863-v1.mp3" length="22498133" type="audio/mpeg"/>
+      <guid isPermaLink="false">54c4437f-7407-5301-ad23-a60e4b3967e3</guid>
+      <pubDate>Sun, 01 Nov 2026 10:02:14 +0000</pubDate>
+      <itunes:duration>00:23:19</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Hulst Reiseführer &amp; Geschichte | Flämische Lebensart in Zeeland</title>
       <link>https://wanderingcities.com/netherlands/hulst/</link>

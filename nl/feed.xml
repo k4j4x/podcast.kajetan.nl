@@ -14,7 +14,27 @@
     <itunes:type>episodic</itunes:type>
     <itunes:category text="Society &amp; Culture"><itunes:category text="Places &amp; Travel"/></itunes:category>
     <itunes:image href="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/cover-nl-3000.jpg"/>
-    <lastBuildDate>Sun, 01 Nov 2026 09:33:18 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 01 Nov 2026 10:03:04 +0000</lastBuildDate>
+    <item>
+      <title>Enkhuizen reisgids &amp; geschiedenis | Een stad als levende tijdcapsule</title>
+      <link>https://wanderingcities.com/netherlands/enkhuizen/</link>
+      <description>Enkhuizen combineert zijn maritieme geschiedenis met bezienswaardigheden zoals de verdedigingstoren Drommedaris, de Koepoort en het Zuiderzeemuseum. Op 21 mei 1572 koos de stad als eerste in Holland de zijde van Willem van Oranje in de Tachtigjarige Oorlog.
+
+Andere talen en meer over Enkhuizen: https://wanderingcities.com/netherlands/enkhuizen/
+
+Bronnen o.a. Wikipedia en Wikivoyage (CC BY-SA 4.0) en officiële websites over toerisme, erfgoed en musea. Het gesprek en de stemmen zijn door AI gegenereerd.</description>
+      <itunes:summary>Enkhuizen combineert zijn maritieme geschiedenis met bezienswaardigheden zoals de verdedigingstoren Drommedaris, de Koepoort en het Zuiderzeemuseum. Op 21 mei 1572 koos de stad als eerste in Holland de zijde van Willem van Oranje in de Tachtigjarige Oorlog.
+
+Andere talen en meer over Enkhuizen: https://wanderingcities.com/netherlands/enkhuizen/
+
+Bronnen o.a. Wikipedia en Wikivoyage (CC BY-SA 4.0) en officiële websites over toerisme, erfgoed en musea. Het gesprek en de stemmen zijn door AI gegenereerd.</itunes:summary>
+      <enclosure url="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/episodes/nl/nl-enkhuizen-1528919863-v1.mp3" length="12741142" type="audio/mpeg"/>
+      <guid isPermaLink="false">1c6c5d49-2058-551e-b619-693e21a214e0</guid>
+      <pubDate>Sun, 01 Nov 2026 10:03:03 +0000</pubDate>
+      <itunes:duration>00:13:09</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Hulst reisgids &amp; geschiedenis | Een Belgisch gevoel in Nederland</title>
       <link>https://wanderingcities.com/netherlands/hulst/</link>
