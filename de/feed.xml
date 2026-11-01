@@ -14,7 +14,27 @@
     <itunes:type>episodic</itunes:type>
     <itunes:category text="Society &amp; Culture"><itunes:category text="Places &amp; Travel"/></itunes:category>
     <itunes:image href="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/cover-de-3000.jpg"/>
-    <lastBuildDate>Sun, 01 Nov 2026 11:03:11 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 01 Nov 2026 11:34:00 +0000</lastBuildDate>
+    <item>
+      <title>Harlingen Reiseführer &amp; Geschichte | Frieslands rebellische Hafenstadt</title>
+      <link>https://wanderingcities.com/netherlands/harlingen/</link>
+      <description>Harlingen zeigt seine Geschichte an realen Orten wie der Gracht Zoutsloot und dem Hafen Noorderhaven, die beim Besuch auffallen. Im Jahr 1645 zog die Admiralität von Friesland an den Zuiderhaven und verwandelte das Hafenbecken in ein bedeutendes Marinebolwerk.
+
+Andere Sprachen und mehr über Harlingen: https://wanderingcities.com/netherlands/harlingen/
+
+Quellen u. a. Wikipedia und Wikivoyage (CC BY-SA 4.0) sowie offizielle Websites für Tourismus, Denkmalpflege und Museen. Gespräch und Stimmen sind KI-generiert.</description>
+      <itunes:summary>Harlingen zeigt seine Geschichte an realen Orten wie der Gracht Zoutsloot und dem Hafen Noorderhaven, die beim Besuch auffallen. Im Jahr 1645 zog die Admiralität von Friesland an den Zuiderhaven und verwandelte das Hafenbecken in ein bedeutendes Marinebolwerk.
+
+Andere Sprachen und mehr über Harlingen: https://wanderingcities.com/netherlands/harlingen/
+
+Quellen u. a. Wikipedia und Wikivoyage (CC BY-SA 4.0) sowie offizielle Websites für Tourismus, Denkmalpflege und Museen. Gespräch und Stimmen sind KI-generiert.</itunes:summary>
+      <enclosure url="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/episodes/de/de-harlingen-1528687785-v1.mp3" length="25330233" type="audio/mpeg"/>
+      <guid isPermaLink="false">832146ba-966c-5d4d-a480-a7980d14f591</guid>
+      <pubDate>Sun, 01 Nov 2026 11:32:29 +0000</pubDate>
+      <itunes:duration>00:26:16</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Enkhuizen Reiseführer &amp; Geschichte | Vom Welthafen zum Seed Valley</title>
       <link>https://wanderingcities.com/netherlands/enkhuizen/</link>
