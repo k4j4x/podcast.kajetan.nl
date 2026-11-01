@@ -14,7 +14,27 @@
     <itunes:type>episodic</itunes:type>
     <itunes:category text="Society &amp; Culture"><itunes:category text="Places &amp; Travel"/></itunes:category>
     <itunes:image href="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/cover-es-3000.jpg"/>
-    <lastBuildDate>Sun, 01 Nov 2026 11:34:01 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 01 Nov 2026 12:02:47 +0000</lastBuildDate>
+    <item>
+      <title>Harlingen: guía de viaje e historia | De Monjes a Balleneros</title>
+      <link>https://wanderingcities.com/netherlands/harlingen/</link>
+      <description>Harlingen muestra su historia marítima durante una visita por el canal Zoutsloot y el puerto Noorderhaven, con bastantes lugares qué ver. En 1645, el Almirantazgo de Frisia se trasladó al puerto Zuiderhaven, convirtiendo la villa en una gran base naval.
+
+Otros idiomas y más sobre Harlingen: https://wanderingcities.com/netherlands/harlingen/
+
+Fuentes, entre otras: Wikipedia y Wikivoyage (CC BY-SA 4.0) y webs oficiales de turismo, patrimonio y museos. La conversación y las voces están generadas por IA.</description>
+      <itunes:summary>Harlingen muestra su historia marítima durante una visita por el canal Zoutsloot y el puerto Noorderhaven, con bastantes lugares qué ver. En 1645, el Almirantazgo de Frisia se trasladó al puerto Zuiderhaven, convirtiendo la villa en una gran base naval.
+
+Otros idiomas y más sobre Harlingen: https://wanderingcities.com/netherlands/harlingen/
+
+Fuentes, entre otras: Wikipedia y Wikivoyage (CC BY-SA 4.0) y webs oficiales de turismo, patrimonio y museos. La conversación y las voces están generadas por IA.</itunes:summary>
+      <enclosure url="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/episodes/es/es-harlingen-1528687785-v1.mp3" length="15828480" type="audio/mpeg"/>
+      <guid isPermaLink="false">a907fc4f-f019-5b4a-b8da-ed94f6e74db7</guid>
+      <pubDate>Sun, 01 Nov 2026 12:01:49 +0000</pubDate>
+      <itunes:duration>00:16:21</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Enkhuizen: guía de viaje e historia | De potencia naval a imperio de semillas</title>
       <link>https://wanderingcities.com/netherlands/enkhuizen/</link>
