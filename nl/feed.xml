@@ -14,7 +14,27 @@
     <itunes:type>episodic</itunes:type>
     <itunes:category text="Society &amp; Culture"><itunes:category text="Places &amp; Travel"/></itunes:category>
     <itunes:image href="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/cover-nl-3000.jpg"/>
-    <lastBuildDate>Mon, 02 Nov 2026 08:03:25 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 02 Nov 2026 08:32:40 +0000</lastBuildDate>
+    <item>
+      <title>Zierikzee reisgids &amp; geschiedenis | Spaanse belegering en piratengeld</title>
+      <link>https://wanderingcities.com/netherlands/zierikzee/</link>
+      <description>Zierikzee toont haar geschiedenis bij een bezoek aan bekende bezienswaardigheden zoals de Dikke Toren, het Gravensteen en de Noordhavenpoort aan de Oude Haven. In 1735 werd de Slavenkas opgericht om door Barbarijse zeerovers gevangen zeelui vrij te kopen.
+
+Andere talen en meer over Zierikzee: https://wanderingcities.com/netherlands/zierikzee/
+
+Bronnen o.a. Wikipedia en Wikivoyage (CC BY-SA 4.0) en officiële websites over toerisme, erfgoed en musea. Het gesprek en de stemmen zijn door AI gegenereerd.</description>
+      <itunes:summary>Zierikzee toont haar geschiedenis bij een bezoek aan bekende bezienswaardigheden zoals de Dikke Toren, het Gravensteen en de Noordhavenpoort aan de Oude Haven. In 1735 werd de Slavenkas opgericht om door Barbarijse zeerovers gevangen zeelui vrij te kopen.
+
+Andere talen en meer over Zierikzee: https://wanderingcities.com/netherlands/zierikzee/
+
+Bronnen o.a. Wikipedia en Wikivoyage (CC BY-SA 4.0) en officiële websites over toerisme, erfgoed en musea. Het gesprek en de stemmen zijn door AI gegenereerd.</itunes:summary>
+      <enclosure url="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/episodes/nl/nl-zierikzee-1528091477-v1.mp3" length="14753617" type="audio/mpeg"/>
+      <guid isPermaLink="false">a9ecba8a-fad2-5aef-b4a6-f4086e955f0d</guid>
+      <pubDate>Mon, 02 Nov 2026 08:32:39 +0000</pubDate>
+      <itunes:duration>00:15:15</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Harlingen reisgids &amp; geschiedenis | Het Rebelse Broertje van Friesland</title>
       <link>https://wanderingcities.com/netherlands/harlingen/</link>

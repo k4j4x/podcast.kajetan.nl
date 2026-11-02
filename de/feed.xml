@@ -14,7 +14,27 @@
     <itunes:type>episodic</itunes:type>
     <itunes:category text="Society &amp; Culture"><itunes:category text="Places &amp; Travel"/></itunes:category>
     <itunes:image href="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/cover-de-3000.jpg"/>
-    <lastBuildDate>Mon, 02 Nov 2026 08:03:25 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 02 Nov 2026 08:32:40 +0000</lastBuildDate>
+    <item>
+      <title>Zierikzee Reiseführer &amp; Geschichte | 500 Denkmäler und die Sklavenkasse</title>
+      <link>https://wanderingcities.com/netherlands/zierikzee/</link>
+      <description>Zierikzee bietet bei einem Besuch bekannte Sehenswürdigkeiten wie den Dikke Toren, das Gravensteen, das Stadhuismuseum und die Noordhavenpoort an der Oude Haven. Im Jahr 1735 wurde in der Stadt eine Slavenkas gegründet, um von Seeräubern gefangene Seeleute freizukaufen – doch was geschah später mit diesem Geld?
+
+Andere Sprachen und mehr über Zierikzee: https://wanderingcities.com/netherlands/zierikzee/
+
+Quellen u. a. Wikipedia und Wikivoyage (CC BY-SA 4.0) sowie offizielle Websites für Tourismus, Denkmalpflege und Museen. Gespräch und Stimmen sind KI-generiert.</description>
+      <itunes:summary>Zierikzee bietet bei einem Besuch bekannte Sehenswürdigkeiten wie den Dikke Toren, das Gravensteen, das Stadhuismuseum und die Noordhavenpoort an der Oude Haven. Im Jahr 1735 wurde in der Stadt eine Slavenkas gegründet, um von Seeräubern gefangene Seeleute freizukaufen – doch was geschah später mit diesem Geld?
+
+Andere Sprachen und mehr über Zierikzee: https://wanderingcities.com/netherlands/zierikzee/
+
+Quellen u. a. Wikipedia und Wikivoyage (CC BY-SA 4.0) sowie offizielle Websites für Tourismus, Denkmalpflege und Museen. Gespräch und Stimmen sind KI-generiert.</itunes:summary>
+      <enclosure url="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/episodes/de/de-zierikzee-1528091477-v1.mp3" length="22595528" type="audio/mpeg"/>
+      <guid isPermaLink="false">6b07ede0-34cb-5a6f-a86b-7eb8251ba150</guid>
+      <pubDate>Mon, 02 Nov 2026 08:31:37 +0000</pubDate>
+      <itunes:duration>00:23:25</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Harlingen Reiseführer &amp; Geschichte | Frieslands rebellische Hafenstadt</title>
       <link>https://wanderingcities.com/netherlands/harlingen/</link>
