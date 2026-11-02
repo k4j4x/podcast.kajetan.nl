@@ -14,7 +14,27 @@
     <itunes:type>episodic</itunes:type>
     <itunes:category text="Society &amp; Culture"><itunes:category text="Places &amp; Travel"/></itunes:category>
     <itunes:image href="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/cover-it-3000.jpg"/>
-    <lastBuildDate>Mon, 02 Nov 2026 09:03:24 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 02 Nov 2026 09:33:09 +0000</lastBuildDate>
+    <item>
+      <title>Zierikzee: guida di viaggio e storia | L'equivoco del nome e del mare</title>
+      <link>https://wanderingcities.com/netherlands/zierikzee/</link>
+      <description>Zierikzee mostra la sua storia durante una visita lungo l'Oude Haven, tra la Dikke Toren, il Gravensteen e la Noordhavenpoort. Nel 1832 un incendio distrusse la Sint-Lievensmonsterkerk, lasciando in piedi soltanto la sua torre di 62 metri accanto alla Nieuwe Kerk.
+
+Altre lingue e altro su Zierikzee: https://wanderingcities.com/netherlands/zierikzee/
+
+Fonti, tra le altre: Wikipedia e Wikivoyage (CC BY-SA 4.0) e siti ufficiali di turismo, patrimonio e musei. La conversazione e le voci sono generate dall'IA.</description>
+      <itunes:summary>Zierikzee mostra la sua storia durante una visita lungo l'Oude Haven, tra la Dikke Toren, il Gravensteen e la Noordhavenpoort. Nel 1832 un incendio distrusse la Sint-Lievensmonsterkerk, lasciando in piedi soltanto la sua torre di 62 metri accanto alla Nieuwe Kerk.
+
+Altre lingue e altro su Zierikzee: https://wanderingcities.com/netherlands/zierikzee/
+
+Fonti, tra le altre: Wikipedia e Wikivoyage (CC BY-SA 4.0) e siti ufficiali di turismo, patrimonio e musei. La conversazione e le voci sono generate dall'IA.</itunes:summary>
+      <enclosure url="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/episodes/it/it-zierikzee-1528091477-v1.mp3" length="21279755" type="audio/mpeg"/>
+      <guid isPermaLink="false">0bfb2a9c-f3a3-5d31-bb27-4f08ad99a6a9</guid>
+      <pubDate>Mon, 02 Nov 2026 09:31:40 +0000</pubDate>
+      <itunes:duration>00:22:02</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Harlingen: guida di viaggio e storia | La Roccaforte Portuale della Frisia</title>
       <link>https://wanderingcities.com/netherlands/harlingen/</link>

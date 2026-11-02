@@ -14,7 +14,27 @@
     <itunes:type>episodic</itunes:type>
     <itunes:category text="Society &amp; Culture"><itunes:category text="Places &amp; Travel"/></itunes:category>
     <itunes:image href="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/cover-3000.jpg"/>
-    <lastBuildDate>Mon, 02 Nov 2026 09:03:23 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 02 Nov 2026 09:33:08 +0000</lastBuildDate>
+    <item>
+      <title>Vaals Travel Guide &amp; History | Where Four Borders Once Met</title>
+      <link>https://wanderingcities.com/netherlands/vaals/</link>
+      <description>Vaals offers rich history and notable things to see when you visit, including the Drielandenpunt, De Kopermolen, and the historic Von Clermonthuis on Von Clermontplein. In 1839, the creation of Neutral Moresnet established a border point where four different territories met.
+
+Other languages and more about Vaals: https://wanderingcities.com/netherlands/vaals/
+
+Sources include Wikipedia and Wikivoyage (CC BY-SA 4.0) and official tourism, heritage and museum websites. The conversation and voices are AI-generated.</description>
+      <itunes:summary>Vaals offers rich history and notable things to see when you visit, including the Drielandenpunt, De Kopermolen, and the historic Von Clermonthuis on Von Clermontplein. In 1839, the creation of Neutral Moresnet established a border point where four different territories met.
+
+Other languages and more about Vaals: https://wanderingcities.com/netherlands/vaals/
+
+Sources include Wikipedia and Wikivoyage (CC BY-SA 4.0) and official tourism, heritage and museum websites. The conversation and voices are AI-generated.</itunes:summary>
+      <enclosure url="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/episodes/wandering-cities-vaals-1528584480-v1.mp3" length="20751793" type="audio/mpeg"/>
+      <guid isPermaLink="false">5c756e44-1254-5dec-a8e2-185dccc9bfdf</guid>
+      <pubDate>Mon, 02 Nov 2026 09:33:07 +0000</pubDate>
+      <itunes:duration>00:21:27</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Zierikzee Travel Guide &amp; History | Forged in Fire and Flood</title>
       <link>https://wanderingcities.com/netherlands/zierikzee/</link>
