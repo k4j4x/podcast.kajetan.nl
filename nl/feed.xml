@@ -14,7 +14,27 @@
     <itunes:type>episodic</itunes:type>
     <itunes:category text="Society &amp; Culture"><itunes:category text="Places &amp; Travel"/></itunes:category>
     <itunes:image href="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/cover-nl-3000.jpg"/>
-    <lastBuildDate>Mon, 02 Nov 2026 09:33:08 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 02 Nov 2026 10:02:58 +0000</lastBuildDate>
+    <item>
+      <title>Vaals reisgids &amp; geschiedenis | Waar vier grenzen elkaar raakten</title>
+      <link>https://wanderingcities.com/netherlands/vaals/</link>
+      <description>Vaals biedt bij een bezoek inzicht in zijn geschiedenis en toont bezienswaardigheden zoals het Drielandenpunt, De Kopermolen en het Von Clermonthuis aan het Von Clermontplein. In 1839 ontstond door het gebied Neutraal Moresnet een punt waar vier grenzen elkaar raakten.
+
+Andere talen en meer over Vaals: https://wanderingcities.com/netherlands/vaals/
+
+Bronnen o.a. Wikipedia en Wikivoyage (CC BY-SA 4.0) en officiële websites over toerisme, erfgoed en musea. Het gesprek en de stemmen zijn door AI gegenereerd.</description>
+      <itunes:summary>Vaals biedt bij een bezoek inzicht in zijn geschiedenis en toont bezienswaardigheden zoals het Drielandenpunt, De Kopermolen en het Von Clermonthuis aan het Von Clermontplein. In 1839 ontstond door het gebied Neutraal Moresnet een punt waar vier grenzen elkaar raakten.
+
+Andere talen en meer over Vaals: https://wanderingcities.com/netherlands/vaals/
+
+Bronnen o.a. Wikipedia en Wikivoyage (CC BY-SA 4.0) en officiële websites over toerisme, erfgoed en musea. Het gesprek en de stemmen zijn door AI gegenereerd.</itunes:summary>
+      <enclosure url="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/episodes/nl/nl-vaals-1528584480-v1.mp3" length="22232991" type="audio/mpeg"/>
+      <guid isPermaLink="false">0892dbbe-6644-5b6e-8d5f-e10fe89f37fe</guid>
+      <pubDate>Mon, 02 Nov 2026 10:02:58 +0000</pubDate>
+      <itunes:duration>00:23:02</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Zierikzee reisgids &amp; geschiedenis | Spaanse belegering en piratengeld</title>
       <link>https://wanderingcities.com/netherlands/zierikzee/</link>
