@@ -14,7 +14,27 @@
     <itunes:type>episodic</itunes:type>
     <itunes:category text="Society &amp; Culture"><itunes:category text="Places &amp; Travel"/></itunes:category>
     <itunes:image href="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/cover-es-3000.jpg"/>
-    <lastBuildDate>Mon, 02 Nov 2026 08:32:40 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 02 Nov 2026 09:03:24 +0000</lastBuildDate>
+    <item>
+      <title>Zierikzee: guía de viaje e historia | Resistencia ante el fuego y el agua</title>
+      <link>https://wanderingcities.com/netherlands/zierikzee/</link>
+      <description>Zierikzee muestra su historia durante una visita por el Dikke Toren, el Gravensteen y la Noordhavenpoort en el Oude Haven. En 1832, un incendio destruyó la iglesia Sint-Lievensmonsterkerk, dejando solo su torre de 62 metros en pie.
+
+Otros idiomas y más sobre Zierikzee: https://wanderingcities.com/netherlands/zierikzee/
+
+Fuentes, entre otras: Wikipedia y Wikivoyage (CC BY-SA 4.0) y webs oficiales de turismo, patrimonio y museos. La conversación y las voces están generadas por IA.</description>
+      <itunes:summary>Zierikzee muestra su historia durante una visita por el Dikke Toren, el Gravensteen y la Noordhavenpoort en el Oude Haven. En 1832, un incendio destruyó la iglesia Sint-Lievensmonsterkerk, dejando solo su torre de 62 metros en pie.
+
+Otros idiomas y más sobre Zierikzee: https://wanderingcities.com/netherlands/zierikzee/
+
+Fuentes, entre otras: Wikipedia y Wikivoyage (CC BY-SA 4.0) y webs oficiales de turismo, patrimonio y museos. La conversación y las voces están generadas por IA.</itunes:summary>
+      <enclosure url="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/episodes/es/es-zierikzee-1528091477-v1.mp3" length="28160810" type="audio/mpeg"/>
+      <guid isPermaLink="false">069aa19a-7687-5001-b132-8406f7f838be</guid>
+      <pubDate>Mon, 02 Nov 2026 09:02:07 +0000</pubDate>
+      <itunes:duration>00:29:12</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Harlingen: guía de viaje e historia | De Monjes a Balleneros</title>
       <link>https://wanderingcities.com/netherlands/harlingen/</link>

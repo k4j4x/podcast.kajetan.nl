@@ -14,7 +14,27 @@
     <itunes:type>episodic</itunes:type>
     <itunes:category text="Society &amp; Culture"><itunes:category text="Places &amp; Travel"/></itunes:category>
     <itunes:image href="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/cover-fr-3000.jpg"/>
-    <lastBuildDate>Mon, 02 Nov 2026 08:32:40 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 02 Nov 2026 09:03:23 +0000</lastBuildDate>
+    <item>
+      <title>Zierikzee : guide de voyage et histoire | La cité aux 500 monuments</title>
+      <link>https://wanderingcities.com/netherlands/zierikzee/</link>
+      <description>Zierikzee présente son histoire lors d'une visite des sites à voir comme le Gravensteen et la Noordhavenpoort au Oude Haven. En 1832, un incendie détruisit la Sint-Lievensmonsterkerk, ne laissant debout que sa tour de 62 mètres à côté de la Nieuwe Kerk.
+
+Autres langues et plus sur Zierikzee : https://wanderingcities.com/netherlands/zierikzee/
+
+Sources, entre autres : Wikipédia et Wikivoyage (CC BY-SA 4.0) ainsi que les sites officiels du tourisme, du patrimoine et des musées. La conversation et les voix sont générées par IA.</description>
+      <itunes:summary>Zierikzee présente son histoire lors d'une visite des sites à voir comme le Gravensteen et la Noordhavenpoort au Oude Haven. En 1832, un incendie détruisit la Sint-Lievensmonsterkerk, ne laissant debout que sa tour de 62 mètres à côté de la Nieuwe Kerk.
+
+Autres langues et plus sur Zierikzee : https://wanderingcities.com/netherlands/zierikzee/
+
+Sources, entre autres : Wikipédia et Wikivoyage (CC BY-SA 4.0) ainsi que les sites officiels du tourisme, du patrimoine et des musées. La conversation et les voix sont générées par IA.</itunes:summary>
+      <enclosure url="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/episodes/fr/fr-zierikzee-1528091477-v1.mp3" length="17060521" type="audio/mpeg"/>
+      <guid isPermaLink="false">71bbe159-8767-5f52-86f8-3c5d6e538cb2</guid>
+      <pubDate>Mon, 02 Nov 2026 09:03:22 +0000</pubDate>
+      <itunes:duration>00:17:39</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Harlingen : guide de voyage et histoire | Le Port Rebelle de Frise</title>
       <link>https://wanderingcities.com/netherlands/harlingen/</link>
