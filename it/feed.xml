@@ -14,7 +14,27 @@
     <itunes:type>episodic</itunes:type>
     <itunes:category text="Society &amp; Culture"><itunes:category text="Places &amp; Travel"/></itunes:category>
     <itunes:image href="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/cover-it-3000.jpg"/>
-    <lastBuildDate>Mon, 02 Nov 2026 12:03:19 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 02 Nov 2026 12:31:59 +0000</lastBuildDate>
+    <item>
+      <title>Valkenburg aan de Geul: guida di viaggio e storia | Il mondo sotterraneo sotto le rovine</title>
+      <link>https://wanderingcities.com/netherlands/valkenburg-aan-de-geul/</link>
+      <description>Valkenburg aan de Geul collega i cunicoli di Gemeentegrot e Fluweelengrot a Kasteel Valkenburg, offrendo storia e spunti su cosa vedere durante una visita. Nel 1672, le truppe olandesi fecero esplodere Kasteel Valkenburg per impedire alle forze francesi di conquistare la fortezza.
+
+Altre lingue e altro su Valkenburg aan de Geul: https://wanderingcities.com/netherlands/valkenburg-aan-de-geul/
+
+Fonti, tra le altre: Wikipedia e Wikivoyage (CC BY-SA 4.0) e siti ufficiali di turismo, patrimonio e musei. La conversazione e le voci sono generate dall'IA.</description>
+      <itunes:summary>Valkenburg aan de Geul collega i cunicoli di Gemeentegrot e Fluweelengrot a Kasteel Valkenburg, offrendo storia e spunti su cosa vedere durante una visita. Nel 1672, le truppe olandesi fecero esplodere Kasteel Valkenburg per impedire alle forze francesi di conquistare la fortezza.
+
+Altre lingue e altro su Valkenburg aan de Geul: https://wanderingcities.com/netherlands/valkenburg-aan-de-geul/
+
+Fonti, tra le altre: Wikipedia e Wikivoyage (CC BY-SA 4.0) e siti ufficiali di turismo, patrimonio e musei. La conversazione e le voci sono generate dall'IA.</itunes:summary>
+      <enclosure url="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/episodes/it/it-valkenburg-aan-de-geul-1528999901-v1.mp3" length="25257491" type="audio/mpeg"/>
+      <guid isPermaLink="false">45ac04d7-cff4-594b-b6bf-711396ec81a9</guid>
+      <pubDate>Mon, 02 Nov 2026 12:31:57 +0000</pubDate>
+      <itunes:duration>00:26:11</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Vaals: guida di viaggio e storia | Tra colline e confini internazionali</title>
       <link>https://wanderingcities.com/netherlands/vaals/</link>
