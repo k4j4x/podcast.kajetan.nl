@@ -14,7 +14,27 @@
     <itunes:type>episodic</itunes:type>
     <itunes:category text="Society &amp; Culture"><itunes:category text="Places &amp; Travel"/></itunes:category>
     <itunes:image href="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/cover-es-3000.jpg"/>
-    <lastBuildDate>Mon, 02 Nov 2026 11:32:59 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 02 Nov 2026 12:03:19 +0000</lastBuildDate>
+    <item>
+      <title>Valkenburg aan de Geul: guía de viaje e historia | El mundo subterráneo bajo las ruinas</title>
+      <link>https://wanderingcities.com/netherlands/valkenburg-aan-de-geul/</link>
+      <description>Valkenburg aan de Geul conecta los pasadizos de Gemeentegrot y Fluweelengrot con Kasteel Valkenburg, ofreciendo historia y lugares qué ver durante una visita. En 1672, las tropas neerlandesas volaron Kasteel Valkenburg para evitar que las fuerzas francesas capturaran la fortaleza.
+
+Otros idiomas y más sobre Valkenburg aan de Geul: https://wanderingcities.com/netherlands/valkenburg-aan-de-geul/
+
+Fuentes, entre otras: Wikipedia y Wikivoyage (CC BY-SA 4.0) y webs oficiales de turismo, patrimonio y museos. La conversación y las voces están generadas por IA.</description>
+      <itunes:summary>Valkenburg aan de Geul conecta los pasadizos de Gemeentegrot y Fluweelengrot con Kasteel Valkenburg, ofreciendo historia y lugares qué ver durante una visita. En 1672, las tropas neerlandesas volaron Kasteel Valkenburg para evitar que las fuerzas francesas capturaran la fortaleza.
+
+Otros idiomas y más sobre Valkenburg aan de Geul: https://wanderingcities.com/netherlands/valkenburg-aan-de-geul/
+
+Fuentes, entre otras: Wikipedia y Wikivoyage (CC BY-SA 4.0) y webs oficiales de turismo, patrimonio y museos. La conversación y las voces están generadas por IA.</itunes:summary>
+      <enclosure url="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/episodes/es/es-valkenburg-aan-de-geul-1528999901-v1.mp3" length="20848224" type="audio/mpeg"/>
+      <guid isPermaLink="false">8e4f2b45-f676-5bdf-b6fa-80d93a745904</guid>
+      <pubDate>Mon, 02 Nov 2026 12:01:30 +0000</pubDate>
+      <itunes:duration>00:21:35</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Vaals: guía de viaje e historia | Donde se cruzan tres fronteras</title>
       <link>https://wanderingcities.com/netherlands/vaals/</link>
