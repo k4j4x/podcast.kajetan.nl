@@ -14,7 +14,27 @@
     <itunes:type>episodic</itunes:type>
     <itunes:category text="Society &amp; Culture"><itunes:category text="Places &amp; Travel"/></itunes:category>
     <itunes:image href="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/cover-3000.jpg"/>
-    <lastBuildDate>Sun, 01 Nov 2026 12:02:47 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 02 Nov 2026 08:03:25 +0000</lastBuildDate>
+    <item>
+      <title>Zierikzee Travel Guide &amp; History | Forged in Fire and Flood</title>
+      <link>https://wanderingcities.com/netherlands/zierikzee/</link>
+      <description>Zierikzee features key things to see along the Oude Haven, such as the Dikke Toren, Gravensteen, and Noordhavenpoort, for travelers who plan to visit. In 1832, a fire destroyed the Sint-Lievensmonsterkerk, leaving only its 62-meter tower standing next to the present Nieuwe Kerk.
+
+Other languages and more about Zierikzee: https://wanderingcities.com/netherlands/zierikzee/
+
+Sources include Wikipedia and Wikivoyage (CC BY-SA 4.0) and official tourism, heritage and museum websites. The conversation and voices are AI-generated.</description>
+      <itunes:summary>Zierikzee features key things to see along the Oude Haven, such as the Dikke Toren, Gravensteen, and Noordhavenpoort, for travelers who plan to visit. In 1832, a fire destroyed the Sint-Lievensmonsterkerk, leaving only its 62-meter tower standing next to the present Nieuwe Kerk.
+
+Other languages and more about Zierikzee: https://wanderingcities.com/netherlands/zierikzee/
+
+Sources include Wikipedia and Wikivoyage (CC BY-SA 4.0) and official tourism, heritage and museum websites. The conversation and voices are AI-generated.</itunes:summary>
+      <enclosure url="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/episodes/wandering-cities-zierikzee-1528091477-v1.mp3" length="22756744" type="audio/mpeg"/>
+      <guid isPermaLink="false">4ea0ad23-39a8-51d8-a48f-dbb45bf13f47</guid>
+      <pubDate>Mon, 02 Nov 2026 08:01:38 +0000</pubDate>
+      <itunes:duration>00:23:33</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Harlingen Travel Guide &amp; History | From Monks to Whaling Wealth</title>
       <link>https://wanderingcities.com/netherlands/harlingen/</link>

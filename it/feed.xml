@@ -14,7 +14,27 @@
     <itunes:type>episodic</itunes:type>
     <itunes:category text="Society &amp; Culture"><itunes:category text="Places &amp; Travel"/></itunes:category>
     <itunes:image href="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/cover-it-3000.jpg"/>
-    <lastBuildDate>Sun, 01 Nov 2026 12:02:48 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 02 Nov 2026 08:03:26 +0000</lastBuildDate>
+    <item>
+      <title>Harlingen: guida di viaggio e storia | La Roccaforte Portuale della Frisia</title>
+      <link>https://wanderingcities.com/netherlands/harlingen/</link>
+      <description>Harlingen mostra la sua storia marittima durante una visita tra le case del canale Zoutsloot e il porto Noorderhaven. Nel 1645, l'Ammiragliato di Frisia si trasferì presso il porto Zuiderhaven, trasformando il centro in un importante baluardo navale.
+
+Altre lingue e altro su Harlingen: https://wanderingcities.com/netherlands/harlingen/
+
+Fonti, tra le altre: Wikipedia e Wikivoyage (CC BY-SA 4.0) e siti ufficiali di turismo, patrimonio e musei. La conversazione e le voci sono generate dall'IA.</description>
+      <itunes:summary>Harlingen mostra la sua storia marittima durante una visita tra le case del canale Zoutsloot e il porto Noorderhaven. Nel 1645, l'Ammiragliato di Frisia si trasferì presso il porto Zuiderhaven, trasformando il centro in un importante baluardo navale.
+
+Altre lingue e altro su Harlingen: https://wanderingcities.com/netherlands/harlingen/
+
+Fonti, tra le altre: Wikipedia e Wikivoyage (CC BY-SA 4.0) e siti ufficiali di turismo, patrimonio e musei. La conversazione e le voci sono generate dall'IA.</itunes:summary>
+      <enclosure url="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/episodes/it/it-harlingen-1528687785-v1.mp3" length="25371998" type="audio/mpeg"/>
+      <guid isPermaLink="false">bdd24bd8-9684-58c3-9855-3f3e9171c5d1</guid>
+      <pubDate>Mon, 02 Nov 2026 08:03:25 +0000</pubDate>
+      <itunes:duration>00:26:18</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Enkhuizen: guida di viaggio e storia | Dal grande porto alla Seed Valley</title>
       <link>https://wanderingcities.com/netherlands/enkhuizen/</link>
