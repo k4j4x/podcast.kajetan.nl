@@ -14,7 +14,27 @@
     <itunes:type>episodic</itunes:type>
     <itunes:category text="Society &amp; Culture"><itunes:category text="Places &amp; Travel"/></itunes:category>
     <itunes:image href="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/cover-it-3000.jpg"/>
-    <lastBuildDate>Tue, 03 Nov 2026 12:03:42 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 03 Nov 2026 12:32:08 +0000</lastBuildDate>
+    <item>
+      <title>Marken: guida di viaggio e storia | La secolare sfida contro il mare</title>
+      <link>https://wanderingcities.com/netherlands/marken/</link>
+      <description>Marken mostra durante una visita la storia delle sue werven, il Marker Museum a Kerkbuurt e il faro Het Paard van Marken. Nel 1916, una violenta mareggiata distrusse numerose abitazioni e provocò sedici vittime sulla storica isola.
+
+Altre lingue e altro su Marken: https://wanderingcities.com/netherlands/marken/
+
+Fonti, tra le altre: Wikipedia e Wikivoyage (CC BY-SA 4.0) e siti ufficiali di turismo, patrimonio e musei. La conversazione e le voci sono generate dall'IA.</description>
+      <itunes:summary>Marken mostra durante una visita la storia delle sue werven, il Marker Museum a Kerkbuurt e il faro Het Paard van Marken. Nel 1916, una violenta mareggiata distrusse numerose abitazioni e provocò sedici vittime sulla storica isola.
+
+Altre lingue e altro su Marken: https://wanderingcities.com/netherlands/marken/
+
+Fonti, tra le altre: Wikipedia e Wikivoyage (CC BY-SA 4.0) e siti ufficiali di turismo, patrimonio e musei. La conversazione e le voci sono generate dall'IA.</itunes:summary>
+      <enclosure url="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/episodes/it/it-marken-1528999904-v1.mp3" length="27252808" type="audio/mpeg"/>
+      <guid isPermaLink="false">acfe1760-7774-5ea0-94a4-d939acddb702</guid>
+      <pubDate>Tue, 03 Nov 2026 12:32:07 +0000</pubDate>
+      <itunes:duration>00:28:16</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Kinderdijk: guida di viaggio e storia | Come i mulini hanno sconfitto l'acqua</title>
       <link>https://wanderingcities.com/netherlands/kinderdijk/</link>
