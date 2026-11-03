@@ -14,7 +14,27 @@
     <itunes:type>episodic</itunes:type>
     <itunes:category text="Society &amp; Culture"><itunes:category text="Places &amp; Travel"/></itunes:category>
     <itunes:image href="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/cover-de-3000.jpg"/>
-    <lastBuildDate>Mon, 02 Nov 2026 13:01:41 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 03 Nov 2026 08:32:42 +0000</lastBuildDate>
+    <item>
+      <title>Kinderdijk Reiseführer &amp; Geschichte | Wie 19 Windmühlen das Wasser besiegten</title>
+      <link>https://wanderingcities.com/netherlands/kinderdijk/</link>
+      <description>Kinderdijk zeigt bei einem Besuch die Geschichte der Wasserverwaltung entlang der Kanäle von Overwaard und Nederwaard. Im Jahr 1738 wurden an der Nederwaard acht Backsteinmühlen erbaut, um Wasser in Reservoirs zu pumpen und den Polder der Alblasserwaard trocken zu halten.
+
+Andere Sprachen und mehr über Kinderdijk: https://wanderingcities.com/netherlands/kinderdijk/
+
+Quellen u. a. Wikipedia und Wikivoyage (CC BY-SA 4.0) sowie offizielle Websites für Tourismus, Denkmalpflege und Museen. Gespräch und Stimmen sind KI-generiert.</description>
+      <itunes:summary>Kinderdijk zeigt bei einem Besuch die Geschichte der Wasserverwaltung entlang der Kanäle von Overwaard und Nederwaard. Im Jahr 1738 wurden an der Nederwaard acht Backsteinmühlen erbaut, um Wasser in Reservoirs zu pumpen und den Polder der Alblasserwaard trocken zu halten.
+
+Andere Sprachen und mehr über Kinderdijk: https://wanderingcities.com/netherlands/kinderdijk/
+
+Quellen u. a. Wikipedia und Wikivoyage (CC BY-SA 4.0) sowie offizielle Websites für Tourismus, Denkmalpflege und Museen. Gespräch und Stimmen sind KI-generiert.</itunes:summary>
+      <enclosure url="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/episodes/de/de-kinderdijk-1528999902-v1.mp3" length="16252171" type="audio/mpeg"/>
+      <guid isPermaLink="false">cea40c3a-9a1c-5891-b4da-981de25da0b1</guid>
+      <pubDate>Tue, 03 Nov 2026 08:31:13 +0000</pubDate>
+      <itunes:duration>00:16:48</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Valkenburg aan de Geul Reiseführer &amp; Geschichte | Das Labyrinth unter der Stadt</title>
       <link>https://wanderingcities.com/netherlands/valkenburg-aan-de-geul/</link>

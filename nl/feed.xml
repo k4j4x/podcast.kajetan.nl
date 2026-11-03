@@ -14,7 +14,27 @@
     <itunes:type>episodic</itunes:type>
     <itunes:category text="Society &amp; Culture"><itunes:category text="Places &amp; Travel"/></itunes:category>
     <itunes:image href="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/cover-nl-3000.jpg"/>
-    <lastBuildDate>Mon, 02 Nov 2026 13:01:41 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 03 Nov 2026 08:32:42 +0000</lastBuildDate>
+    <item>
+      <title>Kinderdijk reisgids &amp; geschiedenis | Hoe windmolens het water versloegen</title>
+      <link>https://wanderingcities.com/netherlands/kinderdijk/</link>
+      <description>Kinderdijk biedt bij een bezoek zicht op de geschiedenis van het waterbeheer langs de kanalen van de Overwaard en Nederwaard. In 1738 werden aan de Nederwaard acht stenen molens gebouwd om overtollig water naar boezems te pompen en de polder Alblasserwaard droog te houden.
+
+Andere talen en meer over Kinderdijk: https://wanderingcities.com/netherlands/kinderdijk/
+
+Bronnen o.a. Wikipedia en Wikivoyage (CC BY-SA 4.0) en officiële websites over toerisme, erfgoed en musea. Het gesprek en de stemmen zijn door AI gegenereerd.</description>
+      <itunes:summary>Kinderdijk biedt bij een bezoek zicht op de geschiedenis van het waterbeheer langs de kanalen van de Overwaard en Nederwaard. In 1738 werden aan de Nederwaard acht stenen molens gebouwd om overtollig water naar boezems te pompen en de polder Alblasserwaard droog te houden.
+
+Andere talen en meer over Kinderdijk: https://wanderingcities.com/netherlands/kinderdijk/
+
+Bronnen o.a. Wikipedia en Wikivoyage (CC BY-SA 4.0) en officiële websites over toerisme, erfgoed en musea. Het gesprek en de stemmen zijn door AI gegenereerd.</itunes:summary>
+      <enclosure url="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/episodes/nl/nl-kinderdijk-1528999902-v1.mp3" length="20755513" type="audio/mpeg"/>
+      <guid isPermaLink="false">e8fe9d7f-a430-5373-ae3e-6585f0c2d503</guid>
+      <pubDate>Tue, 03 Nov 2026 08:32:41 +0000</pubDate>
+      <itunes:duration>00:21:30</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Valkenburg aan de Geul reisgids &amp; geschiedenis | Het Labyrint onder de Kasteelruïne</title>
       <link>https://wanderingcities.com/netherlands/valkenburg-aan-de-geul/</link>
