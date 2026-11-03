@@ -14,7 +14,27 @@
     <itunes:type>episodic</itunes:type>
     <itunes:category text="Society &amp; Culture"><itunes:category text="Places &amp; Travel"/></itunes:category>
     <itunes:image href="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/cover-es-3000.jpg"/>
-    <lastBuildDate>Tue, 03 Nov 2026 10:03:42 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 03 Nov 2026 10:32:20 +0000</lastBuildDate>
+    <item>
+      <title>Thorn: guía de viaje e historia | Fraude fiscal con pintura blanca</title>
+      <link>https://wanderingcities.com/netherlands/thorn/</link>
+      <description>Thorn ofrece durante una visita calles empedradas, casas blancas junto a Wijngaard y la Abdijkerk gótica como lugares clave sobre qué ver. En 1794, las tropas francesas ocuparon el principado, por lo que los residentes empobrecidos tapiaron ventanas y blanquearon sus paredes para evadir impuestos.
+
+Otros idiomas y más sobre Thorn: https://wanderingcities.com/netherlands/thorn/
+
+Fuentes, entre otras: Wikipedia y Wikivoyage (CC BY-SA 4.0) y webs oficiales de turismo, patrimonio y museos. La conversación y las voces están generadas por IA.</description>
+      <itunes:summary>Thorn ofrece durante una visita calles empedradas, casas blancas junto a Wijngaard y la Abdijkerk gótica como lugares clave sobre qué ver. En 1794, las tropas francesas ocuparon el principado, por lo que los residentes empobrecidos tapiaron ventanas y blanquearon sus paredes para evadir impuestos.
+
+Otros idiomas y más sobre Thorn: https://wanderingcities.com/netherlands/thorn/
+
+Fuentes, entre otras: Wikipedia y Wikivoyage (CC BY-SA 4.0) y webs oficiales de turismo, patrimonio y museos. La conversación y las voces están generadas por IA.</itunes:summary>
+      <enclosure url="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/episodes/es/es-thorn-1528999903-v1.mp3" length="26731793" type="audio/mpeg"/>
+      <guid isPermaLink="false">c4114042-1add-5472-8c15-9f7474d9bca6</guid>
+      <pubDate>Tue, 03 Nov 2026 10:32:18 +0000</pubDate>
+      <itunes:duration>00:27:43</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Kinderdijk: guía de viaje e historia | Cómo los molinos vencieron al agua</title>
       <link>https://wanderingcities.com/netherlands/kinderdijk/</link>
