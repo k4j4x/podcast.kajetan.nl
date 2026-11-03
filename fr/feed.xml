@@ -14,7 +14,27 @@
     <itunes:type>episodic</itunes:type>
     <itunes:category text="Society &amp; Culture"><itunes:category text="Places &amp; Travel"/></itunes:category>
     <itunes:image href="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/cover-fr-3000.jpg"/>
-    <lastBuildDate>Tue, 03 Nov 2026 11:33:37 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 03 Nov 2026 12:03:41 +0000</lastBuildDate>
+    <item>
+      <title>Marken : guide de voyage et histoire | L'île qui refuse de couler</title>
+      <link>https://wanderingcities.com/netherlands/marken/</link>
+      <description>Marken présente lors d'une visite l'histoire des werven, le Marker Museum à Kerkbuurt et Het Paard van Marken parmi ses lieux à voir. En 1916, une grande inondation a détruit de nombreuses maisons et a tué seize personnes sur l'île.
+
+Autres langues et plus sur Marken : https://wanderingcities.com/netherlands/marken/
+
+Sources, entre autres : Wikipédia et Wikivoyage (CC BY-SA 4.0) ainsi que les sites officiels du tourisme, du patrimoine et des musées. La conversation et les voix sont générées par IA.</description>
+      <itunes:summary>Marken présente lors d'une visite l'histoire des werven, le Marker Museum à Kerkbuurt et Het Paard van Marken parmi ses lieux à voir. En 1916, une grande inondation a détruit de nombreuses maisons et a tué seize personnes sur l'île.
+
+Autres langues et plus sur Marken : https://wanderingcities.com/netherlands/marken/
+
+Sources, entre autres : Wikipédia et Wikivoyage (CC BY-SA 4.0) ainsi que les sites officiels du tourisme, du patrimoine et des musées. La conversation et les voix sont générées par IA.</itunes:summary>
+      <enclosure url="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/episodes/fr/fr-marken-1528999904-v1.mp3" length="20459361" type="audio/mpeg"/>
+      <guid isPermaLink="false">bbfa063f-c050-5cbc-b831-e30c2bf59bd8</guid>
+      <pubDate>Tue, 03 Nov 2026 12:03:40 +0000</pubDate>
+      <itunes:duration>00:21:11</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Kinderdijk : guide de voyage et histoire | Comment les moulins ont vaincu l'eau</title>
       <link>https://wanderingcities.com/netherlands/kinderdijk/</link>

@@ -14,7 +14,27 @@
     <itunes:type>episodic</itunes:type>
     <itunes:category text="Society &amp; Culture"><itunes:category text="Places &amp; Travel"/></itunes:category>
     <itunes:image href="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/cover-es-3000.jpg"/>
-    <lastBuildDate>Tue, 03 Nov 2026 11:33:37 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 03 Nov 2026 12:03:41 +0000</lastBuildDate>
+    <item>
+      <title>Marken: guía de viaje e historia | Casas de madera sobre zancos</title>
+      <link>https://wanderingcities.com/netherlands/marken/</link>
+      <description>Marken muestra en una visita la historia de sus werven, el Marker Museum en Kerkbuurt y Het Paard van Marken como lugares qué ver. En 1916, una gran inundación destruyó viviendas y cobró dieciséis vidas en la isla.
+
+Otros idiomas y más sobre Marken: https://wanderingcities.com/netherlands/marken/
+
+Fuentes, entre otras: Wikipedia y Wikivoyage (CC BY-SA 4.0) y webs oficiales de turismo, patrimonio y museos. La conversación y las voces están generadas por IA.</description>
+      <itunes:summary>Marken muestra en una visita la historia de sus werven, el Marker Museum en Kerkbuurt y Het Paard van Marken como lugares qué ver. En 1916, una gran inundación destruyó viviendas y cobró dieciséis vidas en la isla.
+
+Otros idiomas y más sobre Marken: https://wanderingcities.com/netherlands/marken/
+
+Fuentes, entre otras: Wikipedia y Wikivoyage (CC BY-SA 4.0) y webs oficiales de turismo, patrimonio y museos. La conversación y las voces están generadas por IA.</itunes:summary>
+      <enclosure url="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/episodes/es/es-marken-1528999904-v1.mp3" length="23070465" type="audio/mpeg"/>
+      <guid isPermaLink="false">60452437-9a8c-5eeb-a393-8a2cdac141f8</guid>
+      <pubDate>Tue, 03 Nov 2026 12:02:01 +0000</pubDate>
+      <itunes:duration>00:23:54</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Thorn: guía de viaje e historia | Fraude fiscal con pintura blanca</title>
       <link>https://wanderingcities.com/netherlands/thorn/</link>
