@@ -14,7 +14,27 @@
     <itunes:type>episodic</itunes:type>
     <itunes:category text="Society &amp; Culture"><itunes:category text="Places &amp; Travel"/></itunes:category>
     <itunes:image href="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/cover-fr-3000.jpg"/>
-    <lastBuildDate>Tue, 03 Nov 2026 08:32:42 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 03 Nov 2026 09:38:02 +0000</lastBuildDate>
+    <item>
+      <title>Kinderdijk : guide de voyage et histoire | Comment les moulins ont vaincu l'eau</title>
+      <link>https://wanderingcities.com/netherlands/kinderdijk/</link>
+      <description>Kinderdijk présente les sites à voir lors d'une visite axée sur l'histoire hydraulique le long des canaux d'Overwaard et Nederwaard. En 1738, huit moulins en brique furent construits à Nederwaard pour pomper l'eau et garder le polder d'Alblasserwaard au sec.
+
+Autres langues et plus sur Kinderdijk : https://wanderingcities.com/netherlands/kinderdijk/
+
+Sources, entre autres : Wikipédia et Wikivoyage (CC BY-SA 4.0) ainsi que les sites officiels du tourisme, du patrimoine et des musées. La conversation et les voix sont générées par IA.</description>
+      <itunes:summary>Kinderdijk présente les sites à voir lors d'une visite axée sur l'histoire hydraulique le long des canaux d'Overwaard et Nederwaard. En 1738, huit moulins en brique furent construits à Nederwaard pour pomper l'eau et garder le polder d'Alblasserwaard au sec.
+
+Autres langues et plus sur Kinderdijk : https://wanderingcities.com/netherlands/kinderdijk/
+
+Sources, entre autres : Wikipédia et Wikivoyage (CC BY-SA 4.0) ainsi que les sites officiels du tourisme, du patrimoine et des musées. La conversation et les voix sont générées par IA.</itunes:summary>
+      <enclosure url="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/episodes/fr/fr-kinderdijk-1528999902-v1.mp3" length="13855552" type="audio/mpeg"/>
+      <guid isPermaLink="false">3cb15829-281b-58e6-a738-83296d4bfe4a</guid>
+      <pubDate>Tue, 03 Nov 2026 09:33:39 +0000</pubDate>
+      <itunes:duration>00:14:18</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Valkenburg aan de Geul : guide de voyage et histoire | Le monde souterrain sous les ruines</title>
       <link>https://wanderingcities.com/netherlands/valkenburg-aan-de-geul/</link>

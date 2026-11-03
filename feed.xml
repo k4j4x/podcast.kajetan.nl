@@ -14,7 +14,27 @@
     <itunes:type>episodic</itunes:type>
     <itunes:category text="Society &amp; Culture"><itunes:category text="Places &amp; Travel"/></itunes:category>
     <itunes:image href="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/cover-3000.jpg"/>
-    <lastBuildDate>Tue, 03 Nov 2026 08:32:42 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 03 Nov 2026 09:38:01 +0000</lastBuildDate>
+    <item>
+      <title>Thorn Travel Guide &amp; History | Dodging Taxes With White Paint</title>
+      <link>https://wanderingcities.com/netherlands/thorn/</link>
+      <description>Thorn features cobblestone streets, whitewashed houses near the Wijngaard, and the Gothic Abdijkerk among key things to see when you visit. In 1794, French revolutionary armies invaded the principality, causing impoverished residents to brick up windows and whitewash their walls to evade taxes.
+
+Other languages and more about Thorn: https://wanderingcities.com/netherlands/thorn/
+
+Sources include Wikipedia and Wikivoyage (CC BY-SA 4.0) and official tourism, heritage and museum websites. The conversation and voices are AI-generated.</description>
+      <itunes:summary>Thorn features cobblestone streets, whitewashed houses near the Wijngaard, and the Gothic Abdijkerk among key things to see when you visit. In 1794, French revolutionary armies invaded the principality, causing impoverished residents to brick up windows and whitewash their walls to evade taxes.
+
+Other languages and more about Thorn: https://wanderingcities.com/netherlands/thorn/
+
+Sources include Wikipedia and Wikivoyage (CC BY-SA 4.0) and official tourism, heritage and museum websites. The conversation and voices are AI-generated.</itunes:summary>
+      <enclosure url="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/episodes/wandering-cities-thorn-1528999903-v1.mp3" length="22780570" type="audio/mpeg"/>
+      <guid isPermaLink="false">eeefe06d-1d86-5c17-b49d-2732b5496aeb</guid>
+      <pubDate>Tue, 03 Nov 2026 09:38:01 +0000</pubDate>
+      <itunes:duration>00:23:34</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Kinderdijk Travel Guide &amp; History | How Windmills Beat the Water</title>
       <link>https://wanderingcities.com/netherlands/kinderdijk/</link>
