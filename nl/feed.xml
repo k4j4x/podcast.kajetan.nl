@@ -14,7 +14,27 @@
     <itunes:type>episodic</itunes:type>
     <itunes:category text="Society &amp; Culture"><itunes:category text="Places &amp; Travel"/></itunes:category>
     <itunes:image href="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/cover-nl-3000.jpg"/>
-    <lastBuildDate>Tue, 03 Nov 2026 11:01:54 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 03 Nov 2026 11:33:36 +0000</lastBuildDate>
+    <item>
+      <title>Marken reisgids &amp; geschiedenis | Een dorp gebouwd op middeleeuws afval</title>
+      <link>https://wanderingcities.com/netherlands/marken/</link>
+      <description>Marken toont bij een bezoek de geschiedenis van de werven, het Marker Museum in Kerkbuurt en Het Paard van Marken als bezienswaardigheden. In 1916 verwoestte een stormvloed talloze woningen en kostte zestien mensen het leven op het eiland.
+
+Andere talen en meer over Marken: https://wanderingcities.com/netherlands/marken/
+
+Bronnen o.a. Wikipedia en Wikivoyage (CC BY-SA 4.0) en officiële websites over toerisme, erfgoed en musea. Het gesprek en de stemmen zijn door AI gegenereerd.</description>
+      <itunes:summary>Marken toont bij een bezoek de geschiedenis van de werven, het Marker Museum in Kerkbuurt en Het Paard van Marken als bezienswaardigheden. In 1916 verwoestte een stormvloed talloze woningen en kostte zestien mensen het leven op het eiland.
+
+Andere talen en meer over Marken: https://wanderingcities.com/netherlands/marken/
+
+Bronnen o.a. Wikipedia en Wikivoyage (CC BY-SA 4.0) en officiële websites over toerisme, erfgoed en musea. Het gesprek en de stemmen zijn door AI gegenereerd.</itunes:summary>
+      <enclosure url="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/episodes/nl/nl-marken-1528999904-v1.mp3" length="21619851" type="audio/mpeg"/>
+      <guid isPermaLink="false">dd9b7b7d-e190-573f-b2e6-0ac02d497148</guid>
+      <pubDate>Tue, 03 Nov 2026 11:33:36 +0000</pubDate>
+      <itunes:duration>00:22:24</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Thorn reisgids &amp; geschiedenis | Belastingontduiking met witte verf</title>
       <link>https://wanderingcities.com/netherlands/thorn/</link>

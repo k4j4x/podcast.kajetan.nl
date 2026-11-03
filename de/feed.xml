@@ -14,7 +14,27 @@
     <itunes:type>episodic</itunes:type>
     <itunes:category text="Society &amp; Culture"><itunes:category text="Places &amp; Travel"/></itunes:category>
     <itunes:image href="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/cover-de-3000.jpg"/>
-    <lastBuildDate>Tue, 03 Nov 2026 11:01:54 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 03 Nov 2026 11:33:36 +0000</lastBuildDate>
+    <item>
+      <title>Marken Reiseführer &amp; Geschichte | Ein Dorf auf Müll und Kuhmist</title>
+      <link>https://wanderingcities.com/netherlands/marken/</link>
+      <description>Marken zeigt bei einem Besuch die Geschichte der Werven, das Marker Museum in Kerkbuurt und Het Paard van Marken als Sehenswürdigkeiten. Im Jahr 1916 zerstörte eine Sturmflut zahlreiche Häuser und kostete sechzehn Menschen das Leben auf der damaligen Insel.
+
+Andere Sprachen und mehr über Marken: https://wanderingcities.com/netherlands/marken/
+
+Quellen u. a. Wikipedia und Wikivoyage (CC BY-SA 4.0) sowie offizielle Websites für Tourismus, Denkmalpflege und Museen. Gespräch und Stimmen sind KI-generiert.</description>
+      <itunes:summary>Marken zeigt bei einem Besuch die Geschichte der Werven, das Marker Museum in Kerkbuurt und Het Paard van Marken als Sehenswürdigkeiten. Im Jahr 1916 zerstörte eine Sturmflut zahlreiche Häuser und kostete sechzehn Menschen das Leben auf der damaligen Insel.
+
+Andere Sprachen und mehr über Marken: https://wanderingcities.com/netherlands/marken/
+
+Quellen u. a. Wikipedia und Wikivoyage (CC BY-SA 4.0) sowie offizielle Websites für Tourismus, Denkmalpflege und Museen. Gespräch und Stimmen sind KI-generiert.</itunes:summary>
+      <enclosure url="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/episodes/de/de-marken-1528999904-v1.mp3" length="20801631" type="audio/mpeg"/>
+      <guid isPermaLink="false">02838e2d-7ad9-5a26-b50b-8017e64e7fa2</guid>
+      <pubDate>Tue, 03 Nov 2026 11:31:49 +0000</pubDate>
+      <itunes:duration>00:21:32</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Thorn Reiseführer &amp; Geschichte | Frauenherrschaft und Fenstersteuer</title>
       <link>https://wanderingcities.com/netherlands/thorn/</link>
