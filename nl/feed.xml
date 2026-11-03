@@ -14,7 +14,27 @@
     <itunes:type>episodic</itunes:type>
     <itunes:category text="Society &amp; Culture"><itunes:category text="Places &amp; Travel"/></itunes:category>
     <itunes:image href="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/cover-nl-3000.jpg"/>
-    <lastBuildDate>Tue, 03 Nov 2026 09:38:02 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 03 Nov 2026 10:03:42 +0000</lastBuildDate>
+    <item>
+      <title>Thorn reisgids &amp; geschiedenis | Belastingontduiking met witte verf</title>
+      <link>https://wanderingcities.com/netherlands/thorn/</link>
+      <description>Thorn toont bij een bezoek kasseienstraatjes, witte huizen rond de Wijngaard en de gotische Abdijkerk als belangrijke bezienswaardigheden. In 1794 bezetten Franse troepen het vorstendom, waarna verarmde inwoners ramen dichtmetselden en hun muren wit kalkten om belasting te ontduiken.
+
+Andere talen en meer over Thorn: https://wanderingcities.com/netherlands/thorn/
+
+Bronnen o.a. Wikipedia en Wikivoyage (CC BY-SA 4.0) en officiële websites over toerisme, erfgoed en musea. Het gesprek en de stemmen zijn door AI gegenereerd.</description>
+      <itunes:summary>Thorn toont bij een bezoek kasseienstraatjes, witte huizen rond de Wijngaard en de gotische Abdijkerk als belangrijke bezienswaardigheden. In 1794 bezetten Franse troepen het vorstendom, waarna verarmde inwoners ramen dichtmetselden en hun muren wit kalkten om belasting te ontduiken.
+
+Andere talen en meer over Thorn: https://wanderingcities.com/netherlands/thorn/
+
+Bronnen o.a. Wikipedia en Wikivoyage (CC BY-SA 4.0) en officiële websites over toerisme, erfgoed en musea. Het gesprek en de stemmen zijn door AI gegenereerd.</itunes:summary>
+      <enclosure url="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/episodes/nl/nl-thorn-1528999903-v1.mp3" length="17991543" type="audio/mpeg"/>
+      <guid isPermaLink="false">e7fe76d2-6278-544e-afe5-acb020bc4137</guid>
+      <pubDate>Tue, 03 Nov 2026 10:03:41 +0000</pubDate>
+      <itunes:duration>00:18:37</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Kinderdijk reisgids &amp; geschiedenis | Hoe windmolens het water versloegen</title>
       <link>https://wanderingcities.com/netherlands/kinderdijk/</link>
