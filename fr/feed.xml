@@ -14,7 +14,27 @@
     <itunes:type>episodic</itunes:type>
     <itunes:category text="Society &amp; Culture"><itunes:category text="Places &amp; Travel"/></itunes:category>
     <itunes:image href="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/cover-fr-3000.jpg"/>
-    <lastBuildDate>Tue, 03 Nov 2026 18:44:59 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 03 Nov 2026 19:06:01 +0000</lastBuildDate>
+    <item>
+      <title>Thorn : guide de voyage et histoire | Fraude fiscale à la peinture blanche</title>
+      <link>https://wanderingcities.com/netherlands/thorn/</link>
+      <description>Thorn propose lors d'une visite des ruelles pavées, des maisons blanches près du Wijngaard et l'Abdijkerk gothique comme lieux clés à voir. En 1794, les troupes françaises ont envahi la principauté, poussant les habitants pauvres à murer leurs fenêtres et blanchir leurs murs pour éviter l'impôt.
+
+Autres langues et plus sur Thorn : https://wanderingcities.com/netherlands/thorn/
+
+Sources, entre autres : Wikipédia et Wikivoyage (CC BY-SA 4.0) ainsi que les sites officiels du tourisme, du patrimoine et des musées. La conversation et les voix sont générées par IA.</description>
+      <itunes:summary>Thorn propose lors d'une visite des ruelles pavées, des maisons blanches près du Wijngaard et l'Abdijkerk gothique comme lieux clés à voir. En 1794, les troupes françaises ont envahi la principauté, poussant les habitants pauvres à murer leurs fenêtres et blanchir leurs murs pour éviter l'impôt.
+
+Autres langues et plus sur Thorn : https://wanderingcities.com/netherlands/thorn/
+
+Sources, entre autres : Wikipédia et Wikivoyage (CC BY-SA 4.0) ainsi que les sites officiels du tourisme, du patrimoine et des musées. La conversation et les voix sont générées par IA.</itunes:summary>
+      <enclosure url="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/episodes/fr/fr-thorn-1528999903-v1.mp3" length="16094213" type="audio/mpeg"/>
+      <guid isPermaLink="false">f173be8a-2005-56c8-91ed-ff223e693476</guid>
+      <pubDate>Tue, 03 Nov 2026 19:04:05 +0000</pubDate>
+      <itunes:duration>00:16:38</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Marken : guide de voyage et histoire | L'île qui refuse de couler</title>
       <link>https://wanderingcities.com/netherlands/marken/</link>
