@@ -14,7 +14,7 @@
     <itunes:type>episodic</itunes:type>
     <itunes:category text="Society &amp; Culture"><itunes:category text="Places &amp; Travel"/></itunes:category>
     <itunes:image href="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/cover-es-3000.jpg"/>
-    <lastBuildDate>Thu, 05 Nov 2026 05:03:27 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 05 Nov 2026 07:10:30 +0000</lastBuildDate>
     <item>
       <title>Oudewater: guía de viaje e historia | La báscula que salvaba vidas</title>
       <link>https://wanderingcities.com/netherlands/oudewater/</link>
@@ -58,6 +58,7 @@ Fuentes, entre otras: Wikipedia y Wikivoyage (CC BY-SA 4.0) y webs oficiales de 
     <item>
       <title>Marken: guía de viaje e historia | Casas de madera sobre zancos</title>
       <link>https://wanderingcities.com/netherlands/marken/</link>
+      <podcast:transcript url="https://wanderingcities.com/netherlands/marken/transcript-es.txt" type="text/plain" language="es"/>
       <description>Marken muestra en una visita la historia de sus werven, el Marker Museum en Kerkbuurt y Het Paard van Marken como lugares qué ver. En 1916, una gran inundación destruyó viviendas y cobró dieciséis vidas en la isla.
 
 Otros idiomas y más sobre Marken: https://wanderingcities.com/netherlands/marken/
@@ -78,6 +79,7 @@ Fuentes, entre otras: Wikipedia y Wikivoyage (CC BY-SA 4.0) y webs oficiales de 
     <item>
       <title>Thorn: guía de viaje e historia | Fraude fiscal con pintura blanca</title>
       <link>https://wanderingcities.com/netherlands/thorn/</link>
+      <podcast:transcript url="https://wanderingcities.com/netherlands/thorn/transcript-es.txt" type="text/plain" language="es"/>
       <description>Thorn ofrece durante una visita calles empedradas, casas blancas junto a Wijngaard y la Abdijkerk gótica como lugares clave sobre qué ver. En 1794, las tropas francesas ocuparon el principado, por lo que los residentes empobrecidos tapiaron ventanas y blanquearon sus paredes para evadir impuestos.
 
 Otros idiomas y más sobre Thorn: https://wanderingcities.com/netherlands/thorn/
@@ -98,6 +100,7 @@ Fuentes, entre otras: Wikipedia y Wikivoyage (CC BY-SA 4.0) y webs oficiales de 
     <item>
       <title>Kinderdijk: guía de viaje e historia | Cómo los molinos vencieron al agua</title>
       <link>https://wanderingcities.com/netherlands/kinderdijk/</link>
+      <podcast:transcript url="https://wanderingcities.com/netherlands/kinderdijk/transcript-es.txt" type="text/plain" language="es"/>
       <description>Kinderdijk ofrece elementos sobre qué ver en una visita para conocer la historia hidráulica en los canales de Overwaard y Nederwaard. En 1738, se construyeron ocho molinos de ladrillo en Nederwaard para bombear exceso de agua y mantener seco el polder Alblasserwaard.
 
 Otros idiomas y más sobre Kinderdijk: https://wanderingcities.com/netherlands/kinderdijk/
@@ -118,6 +121,7 @@ Fuentes, entre otras: Wikipedia y Wikivoyage (CC BY-SA 4.0) y webs oficiales de 
     <item>
       <title>Valkenburg aan de Geul: guía de viaje e historia | El mundo subterráneo bajo las ruinas</title>
       <link>https://wanderingcities.com/netherlands/valkenburg-aan-de-geul/</link>
+      <podcast:transcript url="https://wanderingcities.com/netherlands/valkenburg-aan-de-geul/transcript-es.txt" type="text/plain" language="es"/>
       <description>Valkenburg aan de Geul conecta los pasadizos de Gemeentegrot y Fluweelengrot con Kasteel Valkenburg, ofreciendo historia y lugares qué ver durante una visita. En 1672, las tropas neerlandesas volaron Kasteel Valkenburg para evitar que las fuerzas francesas capturaran la fortaleza.
 
 Otros idiomas y más sobre Valkenburg aan de Geul: https://wanderingcities.com/netherlands/valkenburg-aan-de-geul/
@@ -138,6 +142,7 @@ Fuentes, entre otras: Wikipedia y Wikivoyage (CC BY-SA 4.0) y webs oficiales de 
     <item>
       <title>Vaals: guía de viaje e historia | Donde se cruzan tres fronteras</title>
       <link>https://wanderingcities.com/netherlands/vaals/</link>
+      <podcast:transcript url="https://wanderingcities.com/netherlands/vaals/transcript-es.txt" type="text/plain" language="es"/>
       <description>Vaals ofrece historia y varios lugares qué ver durante una visita, como el Drielandenpunt, De Kopermolen y el Von Clermonthuis en Von Clermontplein. En 1839, la creación de Neutraal Moresnet estableció un punto fronterizo donde convergían cuatro territorios.
 
 Otros idiomas y más sobre Vaals: https://wanderingcities.com/netherlands/vaals/
@@ -158,6 +163,7 @@ Fuentes, entre otras: Wikipedia y Wikivoyage (CC BY-SA 4.0) y webs oficiales de 
     <item>
       <title>Zierikzee: guía de viaje e historia | Resistencia ante el fuego y el agua</title>
       <link>https://wanderingcities.com/netherlands/zierikzee/</link>
+      <podcast:transcript url="https://wanderingcities.com/netherlands/zierikzee/transcript-es.txt" type="text/plain" language="es"/>
       <description>Zierikzee muestra su historia durante una visita por el Dikke Toren, el Gravensteen y la Noordhavenpoort en el Oude Haven. En 1832, un incendio destruyó la iglesia Sint-Lievensmonsterkerk, dejando solo su torre de 62 metros en pie.
 
 Otros idiomas y más sobre Zierikzee: https://wanderingcities.com/netherlands/zierikzee/
@@ -178,6 +184,7 @@ Fuentes, entre otras: Wikipedia y Wikivoyage (CC BY-SA 4.0) y webs oficiales de 
     <item>
       <title>Harlingen: guía de viaje e historia | De Monjes a Balleneros</title>
       <link>https://wanderingcities.com/netherlands/harlingen/</link>
+      <podcast:transcript url="https://wanderingcities.com/netherlands/harlingen/transcript-es.txt" type="text/plain" language="es"/>
       <description>Harlingen muestra su historia marítima durante una visita por el canal Zoutsloot y el puerto Noorderhaven, con bastantes lugares qué ver. En 1645, el Almirantazgo de Frisia se trasladó al puerto Zuiderhaven, convirtiendo la villa en una gran base naval.
 
 Otros idiomas y más sobre Harlingen: https://wanderingcities.com/netherlands/harlingen/

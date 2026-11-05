@@ -14,7 +14,7 @@
     <itunes:type>episodic</itunes:type>
     <itunes:category text="Society &amp; Culture"><itunes:category text="Places &amp; Travel"/></itunes:category>
     <itunes:image href="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/cover-nl-3000.jpg"/>
-    <lastBuildDate>Thu, 05 Nov 2026 05:03:27 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 05 Nov 2026 07:10:30 +0000</lastBuildDate>
     <item>
       <title>Oudewater reisgids &amp; geschiedenis | Hoe een weegschaal levens redde</title>
       <link>https://wanderingcities.com/netherlands/oudewater/</link>
@@ -58,6 +58,7 @@ Bronnen o.a. Wikipedia en Wikivoyage (CC BY-SA 4.0) en officiële websites over 
     <item>
       <title>Marken reisgids &amp; geschiedenis | Een dorp gebouwd op middeleeuws afval</title>
       <link>https://wanderingcities.com/netherlands/marken/</link>
+      <podcast:transcript url="https://wanderingcities.com/netherlands/marken/transcript-nl.txt" type="text/plain" language="nl"/>
       <description>Marken toont bij een bezoek de geschiedenis van de werven, het Marker Museum in Kerkbuurt en Het Paard van Marken als bezienswaardigheden. In 1916 verwoestte een stormvloed talloze woningen en kostte zestien mensen het leven op het eiland.
 
 Andere talen en meer over Marken: https://wanderingcities.com/netherlands/marken/
@@ -78,6 +79,7 @@ Bronnen o.a. Wikipedia en Wikivoyage (CC BY-SA 4.0) en officiële websites over 
     <item>
       <title>Thorn reisgids &amp; geschiedenis | Belastingontduiking met witte verf</title>
       <link>https://wanderingcities.com/netherlands/thorn/</link>
+      <podcast:transcript url="https://wanderingcities.com/netherlands/thorn/transcript-nl.txt" type="text/plain" language="nl"/>
       <description>Thorn toont bij een bezoek kasseienstraatjes, witte huizen rond de Wijngaard en de gotische Abdijkerk als belangrijke bezienswaardigheden. In 1794 bezetten Franse troepen het vorstendom, waarna verarmde inwoners ramen dichtmetselden en hun muren wit kalkten om belasting te ontduiken.
 
 Andere talen en meer over Thorn: https://wanderingcities.com/netherlands/thorn/
@@ -98,6 +100,7 @@ Bronnen o.a. Wikipedia en Wikivoyage (CC BY-SA 4.0) en officiële websites over 
     <item>
       <title>Kinderdijk reisgids &amp; geschiedenis | Hoe windmolens het water versloegen</title>
       <link>https://wanderingcities.com/netherlands/kinderdijk/</link>
+      <podcast:transcript url="https://wanderingcities.com/netherlands/kinderdijk/transcript-nl.txt" type="text/plain" language="nl"/>
       <description>Kinderdijk biedt bij een bezoek zicht op de geschiedenis van het waterbeheer langs de kanalen van de Overwaard en Nederwaard. In 1738 werden aan de Nederwaard acht stenen molens gebouwd om overtollig water naar boezems te pompen en de polder Alblasserwaard droog te houden.
 
 Andere talen en meer over Kinderdijk: https://wanderingcities.com/netherlands/kinderdijk/
@@ -118,6 +121,7 @@ Bronnen o.a. Wikipedia en Wikivoyage (CC BY-SA 4.0) en officiële websites over 
     <item>
       <title>Valkenburg aan de Geul reisgids &amp; geschiedenis | Het Labyrint onder de Kasteelruïne</title>
       <link>https://wanderingcities.com/netherlands/valkenburg-aan-de-geul/</link>
+      <podcast:transcript url="https://wanderingcities.com/netherlands/valkenburg-aan-de-geul/transcript-nl.txt" type="text/plain" language="nl"/>
       <description>Valkenburg aan de Geul verbindt de Gemeentegrot en Fluweelengrot met Kasteel Valkenburg en biedt geschiedenis en bezienswaardigheden voor een bezoek. In 1672 bliezen Staatse troepen Kasteel Valkenburg op om te voorkomen dat de Fransen de vesting in handen kregen.
 
 Andere talen en meer over Valkenburg aan de Geul: https://wanderingcities.com/netherlands/valkenburg-aan-de-geul/
@@ -138,6 +142,7 @@ Bronnen o.a. Wikipedia en Wikivoyage (CC BY-SA 4.0) en officiële websites over 
     <item>
       <title>Vaals reisgids &amp; geschiedenis | Waar vier grenzen elkaar raakten</title>
       <link>https://wanderingcities.com/netherlands/vaals/</link>
+      <podcast:transcript url="https://wanderingcities.com/netherlands/vaals/transcript-nl.txt" type="text/plain" language="nl"/>
       <description>Vaals biedt bij een bezoek inzicht in zijn geschiedenis en toont bezienswaardigheden zoals het Drielandenpunt, De Kopermolen en het Von Clermonthuis aan het Von Clermontplein. In 1839 ontstond door het gebied Neutraal Moresnet een punt waar vier grenzen elkaar raakten.
 
 Andere talen en meer over Vaals: https://wanderingcities.com/netherlands/vaals/
@@ -158,6 +163,7 @@ Bronnen o.a. Wikipedia en Wikivoyage (CC BY-SA 4.0) en officiële websites over 
     <item>
       <title>Zierikzee reisgids &amp; geschiedenis | Spaanse belegering en piratengeld</title>
       <link>https://wanderingcities.com/netherlands/zierikzee/</link>
+      <podcast:transcript url="https://wanderingcities.com/netherlands/zierikzee/transcript-nl.txt" type="text/plain" language="nl"/>
       <description>Zierikzee toont haar geschiedenis bij een bezoek aan bekende bezienswaardigheden zoals de Dikke Toren, het Gravensteen en de Noordhavenpoort aan de Oude Haven. In 1735 werd de Slavenkas opgericht om door Barbarijse zeerovers gevangen zeelui vrij te kopen.
 
 Andere talen en meer over Zierikzee: https://wanderingcities.com/netherlands/zierikzee/

@@ -14,7 +14,7 @@
     <itunes:type>episodic</itunes:type>
     <itunes:category text="Society &amp; Culture"><itunes:category text="Places &amp; Travel"/></itunes:category>
     <itunes:image href="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/cover-fr-3000.jpg"/>
-    <lastBuildDate>Thu, 05 Nov 2026 05:03:27 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 05 Nov 2026 07:10:30 +0000</lastBuildDate>
     <item>
       <title>Oudewater : guide de voyage et histoire | La balance qui sauvait des vies</title>
       <link>https://wanderingcities.com/netherlands/oudewater/</link>
@@ -78,6 +78,7 @@ Sources, entre autres : Wikipédia et Wikivoyage (CC BY-SA 4.0) ainsi que les si
     <item>
       <title>Marken : guide de voyage et histoire | L'île qui refuse de couler</title>
       <link>https://wanderingcities.com/netherlands/marken/</link>
+      <podcast:transcript url="https://wanderingcities.com/netherlands/marken/transcript-fr.txt" type="text/plain" language="fr"/>
       <description>Marken présente lors d'une visite l'histoire des werven, le Marker Museum à Kerkbuurt et Het Paard van Marken parmi ses lieux à voir. En 1916, une grande inondation a détruit de nombreuses maisons et a tué seize personnes sur l'île.
 
 Autres langues et plus sur Marken : https://wanderingcities.com/netherlands/marken/
@@ -98,6 +99,7 @@ Sources, entre autres : Wikipédia et Wikivoyage (CC BY-SA 4.0) ainsi que les si
     <item>
       <title>Kinderdijk : guide de voyage et histoire | Comment les moulins ont vaincu l'eau</title>
       <link>https://wanderingcities.com/netherlands/kinderdijk/</link>
+      <podcast:transcript url="https://wanderingcities.com/netherlands/kinderdijk/transcript-fr.txt" type="text/plain" language="fr"/>
       <description>Kinderdijk présente les sites à voir lors d'une visite axée sur l'histoire hydraulique le long des canaux d'Overwaard et Nederwaard. En 1738, huit moulins en brique furent construits à Nederwaard pour pomper l'eau et garder le polder d'Alblasserwaard au sec.
 
 Autres langues et plus sur Kinderdijk : https://wanderingcities.com/netherlands/kinderdijk/
@@ -118,6 +120,7 @@ Sources, entre autres : Wikipédia et Wikivoyage (CC BY-SA 4.0) ainsi que les si
     <item>
       <title>Valkenburg aan de Geul : guide de voyage et histoire | Le monde souterrain sous les ruines</title>
       <link>https://wanderingcities.com/netherlands/valkenburg-aan-de-geul/</link>
+      <podcast:transcript url="https://wanderingcities.com/netherlands/valkenburg-aan-de-geul/transcript-fr.txt" type="text/plain" language="fr"/>
       <description>Valkenburg aan de Geul relie les galeries de Gemeentegrot et Fluweelengrot à Kasteel Valkenburg, offrant de l'histoire et des sites à voir lors d'une visite. En 1672, les troupes néerlandaises ont fait sauter Kasteel Valkenburg pour empêcher les forces françaises de capturer la forteresse.
 
 Autres langues et plus sur Valkenburg aan de Geul : https://wanderingcities.com/netherlands/valkenburg-aan-de-geul/
@@ -138,6 +141,7 @@ Sources, entre autres : Wikipédia et Wikivoyage (CC BY-SA 4.0) ainsi que les si
     <item>
       <title>Vaals : guide de voyage et histoire | Au carrefour de trois frontières</title>
       <link>https://wanderingcities.com/netherlands/vaals/</link>
+      <podcast:transcript url="https://wanderingcities.com/netherlands/vaals/transcript-fr.txt" type="text/plain" language="fr"/>
       <description>Vaals propose une immersion dans son histoire et plusieurs lieux à voir lors d'une visite, comme le Drielandenpunt, De Kopermolen et le Von Clermonthuis sur le Von Clermontplein. En 1839, la création du territoire de Neutraal Moresnet a établi un point où quatre frontières se rejoignaient.
 
 Autres langues et plus sur Vaals : https://wanderingcities.com/netherlands/vaals/
@@ -158,6 +162,7 @@ Sources, entre autres : Wikipédia et Wikivoyage (CC BY-SA 4.0) ainsi que les si
     <item>
       <title>Zierikzee : guide de voyage et histoire | La cité aux 500 monuments</title>
       <link>https://wanderingcities.com/netherlands/zierikzee/</link>
+      <podcast:transcript url="https://wanderingcities.com/netherlands/zierikzee/transcript-fr.txt" type="text/plain" language="fr"/>
       <description>Zierikzee présente son histoire lors d'une visite des sites à voir comme le Gravensteen et la Noordhavenpoort au Oude Haven. En 1832, un incendie détruisit la Sint-Lievensmonsterkerk, ne laissant debout que sa tour de 62 mètres à côté de la Nieuwe Kerk.
 
 Autres langues et plus sur Zierikzee : https://wanderingcities.com/netherlands/zierikzee/
@@ -178,6 +183,7 @@ Sources, entre autres : Wikipédia et Wikivoyage (CC BY-SA 4.0) ainsi que les si
     <item>
       <title>Harlingen : guide de voyage et histoire | Le Port Rebelle de Frise</title>
       <link>https://wanderingcities.com/netherlands/harlingen/</link>
+      <podcast:transcript url="https://wanderingcities.com/netherlands/harlingen/transcript-fr.txt" type="text/plain" language="fr"/>
       <description>Harlingen dévoile son histoire lors d'une visite le long du canal Zoutsloot et du port Noorderhaven, offrant plusieurs sites à voir. En 1645, l'Amirauté de Frise s'est installée au port Zuiderhaven, transformant le lieu en un grand bastion naval.
 
 Autres langues et plus sur Harlingen : https://wanderingcities.com/netherlands/harlingen/
