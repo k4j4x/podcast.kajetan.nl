@@ -14,7 +14,27 @@
     <itunes:type>episodic</itunes:type>
     <itunes:category text="Society &amp; Culture"><itunes:category text="Places &amp; Travel"/></itunes:category>
     <itunes:image href="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/cover-es-3000.jpg"/>
-    <lastBuildDate>Thu, 05 Nov 2026 02:33:36 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 05 Nov 2026 03:03:10 +0000</lastBuildDate>
+    <item>
+      <title>Edam: guía de viaje e historia | Un queso diseñado para navegar</title>
+      <link>https://wanderingcities.com/netherlands/edam/</link>
+      <description>Edam une su historia con lugares clave para la visita como la Grote Kerk, la Speeltoren y el Steenen Coopmanshuys. En 1778, la ciudad construyó la Kaaswaag para pesar las ruedas de queso destinadas al comercio marítimo.
+
+Otros idiomas y más sobre Edam: https://wanderingcities.com/netherlands/edam/
+
+Fuentes, entre otras: Wikipedia y Wikivoyage (CC BY-SA 4.0) y webs oficiales de turismo, patrimonio y museos. La conversación y las voces están generadas por IA.</description>
+      <itunes:summary>Edam une su historia con lugares clave para la visita como la Grote Kerk, la Speeltoren y el Steenen Coopmanshuys. En 1778, la ciudad construyó la Kaaswaag para pesar las ruedas de queso destinadas al comercio marítimo.
+
+Otros idiomas y más sobre Edam: https://wanderingcities.com/netherlands/edam/
+
+Fuentes, entre otras: Wikipedia y Wikivoyage (CC BY-SA 4.0) y webs oficiales de turismo, patrimonio y museos. La conversación y las voces están generadas por IA.</itunes:summary>
+      <enclosure url="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/episodes/es/es-edam-1528614478-v1.mp3" length="18440313" type="audio/mpeg"/>
+      <guid isPermaLink="false">b738e67a-b82a-53d4-bb4d-e441340241ee</guid>
+      <pubDate>Thu, 05 Nov 2026 03:01:41 +0000</pubDate>
+      <itunes:duration>00:19:05</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Marken: guía de viaje e historia | Casas de madera sobre zancos</title>
       <link>https://wanderingcities.com/netherlands/marken/</link>
