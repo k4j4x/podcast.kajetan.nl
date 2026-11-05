@@ -14,7 +14,27 @@
     <itunes:type>episodic</itunes:type>
     <itunes:category text="Society &amp; Culture"><itunes:category text="Places &amp; Travel"/></itunes:category>
     <itunes:image href="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/cover-fr-3000.jpg"/>
-    <lastBuildDate>Thu, 05 Nov 2026 02:03:58 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 05 Nov 2026 02:33:36 +0000</lastBuildDate>
+    <item>
+      <title>Edam : guide de voyage et histoire | Un fromage taillé pour la mer</title>
+      <link>https://wanderingcities.com/netherlands/edam/</link>
+      <description>Edam relie son histoire maritime aux lieux à voir comme la Grote Kerk, la Speeltoren et le Steenen Coopmanshuys. En 1778, la ville a construit la Kaaswaag pour peser les meules avant leur voyage en mer.
+
+Autres langues et plus sur Edam : https://wanderingcities.com/netherlands/edam/
+
+Sources, entre autres : Wikipédia et Wikivoyage (CC BY-SA 4.0) ainsi que les sites officiels du tourisme, du patrimoine et des musées. La conversation et les voix sont générées par IA.</description>
+      <itunes:summary>Edam relie son histoire maritime aux lieux à voir comme la Grote Kerk, la Speeltoren et le Steenen Coopmanshuys. En 1778, la ville a construit la Kaaswaag pour peser les meules avant leur voyage en mer.
+
+Autres langues et plus sur Edam : https://wanderingcities.com/netherlands/edam/
+
+Sources, entre autres : Wikipédia et Wikivoyage (CC BY-SA 4.0) ainsi que les sites officiels du tourisme, du patrimoine et des musées. La conversation et les voix sont générées par IA.</itunes:summary>
+      <enclosure url="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/episodes/fr/fr-edam-1528614478-v1.mp3" length="23017273" type="audio/mpeg"/>
+      <guid isPermaLink="false">7b20326a-2969-5955-988d-cb4a90d6f51c</guid>
+      <pubDate>Thu, 05 Nov 2026 02:32:16 +0000</pubDate>
+      <itunes:duration>00:23:51</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Thorn : guide de voyage et histoire | Fraude fiscale à la peinture blanche</title>
       <link>https://wanderingcities.com/netherlands/thorn/</link>

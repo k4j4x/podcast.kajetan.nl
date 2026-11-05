@@ -14,7 +14,27 @@
     <itunes:type>episodic</itunes:type>
     <itunes:category text="Society &amp; Culture"><itunes:category text="Places &amp; Travel"/></itunes:category>
     <itunes:image href="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/cover-nl-3000.jpg"/>
-    <lastBuildDate>Thu, 05 Nov 2026 02:03:57 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 05 Nov 2026 02:33:35 +0000</lastBuildDate>
+    <item>
+      <title>Edam reisgids &amp; geschiedenis | Hoe schepen plaatsmaakten voor kaas</title>
+      <link>https://wanderingcities.com/netherlands/edam/</link>
+      <description>Edam combineert een bezoek aan de lokale geschiedenis met bezienswaardigheden zoals de Grote Kerk, de Speeltoren en de Kaaswaag. In 1357 verleende graaf Willem V stadsrechten aan de plaats, wat de weg vrijmaakte voor scheepswerven en de latere kaashandel.
+
+Andere talen en meer over Edam: https://wanderingcities.com/netherlands/edam/
+
+Bronnen o.a. Wikipedia en Wikivoyage (CC BY-SA 4.0) en officiële websites over toerisme, erfgoed en musea. Het gesprek en de stemmen zijn door AI gegenereerd.</description>
+      <itunes:summary>Edam combineert een bezoek aan de lokale geschiedenis met bezienswaardigheden zoals de Grote Kerk, de Speeltoren en de Kaaswaag. In 1357 verleende graaf Willem V stadsrechten aan de plaats, wat de weg vrijmaakte voor scheepswerven en de latere kaashandel.
+
+Andere talen en meer over Edam: https://wanderingcities.com/netherlands/edam/
+
+Bronnen o.a. Wikipedia en Wikivoyage (CC BY-SA 4.0) en officiële websites over toerisme, erfgoed en musea. Het gesprek en de stemmen zijn door AI gegenereerd.</itunes:summary>
+      <enclosure url="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/episodes/nl/nl-edam-1528614478-v1.mp3" length="15811886" type="audio/mpeg"/>
+      <guid isPermaLink="false">3c4b51a2-49c2-59b2-9e20-cd37441c5744</guid>
+      <pubDate>Thu, 05 Nov 2026 02:33:35 +0000</pubDate>
+      <itunes:duration>00:16:21</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Marken reisgids &amp; geschiedenis | Een dorp gebouwd op middeleeuws afval</title>
       <link>https://wanderingcities.com/netherlands/marken/</link>
