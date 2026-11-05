@@ -14,7 +14,7 @@
     <itunes:type>episodic</itunes:type>
     <itunes:category text="Society &amp; Culture"><itunes:category text="Places &amp; Travel"/></itunes:category>
     <itunes:image href="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/cover-it-3000.jpg"/>
-    <lastBuildDate>Thu, 05 Nov 2026 04:33:26 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 05 Nov 2026 05:03:27 +0000</lastBuildDate>
     <item>
       <title>Oudewater: guida di viaggio e storia | La bilancia che salvava vite</title>
       <link>https://wanderingcities.com/netherlands/oudewater/</link>
@@ -198,6 +198,7 @@ Fonti, tra le altre: Wikipedia e Wikivoyage (CC BY-SA 4.0) e siti ufficiali di t
     <item>
       <title>Enkhuizen: guida di viaggio e storia | Dal grande porto alla Seed Valley</title>
       <link>https://wanderingcities.com/netherlands/enkhuizen/</link>
+      <podcast:transcript url="https://wanderingcities.com/netherlands/enkhuizen/transcript-it.txt" type="text/plain" language="it"/>
       <description>Enkhuizen unisce la sua storia marittima a luoghi per una visita tra la torre Drommedaris, la porta Koepoort e il Zuiderzeemuseum. Nel 1867, la fondazione di Sluis &amp; Groot avviò la trasformazione della città in un centro internazionale delle sementi.
 
 Altre lingue e altro su Enkhuizen: https://wanderingcities.com/netherlands/enkhuizen/

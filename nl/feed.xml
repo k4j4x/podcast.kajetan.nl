@@ -14,7 +14,7 @@
     <itunes:type>episodic</itunes:type>
     <itunes:category text="Society &amp; Culture"><itunes:category text="Places &amp; Travel"/></itunes:category>
     <itunes:image href="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/cover-nl-3000.jpg"/>
-    <lastBuildDate>Thu, 05 Nov 2026 04:33:25 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 05 Nov 2026 05:03:27 +0000</lastBuildDate>
     <item>
       <title>Oudewater reisgids &amp; geschiedenis | Hoe een weegschaal levens redde</title>
       <link>https://wanderingcities.com/netherlands/oudewater/</link>
@@ -178,6 +178,7 @@ Bronnen o.a. Wikipedia en Wikivoyage (CC BY-SA 4.0) en officiële websites over 
     <item>
       <title>Harlingen reisgids &amp; geschiedenis | Het Rebelse Broertje van Friesland</title>
       <link>https://wanderingcities.com/netherlands/harlingen/</link>
+      <podcast:transcript url="https://wanderingcities.com/netherlands/harlingen/transcript-nl.txt" type="text/plain" language="nl"/>
       <description>Harlingen toont zijn maritieme geschiedenis bij een bezoek aan de gracht Zoutsloot, het Hannemahuis en de Noorderhaven vol historische bezienswaardigheden. In 1645 verhuisde de Admiraliteit van Friesland naar de Zuiderhaven en transformeerde de havenmond in een krachtig marinebolwerk.
 
 Andere talen en meer over Harlingen: https://wanderingcities.com/netherlands/harlingen/
@@ -198,6 +199,7 @@ Bronnen o.a. Wikipedia en Wikivoyage (CC BY-SA 4.0) en officiële websites over 
     <item>
       <title>Enkhuizen reisgids &amp; geschiedenis | Een stad als levende tijdcapsule</title>
       <link>https://wanderingcities.com/netherlands/enkhuizen/</link>
+      <podcast:transcript url="https://wanderingcities.com/netherlands/enkhuizen/transcript-nl.txt" type="text/plain" language="nl"/>
       <description>Enkhuizen combineert zijn maritieme geschiedenis met bezienswaardigheden zoals de verdedigingstoren Drommedaris, de Koepoort en het Zuiderzeemuseum. Op 21 mei 1572 koos de stad als eerste in Holland de zijde van Willem van Oranje in de Tachtigjarige Oorlog.
 
 Andere talen en meer over Enkhuizen: https://wanderingcities.com/netherlands/enkhuizen/

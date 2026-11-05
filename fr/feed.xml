@@ -14,7 +14,7 @@
     <itunes:type>episodic</itunes:type>
     <itunes:category text="Society &amp; Culture"><itunes:category text="Places &amp; Travel"/></itunes:category>
     <itunes:image href="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/cover-fr-3000.jpg"/>
-    <lastBuildDate>Thu, 05 Nov 2026 04:33:25 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 05 Nov 2026 05:03:27 +0000</lastBuildDate>
     <item>
       <title>Oudewater : guide de voyage et histoire | La balance qui sauvait des vies</title>
       <link>https://wanderingcities.com/netherlands/oudewater/</link>
@@ -198,6 +198,7 @@ Sources, entre autres : Wikipédia et Wikivoyage (CC BY-SA 4.0) ainsi que les si
     <item>
       <title>Enkhuizen : guide de voyage et histoire | Sauvée par son déclin économique</title>
       <link>https://wanderingcities.com/netherlands/enkhuizen/</link>
+      <podcast:transcript url="https://wanderingcities.com/netherlands/enkhuizen/transcript-fr.txt" type="text/plain" language="fr"/>
       <description>Enkhuizen associe son histoire maritime à des monuments à voir comme la tour Drommedaris et le Zuiderzeemuseum. Entre 1650 et 1850, le déclin économique réduisit sa population de 25 000 à 5 400 habitants, préservant ses bâtiments intacts.
 
 Autres langues et plus sur Enkhuizen : https://wanderingcities.com/netherlands/enkhuizen/

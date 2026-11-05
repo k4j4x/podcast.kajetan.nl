@@ -14,7 +14,7 @@
     <itunes:type>episodic</itunes:type>
     <itunes:category text="Society &amp; Culture"><itunes:category text="Places &amp; Travel"/></itunes:category>
     <itunes:image href="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/cover-es-3000.jpg"/>
-    <lastBuildDate>Thu, 05 Nov 2026 04:33:26 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 05 Nov 2026 05:03:27 +0000</lastBuildDate>
     <item>
       <title>Oudewater: guía de viaje e historia | La báscula que salvaba vidas</title>
       <link>https://wanderingcities.com/netherlands/oudewater/</link>
@@ -198,6 +198,7 @@ Fuentes, entre otras: Wikipedia y Wikivoyage (CC BY-SA 4.0) y webs oficiales de 
     <item>
       <title>Enkhuizen: guía de viaje e historia | De potencia naval a imperio de semillas</title>
       <link>https://wanderingcities.com/netherlands/enkhuizen/</link>
+      <podcast:transcript url="https://wanderingcities.com/netherlands/enkhuizen/transcript-es.txt" type="text/plain" language="es"/>
       <description>Enkhuizen combina su historia marítima con puntos qué ver, como la torre Drommedaris, la Koepoort y el Zuiderzeemuseum. En 1867, la fundación de la empresa Sluis &amp; Groot comenzó la transformación de la ciudad en un centro internacional de semillas.
 
 Otros idiomas y más sobre Enkhuizen: https://wanderingcities.com/netherlands/enkhuizen/

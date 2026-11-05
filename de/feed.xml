@@ -14,7 +14,27 @@
     <itunes:type>episodic</itunes:type>
     <itunes:category text="Society &amp; Culture"><itunes:category text="Places &amp; Travel"/></itunes:category>
     <itunes:image href="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/cover-de-3000.jpg"/>
-    <lastBuildDate>Thu, 05 Nov 2026 04:33:25 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 05 Nov 2026 05:03:27 +0000</lastBuildDate>
+    <item>
+      <title>Giethoorn Reiseführer &amp; Geschichte | Vom Torfmoor zum Touristenmagnet</title>
+      <link>https://wanderingcities.com/netherlands/giethoorn/</link>
+      <description>Giethoorn verbindet Kanäle an der Dorpsgracht, Brücken am Binnenpad und das Museum 't Olde Maat Uus zu zentralen Sehenswürdigkeiten für jeden Besuch. Im Jahr 1958 drehte Bert Haanstra dort den Spielfilm Fanfare und löste damit den Wandel vom ruhigen Torfdorf zum touristischen Zentrum aus.
+
+Andere Sprachen und mehr über Giethoorn: https://wanderingcities.com/netherlands/giethoorn/
+
+Quellen u. a. Wikipedia und Wikivoyage (CC BY-SA 4.0) sowie offizielle Websites für Tourismus, Denkmalpflege und Museen. Gespräch und Stimmen sind KI-generiert.</description>
+      <itunes:summary>Giethoorn verbindet Kanäle an der Dorpsgracht, Brücken am Binnenpad und das Museum 't Olde Maat Uus zu zentralen Sehenswürdigkeiten für jeden Besuch. Im Jahr 1958 drehte Bert Haanstra dort den Spielfilm Fanfare und löste damit den Wandel vom ruhigen Torfdorf zum touristischen Zentrum aus.
+
+Andere Sprachen und mehr über Giethoorn: https://wanderingcities.com/netherlands/giethoorn/
+
+Quellen u. a. Wikipedia und Wikivoyage (CC BY-SA 4.0) sowie offizielle Websites für Tourismus, Denkmalpflege und Museen. Gespräch und Stimmen sind KI-generiert.</itunes:summary>
+      <enclosure url="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/episodes/de/de-giethoorn-1528999905-v1.mp3" length="23482433" type="audio/mpeg"/>
+      <guid isPermaLink="false">ff2145c4-5b76-55a6-bb2c-2c6f65d33b38</guid>
+      <pubDate>Thu, 05 Nov 2026 05:02:01 +0000</pubDate>
+      <itunes:duration>00:24:20</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Oudewater Reiseführer &amp; Geschichte | Wie eine Waage Menschenleben rettete</title>
       <link>https://wanderingcities.com/netherlands/oudewater/</link>
@@ -198,6 +218,7 @@ Quellen u. a. Wikipedia und Wikivoyage (CC BY-SA 4.0) sowie offizielle Websites 
     <item>
       <title>Harlingen Reiseführer &amp; Geschichte | Frieslands rebellische Hafenstadt</title>
       <link>https://wanderingcities.com/netherlands/harlingen/</link>
+      <podcast:transcript url="https://wanderingcities.com/netherlands/harlingen/transcript-de.txt" type="text/plain" language="de"/>
       <description>Harlingen zeigt seine Geschichte an realen Orten wie der Gracht Zoutsloot und dem Hafen Noorderhaven, die beim Besuch auffallen. Im Jahr 1645 zog die Admiralität von Friesland an den Zuiderhaven und verwandelte das Hafenbecken in ein bedeutendes Marinebolwerk.
 
 Andere Sprachen und mehr über Harlingen: https://wanderingcities.com/netherlands/harlingen/
@@ -218,6 +239,7 @@ Quellen u. a. Wikipedia und Wikivoyage (CC BY-SA 4.0) sowie offizielle Websites 
     <item>
       <title>Enkhuizen Reiseführer &amp; Geschichte | Vom Welthafen zum Seed Valley</title>
       <link>https://wanderingcities.com/netherlands/enkhuizen/</link>
+      <podcast:transcript url="https://wanderingcities.com/netherlands/enkhuizen/transcript-de.txt" type="text/plain" language="de"/>
       <description>Enkhuizen verbindet seine lange maritime Geschichte mit bedeutenden Sehenswürdigkeiten wie dem Zuiderzeemuseum und dem historischen Wehrturm Drommedaris. Im Jahr 1867 legte die Gründung von Sluis &amp; Groot den Grundstein für die spätere Entwicklung der Stadt zum weltweiten Zentrum der Saatzucht.
 
 Andere Sprachen und mehr über Enkhuizen: https://wanderingcities.com/netherlands/enkhuizen/

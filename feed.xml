@@ -14,7 +14,27 @@
     <itunes:type>episodic</itunes:type>
     <itunes:category text="Society &amp; Culture"><itunes:category text="Places &amp; Travel"/></itunes:category>
     <itunes:image href="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/cover-3000.jpg"/>
-    <lastBuildDate>Thu, 05 Nov 2026 04:33:25 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 05 Nov 2026 05:03:27 +0000</lastBuildDate>
+    <item>
+      <title>Giethoorn Travel Guide &amp; History | From Peat Bogs to Mass Tourism</title>
+      <link>https://wanderingcities.com/netherlands/giethoorn/</link>
+      <description>Giethoorn connects waterways along the Dorpsgracht, wooden bridges on the Binnenpad, and local history at Museum 't Olde Maat Uus for any visit. In 1958, director Bert Haanstra filmed the comedy Fanfare here, turning the quiet peat village into a global tourist destination.
+
+Other languages and more about Giethoorn: https://wanderingcities.com/netherlands/giethoorn/
+
+Sources include Wikipedia and Wikivoyage (CC BY-SA 4.0) and official tourism, heritage and museum websites. The conversation and voices are AI-generated.</description>
+      <itunes:summary>Giethoorn connects waterways along the Dorpsgracht, wooden bridges on the Binnenpad, and local history at Museum 't Olde Maat Uus for any visit. In 1958, director Bert Haanstra filmed the comedy Fanfare here, turning the quiet peat village into a global tourist destination.
+
+Other languages and more about Giethoorn: https://wanderingcities.com/netherlands/giethoorn/
+
+Sources include Wikipedia and Wikivoyage (CC BY-SA 4.0) and official tourism, heritage and museum websites. The conversation and voices are AI-generated.</itunes:summary>
+      <enclosure url="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/episodes/wandering-cities-giethoorn-1528999905-v1.mp3" length="22439101" type="audio/mpeg"/>
+      <guid isPermaLink="false">c0558e0f-c792-5f17-8a69-dc2fafed9f5c</guid>
+      <pubDate>Thu, 05 Nov 2026 05:03:26 +0000</pubDate>
+      <itunes:duration>00:23:13</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Oudewater Travel Guide &amp; History | How Scales Saved Lives</title>
       <link>https://wanderingcities.com/netherlands/oudewater/</link>
@@ -178,6 +198,7 @@ Sources include Wikipedia and Wikivoyage (CC BY-SA 4.0) and official tourism, he
     <item>
       <title>Harlingen Travel Guide &amp; History | From Monks to Whaling Wealth</title>
       <link>https://wanderingcities.com/netherlands/harlingen/</link>
+      <podcast:transcript url="https://wanderingcities.com/netherlands/harlingen/transcript-en.txt" type="text/plain" language="en"/>
       <description>Harlingen offers rich maritime history alongside real sights like the Zoutsloot canal and Noorderhaven harbor, filling your visit with remarkable things to see. In 1645, the Admiralty of Friesland moved to the Zuiderhaven port, turning the town into a key naval stronghold.
 
 Other languages and more about Harlingen: https://wanderingcities.com/netherlands/harlingen/
