@@ -14,7 +14,7 @@
     <itunes:type>episodic</itunes:type>
     <itunes:category text="Society &amp; Culture"><itunes:category text="Places &amp; Travel"/></itunes:category>
     <itunes:image href="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/cover-fr-3000.jpg"/>
-    <lastBuildDate>Tue, 03 Nov 2026 19:14:44 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 05 Nov 2026 02:01:55 +0000</lastBuildDate>
     <item>
       <title>Thorn : guide de voyage et histoire | Fraude fiscale à la peinture blanche</title>
       <link>https://wanderingcities.com/netherlands/thorn/</link>
@@ -198,6 +198,7 @@ Sources, entre autres : Wikipédia et Wikivoyage (CC BY-SA 4.0) ainsi que les si
     <item>
       <title>Gorinchem : guide de voyage et histoire | La forteresse aquatique des Pays-Bas</title>
       <link>https://wanderingcities.com/netherlands/gorinchem/</link>
+      <podcast:transcript url="https://wanderingcities.com/netherlands/gorinchem/transcript-fr.txt" type="text/plain" language="fr"/>
       <description>Gorinchem rassemble des éléments d'histoire et des lieux à voir lors d'une visite, comme la Dalempoort, le Lingehaven et la Grote Toren. En 2021, l'ANWB a désigné la cité comme la plus belle ville fortifiée des Pays-Bas pour ses remparts.
 
 Autres langues et plus sur Gorinchem : https://wanderingcities.com/netherlands/gorinchem/
