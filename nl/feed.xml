@@ -14,7 +14,7 @@
     <itunes:type>episodic</itunes:type>
     <itunes:category text="Society &amp; Culture"><itunes:category text="Places &amp; Travel"/></itunes:category>
     <itunes:image href="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/cover-nl-3000.jpg"/>
-    <lastBuildDate>Thu, 05 Nov 2026 04:03:03 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 05 Nov 2026 04:33:25 +0000</lastBuildDate>
     <item>
       <title>Oudewater reisgids &amp; geschiedenis | Hoe een weegschaal levens redde</title>
       <link>https://wanderingcities.com/netherlands/oudewater/</link>
@@ -218,6 +218,7 @@ Bronnen o.a. Wikipedia en Wikivoyage (CC BY-SA 4.0) en officiële websites over 
     <item>
       <title>Hulst reisgids &amp; geschiedenis | Een Belgisch gevoel in Nederland</title>
       <link>https://wanderingcities.com/netherlands/hulst/</link>
+      <podcast:transcript url="https://wanderingcities.com/netherlands/hulst/transcript-nl.txt" type="text/plain" language="nl"/>
       <description>Hulst verbindt een lange geschiedenis met bezienswaardigheden zoals de Sint-Willibrordusbasiliek, de Gentse Poort en de stadswallen, wat een bezoek waardevol maakt. In 1645 veroverde prins Frederik Hendrik de vesting na een beleg van 28 dagen op de Spanjaarden.
 
 Andere talen en meer over Hulst: https://wanderingcities.com/netherlands/hulst/

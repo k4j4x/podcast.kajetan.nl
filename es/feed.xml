@@ -14,7 +14,27 @@
     <itunes:type>episodic</itunes:type>
     <itunes:category text="Society &amp; Culture"><itunes:category text="Places &amp; Travel"/></itunes:category>
     <itunes:image href="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/cover-es-3000.jpg"/>
-    <lastBuildDate>Thu, 05 Nov 2026 04:03:03 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 05 Nov 2026 04:33:26 +0000</lastBuildDate>
+    <item>
+      <title>Oudewater: guía de viaje e historia | La báscula que salvaba vidas</title>
+      <link>https://wanderingcities.com/netherlands/oudewater/</link>
+      <description>Oudewater conecta su historia con sitios qué ver en una visita, como la Heksenwaag, el Touwmuseum y la Visbrug junto al Hollandse IJssel. En 1545, el emperador Carlos V concedió a la ciudad el privilegio de un pesaje justo para proteger a las personas de falsas acusaciones.
+
+Otros idiomas y más sobre Oudewater: https://wanderingcities.com/netherlands/oudewater/
+
+Fuentes, entre otras: Wikipedia y Wikivoyage (CC BY-SA 4.0) y webs oficiales de turismo, patrimonio y museos. La conversación y las voces están generadas por IA.</description>
+      <itunes:summary>Oudewater conecta su historia con sitios qué ver en una visita, como la Heksenwaag, el Touwmuseum y la Visbrug junto al Hollandse IJssel. En 1545, el emperador Carlos V concedió a la ciudad el privilegio de un pesaje justo para proteger a las personas de falsas acusaciones.
+
+Otros idiomas y más sobre Oudewater: https://wanderingcities.com/netherlands/oudewater/
+
+Fuentes, entre otras: Wikipedia y Wikivoyage (CC BY-SA 4.0) y webs oficiales de turismo, patrimonio y museos. La conversación y las voces están generadas por IA.</itunes:summary>
+      <enclosure url="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/episodes/es/es-oudewater-1528852092-v1.mp3" length="29104966" type="audio/mpeg"/>
+      <guid isPermaLink="false">812ea20c-f4c4-57e0-8173-e5b4ced6fcc9</guid>
+      <pubDate>Thu, 05 Nov 2026 04:32:23 +0000</pubDate>
+      <itunes:duration>00:30:11</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Edam: guía de viaje e historia | Un queso diseñado para navegar</title>
       <link>https://wanderingcities.com/netherlands/edam/</link>
@@ -198,6 +218,7 @@ Fuentes, entre otras: Wikipedia y Wikivoyage (CC BY-SA 4.0) y webs oficiales de 
     <item>
       <title>Hulst: guía de viaje e historia | Ambiente flamenco en los Países Bajos</title>
       <link>https://wanderingcities.com/netherlands/hulst/</link>
+      <podcast:transcript url="https://wanderingcities.com/netherlands/hulst/transcript-es.txt" type="text/plain" language="es"/>
       <description>Hulst combina su historia con lugares que ver en una visita, como la Sint-Willibrordusbasiliek, la Gentse Poort y las murallas. En 1645, el príncipe Frederik Hendrik conquistó la fortaleza a los españoles tras un sitio de 28 días.
 
 Otros idiomas y más sobre Hulst: https://wanderingcities.com/netherlands/hulst/
@@ -218,6 +239,7 @@ Fuentes, entre otras: Wikipedia y Wikivoyage (CC BY-SA 4.0) y webs oficiales de 
     <item>
       <title>Gorinchem: guía de viaje e historia | La inundación como arma defensiva</title>
       <link>https://wanderingcities.com/netherlands/gorinchem/</link>
+      <podcast:transcript url="https://wanderingcities.com/netherlands/gorinchem/transcript-es.txt" type="text/plain" language="es"/>
       <description>Gorinchem reúne historia y lugares qué ver durante una visita, como la Dalempoort, el Lingehaven y la Grote Toren. En 2021, la ANWB la nombró la ciudad fortificada más bonita de los Países Bajos por sus murallas conservadas.
 
 Otros idiomas y más sobre Gorinchem: https://wanderingcities.com/netherlands/gorinchem/

@@ -14,7 +14,7 @@
     <itunes:type>episodic</itunes:type>
     <itunes:category text="Society &amp; Culture"><itunes:category text="Places &amp; Travel"/></itunes:category>
     <itunes:image href="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/cover-fr-3000.jpg"/>
-    <lastBuildDate>Thu, 05 Nov 2026 04:03:03 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 05 Nov 2026 04:33:25 +0000</lastBuildDate>
     <item>
       <title>Oudewater : guide de voyage et histoire | La balance qui sauvait des vies</title>
       <link>https://wanderingcities.com/netherlands/oudewater/</link>
@@ -218,6 +218,7 @@ Sources, entre autres : Wikipédia et Wikivoyage (CC BY-SA 4.0) ainsi que les si
     <item>
       <title>Hulst : guide de voyage et histoire | Une ambiance flamande aux Pays-Bas</title>
       <link>https://wanderingcities.com/netherlands/hulst/</link>
+      <podcast:transcript url="https://wanderingcities.com/netherlands/hulst/transcript-fr.txt" type="text/plain" language="fr"/>
       <description>Hulst associe son histoire à des sites à voir lors d'une visite, comme la Sint-Willibrordusbasiliek, la Gentse Poort et les remparts. En 1645, le prince Frederik Hendrik a conquis la forteresse sur les Espagnols après un siège de 28 jours.
 
 Autres langues et plus sur Hulst : https://wanderingcities.com/netherlands/hulst/

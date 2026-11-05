@@ -14,7 +14,7 @@
     <itunes:type>episodic</itunes:type>
     <itunes:category text="Society &amp; Culture"><itunes:category text="Places &amp; Travel"/></itunes:category>
     <itunes:image href="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/cover-de-3000.jpg"/>
-    <lastBuildDate>Thu, 05 Nov 2026 04:03:03 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 05 Nov 2026 04:33:25 +0000</lastBuildDate>
     <item>
       <title>Oudewater Reiseführer &amp; Geschichte | Wie eine Waage Menschenleben rettete</title>
       <link>https://wanderingcities.com/netherlands/oudewater/</link>
@@ -238,6 +238,7 @@ Quellen u. a. Wikipedia und Wikivoyage (CC BY-SA 4.0) sowie offizielle Websites 
     <item>
       <title>Hulst Reiseführer &amp; Geschichte | Flämische Lebensart in Zeeland</title>
       <link>https://wanderingcities.com/netherlands/hulst/</link>
+      <podcast:transcript url="https://wanderingcities.com/netherlands/hulst/transcript-de.txt" type="text/plain" language="de"/>
       <description>Hulst vereint historische Sehenswürdigkeiten wie die Sint-Willibrordusbasiliek, die Gentse Poort und die Festungswälle, sodass ein Besuch direkt in die Geschichte führt. Im Jahr 1645 eroberte Prinz Frederik Hendrik die Festung nach 28 Tagen Belagerung von den Spaniern zurück.
 
 Andere Sprachen und mehr über Hulst: https://wanderingcities.com/netherlands/hulst/
