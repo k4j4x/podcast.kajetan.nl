@@ -14,7 +14,7 @@
     <itunes:type>episodic</itunes:type>
     <itunes:category text="Society &amp; Culture"><itunes:category text="Places &amp; Travel"/></itunes:category>
     <itunes:image href="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/cover-de-3000.jpg"/>
-    <lastBuildDate>Thu, 05 Nov 2026 03:33:10 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 05 Nov 2026 04:03:03 +0000</lastBuildDate>
     <item>
       <title>Oudewater Reiseführer &amp; Geschichte | Wie eine Waage Menschenleben rettete</title>
       <link>https://wanderingcities.com/netherlands/oudewater/</link>
@@ -258,6 +258,7 @@ Quellen u. a. Wikipedia und Wikivoyage (CC BY-SA 4.0) sowie offizielle Websites 
     <item>
       <title>Gorinchem Reiseführer &amp; Geschichte | Schönste Festungsstadt der Niederlande</title>
       <link>https://wanderingcities.com/netherlands/gorinchem/</link>
+      <podcast:transcript url="https://wanderingcities.com/netherlands/gorinchem/transcript-de.txt" type="text/plain" language="de"/>
       <description>Gorinchem bietet bei einem Besuch historische Sehenswürdigkeiten wie die Dalempoort, den Lingehaven und den Grote Toren an der Merwede. Im Jahr 2021 wählte der ANWB Gorinchem zur schönsten Festungsstadt der Niederlande, was die lange Geschichte dieser Festung unterstreicht.
 
 Andere Sprachen und mehr über Gorinchem: https://wanderingcities.com/netherlands/gorinchem/
@@ -278,6 +279,7 @@ Quellen u. a. Wikipedia und Wikivoyage (CC BY-SA 4.0) sowie offizielle Websites 
     <item>
       <title>Vlissingen Reiseführer &amp; Geschichte | Ozeanriesen hautnah am Strand</title>
       <link>https://wanderingcities.com/netherlands/vlissingen/</link>
+      <podcast:transcript url="https://wanderingcities.com/netherlands/vlissingen/transcript-de.txt" type="text/plain" language="de"/>
       <description>Vlissingen verbindet eine lange Geschichte an der Westerschelde mit markanten Sehenswürdigkeiten wie dem Bellamypark, der historischen Oranjemolen und dem Keizersbolwerk am Boulevard de Ruyter. Am 6. April 1572 vertrieben die Einwohner die spanischen Truppen eigenständig aus der Stadt, was einen wichtigen Wendepunkt im Achtzigjährigen Krieg markierte.
 
 Andere Sprachen und mehr über Vlissingen: https://wanderingcities.com/netherlands/vlissingen/

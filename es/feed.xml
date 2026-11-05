@@ -14,7 +14,7 @@
     <itunes:type>episodic</itunes:type>
     <itunes:category text="Society &amp; Culture"><itunes:category text="Places &amp; Travel"/></itunes:category>
     <itunes:image href="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/cover-es-3000.jpg"/>
-    <lastBuildDate>Thu, 05 Nov 2026 03:33:11 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 05 Nov 2026 04:03:03 +0000</lastBuildDate>
     <item>
       <title>Edam: guía de viaje e historia | Un queso diseñado para navegar</title>
       <link>https://wanderingcities.com/netherlands/edam/</link>
@@ -238,6 +238,7 @@ Fuentes, entre otras: Wikipedia y Wikivoyage (CC BY-SA 4.0) y webs oficiales de 
     <item>
       <title>Vlissingen: guía de viaje e historia | Gigantes del mar junto a la playa</title>
       <link>https://wanderingcities.com/netherlands/vlissingen/</link>
+      <podcast:transcript url="https://wanderingcities.com/netherlands/vlissingen/transcript-es.txt" type="text/plain" language="es"/>
       <description>Vlissingen combina su historia marítima con el Boulevard de Ruyter, el Bellamypark y el molino Oranjemolen para organizar una visita. En 1572, los vecinos expulsaron a las tropas españolas de la ciudad, marcando un punto de inflexión en la guerra de los Ochenta Años.
 
 Otros idiomas y más sobre Vlissingen: https://wanderingcities.com/netherlands/vlissingen/

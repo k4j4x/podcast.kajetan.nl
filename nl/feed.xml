@@ -14,7 +14,27 @@
     <itunes:type>episodic</itunes:type>
     <itunes:category text="Society &amp; Culture"><itunes:category text="Places &amp; Travel"/></itunes:category>
     <itunes:image href="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/cover-nl-3000.jpg"/>
-    <lastBuildDate>Thu, 05 Nov 2026 03:33:11 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 05 Nov 2026 04:03:03 +0000</lastBuildDate>
+    <item>
+      <title>Oudewater reisgids &amp; geschiedenis | Hoe een weegschaal levens redde</title>
+      <link>https://wanderingcities.com/netherlands/oudewater/</link>
+      <description>Oudewater verbindt tijdens een bezoek zijn geschiedenis met bezienswaardigheden zoals de Heksenwaag, het Touwmuseum en de Visbrug aan de Hollandse IJssel. In 1545 verleende keizer Karel V de stad het privilege voor een eerlijk weegproces om mensen te beschermen tegen valse beschuldigingen van hekserij.
+
+Andere talen en meer over Oudewater: https://wanderingcities.com/netherlands/oudewater/
+
+Bronnen o.a. Wikipedia en Wikivoyage (CC BY-SA 4.0) en officiële websites over toerisme, erfgoed en musea. Het gesprek en de stemmen zijn door AI gegenereerd.</description>
+      <itunes:summary>Oudewater verbindt tijdens een bezoek zijn geschiedenis met bezienswaardigheden zoals de Heksenwaag, het Touwmuseum en de Visbrug aan de Hollandse IJssel. In 1545 verleende keizer Karel V de stad het privilege voor een eerlijk weegproces om mensen te beschermen tegen valse beschuldigingen van hekserij.
+
+Andere talen en meer over Oudewater: https://wanderingcities.com/netherlands/oudewater/
+
+Bronnen o.a. Wikipedia en Wikivoyage (CC BY-SA 4.0) en officiële websites over toerisme, erfgoed en musea. Het gesprek en de stemmen zijn door AI gegenereerd.</itunes:summary>
+      <enclosure url="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/episodes/nl/nl-oudewater-1528852092-v1.mp3" length="25863806" type="audio/mpeg"/>
+      <guid isPermaLink="false">97330408-f39e-53bc-9cee-9144b3e12228</guid>
+      <pubDate>Thu, 05 Nov 2026 04:03:02 +0000</pubDate>
+      <itunes:duration>00:26:49</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Edam reisgids &amp; geschiedenis | Hoe schepen plaatsmaakten voor kaas</title>
       <link>https://wanderingcities.com/netherlands/edam/</link>
@@ -218,6 +238,7 @@ Bronnen o.a. Wikipedia en Wikivoyage (CC BY-SA 4.0) en officiële websites over 
     <item>
       <title>Gorinchem reisgids &amp; geschiedenis | De mooiste vestingstad van Nederland</title>
       <link>https://wanderingcities.com/netherlands/gorinchem/</link>
+      <podcast:transcript url="https://wanderingcities.com/netherlands/gorinchem/transcript-nl.txt" type="text/plain" language="nl"/>
       <description>Gorinchem toont tijdens een bezoek haar geschiedenis via bezienswaardigheden zoals de Dalempoort, de Lingehaven en de Grote Toren aan de Merwede. In 2021 verkoos de ANWB de stad tot mooiste vestingstad van Nederland om haar bewaarde verdedigingswerken en historische monumenten.
 
 Andere talen en meer over Gorinchem: https://wanderingcities.com/netherlands/gorinchem/
@@ -238,6 +259,7 @@ Bronnen o.a. Wikipedia en Wikivoyage (CC BY-SA 4.0) en officiële websites over 
     <item>
       <title>Vlissingen reisgids &amp; geschiedenis | Zeeschepen rakelings langs het strand</title>
       <link>https://wanderingcities.com/netherlands/vlissingen/</link>
+      <podcast:transcript url="https://wanderingcities.com/netherlands/vlissingen/transcript-nl.txt" type="text/plain" language="nl"/>
       <description>Vlissingen verbindt maritieme geschiedenis aan de Westerschelde met bezienswaardigheden zoals Boulevard de Ruyter, de Oranjemolen en het Bellamypark. In 1572 verjoegen de inwoners de Spaanse troepen uit de stad, wat een belangrijk keerpunt vormde in de Tachtigjarige Oorlog.
 
 Andere talen en meer over Vlissingen: https://wanderingcities.com/netherlands/vlissingen/
