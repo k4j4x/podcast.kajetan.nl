@@ -14,7 +14,27 @@
     <itunes:type>episodic</itunes:type>
     <itunes:category text="Society &amp; Culture"><itunes:category text="Places &amp; Travel"/></itunes:category>
     <itunes:image href="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/cover-3000.jpg"/>
-    <lastBuildDate>Thu, 05 Nov 2026 02:01:54 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 05 Nov 2026 02:03:57 +0000</lastBuildDate>
+    <item>
+      <title>Edam Travel Guide &amp; History | No More Cheese Made Here</title>
+      <link>https://wanderingcities.com/netherlands/edam/</link>
+      <description>Edam combines local history with major things to see, including the Grote Kerk, the Speeltoren, and the Steenen Coopmanshuys. In 1778, the town built the Kaaswaag to weigh cheese, yet today not a single cheese farm remains in the town.
+
+Other languages and more about Edam: https://wanderingcities.com/netherlands/edam/
+
+Sources include Wikipedia and Wikivoyage (CC BY-SA 4.0) and official tourism, heritage and museum websites. The conversation and voices are AI-generated.</description>
+      <itunes:summary>Edam combines local history with major things to see, including the Grote Kerk, the Speeltoren, and the Steenen Coopmanshuys. In 1778, the town built the Kaaswaag to weigh cheese, yet today not a single cheese farm remains in the town.
+
+Other languages and more about Edam: https://wanderingcities.com/netherlands/edam/
+
+Sources include Wikipedia and Wikivoyage (CC BY-SA 4.0) and official tourism, heritage and museum websites. The conversation and voices are AI-generated.</itunes:summary>
+      <enclosure url="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/episodes/wandering-cities-edam-1528614478-v1.mp3" length="21921657" type="audio/mpeg"/>
+      <guid isPermaLink="false">c69beb92-c3e5-5f8a-a3bd-2d9f8541f15a</guid>
+      <pubDate>Thu, 05 Nov 2026 02:03:57 +0000</pubDate>
+      <itunes:duration>00:22:40</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Marken Travel Guide &amp; History | A Village Raised on Trash</title>
       <link>https://wanderingcities.com/netherlands/marken/</link>
