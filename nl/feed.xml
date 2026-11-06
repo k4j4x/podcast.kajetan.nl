@@ -14,7 +14,7 @@
     <itunes:type>episodic</itunes:type>
     <itunes:category text="Society &amp; Culture"><itunes:category text="Places &amp; Travel"/></itunes:category>
     <itunes:image href="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/cover-nl-3000.jpg"/>
-    <lastBuildDate>Fri, 06 Nov 2026 05:03:02 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 06 Nov 2026 05:12:10 +0000</lastBuildDate>
     <item>
       <title>Oudewater reisgids &amp; geschiedenis | Hoe een weegschaal levens redde</title>
       <link>https://wanderingcities.com/netherlands/oudewater/</link>
@@ -302,7 +302,7 @@ Bronnen o.a. Wikipedia en Wikivoyage (CC BY-SA 4.0) en officiële websites over 
 Andere talen en meer over Lisse: https://wanderingcities.com/netherlands/lisse/
 
 Bronnen o.a. Wikipedia en Wikivoyage (CC BY-SA 4.0) en officiële websites over toerisme, erfgoed en musea. Het gesprek en de stemmen zijn door AI gegenereerd.</itunes:summary>
-      <enclosure url="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/episodes/nl/nl-lisse-1528160050-v1.mp3" length="24620373" type="audio/mpeg"/>
+      <enclosure url="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/episodes/nl/nl-lisse-1528160050-v2.mp3" length="24620373" type="audio/mpeg"/>
       <guid isPermaLink="false">374f17eb-0e60-567c-8127-587fae1e8d26</guid>
       <pubDate>Fri, 30 Oct 2026 10:03:30 +0000</pubDate>
       <itunes:duration>00:25:31</itunes:duration>
@@ -323,10 +323,10 @@ Bronnen o.a. Wikipedia en Wikivoyage (CC BY-SA 4.0) en officiële websites over 
 Andere talen en meer over Elburg: https://wanderingcities.com/netherlands/elburg/
 
 Bronnen o.a. Wikipedia en Wikivoyage (CC BY-SA 4.0) en officiële websites over toerisme, erfgoed en musea. Het gesprek en de stemmen zijn door AI gegenereerd.</itunes:summary>
-      <enclosure url="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/episodes/nl/nl-elburg-1528998186-v1.mp3" length="19430998" type="audio/mpeg"/>
+      <enclosure url="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/episodes/nl/nl-elburg-1528998186-v2.mp3" length="12360800" type="audio/mpeg"/>
       <guid isPermaLink="false">3034a259-f110-5463-9875-16388160ff5c</guid>
       <pubDate>Fri, 30 Oct 2026 08:33:00 +0000</pubDate>
-      <itunes:duration>00:20:07</itunes:duration>
+      <itunes:duration>00:12:45</itunes:duration>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>false</itunes:explicit>
     </item>
@@ -386,10 +386,10 @@ Bronnen o.a. Wikipedia en Wikivoyage (CC BY-SA 4.0) en officiële websites over 
 Andere talen en meer over Woerden: https://wanderingcities.com/netherlands/woerden/
 
 Bronnen o.a. Wikipedia en Wikivoyage (CC BY-SA 4.0) en officiële websites over toerisme, erfgoed en musea. Het gesprek en de stemmen zijn door AI gegenereerd.</itunes:summary>
-      <enclosure url="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/episodes/nl/nl-woerden-1528805215-v1.mp3" length="19927109" type="audio/mpeg"/>
+      <enclosure url="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/episodes/nl/nl-woerden-1528805215-v3.mp3" length="15554002" type="audio/mpeg"/>
       <guid isPermaLink="false">36d541cc-8d30-56df-b364-2334665feeb7</guid>
       <pubDate>Thu, 29 Oct 2026 07:35:00 +0000</pubDate>
-      <itunes:duration>00:20:38</itunes:duration>
+      <itunes:duration>00:16:05</itunes:duration>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>false</itunes:explicit>
     </item>
