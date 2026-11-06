@@ -14,7 +14,7 @@
     <itunes:type>episodic</itunes:type>
     <itunes:category text="Society &amp; Culture"><itunes:category text="Places &amp; Travel"/></itunes:category>
     <itunes:image href="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/cover-fr-3000.jpg"/>
-    <lastBuildDate>Fri, 06 Nov 2026 05:46:46 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 06 Nov 2026 06:10:00 +0000</lastBuildDate>
     <item>
       <title>Oudewater : guide de voyage et histoire | La balance qui sauvait des vies</title>
       <link>https://wanderingcities.com/netherlands/oudewater/</link>
@@ -155,10 +155,10 @@ Sources, entre autres : Wikipédia et Wikivoyage (CC BY-SA 4.0) ainsi que les si
 Autres langues et plus sur Vaals : https://wanderingcities.com/netherlands/vaals/
 
 Sources, entre autres : Wikipédia et Wikivoyage (CC BY-SA 4.0) ainsi que les sites officiels du tourisme, du patrimoine et des musées. La conversation et les voix sont générées par IA.</itunes:summary>
-      <enclosure url="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/episodes/fr/fr-vaals-1528584480-v1.mp3" length="21199994" type="audio/mpeg"/>
+      <enclosure url="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/episodes/fr/fr-vaals-1528584480-v2.mp3" length="12513549" type="audio/mpeg"/>
       <guid isPermaLink="false">89b41c8c-b7dd-5946-a3d7-d4d9a83346d1</guid>
       <pubDate>Mon, 02 Nov 2026 10:33:41 +0000</pubDate>
-      <itunes:duration>00:21:57</itunes:duration>
+      <itunes:duration>00:12:54</itunes:duration>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>false</itunes:explicit>
     </item>
