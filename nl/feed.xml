@@ -14,10 +14,11 @@
     <itunes:type>episodic</itunes:type>
     <itunes:category text="Society &amp; Culture"><itunes:category text="Places &amp; Travel"/></itunes:category>
     <itunes:image href="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/cover-nl-3000.jpg"/>
-    <lastBuildDate>Fri, 06 Nov 2026 04:01:15 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 06 Nov 2026 04:26:53 +0000</lastBuildDate>
     <item>
       <title>Oudewater reisgids &amp; geschiedenis | Hoe een weegschaal levens redde</title>
       <link>https://wanderingcities.com/netherlands/oudewater/</link>
+      <podcast:transcript url="https://wanderingcities.com/netherlands/oudewater/transcript-nl.txt" type="text/plain" language="nl"/>
       <description>Oudewater verbindt tijdens een bezoek zijn geschiedenis met bezienswaardigheden zoals de Heksenwaag, het Touwmuseum en de Visbrug aan de Hollandse IJssel. In 1545 verleende keizer Karel V de stad het privilege voor een eerlijk weegproces om mensen te beschermen tegen valse beschuldigingen van hekserij.
 
 Andere talen en meer over Oudewater: https://wanderingcities.com/netherlands/oudewater/

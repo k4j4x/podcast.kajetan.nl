@@ -14,10 +14,11 @@
     <itunes:type>episodic</itunes:type>
     <itunes:category text="Society &amp; Culture"><itunes:category text="Places &amp; Travel"/></itunes:category>
     <itunes:image href="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/cover-fr-3000.jpg"/>
-    <lastBuildDate>Fri, 06 Nov 2026 04:01:15 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 06 Nov 2026 04:26:53 +0000</lastBuildDate>
     <item>
       <title>Oudewater : guide de voyage et histoire | La balance qui sauvait des vies</title>
       <link>https://wanderingcities.com/netherlands/oudewater/</link>
+      <podcast:transcript url="https://wanderingcities.com/netherlands/oudewater/transcript-fr.txt" type="text/plain" language="fr"/>
       <description>Oudewater relie son histoire à des sites à voir lors d'une visite, comme la Heksenwaag, le Touwmuseum et la Hollandse IJssel. En 1545, l'empereur Charles Quint accorda à la ville le privilège d'un pesage équitable protégeant contre de fausses accusations.
 
 Autres langues et plus sur Oudewater : https://wanderingcities.com/netherlands/oudewater/
