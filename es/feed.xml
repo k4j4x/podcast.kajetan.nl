@@ -14,7 +14,7 @@
     <itunes:type>episodic</itunes:type>
     <itunes:category text="Society &amp; Culture"><itunes:category text="Places &amp; Travel"/></itunes:category>
     <itunes:image href="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/cover-es-3000.jpg"/>
-    <lastBuildDate>Fri, 06 Nov 2026 04:26:53 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 06 Nov 2026 05:03:03 +0000</lastBuildDate>
     <item>
       <title>Oudewater: guía de viaje e historia | La báscula que salvaba vidas</title>
       <link>https://wanderingcities.com/netherlands/oudewater/</link>
@@ -302,10 +302,10 @@ Fuentes, entre otras: Wikipedia y Wikivoyage (CC BY-SA 4.0) y webs oficiales de 
 Otros idiomas y más sobre Lisse: https://wanderingcities.com/netherlands/lisse/
 
 Fuentes, entre otras: Wikipedia y Wikivoyage (CC BY-SA 4.0) y webs oficiales de turismo, patrimonio y museos. La conversación y las voces están generadas por IA.</itunes:summary>
-      <enclosure url="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/episodes/es/es-lisse-1528160050-v1.mp3" length="18741672" type="audio/mpeg"/>
+      <enclosure url="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/episodes/es/es-lisse-1528160050-v2.mp3" length="14184663" type="audio/mpeg"/>
       <guid isPermaLink="false">e94c56fb-86af-57f3-99e2-f8d8463df795</guid>
       <pubDate>Fri, 30 Oct 2026 10:32:03 +0000</pubDate>
-      <itunes:duration>00:19:23</itunes:duration>
+      <itunes:duration>00:14:39</itunes:duration>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>false</itunes:explicit>
     </item>

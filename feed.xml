@@ -14,10 +14,11 @@
     <itunes:type>episodic</itunes:type>
     <itunes:category text="Society &amp; Culture"><itunes:category text="Places &amp; Travel"/></itunes:category>
     <itunes:image href="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/cover-3000.jpg"/>
-    <lastBuildDate>Fri, 06 Nov 2026 04:26:52 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 06 Nov 2026 05:03:02 +0000</lastBuildDate>
     <item>
       <title>Giethoorn Travel Guide &amp; History | From Peat Bogs to Mass Tourism</title>
       <link>https://wanderingcities.com/netherlands/giethoorn/</link>
+      <podcast:transcript url="https://wanderingcities.com/netherlands/giethoorn/transcript-en.txt" type="text/plain" language="en"/>
       <description>Giethoorn connects waterways along the Dorpsgracht, wooden bridges on the Binnenpad, and local history at Museum 't Olde Maat Uus for any visit. In 1958, director Bert Haanstra filmed the comedy Fanfare here, turning the quiet peat village into a global tourist destination.
 
 Other languages and more about Giethoorn: https://wanderingcities.com/netherlands/giethoorn/
