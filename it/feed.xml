@@ -14,7 +14,7 @@
     <itunes:type>episodic</itunes:type>
     <itunes:category text="Society &amp; Culture"><itunes:category text="Places &amp; Travel"/></itunes:category>
     <itunes:image href="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/cover-it-3000.jpg"/>
-    <lastBuildDate>Fri, 06 Nov 2026 03:23:59 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 06 Nov 2026 04:01:15 +0000</lastBuildDate>
     <item>
       <title>Oudewater: guida di viaggio e storia | La bilancia che salvava vite</title>
       <link>https://wanderingcities.com/netherlands/oudewater/</link>
@@ -38,6 +38,7 @@ Fonti, tra le altre: Wikipedia e Wikivoyage (CC BY-SA 4.0) e siti ufficiali di t
     <item>
       <title>Edam: guida di viaggio e storia | Da gigante dei mari a borgo tranquillo</title>
       <link>https://wanderingcities.com/netherlands/edam/</link>
+      <podcast:transcript url="https://wanderingcities.com/netherlands/edam/transcript-it.txt" type="text/plain" language="it"/>
       <description>Edam offre una visita legata alla sua storia tra monumenti come la Grote Kerk, lo Speeltoren e lo Steenen Coopmanshuys. Nel 1357 il conte Willem V concesse i diritti di città all'insediamento, avviando la stagione dei cantieri navali.
 
 Altre lingue e altro su Edam: https://wanderingcities.com/netherlands/edam/
@@ -58,6 +59,7 @@ Fonti, tra le altre: Wikipedia e Wikivoyage (CC BY-SA 4.0) e siti ufficiali di t
     <item>
       <title>Thorn: guida di viaggio e storia | Evasione fiscale con pittura bianca</title>
       <link>https://wanderingcities.com/netherlands/thorn/</link>
+      <podcast:transcript url="https://wanderingcities.com/netherlands/thorn/transcript-it.txt" type="text/plain" language="it"/>
       <description>Thorn mostra durante una visita strade in ciottoli, case bianche vicino al Wijngaard e la gotica Abdijkerk tra i punti chiave su cosa vedere. Nel 1794, le truppe francesi occuparono il principato, spingendo i residenti impoveriti a murare le finestre e imbiancare i muri per evitare le tasse.
 
 Altre lingue e altro su Thorn: https://wanderingcities.com/netherlands/thorn/

@@ -14,7 +14,7 @@
     <itunes:type>episodic</itunes:type>
     <itunes:category text="Society &amp; Culture"><itunes:category text="Places &amp; Travel"/></itunes:category>
     <itunes:image href="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/cover-de-3000.jpg"/>
-    <lastBuildDate>Fri, 06 Nov 2026 03:23:59 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 06 Nov 2026 04:01:14 +0000</lastBuildDate>
     <item>
       <title>Giethoorn Reiseführer &amp; Geschichte | Vom Torfmoor zum Touristenmagnet</title>
       <link>https://wanderingcities.com/netherlands/giethoorn/</link>
@@ -58,6 +58,7 @@ Quellen u. a. Wikipedia und Wikivoyage (CC BY-SA 4.0) sowie offizielle Websites 
     <item>
       <title>Edam Reiseführer &amp; Geschichte | Hier entsteht kein Kugelkäse mehr</title>
       <link>https://wanderingcities.com/netherlands/edam/</link>
+      <podcast:transcript url="https://wanderingcities.com/netherlands/edam/transcript-de.txt" type="text/plain" language="de"/>
       <description>Edam belohnt jeden Besuch mit Sehenswürdigkeiten wie der Grote Kerk, dem Speeltoren und dem Steenen Coopmanshuys voller Geschichte. Im Jahr 1778 entstand die Kaaswaag für den Wiegevorgang, doch heute gibt es im Ort keinen einzigen Käsebauernhof mehr.
 
 Andere Sprachen und mehr über Edam: https://wanderingcities.com/netherlands/edam/
@@ -78,6 +79,7 @@ Quellen u. a. Wikipedia und Wikivoyage (CC BY-SA 4.0) sowie offizielle Websites 
     <item>
       <title>Roermond Reiseführer &amp; Geschichte | Wanderpokal der europäischen Mächte</title>
       <link>https://wanderingcities.com/netherlands/roermond/</link>
+      <podcast:transcript url="https://wanderingcities.com/netherlands/roermond/transcript-de.txt" type="text/plain" language="de"/>
       <description>Roermond zeigt seine Geschichte bei einem Besuch von Sehenswürdigkeiten wie der Munsterkerk, der Sint-Christoffelkathedraal und dem Museum Cuypershuis. Erst 1867 wurden die Verbindungen zum Deutschen Bund getrennt, womit die Stadt nach Jahrhunderten wechselnder Herrscher endgültig niederländisch wurde.
 
 Andere Sprachen und mehr über Roermond: https://wanderingcities.com/netherlands/roermond/

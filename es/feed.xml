@@ -14,7 +14,7 @@
     <itunes:type>episodic</itunes:type>
     <itunes:category text="Society &amp; Culture"><itunes:category text="Places &amp; Travel"/></itunes:category>
     <itunes:image href="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/cover-es-3000.jpg"/>
-    <lastBuildDate>Fri, 06 Nov 2026 03:23:59 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 06 Nov 2026 04:01:15 +0000</lastBuildDate>
     <item>
       <title>Oudewater: guía de viaje e historia | La báscula que salvaba vidas</title>
       <link>https://wanderingcities.com/netherlands/oudewater/</link>
@@ -38,6 +38,7 @@ Fuentes, entre otras: Wikipedia y Wikivoyage (CC BY-SA 4.0) y webs oficiales de 
     <item>
       <title>Edam: guía de viaje e historia | Un queso diseñado para navegar</title>
       <link>https://wanderingcities.com/netherlands/edam/</link>
+      <podcast:transcript url="https://wanderingcities.com/netherlands/edam/transcript-es.txt" type="text/plain" language="es"/>
       <description>Edam une su historia con lugares clave para la visita como la Grote Kerk, la Speeltoren y el Steenen Coopmanshuys. En 1778, la ciudad construyó la Kaaswaag para pesar las ruedas de queso destinadas al comercio marítimo.
 
 Otros idiomas y más sobre Edam: https://wanderingcities.com/netherlands/edam/
