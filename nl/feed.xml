@@ -14,7 +14,7 @@
     <itunes:type>episodic</itunes:type>
     <itunes:category text="Society &amp; Culture"><itunes:category text="Places &amp; Travel"/></itunes:category>
     <itunes:image href="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/cover-nl-3000.jpg"/>
-    <lastBuildDate>Sat, 07 Nov 2026 04:38:35 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 07 Nov 2026 04:41:31 +0000</lastBuildDate>
     <item>
       <title>Giethoorn reisgids &amp; geschiedenis | Van zware turfwinning naar waterdorp</title>
       <link>https://wanderingcities.com/netherlands/giethoorn/</link>
@@ -133,10 +133,10 @@ Bronnen o.a. Wikipedia en Wikivoyage (CC BY-SA 4.0) en officiële websites over 
 Andere talen en meer over Kinderdijk: https://wanderingcities.com/netherlands/kinderdijk/
 
 Bronnen o.a. Wikipedia en Wikivoyage (CC BY-SA 4.0) en officiële websites over toerisme, erfgoed en musea. Het gesprek en de stemmen zijn door AI gegenereerd.</itunes:summary>
-      <enclosure url="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/episodes/nl/nl-kinderdijk-1528999902-v1.mp3" length="20755513" type="audio/mpeg"/>
+      <enclosure url="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/episodes/nl/nl-kinderdijk-1528999902-v2.mp3" length="19744888" type="audio/mpeg"/>
       <guid isPermaLink="false">e8fe9d7f-a430-5373-ae3e-6585f0c2d503</guid>
       <pubDate>Tue, 03 Nov 2026 08:32:41 +0000</pubDate>
-      <itunes:duration>00:21:30</itunes:duration>
+      <itunes:duration>00:20:27</itunes:duration>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>false</itunes:explicit>
     </item>
