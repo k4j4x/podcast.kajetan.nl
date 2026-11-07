@@ -14,7 +14,27 @@
     <itunes:type>episodic</itunes:type>
     <itunes:category text="Society &amp; Culture"><itunes:category text="Places &amp; Travel"/></itunes:category>
     <itunes:image href="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/cover-es-3000.jpg"/>
-    <lastBuildDate>Sat, 07 Nov 2026 04:41:31 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 07 Nov 2026 05:08:44 +0000</lastBuildDate>
+    <item>
+      <title>Giethoorn: guía de viaje e historia | La verdadera historia tras los canales</title>
+      <link>https://wanderingcities.com/netherlands/giethoorn/</link>
+      <description>Giethoorn conecta los canales de la Dorpsgracht, los puentes del Binnenpad y la historia en el Museum 't Olde Maat Uus para cualquier visita. En 1958, el director Bert Haanstra filmó allí la comedia Fanfare, lo que impulsó la fama del pueblo en los Países Bajos.
+
+Otros idiomas y más sobre Giethoorn: https://wanderingcities.com/netherlands/giethoorn/
+
+Fuentes, entre otras: Wikipedia y Wikivoyage (CC BY-SA 4.0) y webs oficiales de turismo, patrimonio y museos. La conversación y las voces están generadas por IA.</description>
+      <itunes:summary>Giethoorn conecta los canales de la Dorpsgracht, los puentes del Binnenpad y la historia en el Museum 't Olde Maat Uus para cualquier visita. En 1958, el director Bert Haanstra filmó allí la comedia Fanfare, lo que impulsó la fama del pueblo en los Países Bajos.
+
+Otros idiomas y más sobre Giethoorn: https://wanderingcities.com/netherlands/giethoorn/
+
+Fuentes, entre otras: Wikipedia y Wikivoyage (CC BY-SA 4.0) y webs oficiales de turismo, patrimonio y museos. La conversación y las voces están generadas por IA.</itunes:summary>
+      <enclosure url="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/episodes/es/es-giethoorn-1528999905-v1.mp3" length="26841319" type="audio/mpeg"/>
+      <guid isPermaLink="false">8050e425-6c92-5bb0-9f5d-3a39f1b7a3da</guid>
+      <pubDate>Sat, 07 Nov 2026 05:06:46 +0000</pubDate>
+      <itunes:duration>00:27:50</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Oudewater: guía de viaje e historia | La báscula que salvaba vidas</title>
       <link>https://wanderingcities.com/netherlands/oudewater/</link>
@@ -29,10 +49,10 @@ Fuentes, entre otras: Wikipedia y Wikivoyage (CC BY-SA 4.0) y webs oficiales de 
 Otros idiomas y más sobre Oudewater: https://wanderingcities.com/netherlands/oudewater/
 
 Fuentes, entre otras: Wikipedia y Wikivoyage (CC BY-SA 4.0) y webs oficiales de turismo, patrimonio y museos. La conversación y las voces están generadas por IA.</itunes:summary>
-      <enclosure url="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/episodes/es/es-oudewater-1528852092-v1.mp3" length="29104966" type="audio/mpeg"/>
+      <enclosure url="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/episodes/es/es-oudewater-1528852092-v2.mp3" length="24982216" type="audio/mpeg"/>
       <guid isPermaLink="false">812ea20c-f4c4-57e0-8173-e5b4ced6fcc9</guid>
       <pubDate>Thu, 05 Nov 2026 04:32:23 +0000</pubDate>
-      <itunes:duration>00:30:11</itunes:duration>
+      <itunes:duration>00:25:53</itunes:duration>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>false</itunes:explicit>
     </item>
