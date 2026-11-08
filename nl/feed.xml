@@ -14,10 +14,11 @@
     <itunes:type>episodic</itunes:type>
     <itunes:category text="Society &amp; Culture"><itunes:category text="Places &amp; Travel"/></itunes:category>
     <itunes:image href="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/cover-nl-3000.jpg"/>
-    <lastBuildDate>Sat, 07 Nov 2026 05:08:44 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 08 Nov 2026 03:44:08 +0000</lastBuildDate>
     <item>
       <title>Giethoorn reisgids &amp; geschiedenis | Van zware turfwinning naar waterdorp</title>
       <link>https://wanderingcities.com/netherlands/giethoorn/</link>
+      <podcast:transcript url="https://wanderingcities.com/netherlands/giethoorn/transcript-nl.txt" type="text/plain" language="nl"/>
       <description>Giethoorn verbindt de grachten langs de Dorpsgracht, de bruggetjes van het Binnenpad en de geschiedenis in Museum 't Olde Maat Uus tijdens een bezoek. In 1958 filmde regisseur Bert Haanstra hier de komedie Fanfare, wat de bekendheid van het dorp sterk vergrootte.
 
 Andere talen en meer over Giethoorn: https://wanderingcities.com/netherlands/giethoorn/
