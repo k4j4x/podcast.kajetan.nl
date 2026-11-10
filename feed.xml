@@ -14,7 +14,27 @@
     <itunes:type>episodic</itunes:type>
     <itunes:category text="Society &amp; Culture"><itunes:category text="Places &amp; Travel"/></itunes:category>
     <itunes:image href="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/cover-3000.jpg"/>
-    <lastBuildDate>Mon, 09 Nov 2026 01:24:21 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 10 Nov 2026 02:02:18 +0000</lastBuildDate>
+    <item>
+      <title>Venlo Travel Guide &amp; History | Inventing a Founder Out of Spite</title>
+      <link>https://wanderingcities.com/netherlands/venlo/</link>
+      <description>Venlo offers plenty of history during a visit to the Stadhuis on the Markt, the Romerhuis, and the Floddergats. In 1754, residents first recorded the legend of the giant Valuas to save their procession figures after a bishop banned Goliath, but was it all defiance?
+
+Other languages and more about Venlo: https://wanderingcities.com/netherlands/venlo/
+
+Sources include Wikipedia and Wikivoyage (CC BY-SA 4.0) and official tourism, heritage and museum websites. The conversation and voices are AI-generated.</description>
+      <itunes:summary>Venlo offers plenty of history during a visit to the Stadhuis on the Markt, the Romerhuis, and the Floddergats. In 1754, residents first recorded the legend of the giant Valuas to save their procession figures after a bishop banned Goliath, but was it all defiance?
+
+Other languages and more about Venlo: https://wanderingcities.com/netherlands/venlo/
+
+Sources include Wikipedia and Wikivoyage (CC BY-SA 4.0) and official tourism, heritage and museum websites. The conversation and voices are AI-generated.</itunes:summary>
+      <enclosure url="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/episodes/wandering-cities-venlo-1528690544-v1.mp3" length="26831015" type="audio/mpeg"/>
+      <guid isPermaLink="false">f494bc11-3213-574b-b891-eb1bab56cdf1</guid>
+      <pubDate>Tue, 10 Nov 2026 02:02:18 +0000</pubDate>
+      <itunes:duration>00:27:47</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Giethoorn Travel Guide &amp; History | From Peat Bogs to Mass Tourism</title>
       <link>https://wanderingcities.com/netherlands/giethoorn/</link>
