@@ -14,7 +14,27 @@
     <itunes:type>episodic</itunes:type>
     <itunes:category text="Society &amp; Culture"><itunes:category text="Places &amp; Travel"/></itunes:category>
     <itunes:image href="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/cover-de-3000.jpg"/>
-    <lastBuildDate>Tue, 10 Nov 2026 02:02:18 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 10 Nov 2026 02:33:11 +0000</lastBuildDate>
+    <item>
+      <title>Venlo Reiseführer &amp; Geschichte | Verborgene Wehrmauern im Untergrund</title>
+      <link>https://wanderingcities.com/netherlands/venlo/</link>
+      <description>Venlo verbindet Geschichte mit einem Besuch lokaler Sehenswürdigkeiten wie dem Stadhuis am Markt und der historischen Maaskade. Im Jahr 1867 begann der Abbruch der alten Festungswerke bis auf Geländeniveau, doch Teile der mittelalterlichen Stadtmauer blieben im Erdreich erhalten.
+
+Andere Sprachen und mehr über Venlo: https://wanderingcities.com/netherlands/venlo/
+
+Quellen u. a. Wikipedia und Wikivoyage (CC BY-SA 4.0) sowie offizielle Websites für Tourismus, Denkmalpflege und Museen. Gespräch und Stimmen sind KI-generiert.</description>
+      <itunes:summary>Venlo verbindet Geschichte mit einem Besuch lokaler Sehenswürdigkeiten wie dem Stadhuis am Markt und der historischen Maaskade. Im Jahr 1867 begann der Abbruch der alten Festungswerke bis auf Geländeniveau, doch Teile der mittelalterlichen Stadtmauer blieben im Erdreich erhalten.
+
+Andere Sprachen und mehr über Venlo: https://wanderingcities.com/netherlands/venlo/
+
+Quellen u. a. Wikipedia und Wikivoyage (CC BY-SA 4.0) sowie offizielle Websites für Tourismus, Denkmalpflege und Museen. Gespräch und Stimmen sind KI-generiert.</itunes:summary>
+      <enclosure url="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/episodes/de/de-venlo-1528690544-v1.mp3" length="19866248" type="audio/mpeg"/>
+      <guid isPermaLink="false">504a3252-ad0f-5474-905b-bed5ffb05a5f</guid>
+      <pubDate>Tue, 10 Nov 2026 02:31:42 +0000</pubDate>
+      <itunes:duration>00:20:34</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Giethoorn Reiseführer &amp; Geschichte | Vom Torfmoor zum Touristenmagnet</title>
       <link>https://wanderingcities.com/netherlands/giethoorn/</link>

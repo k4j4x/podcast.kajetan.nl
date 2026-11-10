@@ -14,7 +14,27 @@
     <itunes:type>episodic</itunes:type>
     <itunes:category text="Society &amp; Culture"><itunes:category text="Places &amp; Travel"/></itunes:category>
     <itunes:image href="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/cover-nl-3000.jpg"/>
-    <lastBuildDate>Tue, 10 Nov 2026 02:02:19 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 10 Nov 2026 02:33:12 +0000</lastBuildDate>
+    <item>
+      <title>Venlo reisgids &amp; geschiedenis | Van reuzenmythe tot verwoestende bommen</title>
+      <link>https://wanderingcities.com/netherlands/venlo/</link>
+      <description>Venlo toont zijn geschiedenis tijdens een bezoek aan bekende bezienswaardigheden zoals het stadhuis op de Markt en de Sint-Martinusbasiliek. In het najaar van 1944 verwoestten geallieerde bombardementen de historische binnenstad in een poging de Maasbruggen uit te schakelen.
+
+Andere talen en meer over Venlo: https://wanderingcities.com/netherlands/venlo/
+
+Bronnen o.a. Wikipedia en Wikivoyage (CC BY-SA 4.0) en officiële websites over toerisme, erfgoed en musea. Het gesprek en de stemmen zijn door AI gegenereerd.</description>
+      <itunes:summary>Venlo toont zijn geschiedenis tijdens een bezoek aan bekende bezienswaardigheden zoals het stadhuis op de Markt en de Sint-Martinusbasiliek. In het najaar van 1944 verwoestten geallieerde bombardementen de historische binnenstad in een poging de Maasbruggen uit te schakelen.
+
+Andere talen en meer over Venlo: https://wanderingcities.com/netherlands/venlo/
+
+Bronnen o.a. Wikipedia en Wikivoyage (CC BY-SA 4.0) en officiële websites over toerisme, erfgoed en musea. Het gesprek en de stemmen zijn door AI gegenereerd.</itunes:summary>
+      <enclosure url="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/episodes/nl/nl-venlo-1528690544-v1.mp3" length="23064319" type="audio/mpeg"/>
+      <guid isPermaLink="false">fe5a0bae-3bf3-5359-b908-9276deb06bb3</guid>
+      <pubDate>Tue, 10 Nov 2026 02:33:11 +0000</pubDate>
+      <itunes:duration>00:23:54</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Giethoorn reisgids &amp; geschiedenis | Van zware turfwinning naar waterdorp</title>
       <link>https://wanderingcities.com/netherlands/giethoorn/</link>
