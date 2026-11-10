@@ -14,10 +14,11 @@
     <itunes:type>episodic</itunes:type>
     <itunes:category text="Society &amp; Culture"><itunes:category text="Places &amp; Travel"/></itunes:category>
     <itunes:image href="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/cover-fr-3000.jpg"/>
-    <lastBuildDate>Tue, 10 Nov 2026 03:33:02 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 10 Nov 2026 03:57:08 +0000</lastBuildDate>
     <item>
       <title>Venlo : guide de voyage et histoire | Renaître des décombres de la guerre</title>
       <link>https://wanderingcities.com/netherlands/venlo/</link>
+      <podcast:transcript url="https://wanderingcities.com/netherlands/venlo/transcript-fr.txt" type="text/plain" language="fr"/>
       <description>Venlo dévoile son histoire lors d'une visite du Stadhuis sur le Markt et des ruelles autour de la Sint-Martinusbasiliek. En 1944, les bombardements alliés ont anéanti le centre médiéval pour détruire les ponts sur la Meuse, mais quels vestiges restent à voir?
 
 Autres langues et plus sur Venlo : https://wanderingcities.com/netherlands/venlo/

@@ -14,10 +14,11 @@
     <itunes:type>episodic</itunes:type>
     <itunes:category text="Society &amp; Culture"><itunes:category text="Places &amp; Travel"/></itunes:category>
     <itunes:image href="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/cover-de-3000.jpg"/>
-    <lastBuildDate>Tue, 10 Nov 2026 03:33:01 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 10 Nov 2026 03:57:07 +0000</lastBuildDate>
     <item>
       <title>Venlo Reiseführer &amp; Geschichte | Verborgene Wehrmauern im Untergrund</title>
       <link>https://wanderingcities.com/netherlands/venlo/</link>
+      <podcast:transcript url="https://wanderingcities.com/netherlands/venlo/transcript-de.txt" type="text/plain" language="de"/>
       <description>Venlo verbindet Geschichte mit einem Besuch lokaler Sehenswürdigkeiten wie dem Stadhuis am Markt und der historischen Maaskade. Im Jahr 1867 begann der Abbruch der alten Festungswerke bis auf Geländeniveau, doch Teile der mittelalterlichen Stadtmauer blieben im Erdreich erhalten.
 
 Andere Sprachen und mehr über Venlo: https://wanderingcities.com/netherlands/venlo/

@@ -14,10 +14,11 @@
     <itunes:type>episodic</itunes:type>
     <itunes:category text="Society &amp; Culture"><itunes:category text="Places &amp; Travel"/></itunes:category>
     <itunes:image href="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/cover-nl-3000.jpg"/>
-    <lastBuildDate>Tue, 10 Nov 2026 03:33:02 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 10 Nov 2026 03:57:08 +0000</lastBuildDate>
     <item>
       <title>Venlo reisgids &amp; geschiedenis | Van reuzenmythe tot verwoestende bommen</title>
       <link>https://wanderingcities.com/netherlands/venlo/</link>
+      <podcast:transcript url="https://wanderingcities.com/netherlands/venlo/transcript-nl.txt" type="text/plain" language="nl"/>
       <description>Venlo toont zijn geschiedenis tijdens een bezoek aan bekende bezienswaardigheden zoals het stadhuis op de Markt en de Sint-Martinusbasiliek. In het najaar van 1944 verwoestten geallieerde bombardementen de historische binnenstad in een poging de Maasbruggen uit te schakelen.
 
 Andere talen en meer over Venlo: https://wanderingcities.com/netherlands/venlo/
