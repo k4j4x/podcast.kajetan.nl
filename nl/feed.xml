@@ -14,7 +14,27 @@
     <itunes:type>episodic</itunes:type>
     <itunes:category text="Society &amp; Culture"><itunes:category text="Places &amp; Travel"/></itunes:category>
     <itunes:image href="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/cover-nl-3000.jpg"/>
-    <lastBuildDate>Tue, 10 Nov 2026 05:33:05 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 10 Nov 2026 06:03:50 +0000</lastBuildDate>
+    <item>
+      <title>Veere reisgids &amp; geschiedenis | Hoe Schotse wol voor rijkdom zorgde</title>
+      <link>https://wanderingcities.com/netherlands/veere/</link>
+      <description>Veere toont markante bezienswaardigheden zoals de Grote Kerk, de Campveerse Toren en de Schotse Huizen, die getuigen van een maritieme geschiedenis tijdens elk bezoek. In 1541 verwierf de stad het alleenrecht op de invoer van Schotse wol, wat leidde tot grote welvaart en bijzondere voorrechten voor buitenlandse kooplieden.
+
+Andere talen en meer over Veere: https://wanderingcities.com/netherlands/veere/
+
+Bronnen o.a. Wikipedia en Wikivoyage (CC BY-SA 4.0) en officiële websites over toerisme, erfgoed en musea. Het gesprek en de stemmen zijn door AI gegenereerd.</description>
+      <itunes:summary>Veere toont markante bezienswaardigheden zoals de Grote Kerk, de Campveerse Toren en de Schotse Huizen, die getuigen van een maritieme geschiedenis tijdens elk bezoek. In 1541 verwierf de stad het alleenrecht op de invoer van Schotse wol, wat leidde tot grote welvaart en bijzondere voorrechten voor buitenlandse kooplieden.
+
+Andere talen en meer over Veere: https://wanderingcities.com/netherlands/veere/
+
+Bronnen o.a. Wikipedia en Wikivoyage (CC BY-SA 4.0) en officiële websites over toerisme, erfgoed en musea. Het gesprek en de stemmen zijn door AI gegenereerd.</itunes:summary>
+      <enclosure url="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/episodes/nl/nl-veere-1528999906-v1.mp3" length="24446088" type="audio/mpeg"/>
+      <guid isPermaLink="false">7afa8e91-afe0-5e0d-9ff1-5728ef38cca7</guid>
+      <pubDate>Tue, 10 Nov 2026 06:03:50 +0000</pubDate>
+      <itunes:duration>00:25:20</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Coevorden reisgids &amp; geschiedenis | Waar Vancouver zijn naam vandaan haalt</title>
       <link>https://wanderingcities.com/netherlands/coevorden/</link>
