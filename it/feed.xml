@@ -14,7 +14,27 @@
     <itunes:type>episodic</itunes:type>
     <itunes:category text="Society &amp; Culture"><itunes:category text="Places &amp; Travel"/></itunes:category>
     <itunes:image href="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/cover-it-3000.jpg"/>
-    <lastBuildDate>Tue, 10 Nov 2026 06:32:01 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 10 Nov 2026 07:01:24 +0000</lastBuildDate>
+    <item>
+      <title>Veere: guida di viaggio e storia | Mercanti di lana e privilegi scozzesi</title>
+      <link>https://wanderingcities.com/netherlands/veere/</link>
+      <description>Veere offre luoghi chiave su cosa vedere, come la Grote Kerk, le Schotse Huizen e la Campveerse Toren, durante una visita legata alla propria storia marittima. Nel 1541 la cittadina divenne il porto di scalo esclusivo per la lana scozzese, ottenendo grande prosperità e un'autonomia legale unica.
+
+Altre lingue e altro su Veere: https://wanderingcities.com/netherlands/veere/
+
+Fonti, tra le altre: Wikipedia e Wikivoyage (CC BY-SA 4.0) e siti ufficiali di turismo, patrimonio e musei. La conversazione e le voci sono generate dall'IA.</description>
+      <itunes:summary>Veere offre luoghi chiave su cosa vedere, come la Grote Kerk, le Schotse Huizen e la Campveerse Toren, durante una visita legata alla propria storia marittima. Nel 1541 la cittadina divenne il porto di scalo esclusivo per la lana scozzese, ottenendo grande prosperità e un'autonomia legale unica.
+
+Altre lingue e altro su Veere: https://wanderingcities.com/netherlands/veere/
+
+Fonti, tra le altre: Wikipedia e Wikivoyage (CC BY-SA 4.0) e siti ufficiali di turismo, patrimonio e musei. La conversazione e le voci sono generate dall'IA.</itunes:summary>
+      <enclosure url="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/episodes/it/it-veere-1528999906-v1.mp3" length="14662210" type="audio/mpeg"/>
+      <guid isPermaLink="false">6eb8d5b3-2317-578e-88a7-7065c96a60b7</guid>
+      <pubDate>Tue, 10 Nov 2026 07:01:23 +0000</pubDate>
+      <itunes:duration>00:15:09</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Coevorden: guida di viaggio e storia | Dall'antico guado fino a Vancouver</title>
       <link>https://wanderingcities.com/netherlands/coevorden/</link>
