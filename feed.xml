@@ -14,7 +14,27 @@
     <itunes:type>episodic</itunes:type>
     <itunes:category text="Society &amp; Culture"><itunes:category text="Places &amp; Travel"/></itunes:category>
     <itunes:image href="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/cover-3000.jpg"/>
-    <lastBuildDate>Tue, 10 Nov 2026 05:02:26 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 10 Nov 2026 05:33:04 +0000</lastBuildDate>
+    <item>
+      <title>Veere Travel Guide &amp; History | A Fortune Built on Scottish Wool</title>
+      <link>https://wanderingcities.com/netherlands/veere/</link>
+      <description>Veere features distinct things to see, from the Grote Kerk and Campveerse Toren to the Schotse Huizen, welcoming travelers who visit for maritime history. In 1541, the town became the staple port for Scottish wool, bringing special privileges and wealth that funded these monuments.
+
+Other languages and more about Veere: https://wanderingcities.com/netherlands/veere/
+
+Sources include Wikipedia and Wikivoyage (CC BY-SA 4.0) and official tourism, heritage and museum websites. The conversation and voices are AI-generated.</description>
+      <itunes:summary>Veere features distinct things to see, from the Grote Kerk and Campveerse Toren to the Schotse Huizen, welcoming travelers who visit for maritime history. In 1541, the town became the staple port for Scottish wool, bringing special privileges and wealth that funded these monuments.
+
+Other languages and more about Veere: https://wanderingcities.com/netherlands/veere/
+
+Sources include Wikipedia and Wikivoyage (CC BY-SA 4.0) and official tourism, heritage and museum websites. The conversation and voices are AI-generated.</itunes:summary>
+      <enclosure url="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/episodes/wandering-cities-veere-1528999906-v1.mp3" length="23251194" type="audio/mpeg"/>
+      <guid isPermaLink="false">9edb0e1e-1674-5cd1-9977-e3fb27a3b637</guid>
+      <pubDate>Tue, 10 Nov 2026 05:33:04 +0000</pubDate>
+      <itunes:duration>00:24:03</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Coevorden Travel Guide &amp; History | Where Vancouver Got Its Name</title>
       <link>https://wanderingcities.com/netherlands/coevorden/</link>
