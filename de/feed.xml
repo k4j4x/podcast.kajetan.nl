@@ -14,7 +14,27 @@
     <itunes:type>episodic</itunes:type>
     <itunes:category text="Society &amp; Culture"><itunes:category text="Places &amp; Travel"/></itunes:category>
     <itunes:image href="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/cover-de-3000.jpg"/>
-    <lastBuildDate>Tue, 10 Nov 2026 03:57:07 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 10 Nov 2026 04:02:47 +0000</lastBuildDate>
+    <item>
+      <title>Coevorden Reiseführer &amp; Geschichte | Wo Vancouver seinen Namen fand</title>
+      <link>https://wanderingcities.com/netherlands/coevorden/</link>
+      <description>Coevorden verbindet bei einem Besuch bewegte Geschichte mit Bauwerken wie Kasteel Coevorden, Grachten und dem Stedelijk Museum Coevorden. Im Jahr 1672 schmuggelte Schulmeister Mijndert van der Thijnen Festungspläne an feindlichen Truppen vorbei, um die Befreiung der Stadt einzuleiten.
+
+Andere Sprachen und mehr über Coevorden: https://wanderingcities.com/netherlands/coevorden/
+
+Quellen u. a. Wikipedia und Wikivoyage (CC BY-SA 4.0) sowie offizielle Websites für Tourismus, Denkmalpflege und Museen. Gespräch und Stimmen sind KI-generiert.</description>
+      <itunes:summary>Coevorden verbindet bei einem Besuch bewegte Geschichte mit Bauwerken wie Kasteel Coevorden, Grachten und dem Stedelijk Museum Coevorden. Im Jahr 1672 schmuggelte Schulmeister Mijndert van der Thijnen Festungspläne an feindlichen Truppen vorbei, um die Befreiung der Stadt einzuleiten.
+
+Andere Sprachen und mehr über Coevorden: https://wanderingcities.com/netherlands/coevorden/
+
+Quellen u. a. Wikipedia und Wikivoyage (CC BY-SA 4.0) sowie offizielle Websites für Tourismus, Denkmalpflege und Museen. Gespräch und Stimmen sind KI-generiert.</itunes:summary>
+      <enclosure url="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/episodes/de/de-coevorden-1528647157-v1.mp3" length="21502139" type="audio/mpeg"/>
+      <guid isPermaLink="false">2bee5648-b88c-5c70-b3aa-b42a5240aa74</guid>
+      <pubDate>Tue, 10 Nov 2026 04:01:49 +0000</pubDate>
+      <itunes:duration>00:22:16</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Venlo Reiseführer &amp; Geschichte | Verborgene Wehrmauern im Untergrund</title>
       <link>https://wanderingcities.com/netherlands/venlo/</link>
