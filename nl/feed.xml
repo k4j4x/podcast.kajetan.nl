@@ -14,7 +14,27 @@
     <itunes:type>episodic</itunes:type>
     <itunes:category text="Society &amp; Culture"><itunes:category text="Places &amp; Travel"/></itunes:category>
     <itunes:image href="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/cover-nl-3000.jpg"/>
-    <lastBuildDate>Wed, 11 Nov 2026 06:33:26 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 11 Nov 2026 07:02:56 +0000</lastBuildDate>
+    <item>
+      <title>Volendam reisgids &amp; geschiedenis | Toen een buurstad de haven afsloot</title>
+      <link>https://wanderingcities.com/netherlands/volendam/</link>
+      <description>Volendam toont zijn maritieme geschiedenis langs De Dijk en in de wijk Het Doolhof, twee bezienswaardigheden tijdens een bezoek. In 1357 groeven de inwoners van Edam een korter kanaal naar de Zuiderzee en damden de oude haven af, maar wie vestigden zich daarna op dit nieuwe land?
+
+Andere talen en meer over Volendam: https://wanderingcities.com/netherlands/volendam/
+
+Bronnen o.a. Wikipedia en Wikivoyage (CC BY-SA 4.0) en officiële websites over toerisme, erfgoed en musea. Het gesprek en de stemmen zijn door AI gegenereerd.</description>
+      <itunes:summary>Volendam toont zijn maritieme geschiedenis langs De Dijk en in de wijk Het Doolhof, twee bezienswaardigheden tijdens een bezoek. In 1357 groeven de inwoners van Edam een korter kanaal naar de Zuiderzee en damden de oude haven af, maar wie vestigden zich daarna op dit nieuwe land?
+
+Andere talen en meer over Volendam: https://wanderingcities.com/netherlands/volendam/
+
+Bronnen o.a. Wikipedia en Wikivoyage (CC BY-SA 4.0) en officiële websites over toerisme, erfgoed en musea. Het gesprek en de stemmen zijn door AI gegenereerd.</itunes:summary>
+      <enclosure url="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/episodes/nl/nl-volendam-1528968861-v1.mp3" length="21775331" type="audio/mpeg"/>
+      <guid isPermaLink="false">5d889530-0724-5abb-9b68-dfbb6f748584</guid>
+      <pubDate>Wed, 11 Nov 2026 07:02:55 +0000</pubDate>
+      <itunes:duration>00:22:33</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Sluis reisgids &amp; geschiedenis | Het geheim van een Vlaamse toren</title>
       <link>https://wanderingcities.com/netherlands/sluis/</link>

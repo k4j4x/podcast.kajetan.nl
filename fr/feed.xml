@@ -14,7 +14,27 @@
     <itunes:type>episodic</itunes:type>
     <itunes:category text="Society &amp; Culture"><itunes:category text="Places &amp; Travel"/></itunes:category>
     <itunes:image href="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/cover-fr-3000.jpg"/>
-    <lastBuildDate>Wed, 11 Nov 2026 06:33:26 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 11 Nov 2026 07:02:56 +0000</lastBuildDate>
+    <item>
+      <title>Volendam : guide de voyage et histoire | Du port de pêche au tourisme mondial</title>
+      <link>https://wanderingcities.com/netherlands/volendam/</link>
+      <description>Volendam expose son histoire le long de De Dijk et dans le quartier de Het Doolhof, des lieux à voir durant une visite. En 1881, Leendert Spaander a ouvert son hôtel aux peintres du monde entier, mais comment ce port a-t-il basculé vers le tourisme ?
+
+Autres langues et plus sur Volendam : https://wanderingcities.com/netherlands/volendam/
+
+Sources, entre autres : Wikipédia et Wikivoyage (CC BY-SA 4.0) ainsi que les sites officiels du tourisme, du patrimoine et des musées. La conversation et les voix sont générées par IA.</description>
+      <itunes:summary>Volendam expose son histoire le long de De Dijk et dans le quartier de Het Doolhof, des lieux à voir durant une visite. En 1881, Leendert Spaander a ouvert son hôtel aux peintres du monde entier, mais comment ce port a-t-il basculé vers le tourisme ?
+
+Autres langues et plus sur Volendam : https://wanderingcities.com/netherlands/volendam/
+
+Sources, entre autres : Wikipédia et Wikivoyage (CC BY-SA 4.0) ainsi que les sites officiels du tourisme, du patrimoine et des musées. La conversation et les voix sont générées par IA.</itunes:summary>
+      <enclosure url="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/episodes/fr/fr-volendam-1528968861-v1.mp3" length="17024178" type="audio/mpeg"/>
+      <guid isPermaLink="false">60ce7476-e192-59e3-9574-aba5d29605ad</guid>
+      <pubDate>Wed, 11 Nov 2026 07:01:32 +0000</pubDate>
+      <itunes:duration>00:17:36</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Sluis : guide de voyage et histoire | La folle épopée d'un port disparu</title>
       <link>https://wanderingcities.com/netherlands/sluis/</link>
