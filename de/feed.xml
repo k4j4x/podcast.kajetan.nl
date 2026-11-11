@@ -14,10 +14,11 @@
     <itunes:type>episodic</itunes:type>
     <itunes:category text="Society &amp; Culture"><itunes:category text="Places &amp; Travel"/></itunes:category>
     <itunes:image href="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/cover-de-3000.jpg"/>
-    <lastBuildDate>Wed, 11 Nov 2026 03:33:34 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 11 Nov 2026 04:52:03 +0000</lastBuildDate>
     <item>
       <title>Sluis Reiseführer &amp; Geschichte | Als das Meer den Hafen verließ</title>
       <link>https://wanderingcities.com/netherlands/sluis/</link>
+      <podcast:transcript url="https://wanderingcities.com/netherlands/sluis/transcript-de.txt" type="text/plain" language="de"/>
       <description>Sluis verbindet seine Geschichte bei einem Besuch mit Sehenswürdigkeiten wie dem Belfort, der Windmühle Molen De Brak und den Wallen van Sluis. Im Jahr 1604 eroberte Prinz Maurits von Nassau die Stadt nach monatelanger Belagerung, doch wie überlebte der Ort ohne sein Meer?
 
 Andere Sprachen und mehr über Sluis: https://wanderingcities.com/netherlands/sluis/
@@ -38,6 +39,7 @@ Quellen u. a. Wikipedia und Wikivoyage (CC BY-SA 4.0) sowie offizielle Websites 
     <item>
       <title>Bergen Reiseführer &amp; Geschichte | Wie ein Blutwunder die Kunst anlockte</title>
       <link>https://wanderingcities.com/netherlands/bergen/</link>
+      <podcast:transcript url="https://wanderingcities.com/netherlands/bergen/transcript-de.txt" type="text/plain" language="de"/>
       <description>Bergen verbindet bei einem Besuch die Geschichte der Ruïnekerk mit Sehenswürdigkeiten wie dem Museum Kranenburgh und dem Park Meerwijk. Im Jahr 1422 machte ein Blutwunder die Kapelle zum Wallfahrtsort für Pilger, doch wie entstand daraus eine Künstlerkolonie?
 
 Andere Sprachen und mehr über Bergen: https://wanderingcities.com/netherlands/bergen/
@@ -58,6 +60,7 @@ Quellen u. a. Wikipedia und Wikivoyage (CC BY-SA 4.0) sowie offizielle Websites 
     <item>
       <title>Veere Reiseführer &amp; Geschichte | Schotten, Wolle und Kühe im Gotteshaus</title>
       <link>https://wanderingcities.com/netherlands/veere/</link>
+      <podcast:transcript url="https://wanderingcities.com/netherlands/veere/transcript-de.txt" type="text/plain" language="de"/>
       <description>Veere vereint bekannte Sehenswürdigkeiten wie die Grote Kerk, das Stadhuis und die Schotse Huizen mit einer langen maritimen Geschichte für jeden Besuch. Im Jahr 1944 diente die Grote Kerk während der kriegsbedingten Überflutung Walcherens sogar als Notunterkunft für Kühe.
 
 Andere Sprachen und mehr über Veere: https://wanderingcities.com/netherlands/veere/

@@ -14,10 +14,11 @@
     <itunes:type>episodic</itunes:type>
     <itunes:category text="Society &amp; Culture"><itunes:category text="Places &amp; Travel"/></itunes:category>
     <itunes:image href="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/cover-3000.jpg"/>
-    <lastBuildDate>Wed, 11 Nov 2026 03:33:34 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 11 Nov 2026 04:52:03 +0000</lastBuildDate>
     <item>
       <title>Sluis Travel Guide &amp; History | When the Sea Left the Harbor</title>
       <link>https://wanderingcities.com/netherlands/sluis/</link>
+      <podcast:transcript url="https://wanderingcities.com/netherlands/sluis/transcript-en.txt" type="text/plain" language="en"/>
       <description>Sluis offers key things to see from its maritime history, including the Belfort, Molen De Brak, and the Wallen van Sluis. In 1604, Prince Maurits of Nassau captured the town after a long siege, but how did it endure after losing its sea access?
 
 Other languages and more about Sluis: https://wanderingcities.com/netherlands/sluis/
@@ -38,6 +39,7 @@ Sources include Wikipedia and Wikivoyage (CC BY-SA 4.0) and official tourism, he
     <item>
       <title>Bergen Travel Guide &amp; History | From Blood Miracle to Art Colony</title>
       <link>https://wanderingcities.com/netherlands/bergen/</link>
+      <podcast:transcript url="https://wanderingcities.com/netherlands/bergen/transcript-en.txt" type="text/plain" language="en"/>
       <description>Bergen brings together history and several things to see on a visit, including the Ruïnekerk, Museum Kranenburgh, and Park Meerwijk. In 1422, a reported blood miracle turned the local chapel into a pilgrimage destination, but how did painters replace the pilgrims?
 
 Other languages and more about Bergen: https://wanderingcities.com/netherlands/bergen/
@@ -58,6 +60,7 @@ Sources include Wikipedia and Wikivoyage (CC BY-SA 4.0) and official tourism, he
     <item>
       <title>Veere Travel Guide &amp; History | A Fortune Built on Scottish Wool</title>
       <link>https://wanderingcities.com/netherlands/veere/</link>
+      <podcast:transcript url="https://wanderingcities.com/netherlands/veere/transcript-en.txt" type="text/plain" language="en"/>
       <description>Veere features distinct things to see, from the Grote Kerk and Campveerse Toren to the Schotse Huizen, welcoming travelers who visit for maritime history. In 1541, the town became the staple port for Scottish wool, bringing special privileges and wealth that funded these monuments.
 
 Other languages and more about Veere: https://wanderingcities.com/netherlands/veere/

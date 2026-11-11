@@ -14,10 +14,11 @@
     <itunes:type>episodic</itunes:type>
     <itunes:category text="Society &amp; Culture"><itunes:category text="Places &amp; Travel"/></itunes:category>
     <itunes:image href="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/cover-it-3000.jpg"/>
-    <lastBuildDate>Wed, 11 Nov 2026 03:33:35 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 11 Nov 2026 04:52:04 +0000</lastBuildDate>
     <item>
       <title>Bergen: guida di viaggio e storia | Il rifugio degli artisti tra le dune</title>
       <link>https://wanderingcities.com/netherlands/bergen/</link>
+      <podcast:transcript url="https://wanderingcities.com/netherlands/bergen/transcript-it.txt" type="text/plain" language="it"/>
       <description>Bergen unisce la storia della Ruïnekerk a luoghi da scegliere su cosa vedere durante una visita, come Museum Kranenburgh e Park Meerwijk. Nel 1422 un miracolo trasformò la cappella locale in meta di pellegrinaggio, ma come è nato questo rifugio per artisti?
 
 Altre lingue e altro su Bergen: https://wanderingcities.com/netherlands/bergen/
@@ -38,6 +39,7 @@ Fonti, tra le altre: Wikipedia e Wikivoyage (CC BY-SA 4.0) e siti ufficiali di t
     <item>
       <title>Veere: guida di viaggio e storia | Mercanti di lana e privilegi scozzesi</title>
       <link>https://wanderingcities.com/netherlands/veere/</link>
+      <podcast:transcript url="https://wanderingcities.com/netherlands/veere/transcript-it.txt" type="text/plain" language="it"/>
       <description>Veere offre luoghi chiave su cosa vedere, come la Grote Kerk, le Schotse Huizen e la Campveerse Toren, durante una visita legata alla propria storia marittima. Nel 1541 la cittadina divenne il porto di scalo esclusivo per la lana scozzese, ottenendo grande prosperità e un'autonomia legale unica.
 
 Altre lingue e altro su Veere: https://wanderingcities.com/netherlands/veere/
@@ -58,6 +60,7 @@ Fonti, tra le altre: Wikipedia e Wikivoyage (CC BY-SA 4.0) e siti ufficiali di t
     <item>
       <title>Coevorden: guida di viaggio e storia | Dall'antico guado fino a Vancouver</title>
       <link>https://wanderingcities.com/netherlands/coevorden/</link>
+      <podcast:transcript url="https://wanderingcities.com/netherlands/coevorden/transcript-it.txt" type="text/plain" language="it"/>
       <description>Coevorden svela durante una visita la sua storia militare tra Kasteel Coevorden, gli antichi fossi difensivi e lo Stedelijk Museum Coevorden. Nel 1672, il maestro Mijndert van der Thijnen contrabbandò le mappe della fortezza per guidare la liberazione della città.
 
 Altre lingue e altro su Coevorden: https://wanderingcities.com/netherlands/coevorden/

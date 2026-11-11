@@ -14,10 +14,11 @@
     <itunes:type>episodic</itunes:type>
     <itunes:category text="Society &amp; Culture"><itunes:category text="Places &amp; Travel"/></itunes:category>
     <itunes:image href="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/cover-nl-3000.jpg"/>
-    <lastBuildDate>Wed, 11 Nov 2026 03:33:34 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 11 Nov 2026 04:52:03 +0000</lastBuildDate>
     <item>
       <title>Bergen reisgids &amp; geschiedenis | Hoe een bloedwonder de kunst aantrok</title>
       <link>https://wanderingcities.com/netherlands/bergen/</link>
+      <podcast:transcript url="https://wanderingcities.com/netherlands/bergen/transcript-nl.txt" type="text/plain" language="nl"/>
       <description>Bergen combineert tijdens een bezoek de geschiedenis van de Ruïnekerk met bezienswaardigheden zoals Museum Kranenburgh en Park Meerwijk. In 1422 maakte een gemeld bloedwonder de kapel tot een bedevaartsoord voor pelgrims, maar hoe veranderde deze plek later in een kunstenaarskolonie?
 
 Andere talen en meer over Bergen: https://wanderingcities.com/netherlands/bergen/
@@ -38,6 +39,7 @@ Bronnen o.a. Wikipedia en Wikivoyage (CC BY-SA 4.0) en officiële websites over 
     <item>
       <title>Veere reisgids &amp; geschiedenis | Hoe Schotse wol voor rijkdom zorgde</title>
       <link>https://wanderingcities.com/netherlands/veere/</link>
+      <podcast:transcript url="https://wanderingcities.com/netherlands/veere/transcript-nl.txt" type="text/plain" language="nl"/>
       <description>Veere toont markante bezienswaardigheden zoals de Grote Kerk, de Campveerse Toren en de Schotse Huizen, die getuigen van een maritieme geschiedenis tijdens elk bezoek. In 1541 verwierf de stad het alleenrecht op de invoer van Schotse wol, wat leidde tot grote welvaart en bijzondere voorrechten voor buitenlandse kooplieden.
 
 Andere talen en meer over Veere: https://wanderingcities.com/netherlands/veere/
@@ -58,6 +60,7 @@ Bronnen o.a. Wikipedia en Wikivoyage (CC BY-SA 4.0) en officiële websites over 
     <item>
       <title>Coevorden reisgids &amp; geschiedenis | Waar Vancouver zijn naam vandaan haalt</title>
       <link>https://wanderingcities.com/netherlands/coevorden/</link>
+      <podcast:transcript url="https://wanderingcities.com/netherlands/coevorden/transcript-nl.txt" type="text/plain" language="nl"/>
       <description>Coevorden toont tijdens een bezoek zijn militaire geschiedenis rond Kasteel Coevorden, historische grachten en het Stedelijk Museum Coevorden. In 1672 smokkelde schoolmeester Mijndert van der Thijnen kaarten van de vesting langs de vijand om de stad te bevrijden.
 
 Andere talen en meer over Coevorden: https://wanderingcities.com/netherlands/coevorden/
