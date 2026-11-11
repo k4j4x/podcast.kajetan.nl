@@ -14,7 +14,27 @@
     <itunes:type>episodic</itunes:type>
     <itunes:category text="Society &amp; Culture"><itunes:category text="Places &amp; Travel"/></itunes:category>
     <itunes:image href="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/cover-de-3000.jpg"/>
-    <lastBuildDate>Tue, 10 Nov 2026 07:31:45 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 11 Nov 2026 02:04:14 +0000</lastBuildDate>
+    <item>
+      <title>Bergen Reiseführer &amp; Geschichte | Wie ein Blutwunder die Kunst anlockte</title>
+      <link>https://wanderingcities.com/netherlands/bergen/</link>
+      <description>Bergen verbindet bei einem Besuch die Geschichte der Ruïnekerk mit Sehenswürdigkeiten wie dem Museum Kranenburgh und dem Park Meerwijk. Im Jahr 1422 machte ein Blutwunder die Kapelle zum Wallfahrtsort für Pilger, doch wie entstand daraus eine Künstlerkolonie?
+
+Andere Sprachen und mehr über Bergen: https://wanderingcities.com/netherlands/bergen/
+
+Quellen u. a. Wikipedia und Wikivoyage (CC BY-SA 4.0) sowie offizielle Websites für Tourismus, Denkmalpflege und Museen. Gespräch und Stimmen sind KI-generiert.</description>
+      <itunes:summary>Bergen verbindet bei einem Besuch die Geschichte der Ruïnekerk mit Sehenswürdigkeiten wie dem Museum Kranenburgh und dem Park Meerwijk. Im Jahr 1422 machte ein Blutwunder die Kapelle zum Wallfahrtsort für Pilger, doch wie entstand daraus eine Künstlerkolonie?
+
+Andere Sprachen und mehr über Bergen: https://wanderingcities.com/netherlands/bergen/
+
+Quellen u. a. Wikipedia und Wikivoyage (CC BY-SA 4.0) sowie offizielle Websites für Tourismus, Denkmalpflege und Museen. Gespräch und Stimmen sind KI-generiert.</itunes:summary>
+      <enclosure url="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/episodes/de/de-bergen-1528106849-v1.mp3" length="28787175" type="audio/mpeg"/>
+      <guid isPermaLink="false">23e98cab-7b75-59cf-a042-eed5c07c5b14</guid>
+      <pubDate>Wed, 11 Nov 2026 02:02:25 +0000</pubDate>
+      <itunes:duration>00:29:52</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Veere Reiseführer &amp; Geschichte | Schotten, Wolle und Kühe im Gotteshaus</title>
       <link>https://wanderingcities.com/netherlands/veere/</link>
