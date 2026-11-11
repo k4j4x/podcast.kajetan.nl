@@ -14,7 +14,27 @@
     <itunes:type>episodic</itunes:type>
     <itunes:category text="Society &amp; Culture"><itunes:category text="Places &amp; Travel"/></itunes:category>
     <itunes:image href="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/cover-de-3000.jpg"/>
-    <lastBuildDate>Wed, 11 Nov 2026 06:03:16 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 11 Nov 2026 06:33:26 +0000</lastBuildDate>
+    <item>
+      <title>Volendam Reiseführer &amp; Geschichte | Als das Meer zum See wurde</title>
+      <link>https://wanderingcities.com/netherlands/volendam/</link>
+      <description>Volendam verbindet bei einem Besuch entlang De Dijk und Het Doolhof historische Sehenswürdigkeiten mit der Geschichte der Fischerei. Im Jahr 1932 riegelte der Afsluitdijk die Zuiderzee ab und machte sie zum IJsselmeer, doch wie überlebte der Ort diesen Wandel?
+
+Andere Sprachen und mehr über Volendam: https://wanderingcities.com/netherlands/volendam/
+
+Quellen u. a. Wikipedia und Wikivoyage (CC BY-SA 4.0) sowie offizielle Websites für Tourismus, Denkmalpflege und Museen. Gespräch und Stimmen sind KI-generiert.</description>
+      <itunes:summary>Volendam verbindet bei einem Besuch entlang De Dijk und Het Doolhof historische Sehenswürdigkeiten mit der Geschichte der Fischerei. Im Jahr 1932 riegelte der Afsluitdijk die Zuiderzee ab und machte sie zum IJsselmeer, doch wie überlebte der Ort diesen Wandel?
+
+Andere Sprachen und mehr über Volendam: https://wanderingcities.com/netherlands/volendam/
+
+Quellen u. a. Wikipedia und Wikivoyage (CC BY-SA 4.0) sowie offizielle Websites für Tourismus, Denkmalpflege und Museen. Gespräch und Stimmen sind KI-generiert.</itunes:summary>
+      <enclosure url="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/episodes/de/de-volendam-1528968861-v1.mp3" length="23962654" type="audio/mpeg"/>
+      <guid isPermaLink="false">9dcb14dd-2233-5e70-8140-5f3cbf4a5721</guid>
+      <pubDate>Wed, 11 Nov 2026 06:32:01 +0000</pubDate>
+      <itunes:duration>00:24:50</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Sluis Reiseführer &amp; Geschichte | Als das Meer den Hafen verließ</title>
       <link>https://wanderingcities.com/netherlands/sluis/</link>
