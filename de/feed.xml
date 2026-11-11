@@ -14,7 +14,27 @@
     <itunes:type>episodic</itunes:type>
     <itunes:category text="Society &amp; Culture"><itunes:category text="Places &amp; Travel"/></itunes:category>
     <itunes:image href="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/cover-de-3000.jpg"/>
-    <lastBuildDate>Wed, 11 Nov 2026 03:02:45 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 11 Nov 2026 03:33:34 +0000</lastBuildDate>
+    <item>
+      <title>Sluis Reiseführer &amp; Geschichte | Als das Meer den Hafen verließ</title>
+      <link>https://wanderingcities.com/netherlands/sluis/</link>
+      <description>Sluis verbindet seine Geschichte bei einem Besuch mit Sehenswürdigkeiten wie dem Belfort, der Windmühle Molen De Brak und den Wallen van Sluis. Im Jahr 1604 eroberte Prinz Maurits von Nassau die Stadt nach monatelanger Belagerung, doch wie überlebte der Ort ohne sein Meer?
+
+Andere Sprachen und mehr über Sluis: https://wanderingcities.com/netherlands/sluis/
+
+Quellen u. a. Wikipedia und Wikivoyage (CC BY-SA 4.0) sowie offizielle Websites für Tourismus, Denkmalpflege und Museen. Gespräch und Stimmen sind KI-generiert.</description>
+      <itunes:summary>Sluis verbindet seine Geschichte bei einem Besuch mit Sehenswürdigkeiten wie dem Belfort, der Windmühle Molen De Brak und den Wallen van Sluis. Im Jahr 1604 eroberte Prinz Maurits von Nassau die Stadt nach monatelanger Belagerung, doch wie überlebte der Ort ohne sein Meer?
+
+Andere Sprachen und mehr über Sluis: https://wanderingcities.com/netherlands/sluis/
+
+Quellen u. a. Wikipedia und Wikivoyage (CC BY-SA 4.0) sowie offizielle Websites für Tourismus, Denkmalpflege und Museen. Gespräch und Stimmen sind KI-generiert.</itunes:summary>
+      <enclosure url="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/episodes/de/de-sluis-1528332351-v1.mp3" length="24427427" type="audio/mpeg"/>
+      <guid isPermaLink="false">886d2797-36ce-55b1-9572-d956b50811c4</guid>
+      <pubDate>Wed, 11 Nov 2026 03:32:05 +0000</pubDate>
+      <itunes:duration>00:25:19</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Bergen Reiseführer &amp; Geschichte | Wie ein Blutwunder die Kunst anlockte</title>
       <link>https://wanderingcities.com/netherlands/bergen/</link>
@@ -58,6 +78,7 @@ Quellen u. a. Wikipedia und Wikivoyage (CC BY-SA 4.0) sowie offizielle Websites 
     <item>
       <title>Coevorden Reiseführer &amp; Geschichte | Wo Vancouver seinen Namen fand</title>
       <link>https://wanderingcities.com/netherlands/coevorden/</link>
+      <podcast:transcript url="https://wanderingcities.com/netherlands/coevorden/transcript-de.txt" type="text/plain" language="de"/>
       <description>Coevorden verbindet bei einem Besuch bewegte Geschichte mit Bauwerken wie Kasteel Coevorden, Grachten und dem Stedelijk Museum Coevorden. Im Jahr 1672 schmuggelte Schulmeister Mijndert van der Thijnen Festungspläne an feindlichen Truppen vorbei, um die Befreiung der Stadt einzuleiten.
 
 Andere Sprachen und mehr über Coevorden: https://wanderingcities.com/netherlands/coevorden/
