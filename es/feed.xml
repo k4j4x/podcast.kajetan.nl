@@ -14,7 +14,27 @@
     <itunes:type>episodic</itunes:type>
     <itunes:category text="Society &amp; Culture"><itunes:category text="Places &amp; Travel"/></itunes:category>
     <itunes:image href="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/cover-es-3000.jpg"/>
-    <lastBuildDate>Wed, 11 Nov 2026 07:02:56 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 11 Nov 2026 07:32:47 +0000</lastBuildDate>
+    <item>
+      <title>Volendam: guía de viaje e historia | De traje local a símbolo nacional</title>
+      <link>https://wanderingcities.com/netherlands/volendam/</link>
+      <description>Volendam reúne su historia a lo largo de De Dijk y en Het Doolhof, lugares clave qué ver durante una visita. En 1881, Leendert Spaander abrió su hotel a pintores extranjeros que difundieron la vestimenta local, pero ¿cómo surgió esta identidad?
+
+Otros idiomas y más sobre Volendam: https://wanderingcities.com/netherlands/volendam/
+
+Fuentes, entre otras: Wikipedia y Wikivoyage (CC BY-SA 4.0) y webs oficiales de turismo, patrimonio y museos. La conversación y las voces están generadas por IA.</description>
+      <itunes:summary>Volendam reúne su historia a lo largo de De Dijk y en Het Doolhof, lugares clave qué ver durante una visita. En 1881, Leendert Spaander abrió su hotel a pintores extranjeros que difundieron la vestimenta local, pero ¿cómo surgió esta identidad?
+
+Otros idiomas y más sobre Volendam: https://wanderingcities.com/netherlands/volendam/
+
+Fuentes, entre otras: Wikipedia y Wikivoyage (CC BY-SA 4.0) y webs oficiales de turismo, patrimonio y museos. La conversación y las voces están generadas por IA.</itunes:summary>
+      <enclosure url="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/episodes/es/es-volendam-1528968861-v1.mp3" length="18528934" type="audio/mpeg"/>
+      <guid isPermaLink="false">609e8c5c-2167-592d-984d-8a46d8d4cf1f</guid>
+      <pubDate>Wed, 11 Nov 2026 07:31:38 +0000</pubDate>
+      <itunes:duration>00:19:10</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Sluis: guía de viaje e historia | Un rincón holandés de alma flamenca</title>
       <link>https://wanderingcities.com/netherlands/sluis/</link>
