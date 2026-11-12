@@ -14,7 +14,27 @@
     <itunes:type>episodic</itunes:type>
     <itunes:category text="Society &amp; Culture"><itunes:category text="Places &amp; Travel"/></itunes:category>
     <itunes:image href="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/cover-fr-3000.jpg"/>
-    <lastBuildDate>Thu, 12 Nov 2026 02:59:27 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 12 Nov 2026 03:02:49 +0000</lastBuildDate>
+    <item>
+      <title>Weesp : guide de voyage et histoire | Entre forteresse et chocolat</title>
+      <link>https://wanderingcities.com/netherlands/weesp/</link>
+      <description>Weesp associe son histoire à une visite le long de la Vecht, rythmée par le Fort aan de Ossenmarkt, molen De Vriendschap et le Stadhuis. En 1850, Coenraad Johannes van Houten installe sa fabrique sur l’Oudegracht : comment cette forteresse est-elle devenue la capitale du cacao ?
+
+Autres langues et plus sur Weesp : https://wanderingcities.com/netherlands/weesp/
+
+Sources, entre autres : Wikipédia et Wikivoyage (CC BY-SA 4.0) ainsi que les sites officiels du tourisme, du patrimoine et des musées. La conversation et les voix sont générées par IA.</description>
+      <itunes:summary>Weesp associe son histoire à une visite le long de la Vecht, rythmée par le Fort aan de Ossenmarkt, molen De Vriendschap et le Stadhuis. En 1850, Coenraad Johannes van Houten installe sa fabrique sur l’Oudegracht : comment cette forteresse est-elle devenue la capitale du cacao ?
+
+Autres langues et plus sur Weesp : https://wanderingcities.com/netherlands/weesp/
+
+Sources, entre autres : Wikipédia et Wikivoyage (CC BY-SA 4.0) ainsi que les sites officiels du tourisme, du patrimoine et des musées. La conversation et les voix sont générées par IA.</itunes:summary>
+      <enclosure url="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/episodes/fr/fr-weesp-1528983358-v1.mp3" length="17936492" type="audio/mpeg"/>
+      <guid isPermaLink="false">8756fa59-fe04-5bea-9ec6-1fd237d9e2cf</guid>
+      <pubDate>Thu, 12 Nov 2026 03:01:16 +0000</pubDate>
+      <itunes:duration>00:18:33</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Volendam : guide de voyage et histoire | Du port de pêche au tourisme mondial</title>
       <link>https://wanderingcities.com/netherlands/volendam/</link>
