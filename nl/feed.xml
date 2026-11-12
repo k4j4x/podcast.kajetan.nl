@@ -14,7 +14,7 @@
     <itunes:type>episodic</itunes:type>
     <itunes:category text="Society &amp; Culture"><itunes:category text="Places &amp; Travel"/></itunes:category>
     <itunes:image href="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/cover-nl-3000.jpg"/>
-    <lastBuildDate>Thu, 12 Nov 2026 04:44:51 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 12 Nov 2026 05:06:54 +0000</lastBuildDate>
     <item>
       <title>Weesp reisgids &amp; geschiedenis | Eigenzinnig aan de Vecht</title>
       <link>https://wanderingcities.com/netherlands/weesp/</link>
@@ -134,10 +134,10 @@ Bronnen o.a. Wikipedia en Wikivoyage (CC BY-SA 4.0) en officiële websites over 
 Andere talen en meer over Coevorden: https://wanderingcities.com/netherlands/coevorden/
 
 Bronnen o.a. Wikipedia en Wikivoyage (CC BY-SA 4.0) en officiële websites over toerisme, erfgoed en musea. Het gesprek en de stemmen zijn door AI gegenereerd.</itunes:summary>
-      <enclosure url="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/episodes/nl/nl-coevorden-1528647157-v1.mp3" length="14689256" type="audio/mpeg"/>
+      <enclosure url="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/episodes/nl/nl-coevorden-1528647157-v2.mp3" length="17494598" type="audio/mpeg"/>
       <guid isPermaLink="false">d42a4557-a4b3-5540-94cb-50fe99a6a696</guid>
       <pubDate>Tue, 10 Nov 2026 04:02:46 +0000</pubDate>
-      <itunes:duration>00:15:11</itunes:duration>
+      <itunes:duration>00:18:06</itunes:duration>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>false</itunes:explicit>
     </item>

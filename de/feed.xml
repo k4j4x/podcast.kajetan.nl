@@ -14,7 +14,7 @@
     <itunes:type>episodic</itunes:type>
     <itunes:category text="Society &amp; Culture"><itunes:category text="Places &amp; Travel"/></itunes:category>
     <itunes:image href="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/cover-de-3000.jpg"/>
-    <lastBuildDate>Thu, 12 Nov 2026 04:44:51 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 12 Nov 2026 05:06:53 +0000</lastBuildDate>
     <item>
       <title>Naarden Reiseführer &amp; Geschichte | Wie eine Sternfestung überlebte</title>
       <link>https://wanderingcities.com/netherlands/naarden/</link>
@@ -154,10 +154,10 @@ Quellen u. a. Wikipedia und Wikivoyage (CC BY-SA 4.0) sowie offizielle Websites 
 Andere Sprachen und mehr über Coevorden: https://wanderingcities.com/netherlands/coevorden/
 
 Quellen u. a. Wikipedia und Wikivoyage (CC BY-SA 4.0) sowie offizielle Websites für Tourismus, Denkmalpflege und Museen. Gespräch und Stimmen sind KI-generiert.</itunes:summary>
-      <enclosure url="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/episodes/de/de-coevorden-1528647157-v1.mp3" length="21502139" type="audio/mpeg"/>
+      <enclosure url="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/episodes/de/de-coevorden-1528647157-v2.mp3" length="26881691" type="audio/mpeg"/>
       <guid isPermaLink="false">2bee5648-b88c-5c70-b3aa-b42a5240aa74</guid>
       <pubDate>Tue, 10 Nov 2026 04:01:49 +0000</pubDate>
-      <itunes:duration>00:22:16</itunes:duration>
+      <itunes:duration>00:27:52</itunes:duration>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>false</itunes:explicit>
     </item>
