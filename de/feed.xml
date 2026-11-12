@@ -14,7 +14,7 @@
     <itunes:type>episodic</itunes:type>
     <itunes:category text="Society &amp; Culture"><itunes:category text="Places &amp; Travel"/></itunes:category>
     <itunes:image href="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/cover-de-3000.jpg"/>
-    <lastBuildDate>Thu, 12 Nov 2026 04:03:01 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 12 Nov 2026 04:44:51 +0000</lastBuildDate>
     <item>
       <title>Naarden Reiseführer &amp; Geschichte | Wie eine Sternfestung überlebte</title>
       <link>https://wanderingcities.com/netherlands/naarden/</link>
@@ -38,6 +38,7 @@ Quellen u. a. Wikipedia und Wikivoyage (CC BY-SA 4.0) sowie offizielle Websites 
     <item>
       <title>Weesp Reiseführer &amp; Geschichte | Zwischen Wasserlinie und Schokolade</title>
       <link>https://wanderingcities.com/netherlands/weesp/</link>
+      <podcast:transcript url="https://wanderingcities.com/netherlands/weesp/transcript-de.txt" type="text/plain" language="de"/>
       <description>Weesp verbindet an der Vecht Sehenswürdigkeiten wie das Fort aan de Ossenmarkt, molen De Vriendschap und das Stadhuis mit einer Geschichte, die jeden Besuch prägt. Im Jahr 1850 verlegte Coenraad Johannes van Houten seine Fabrik an die Oudegracht – wie wurde der Festungsort zur weltbekannten Kakaostadt?
 
 Andere Sprachen und mehr über Weesp: https://wanderingcities.com/netherlands/weesp/

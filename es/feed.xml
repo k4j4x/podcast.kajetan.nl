@@ -14,10 +14,11 @@
     <itunes:type>episodic</itunes:type>
     <itunes:category text="Society &amp; Culture"><itunes:category text="Places &amp; Travel"/></itunes:category>
     <itunes:image href="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/cover-es-3000.jpg"/>
-    <lastBuildDate>Thu, 12 Nov 2026 04:03:01 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 12 Nov 2026 04:44:52 +0000</lastBuildDate>
     <item>
       <title>Weesp: guía de viaje e historia | La pequeña Ámsterdam fortificada</title>
       <link>https://wanderingcities.com/netherlands/weesp/</link>
+      <podcast:transcript url="https://wanderingcities.com/netherlands/weesp/transcript-es.txt" type="text/plain" language="es"/>
       <description>Weesp combina su historia militar con lugares qué ver como Fort aan de Ossenmarkt, molen De Vriendschap y el Stadhuis durante cada visita. En 1850, Coenraad Johannes van Houten trasladó su fábrica a Oudegracht: ¿cómo surgió de esta fortaleza una marca global de cacao?
 
 Otros idiomas y más sobre Weesp: https://wanderingcities.com/netherlands/weesp/

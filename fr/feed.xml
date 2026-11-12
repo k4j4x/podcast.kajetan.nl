@@ -14,10 +14,11 @@
     <itunes:type>episodic</itunes:type>
     <itunes:category text="Society &amp; Culture"><itunes:category text="Places &amp; Travel"/></itunes:category>
     <itunes:image href="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/cover-fr-3000.jpg"/>
-    <lastBuildDate>Thu, 12 Nov 2026 04:03:01 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 12 Nov 2026 04:44:52 +0000</lastBuildDate>
     <item>
       <title>Weesp : guide de voyage et histoire | Entre forteresse et chocolat</title>
       <link>https://wanderingcities.com/netherlands/weesp/</link>
+      <podcast:transcript url="https://wanderingcities.com/netherlands/weesp/transcript-fr.txt" type="text/plain" language="fr"/>
       <description>Weesp associe son histoire à une visite le long de la Vecht, rythmée par le Fort aan de Ossenmarkt, molen De Vriendschap et le Stadhuis. En 1850, Coenraad Johannes van Houten installe sa fabrique sur l’Oudegracht : comment cette forteresse est-elle devenue la capitale du cacao ?
 
 Autres langues et plus sur Weesp : https://wanderingcities.com/netherlands/weesp/

@@ -14,10 +14,11 @@
     <itunes:type>episodic</itunes:type>
     <itunes:category text="Society &amp; Culture"><itunes:category text="Places &amp; Travel"/></itunes:category>
     <itunes:image href="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/cover-nl-3000.jpg"/>
-    <lastBuildDate>Thu, 12 Nov 2026 04:03:01 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 12 Nov 2026 04:44:51 +0000</lastBuildDate>
     <item>
       <title>Weesp reisgids &amp; geschiedenis | Eigenzinnig aan de Vecht</title>
       <link>https://wanderingcities.com/netherlands/weesp/</link>
+      <podcast:transcript url="https://wanderingcities.com/netherlands/weesp/transcript-nl.txt" type="text/plain" language="nl"/>
       <description>Weesp verbindt aan de Vecht bezienswaardigheden zoals Fort aan de Ossenmarkt, molen De Vriendschap en het Stadhuis met een militaire geschiedenis die elk bezoek tekent. In 2022 fuseerde de vestingstad bestuurlijk met Amsterdam, maar hoe behield zij haar eigen identiteit?
 
 Andere talen en meer over Weesp: https://wanderingcities.com/netherlands/weesp/
