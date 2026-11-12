@@ -14,7 +14,27 @@
     <itunes:type>episodic</itunes:type>
     <itunes:category text="Society &amp; Culture"><itunes:category text="Places &amp; Travel"/></itunes:category>
     <itunes:image href="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/cover-3000.jpg"/>
-    <lastBuildDate>Thu, 12 Nov 2026 06:33:20 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 12 Nov 2026 07:03:47 +0000</lastBuildDate>
+    <item>
+      <title>Kaatsheuvel Travel Guide &amp; History | From Peat Bog to Fairy Tale</title>
+      <link>https://wanderingcities.com/netherlands/kaatsheuvel/</link>
+      <description>Kaatsheuvel offers notable things to see like Efteling theme park and Nationaal Park De Loonse en Drunense Duinen, rooted in a history that shapes each visit. In 1952, the Sprookjesbos opened with ten fairy tales, beginning the town’s shift from peat harvesting to tourism.
+
+Other languages and more about Kaatsheuvel: https://wanderingcities.com/netherlands/kaatsheuvel/
+
+Sources include Wikipedia and Wikivoyage (CC BY-SA 4.0) and official tourism, heritage and museum websites. The conversation and voices are AI-generated.</description>
+      <itunes:summary>Kaatsheuvel offers notable things to see like Efteling theme park and Nationaal Park De Loonse en Drunense Duinen, rooted in a history that shapes each visit. In 1952, the Sprookjesbos opened with ten fairy tales, beginning the town’s shift from peat harvesting to tourism.
+
+Other languages and more about Kaatsheuvel: https://wanderingcities.com/netherlands/kaatsheuvel/
+
+Sources include Wikipedia and Wikivoyage (CC BY-SA 4.0) and official tourism, heritage and museum websites. The conversation and voices are AI-generated.</itunes:summary>
+      <enclosure url="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/episodes/wandering-cities-kaatsheuvel-1528956627-v1.mp3" length="19877011" type="audio/mpeg"/>
+      <guid isPermaLink="false">ee31fafe-a8ef-5d3b-832e-d8d3838e446e</guid>
+      <pubDate>Thu, 12 Nov 2026 07:03:46 +0000</pubDate>
+      <itunes:duration>00:20:33</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Naarden Travel Guide &amp; History | How a Star Fortress Survived</title>
       <link>https://wanderingcities.com/netherlands/naarden/</link>

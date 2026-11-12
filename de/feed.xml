@@ -14,7 +14,27 @@
     <itunes:type>episodic</itunes:type>
     <itunes:category text="Society &amp; Culture"><itunes:category text="Places &amp; Travel"/></itunes:category>
     <itunes:image href="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/cover-de-3000.jpg"/>
-    <lastBuildDate>Thu, 12 Nov 2026 06:33:20 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 12 Nov 2026 07:03:47 +0000</lastBuildDate>
+    <item>
+      <title>Kaatsheuvel Reiseführer &amp; Geschichte | Vom Sumpfdorf zum Märchenreich</title>
+      <link>https://wanderingcities.com/netherlands/kaatsheuvel/</link>
+      <description>Kaatsheuvel verbindet Sehenswürdigkeiten wie den Freizeitpark Efteling und den Nationaal Park De Loonse en Drunense Duinen mit einer Geschichte, die jeden Besuch bereichert. Im Jahr 1952 eröffnete der Sprookjesbos mit zehn Märchen seine Tore – doch wie begann dieser Aufstieg?
+
+Andere Sprachen und mehr über Kaatsheuvel: https://wanderingcities.com/netherlands/kaatsheuvel/
+
+Quellen u. a. Wikipedia und Wikivoyage (CC BY-SA 4.0) sowie offizielle Websites für Tourismus, Denkmalpflege und Museen. Gespräch und Stimmen sind KI-generiert.</description>
+      <itunes:summary>Kaatsheuvel verbindet Sehenswürdigkeiten wie den Freizeitpark Efteling und den Nationaal Park De Loonse en Drunense Duinen mit einer Geschichte, die jeden Besuch bereichert. Im Jahr 1952 eröffnete der Sprookjesbos mit zehn Märchen seine Tore – doch wie begann dieser Aufstieg?
+
+Andere Sprachen und mehr über Kaatsheuvel: https://wanderingcities.com/netherlands/kaatsheuvel/
+
+Quellen u. a. Wikipedia und Wikivoyage (CC BY-SA 4.0) sowie offizielle Websites für Tourismus, Denkmalpflege und Museen. Gespräch und Stimmen sind KI-generiert.</itunes:summary>
+      <enclosure url="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/episodes/de/de-kaatsheuvel-1528956627-v1.mp3" length="25532523" type="audio/mpeg"/>
+      <guid isPermaLink="false">2953e740-a594-5976-b408-4de326183821</guid>
+      <pubDate>Thu, 12 Nov 2026 07:02:27 +0000</pubDate>
+      <itunes:duration>00:26:28</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Naarden Reiseführer &amp; Geschichte | Wie eine Sternfestung überlebte</title>
       <link>https://wanderingcities.com/netherlands/naarden/</link>
