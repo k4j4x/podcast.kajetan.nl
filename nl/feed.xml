@@ -14,7 +14,7 @@
     <itunes:type>episodic</itunes:type>
     <itunes:category text="Society &amp; Culture"><itunes:category text="Places &amp; Travel"/></itunes:category>
     <itunes:image href="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/cover-nl-3000.jpg"/>
-    <lastBuildDate>Thu, 12 Nov 2026 03:33:09 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 12 Nov 2026 04:03:01 +0000</lastBuildDate>
     <item>
       <title>Weesp reisgids &amp; geschiedenis | Eigenzinnig aan de Vecht</title>
       <link>https://wanderingcities.com/netherlands/weesp/</link>
@@ -38,6 +38,7 @@ Bronnen o.a. Wikipedia en Wikivoyage (CC BY-SA 4.0) en officiële websites over 
     <item>
       <title>Volendam reisgids &amp; geschiedenis | Toen een buurstad de haven afsloot</title>
       <link>https://wanderingcities.com/netherlands/volendam/</link>
+      <podcast:transcript url="https://wanderingcities.com/netherlands/volendam/transcript-nl.txt" type="text/plain" language="nl"/>
       <description>Volendam toont zijn maritieme geschiedenis langs De Dijk en in de wijk Het Doolhof, twee bezienswaardigheden tijdens een bezoek. In 1357 groeven de inwoners van Edam een korter kanaal naar de Zuiderzee en damden de oude haven af, maar wie vestigden zich daarna op dit nieuwe land?
 
 Andere talen en meer over Volendam: https://wanderingcities.com/netherlands/volendam/
@@ -58,6 +59,7 @@ Bronnen o.a. Wikipedia en Wikivoyage (CC BY-SA 4.0) en officiële websites over 
     <item>
       <title>Sluis reisgids &amp; geschiedenis | Het geheim van een Vlaamse toren</title>
       <link>https://wanderingcities.com/netherlands/sluis/</link>
+      <podcast:transcript url="https://wanderingcities.com/netherlands/sluis/transcript-nl.txt" type="text/plain" language="nl"/>
       <description>Sluis toont zijn geschiedenis tijdens een bezoek aan bezienswaardigheden zoals het Belfort, Molen De Brak en de Wallen van Sluis. In 1390 werd het stadhuis met belfort naar Vlaams voorbeeld gebouwd, maar waarom staat deze toren juist hier?
 
 Andere talen en meer over Sluis: https://wanderingcities.com/netherlands/sluis/

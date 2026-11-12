@@ -14,7 +14,7 @@
     <itunes:type>episodic</itunes:type>
     <itunes:category text="Society &amp; Culture"><itunes:category text="Places &amp; Travel"/></itunes:category>
     <itunes:image href="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/cover-fr-3000.jpg"/>
-    <lastBuildDate>Thu, 12 Nov 2026 03:33:09 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 12 Nov 2026 04:03:01 +0000</lastBuildDate>
     <item>
       <title>Weesp : guide de voyage et histoire | Entre forteresse et chocolat</title>
       <link>https://wanderingcities.com/netherlands/weesp/</link>
@@ -38,6 +38,7 @@ Sources, entre autres : Wikipédia et Wikivoyage (CC BY-SA 4.0) ainsi que les si
     <item>
       <title>Volendam : guide de voyage et histoire | Du port de pêche au tourisme mondial</title>
       <link>https://wanderingcities.com/netherlands/volendam/</link>
+      <podcast:transcript url="https://wanderingcities.com/netherlands/volendam/transcript-fr.txt" type="text/plain" language="fr"/>
       <description>Volendam expose son histoire le long de De Dijk et dans le quartier de Het Doolhof, des lieux à voir durant une visite. En 1881, Leendert Spaander a ouvert son hôtel aux peintres du monde entier, mais comment ce port a-t-il basculé vers le tourisme ?
 
 Autres langues et plus sur Volendam : https://wanderingcities.com/netherlands/volendam/
@@ -58,6 +59,7 @@ Sources, entre autres : Wikipédia et Wikivoyage (CC BY-SA 4.0) ainsi que les si
     <item>
       <title>Sluis : guide de voyage et histoire | La folle épopée d'un port disparu</title>
       <link>https://wanderingcities.com/netherlands/sluis/</link>
+      <podcast:transcript url="https://wanderingcities.com/netherlands/sluis/transcript-fr.txt" type="text/plain" language="fr"/>
       <description>Sluis dévoile son histoire lors d'une visite jalonnée par le Belfort, Molen De Brak et les Wallen van Sluis. En 1604, le prince Maurits de Nassau prit la ville après un long siège, mais comment survécut ce port privé de mer ?
 
 Autres langues et plus sur Sluis : https://wanderingcities.com/netherlands/sluis/

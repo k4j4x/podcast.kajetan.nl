@@ -14,7 +14,27 @@
     <itunes:type>episodic</itunes:type>
     <itunes:category text="Society &amp; Culture"><itunes:category text="Places &amp; Travel"/></itunes:category>
     <itunes:image href="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/cover-de-3000.jpg"/>
-    <lastBuildDate>Thu, 12 Nov 2026 03:33:09 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 12 Nov 2026 04:03:01 +0000</lastBuildDate>
+    <item>
+      <title>Naarden Reiseführer &amp; Geschichte | Wie eine Sternfestung überlebte</title>
+      <link>https://wanderingcities.com/netherlands/naarden/</link>
+      <description>Naarden belohnt jeden Besuch mit Geschichte und Sehenswürdigkeiten wie der Grote Kerk, dem Spaanse Huis sowie dem Bastion Turfpoort. Im Jahr 1814 ergab sich die französische Besatzung erst nach monatelanger Belagerung; wie aber überstanden die Wälle diesen Beschuss?
+
+Andere Sprachen und mehr über Naarden: https://wanderingcities.com/netherlands/naarden/
+
+Quellen u. a. Wikipedia und Wikivoyage (CC BY-SA 4.0) sowie offizielle Websites für Tourismus, Denkmalpflege und Museen. Gespräch und Stimmen sind KI-generiert.</description>
+      <itunes:summary>Naarden belohnt jeden Besuch mit Geschichte und Sehenswürdigkeiten wie der Grote Kerk, dem Spaanse Huis sowie dem Bastion Turfpoort. Im Jahr 1814 ergab sich die französische Besatzung erst nach monatelanger Belagerung; wie aber überstanden die Wälle diesen Beschuss?
+
+Andere Sprachen und mehr über Naarden: https://wanderingcities.com/netherlands/naarden/
+
+Quellen u. a. Wikipedia und Wikivoyage (CC BY-SA 4.0) sowie offizielle Websites für Tourismus, Denkmalpflege und Museen. Gespräch und Stimmen sind KI-generiert.</itunes:summary>
+      <enclosure url="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/episodes/de/de-naarden-1528999907-v1.mp3" length="19883381" type="audio/mpeg"/>
+      <guid isPermaLink="false">44147ad6-2b0e-5f41-ab9e-15088ea063ee</guid>
+      <pubDate>Thu, 12 Nov 2026 04:01:46 +0000</pubDate>
+      <itunes:duration>00:20:35</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Weesp Reiseführer &amp; Geschichte | Zwischen Wasserlinie und Schokolade</title>
       <link>https://wanderingcities.com/netherlands/weesp/</link>
@@ -38,6 +58,7 @@ Quellen u. a. Wikipedia und Wikivoyage (CC BY-SA 4.0) sowie offizielle Websites 
     <item>
       <title>Volendam Reiseführer &amp; Geschichte | Als das Meer zum See wurde</title>
       <link>https://wanderingcities.com/netherlands/volendam/</link>
+      <podcast:transcript url="https://wanderingcities.com/netherlands/volendam/transcript-de.txt" type="text/plain" language="de"/>
       <description>Volendam verbindet bei einem Besuch entlang De Dijk und Het Doolhof historische Sehenswürdigkeiten mit der Geschichte der Fischerei. Im Jahr 1932 riegelte der Afsluitdijk die Zuiderzee ab und machte sie zum IJsselmeer, doch wie überlebte der Ort diesen Wandel?
 
 Andere Sprachen und mehr über Volendam: https://wanderingcities.com/netherlands/volendam/
