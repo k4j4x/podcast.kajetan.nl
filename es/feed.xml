@@ -14,7 +14,27 @@
     <itunes:type>episodic</itunes:type>
     <itunes:category text="Society &amp; Culture"><itunes:category text="Places &amp; Travel"/></itunes:category>
     <itunes:image href="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/cover-es-3000.jpg"/>
-    <lastBuildDate>Thu, 12 Nov 2026 06:02:50 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 12 Nov 2026 06:33:21 +0000</lastBuildDate>
+    <item>
+      <title>Naarden: guía de viaje e historia | Secretos de una fortaleza estrellada</title>
+      <link>https://wanderingcities.com/netherlands/naarden/</link>
+      <description>Naarden reúne en cada visita su historia militar con enclaves como la Grote Kerk, la Spaanse Huis y el Bastion Turfpoort. En 1814, las tropas francesas capitularon tras meses de asedio y bombardeos artilleros; ¿cómo lograron resistir sus murallas?
+
+Otros idiomas y más sobre Naarden: https://wanderingcities.com/netherlands/naarden/
+
+Fuentes, entre otras: Wikipedia y Wikivoyage (CC BY-SA 4.0) y webs oficiales de turismo, patrimonio y museos. La conversación y las voces están generadas por IA.</description>
+      <itunes:summary>Naarden reúne en cada visita su historia militar con enclaves como la Grote Kerk, la Spaanse Huis y el Bastion Turfpoort. En 1814, las tropas francesas capitularon tras meses de asedio y bombardeos artilleros; ¿cómo lograron resistir sus murallas?
+
+Otros idiomas y más sobre Naarden: https://wanderingcities.com/netherlands/naarden/
+
+Fuentes, entre otras: Wikipedia y Wikivoyage (CC BY-SA 4.0) y webs oficiales de turismo, patrimonio y museos. La conversación y las voces están generadas por IA.</itunes:summary>
+      <enclosure url="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/episodes/es/es-naarden-1528999907-v1.mp3" length="18801866" type="audio/mpeg"/>
+      <guid isPermaLink="false">4745c74d-0dd0-50e9-973b-d97d27a9404f</guid>
+      <pubDate>Thu, 12 Nov 2026 06:32:11 +0000</pubDate>
+      <itunes:duration>00:19:27</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Weesp: guía de viaje e historia | La pequeña Ámsterdam fortificada</title>
       <link>https://wanderingcities.com/netherlands/weesp/</link>
