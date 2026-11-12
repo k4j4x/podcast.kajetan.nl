@@ -55,6 +55,7 @@ footer{max-width:760px;margin:0 auto;padding:1rem 1.25rem 2rem;color:var(--muted
 .phrases .tile{background:linear-gradient(150deg,#c4502f,#8f3420);--hole:#a8402a}
 .customs .tile{background:linear-gradient(150deg,#3d4f6b,#26334a);--hole:#33435c}
 .food .tile{background:linear-gradient(150deg,#d98a2b,#b0611a);--hole:#c4762a}
+.story h2{margin-top:1.6em}.story h3{margin-top:1.2em}.story sup a{text-decoration:none;font-size:.75em}.story ol.sources{font-size:.85rem;word-break:break-word}
 .story .tile{background:linear-gradient(150deg,#2f6f6a,#1f4f4c);--hole:#285f5b}
 .soon .tile{background:#efe4d1;color:#cbb999;border:2px dashed #dccbad;--hole:#efe4d1}.soon b{color:#a8997f}
 .tile em{position:absolute;top:10px;right:10px;font:600 .68rem Manrope,sans-serif;font-style:normal;background:#fff;color:#a8997f;padding:2px 8px;border-radius:99px}
