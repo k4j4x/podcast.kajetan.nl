@@ -26,32 +26,41 @@
 <p class="crumbs"><a href="/">All cities</a> › <a href="/netherlands/kaatsheuvel/">Kaatsheuvel</a> › Podcast</p>
 <h1>Kaatsheuvel</h1>
 <p class="where">Noord-Brabant, Netherlands</p>
-<p class="langs">Available in: <a class="chip" href="#en" hreflang="en">English</a><a class="chip" href="#de" hreflang="de">Deutsch</a><a class="chip" href="#nl" hreflang="nl">Nederlands</a><a class="chip" href="#fr" hreflang="fr">Français</a></p>
+<nav class="cbar"><span></span><label class="langpill" title="Language"><span aria-hidden="true">🌐 <b id="lc">EN</b> ▾</span><select id="lang" aria-label="Language"><option value="en">EN · English</option><option value="de">DE · Deutsch</option><option value="nl">NL · Nederlands</option><option value="fr">FR · Français</option></select></label></nav>
 <section id="en" lang="en" class="episode">
 <h2><span class="lang">English</span> Kaatsheuvel Travel Guide &amp; History | From Peat Bog to Fairy Tale</h2>
 <audio controls preload="none" src="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/episodes/wandering-cities-kaatsheuvel-1528956627-v1.mp3"></audio>
 <p>Kaatsheuvel offers notable things to see like Efteling theme park and Nationaal Park De Loonse en Drunense Duinen, rooted in a history that shapes each visit. In 1952, the Sprookjesbos opened with ten fairy tales, beginning the town’s shift from peat harvesting to tourism.</p>
-<p class="listen"><a class="btn spotify" href="https://open.spotify.com/show/6CBsUTtfCE21dBWDvg3lVZ">Listen on Spotify</a><a class="btn rss" href="/feed.xml">RSS feed</a></p>
+<p class="listen"><a class="btn spotify" href="https://open.spotify.com/show/6CBsUTtfCE21dBWDvg3lVZ">Listen on Spotify</a></p>
 
 </section><section id="de" lang="de" class="episode">
 <h2><span class="lang">Deutsch</span> Kaatsheuvel Reiseführer &amp; Geschichte | Vom Sumpfdorf zum Märchenreich</h2>
 <audio controls preload="none" src="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/episodes/de/de-kaatsheuvel-1528956627-v1.mp3"></audio>
 <p>Kaatsheuvel verbindet Sehenswürdigkeiten wie den Freizeitpark Efteling und den Nationaal Park De Loonse en Drunense Duinen mit einer Geschichte, die jeden Besuch bereichert. Im Jahr 1952 eröffnete der Sprookjesbos mit zehn Märchen seine Tore – doch wie begann dieser Aufstieg?</p>
-<p class="listen"><a class="btn spotify" href="https://open.spotify.com/show/2YNHM31rhpcDIPa1Og01b3">Listen on Spotify</a><a class="btn rss" href="/de/feed.xml">RSS feed</a></p>
+<p class="listen"><a class="btn spotify" href="https://open.spotify.com/show/2YNHM31rhpcDIPa1Og01b3">Listen on Spotify</a></p>
 
 </section><section id="nl" lang="nl" class="episode">
 <h2><span class="lang">Nederlands</span> Kaatsheuvel reisgids &amp; geschiedenis | Van turf en rovers naar een sprookje</h2>
 <audio controls preload="none" src="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/episodes/nl/nl-kaatsheuvel-1528956627-v1.mp3"></audio>
 <p>Kaatsheuvel combineert bezienswaardigheden zoals de Efteling en Nationaal Park De Loonse en Drunense Duinen met een geschiedenis die elk bezoek tekent. In 1952 opende het Sprookjesbos met tien sprookjes, maar hoe groeide dit dorp uit tot een toeristische trekpleister?</p>
-<p class="listen"><a class="btn spotify" href="https://open.spotify.com/show/2fz7rGG7OEP32RgIv4sYpA">Listen on Spotify</a><a class="btn rss" href="/nl/feed.xml">RSS feed</a></p>
+<p class="listen"><a class="btn spotify" href="https://open.spotify.com/show/2fz7rGG7OEP32RgIv4sYpA">Listen on Spotify</a></p>
 
 </section><section id="fr" lang="fr" class="episode">
 <h2><span class="lang">Français</span> Kaatsheuvel : guide de voyage et histoire | De la tourbe au royaume des contes</h2>
 <audio controls preload="none" src="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/episodes/fr/fr-kaatsheuvel-1528956627-v1.mp3"></audio>
 <p>Kaatsheuvel regroupe des lieux à voir comme Efteling et le Nationaal Park De Loonse en Drunense Duinen, ancrés dans une histoire qui guide chaque visite. En 1952, le Sprookjesbos a ouvert avec dix contes, mais comment ce village a-t-il bâti ce succès ?</p>
-<p class="listen"><a class="btn rss" href="/fr/feed.xml">RSS feed</a></p>
+<p class="listen"></p>
 
 </section>
+<script>
+(()=>{const langs=["en", "de", "nl", "fr"];const sel=document.getElementById('lang');
+const q=new URLSearchParams(location.search).get('lang'),h=location.hash.slice(1),nav=(navigator.language||'en').slice(0,2);
+let L=[q,h,nav,'en',langs[0]].find(x=>langs.includes(x));
+function set(l){L=l;sel.value=l;document.getElementById('lc').textContent=l.toUpperCase();
+ document.querySelectorAll('section.episode').forEach(s=>{const on=s.id===l;s.hidden=!on;if(!on)s.querySelectorAll('audio').forEach(a=>a.pause())});
+ const p=new URL(location);p.hash='';if(l===langs[0]&&!q)p.searchParams.delete('lang');else p.searchParams.set('lang',l);history.replaceState(null,'',p)}
+sel.onchange=()=>set(sel.value);set(L);})();
+</script>
 </main>
 <footer><p>Sources include Wikipedia and Wikivoyage (CC BY-SA 4.0) and official tourism, heritage and museum websites. The conversation and voices are AI-generated.</p><p><a href="/">All cities</a> · <a href="/feed.xml">RSS feed</a> · <a href="/credits/">Image credits</a></p><p class="legal">Text, audio and transcripts © Kajetan Studio. Use for AI training, text and data mining or automated scraping is not permitted (opt-out under Art. 4 EU Directive 2019/790). Photos and map drawings: see the licence shown with each.</p></footer>
 </body>
