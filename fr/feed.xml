@@ -14,7 +14,27 @@
     <itunes:type>episodic</itunes:type>
     <itunes:category text="Society &amp; Culture"><itunes:category text="Places &amp; Travel"/></itunes:category>
     <itunes:image href="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/cover-fr-3000.jpg"/>
-    <lastBuildDate>Thu, 12 Nov 2026 05:06:54 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 12 Nov 2026 06:02:50 +0000</lastBuildDate>
+    <item>
+      <title>Naarden : guide de voyage et histoire | Au cœur d'une forteresse en étoile</title>
+      <link>https://wanderingcities.com/netherlands/naarden/</link>
+      <description>Naarden offre lors d'une visite toute son histoire à travers la Grote Kerk, le Spaanse Huis et le Bastion Turfpoort. En 1814, les soldats français ont capitulé après de longs mois de bombardements, mais comment ces fortifications ont-elles survécu ?
+
+Autres langues et plus sur Naarden : https://wanderingcities.com/netherlands/naarden/
+
+Sources, entre autres : Wikipédia et Wikivoyage (CC BY-SA 4.0) ainsi que les sites officiels du tourisme, du patrimoine et des musées. La conversation et les voix sont générées par IA.</description>
+      <itunes:summary>Naarden offre lors d'une visite toute son histoire à travers la Grote Kerk, le Spaanse Huis et le Bastion Turfpoort. En 1814, les soldats français ont capitulé après de longs mois de bombardements, mais comment ces fortifications ont-elles survécu ?
+
+Autres langues et plus sur Naarden : https://wanderingcities.com/netherlands/naarden/
+
+Sources, entre autres : Wikipédia et Wikivoyage (CC BY-SA 4.0) ainsi que les sites officiels du tourisme, du patrimoine et des musées. La conversation et les voix sont générées par IA.</itunes:summary>
+      <enclosure url="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/episodes/fr/fr-naarden-1528999907-v1.mp3" length="16056179" type="audio/mpeg"/>
+      <guid isPermaLink="false">6ccc5dcb-cc37-5a07-be2b-776059226102</guid>
+      <pubDate>Thu, 12 Nov 2026 06:01:31 +0000</pubDate>
+      <itunes:duration>00:16:36</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Weesp : guide de voyage et histoire | Entre forteresse et chocolat</title>
       <link>https://wanderingcities.com/netherlands/weesp/</link>

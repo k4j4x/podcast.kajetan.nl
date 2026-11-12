@@ -14,7 +14,27 @@
     <itunes:type>episodic</itunes:type>
     <itunes:category text="Society &amp; Culture"><itunes:category text="Places &amp; Travel"/></itunes:category>
     <itunes:image href="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/cover-nl-3000.jpg"/>
-    <lastBuildDate>Thu, 12 Nov 2026 05:06:54 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 12 Nov 2026 06:02:49 +0000</lastBuildDate>
+    <item>
+      <title>Naarden reisgids &amp; geschiedenis | Het geheim van de groene sneeuwvlok</title>
+      <link>https://wanderingcities.com/netherlands/naarden/</link>
+      <description>Naarden verbindt tijdens een bezoek zijn militaire geschiedenis met bezienswaardigheden zoals de Grote Kerk, het Spaanse Huis en Bastion Turfpoort. In 1814 capituleerde het Franse garnizoen pas na maandenlange beschietingen door Nederlandse troepen; hoe hielden de dubbele omwallingen stand?
+
+Andere talen en meer over Naarden: https://wanderingcities.com/netherlands/naarden/
+
+Bronnen o.a. Wikipedia en Wikivoyage (CC BY-SA 4.0) en officiële websites over toerisme, erfgoed en musea. Het gesprek en de stemmen zijn door AI gegenereerd.</description>
+      <itunes:summary>Naarden verbindt tijdens een bezoek zijn militaire geschiedenis met bezienswaardigheden zoals de Grote Kerk, het Spaanse Huis en Bastion Turfpoort. In 1814 capituleerde het Franse garnizoen pas na maandenlange beschietingen door Nederlandse troepen; hoe hielden de dubbele omwallingen stand?
+
+Andere talen en meer over Naarden: https://wanderingcities.com/netherlands/naarden/
+
+Bronnen o.a. Wikipedia en Wikivoyage (CC BY-SA 4.0) en officiële websites over toerisme, erfgoed en musea. Het gesprek en de stemmen zijn door AI gegenereerd.</itunes:summary>
+      <enclosure url="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/episodes/nl/nl-naarden-1528999907-v1.mp3" length="19395889" type="audio/mpeg"/>
+      <guid isPermaLink="false">fec85abd-c774-58ce-9a54-54e16ffcc477</guid>
+      <pubDate>Thu, 12 Nov 2026 06:02:49 +0000</pubDate>
+      <itunes:duration>00:20:05</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Weesp reisgids &amp; geschiedenis | Eigenzinnig aan de Vecht</title>
       <link>https://wanderingcities.com/netherlands/weesp/</link>
