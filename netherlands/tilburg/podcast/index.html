@@ -69,11 +69,12 @@
 <script>
 (()=>{const langs=["en", "de", "nl", "fr", "es", "it"];const sel=document.getElementById('lang');
 const q=new URLSearchParams(location.search).get('lang'),h=location.hash.slice(1),nav=(navigator.language||'en').slice(0,2);
-let L=[q,h,nav,'en',langs[0]].find(x=>langs.includes(x));
+const st=(()=>{try{return localStorage.getItem('wc-lang')}catch(e){return null}})();
+let L=[q,h,st,nav,'en',langs[0]].find(x=>langs.includes(x));
 function set(l){L=l;sel.value=l;document.getElementById('lc').textContent=l.toUpperCase();
  document.querySelectorAll('section.episode').forEach(s=>{const on=s.id===l;s.hidden=!on;if(!on)s.querySelectorAll('audio').forEach(a=>a.pause())});
  const p=new URL(location);p.hash='';if(l===langs[0]&&!q)p.searchParams.delete('lang');else p.searchParams.set('lang',l);history.replaceState(null,'',p)}
-sel.onchange=()=>set(sel.value);set(L);})();
+sel.onchange=()=>{try{localStorage.setItem('wc-lang',sel.value)}catch(e){}set(sel.value)};set(L);})();
 </script>
 </main>
 <footer><p>Sources include Wikipedia and Wikivoyage (CC BY-SA 4.0) and official tourism, heritage and museum websites. The conversation and voices are AI-generated.</p><p><a href="/">All cities</a> · <a href="/credits/">Image credits</a></p><p class="legal">Text, audio and transcripts © Kajetan Studio. Use for AI training, text and data mining or automated scraping is not permitted (opt-out under Art. 4 EU Directive 2019/790). Photos and map drawings: see the licence shown with each.</p></footer>
