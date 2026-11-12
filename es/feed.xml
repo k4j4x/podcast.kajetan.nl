@@ -14,7 +14,27 @@
     <itunes:type>episodic</itunes:type>
     <itunes:category text="Society &amp; Culture"><itunes:category text="Places &amp; Travel"/></itunes:category>
     <itunes:image href="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/cover-es-3000.jpg"/>
-    <lastBuildDate>Thu, 12 Nov 2026 03:02:49 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 12 Nov 2026 03:33:09 +0000</lastBuildDate>
+    <item>
+      <title>Weesp: guía de viaje e historia | La pequeña Ámsterdam fortificada</title>
+      <link>https://wanderingcities.com/netherlands/weesp/</link>
+      <description>Weesp combina su historia militar con lugares qué ver como Fort aan de Ossenmarkt, molen De Vriendschap y el Stadhuis durante cada visita. En 1850, Coenraad Johannes van Houten trasladó su fábrica a Oudegracht: ¿cómo surgió de esta fortaleza una marca global de cacao?
+
+Otros idiomas y más sobre Weesp: https://wanderingcities.com/netherlands/weesp/
+
+Fuentes, entre otras: Wikipedia y Wikivoyage (CC BY-SA 4.0) y webs oficiales de turismo, patrimonio y museos. La conversación y las voces están generadas por IA.</description>
+      <itunes:summary>Weesp combina su historia militar con lugares qué ver como Fort aan de Ossenmarkt, molen De Vriendschap y el Stadhuis durante cada visita. En 1850, Coenraad Johannes van Houten trasladó su fábrica a Oudegracht: ¿cómo surgió de esta fortaleza una marca global de cacao?
+
+Otros idiomas y más sobre Weesp: https://wanderingcities.com/netherlands/weesp/
+
+Fuentes, entre otras: Wikipedia y Wikivoyage (CC BY-SA 4.0) y webs oficiales de turismo, patrimonio y museos. La conversación y las voces están generadas por IA.</itunes:summary>
+      <enclosure url="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/episodes/es/es-weesp-1528983358-v1.mp3" length="21516081" type="audio/mpeg"/>
+      <guid isPermaLink="false">9ecc83a5-b563-5281-aa9f-7e0b432db49a</guid>
+      <pubDate>Thu, 12 Nov 2026 03:31:59 +0000</pubDate>
+      <itunes:duration>00:22:17</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Volendam: guía de viaje e historia | De traje local a símbolo nacional</title>
       <link>https://wanderingcities.com/netherlands/volendam/</link>
