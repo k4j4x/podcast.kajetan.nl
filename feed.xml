@@ -14,7 +14,27 @@
     <itunes:type>episodic</itunes:type>
     <itunes:category text="Society &amp; Culture"><itunes:category text="Places &amp; Travel"/></itunes:category>
     <itunes:image href="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/cover-3000.jpg"/>
-    <lastBuildDate>Thu, 12 Nov 2026 02:00:15 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 12 Nov 2026 02:04:25 +0000</lastBuildDate>
+    <item>
+      <title>Weesp Travel Guide &amp; History | Between Waterline and Chocolate</title>
+      <link>https://wanderingcities.com/netherlands/weesp/</link>
+      <description>Weesp pairs military history with sights along the Vecht, including Fort aan de Ossenmarkt, molen De Vriendschap, and the Stadhuis during any visit. In 1850, Coenraad Johannes van Houten moved his chocolate factory to the Oudegracht—how did this fortified town build a global cocoa brand?
+
+Other languages and more about Weesp: https://wanderingcities.com/netherlands/weesp/
+
+Sources include Wikipedia and Wikivoyage (CC BY-SA 4.0) and official tourism, heritage and museum websites. The conversation and voices are AI-generated.</description>
+      <itunes:summary>Weesp pairs military history with sights along the Vecht, including Fort aan de Ossenmarkt, molen De Vriendschap, and the Stadhuis during any visit. In 1850, Coenraad Johannes van Houten moved his chocolate factory to the Oudegracht—how did this fortified town build a global cocoa brand?
+
+Other languages and more about Weesp: https://wanderingcities.com/netherlands/weesp/
+
+Sources include Wikipedia and Wikivoyage (CC BY-SA 4.0) and official tourism, heritage and museum websites. The conversation and voices are AI-generated.</itunes:summary>
+      <enclosure url="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/episodes/wandering-cities-weesp-1528983358-v1.mp3" length="20443761" type="audio/mpeg"/>
+      <guid isPermaLink="false">1d08e3bd-48a6-5419-a89d-b44ceb10cbdf</guid>
+      <pubDate>Thu, 12 Nov 2026 02:04:25 +0000</pubDate>
+      <itunes:duration>00:21:08</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Volendam Travel Guide &amp; History | How a Village Lost Its Sea</title>
       <link>https://wanderingcities.com/netherlands/volendam/</link>
