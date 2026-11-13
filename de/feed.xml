@@ -14,7 +14,27 @@
     <itunes:type>episodic</itunes:type>
     <itunes:category text="Society &amp; Culture"><itunes:category text="Places &amp; Travel"/></itunes:category>
     <itunes:image href="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/cover-de-3000.jpg"/>
-    <lastBuildDate>Fri, 13 Nov 2026 05:08:33 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 13 Nov 2026 06:02:19 +0000</lastBuildDate>
+    <item>
+      <title>Weert Reiseführer &amp; Geschichte | Von der Sumpfinsel zur Tuchmetropole</title>
+      <link>https://wanderingcities.com/netherlands/weert/?lang=de</link>
+      <description>Weert, in den Niederlanden: In der Sint Martinuskerk soll das Herz des in Brüssel geköpften Grafen Philips von Horne in einer unscheinbaren Blechdose ruhen. Im Jahr 2020 stießen Forscher bei Ausgrabungen an einer nahen Burgruine auf eine unbekannte Grabkammer – seitdem wird diskutiert, ob die Überreste des Grafen dort vor den spanischen Truppen versteckt wurden. In der ganzen Folge gibt es mehr Geschichten und Tipps zu den Sehenswürdigkeiten.
+
+Andere Sprachen und mehr über Weert: https://wanderingcities.com/netherlands/weert/?lang=de
+
+Quellen u. a. Wikipedia und Wikivoyage (CC BY-SA 4.0) sowie offizielle Websites für Tourismus, Denkmalpflege und Museen. Gespräch und Stimmen sind KI-generiert.</description>
+      <itunes:summary>Weert, in den Niederlanden: In der Sint Martinuskerk soll das Herz des in Brüssel geköpften Grafen Philips von Horne in einer unscheinbaren Blechdose ruhen. Im Jahr 2020 stießen Forscher bei Ausgrabungen an einer nahen Burgruine auf eine unbekannte Grabkammer – seitdem wird diskutiert, ob die Überreste des Grafen dort vor den spanischen Truppen versteckt wurden. In der ganzen Folge gibt es mehr Geschichten und Tipps zu den Sehenswürdigkeiten.
+
+Andere Sprachen und mehr über Weert: https://wanderingcities.com/netherlands/weert/?lang=de
+
+Quellen u. a. Wikipedia und Wikivoyage (CC BY-SA 4.0) sowie offizielle Websites für Tourismus, Denkmalpflege und Museen. Gespräch und Stimmen sind KI-generiert.</itunes:summary>
+      <enclosure url="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/episodes/de/de-weert-1528448216-v1.mp3" length="23173561" type="audio/mpeg"/>
+      <guid isPermaLink="false">891ebec1-ad44-56c1-9912-af1eca58c452</guid>
+      <pubDate>Fri, 13 Nov 2026 06:01:25 +0000</pubDate>
+      <itunes:duration>00:24:01</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Assen Reiseführer &amp; Geschichte | Zwischen Klosterstille und MotoGP</title>
       <link>https://wanderingcities.com/netherlands/assen/?lang=de</link>

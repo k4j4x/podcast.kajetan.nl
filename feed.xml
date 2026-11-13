@@ -14,7 +14,27 @@
     <itunes:type>episodic</itunes:type>
     <itunes:category text="Society &amp; Culture"><itunes:category text="Places &amp; Travel"/></itunes:category>
     <itunes:image href="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/cover-3000.jpg"/>
-    <lastBuildDate>Fri, 13 Nov 2026 05:08:32 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 13 Nov 2026 06:02:19 +0000</lastBuildDate>
+    <item>
+      <title>Weert Travel Guide &amp; History | From Swamp Island to Cloth Capital</title>
+      <link>https://wanderingcities.com/netherlands/weert/?lang=en</link>
+      <description>Weert, in the Netherlands, is where a woman known as Antia of the station walked onto the platforms after the railway arrived and sold slices of fruit pie to passengers leaning out of the train windows. Count Philips van Horn was beheaded in Brussels on June 5th, 1568, for showing leniency toward Protestant rebels. Listen to the full episode for more stories and tips on what to see.
+
+Other languages and more about Weert: https://wanderingcities.com/netherlands/weert/?lang=en
+
+Sources include Wikipedia and Wikivoyage (CC BY-SA 4.0) and official tourism, heritage and museum websites. The conversation and voices are AI-generated.</description>
+      <itunes:summary>Weert, in the Netherlands, is where a woman known as Antia of the station walked onto the platforms after the railway arrived and sold slices of fruit pie to passengers leaning out of the train windows. Count Philips van Horn was beheaded in Brussels on June 5th, 1568, for showing leniency toward Protestant rebels. Listen to the full episode for more stories and tips on what to see.
+
+Other languages and more about Weert: https://wanderingcities.com/netherlands/weert/?lang=en
+
+Sources include Wikipedia and Wikivoyage (CC BY-SA 4.0) and official tourism, heritage and museum websites. The conversation and voices are AI-generated.</itunes:summary>
+      <enclosure url="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/episodes/wandering-cities-weert-1528448216-v1.mp3" length="21809655" type="audio/mpeg"/>
+      <guid isPermaLink="false">5d4fe52b-fcd4-5b2b-82a1-3c60b3e03286</guid>
+      <pubDate>Fri, 13 Nov 2026 06:02:18 +0000</pubDate>
+      <itunes:duration>00:22:33</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Assen Travel Guide &amp; History | From Cloister Silence to MotoGP</title>
       <link>https://wanderingcities.com/netherlands/assen/?lang=en</link>
