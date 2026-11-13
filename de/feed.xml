@@ -14,7 +14,27 @@
     <itunes:type>episodic</itunes:type>
     <itunes:category text="Society &amp; Culture"><itunes:category text="Places &amp; Travel"/></itunes:category>
     <itunes:image href="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/cover-de-3000.jpg"/>
-    <lastBuildDate>Fri, 13 Nov 2026 02:22:03 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 13 Nov 2026 02:31:59 +0000</lastBuildDate>
+    <item>
+      <title>Assen Reiseführer &amp; Geschichte | Zwischen Klosterstille und MotoGP</title>
+      <link>https://wanderingcities.com/netherlands/assen/?lang=de</link>
+      <description>Assen, in den Niederlanden, hat mitten im Wald Asserbos ein Hirschgehege, den Hertenkamp: Eine Gouverneurswitwe schenkte der Stadt einen lebenden Hirsch, und die Verwaltung zäunte kurzerhand einen Teil des Waldes ein. 1258 und 1259 wurde das Zisterzienserinnenkloster Marienkamp zur Strafe in eine feuchte Moorlandschaft verlegt – dort liegt heute das historische Zentrum von Assen. In der ganzen Folge gibt es mehr Geschichten und Tipps zu den Sehenswürdigkeiten.
+
+Andere Sprachen und mehr über Assen: https://wanderingcities.com/netherlands/assen/?lang=de
+
+Quellen u. a. Wikipedia und Wikivoyage (CC BY-SA 4.0) sowie offizielle Websites für Tourismus, Denkmalpflege und Museen. Gespräch und Stimmen sind KI-generiert.</description>
+      <itunes:summary>Assen, in den Niederlanden, hat mitten im Wald Asserbos ein Hirschgehege, den Hertenkamp: Eine Gouverneurswitwe schenkte der Stadt einen lebenden Hirsch, und die Verwaltung zäunte kurzerhand einen Teil des Waldes ein. 1258 und 1259 wurde das Zisterzienserinnenkloster Marienkamp zur Strafe in eine feuchte Moorlandschaft verlegt – dort liegt heute das historische Zentrum von Assen. In der ganzen Folge gibt es mehr Geschichten und Tipps zu den Sehenswürdigkeiten.
+
+Andere Sprachen und mehr über Assen: https://wanderingcities.com/netherlands/assen/?lang=de
+
+Quellen u. a. Wikipedia und Wikivoyage (CC BY-SA 4.0) sowie offizielle Websites für Tourismus, Denkmalpflege und Museen. Gespräch und Stimmen sind KI-generiert.</itunes:summary>
+      <enclosure url="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/episodes/de/de-assen-1528917714-v1.mp3" length="16502927" type="audio/mpeg"/>
+      <guid isPermaLink="false">118e3ab6-c011-52e4-9e10-885039cb947f</guid>
+      <pubDate>Fri, 13 Nov 2026 02:31:07 +0000</pubDate>
+      <itunes:duration>00:17:04</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Kaatsheuvel Reiseführer &amp; Geschichte | Vom Sumpfdorf zum Märchenreich</title>
       <link>https://wanderingcities.com/netherlands/kaatsheuvel/?lang=de</link>
