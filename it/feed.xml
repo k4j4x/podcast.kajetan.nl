@@ -14,7 +14,7 @@
     <itunes:type>episodic</itunes:type>
     <itunes:category text="Society &amp; Culture"><itunes:category text="Places &amp; Travel"/></itunes:category>
     <itunes:image href="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/cover-it-3000.jpg"/>
-    <lastBuildDate>Fri, 13 Nov 2026 04:48:20 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 13 Nov 2026 05:08:33 +0000</lastBuildDate>
     <item>
       <title>Assen: guida di viaggio e storia | Tra mummie millenarie e MotoGP</title>
       <link>https://wanderingcities.com/netherlands/assen/?lang=it</link>
@@ -71,10 +71,10 @@ Fonti, tra le altre: Wikipedia e Wikivoyage (CC BY-SA 4.0) e siti ufficiali di t
 Altre lingue e altro su Weesp: https://wanderingcities.com/netherlands/weesp/?lang=it
 
 Fonti, tra le altre: Wikipedia e Wikivoyage (CC BY-SA 4.0) e siti ufficiali di turismo, patrimonio e musei. La conversazione e le voci sono generate dall'IA.</itunes:summary>
-      <enclosure url="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/episodes/it/it-weesp-1528983358-v1.mp3" length="16802642" type="audio/mpeg"/>
+      <enclosure url="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/episodes/it/it-weesp-1528983358-v2.mp3" length="15875190" type="audio/mpeg"/>
       <guid isPermaLink="false">c21dae9b-8bf4-5ff1-b2d2-27194a59616f</guid>
       <pubDate>Thu, 12 Nov 2026 03:33:08 +0000</pubDate>
-      <itunes:duration>00:17:22</itunes:duration>
+      <itunes:duration>00:16:24</itunes:duration>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>false</itunes:explicit>
     </item>

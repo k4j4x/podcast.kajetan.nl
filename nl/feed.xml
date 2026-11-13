@@ -14,7 +14,7 @@
     <itunes:type>episodic</itunes:type>
     <itunes:category text="Society &amp; Culture"><itunes:category text="Places &amp; Travel"/></itunes:category>
     <itunes:image href="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/cover-nl-3000.jpg"/>
-    <lastBuildDate>Fri, 13 Nov 2026 04:48:19 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 13 Nov 2026 05:08:33 +0000</lastBuildDate>
     <item>
       <title>Assen reisgids &amp; geschiedenis | Van kloostergebed tot ronkende motoren</title>
       <link>https://wanderingcities.com/netherlands/assen/?lang=nl</link>
@@ -113,10 +113,10 @@ Bronnen o.a. Wikipedia en Wikivoyage (CC BY-SA 4.0) en officiële websites over 
 Andere talen en meer over Volendam: https://wanderingcities.com/netherlands/volendam/?lang=nl
 
 Bronnen o.a. Wikipedia en Wikivoyage (CC BY-SA 4.0) en officiële websites over toerisme, erfgoed en musea. Het gesprek en de stemmen zijn door AI gegenereerd.</itunes:summary>
-      <enclosure url="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/episodes/nl/nl-volendam-1528968861-v1.mp3" length="21775331" type="audio/mpeg"/>
+      <enclosure url="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/episodes/nl/nl-volendam-1528968861-v2.mp3" length="13568702" type="audio/mpeg"/>
       <guid isPermaLink="false">5d889530-0724-5abb-9b68-dfbb6f748584</guid>
       <pubDate>Wed, 11 Nov 2026 07:02:55 +0000</pubDate>
-      <itunes:duration>00:22:33</itunes:duration>
+      <itunes:duration>00:14:00</itunes:duration>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>false</itunes:explicit>
     </item>

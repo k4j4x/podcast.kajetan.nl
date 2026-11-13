@@ -14,7 +14,7 @@
     <itunes:type>episodic</itunes:type>
     <itunes:category text="Society &amp; Culture"><itunes:category text="Places &amp; Travel"/></itunes:category>
     <itunes:image href="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/cover-es-3000.jpg"/>
-    <lastBuildDate>Fri, 13 Nov 2026 04:48:20 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 13 Nov 2026 05:08:33 +0000</lastBuildDate>
     <item>
       <title>Assen: guía de viaje e historia | Del pantano a la MotoGP</title>
       <link>https://wanderingcities.com/netherlands/assen/?lang=es</link>
@@ -71,10 +71,10 @@ Fuentes, entre otras: Wikipedia y Wikivoyage (CC BY-SA 4.0) y webs oficiales de 
 Otros idiomas y más sobre Weesp: https://wanderingcities.com/netherlands/weesp/?lang=es
 
 Fuentes, entre otras: Wikipedia y Wikivoyage (CC BY-SA 4.0) y webs oficiales de turismo, patrimonio y museos. La conversación y las voces están generadas por IA.</itunes:summary>
-      <enclosure url="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/episodes/es/es-weesp-1528983358-v1.mp3" length="21516081" type="audio/mpeg"/>
+      <enclosure url="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/episodes/es/es-weesp-1528983358-v2.mp3" length="21263633" type="audio/mpeg"/>
       <guid isPermaLink="false">9ecc83a5-b563-5281-aa9f-7e0b432db49a</guid>
       <pubDate>Thu, 12 Nov 2026 03:31:59 +0000</pubDate>
-      <itunes:duration>00:22:17</itunes:duration>
+      <itunes:duration>00:22:01</itunes:duration>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>false</itunes:explicit>
     </item>
