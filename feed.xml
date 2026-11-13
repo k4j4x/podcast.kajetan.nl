@@ -14,7 +14,27 @@
     <itunes:type>episodic</itunes:type>
     <itunes:category text="Society &amp; Culture"><itunes:category text="Places &amp; Travel"/></itunes:category>
     <itunes:image href="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/cover-3000.jpg"/>
-    <lastBuildDate>Fri, 13 Nov 2026 07:01:39 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 13 Nov 2026 07:32:15 +0000</lastBuildDate>
+    <item>
+      <title>Harderwijk Travel Guide &amp; History | When the Sea Disappeared</title>
+      <link>https://wanderingcities.com/netherlands/harderwijk/?lang=en</link>
+      <description>Harderwijk, in the Netherlands, has church ceiling paintings that Calvinists covered with thick whitewash, which kept them in pristine condition until restorers scraped it away between 1968 and 1980. In 1811, Louis Bonaparte shut down the town's university, known for fast, cheap doctorates after a quick oral exam in Latin. Listen to the full episode for more stories and tips on what to see.
+
+Other languages and more about Harderwijk: https://wanderingcities.com/netherlands/harderwijk/?lang=en
+
+Sources include Wikipedia and Wikivoyage (CC BY-SA 4.0) and official tourism, heritage and museum websites. The conversation and voices are AI-generated.</description>
+      <itunes:summary>Harderwijk, in the Netherlands, has church ceiling paintings that Calvinists covered with thick whitewash, which kept them in pristine condition until restorers scraped it away between 1968 and 1980. In 1811, Louis Bonaparte shut down the town's university, known for fast, cheap doctorates after a quick oral exam in Latin. Listen to the full episode for more stories and tips on what to see.
+
+Other languages and more about Harderwijk: https://wanderingcities.com/netherlands/harderwijk/?lang=en
+
+Sources include Wikipedia and Wikivoyage (CC BY-SA 4.0) and official tourism, heritage and museum websites. The conversation and voices are AI-generated.</itunes:summary>
+      <enclosure url="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/episodes/wandering-cities-harderwijk-1528263150-v1.mp3" length="20935279" type="audio/mpeg"/>
+      <guid isPermaLink="false">06db3d07-ae20-5bd6-9911-8e205b8eafb6</guid>
+      <pubDate>Fri, 13 Nov 2026 07:32:15 +0000</pubDate>
+      <itunes:duration>00:21:39</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Weert Travel Guide &amp; History | From Swamp Island to Cloth Capital</title>
       <link>https://wanderingcities.com/netherlands/weert/?lang=en</link>

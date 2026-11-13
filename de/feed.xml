@@ -14,7 +14,27 @@
     <itunes:type>episodic</itunes:type>
     <itunes:category text="Society &amp; Culture"><itunes:category text="Places &amp; Travel"/></itunes:category>
     <itunes:image href="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/cover-de-3000.jpg"/>
-    <lastBuildDate>Fri, 13 Nov 2026 07:01:40 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 13 Nov 2026 07:32:16 +0000</lastBuildDate>
+    <item>
+      <title>Harderwijk Reiseführer &amp; Geschichte | Der Tag, an dem das Meer verschwand</title>
+      <link>https://wanderingcities.com/netherlands/harderwijk/?lang=de</link>
+      <description>Harderwijk, in den Niederlanden, war im 18. Jahrhundert für schnelle Doktortitel bekannt – ein Spottreim nannte sie in einem Atemzug mit Bückling und Blaubeeren. 1932 wurde die letzte Lücke im Afsluitdijk geschlossen, und weil die Zuiderzee zum Binnensee wurde, verschwanden Hering und Sardellen – die Fischerei der Stadt war praktisch tot. In der ganzen Folge gibt es mehr Geschichten und Tipps zu den Sehenswürdigkeiten.
+
+Andere Sprachen und mehr über Harderwijk: https://wanderingcities.com/netherlands/harderwijk/?lang=de
+
+Quellen u. a. Wikipedia und Wikivoyage (CC BY-SA 4.0) sowie offizielle Websites für Tourismus, Denkmalpflege und Museen. Gespräch und Stimmen sind KI-generiert.</description>
+      <itunes:summary>Harderwijk, in den Niederlanden, war im 18. Jahrhundert für schnelle Doktortitel bekannt – ein Spottreim nannte sie in einem Atemzug mit Bückling und Blaubeeren. 1932 wurde die letzte Lücke im Afsluitdijk geschlossen, und weil die Zuiderzee zum Binnensee wurde, verschwanden Hering und Sardellen – die Fischerei der Stadt war praktisch tot. In der ganzen Folge gibt es mehr Geschichten und Tipps zu den Sehenswürdigkeiten.
+
+Andere Sprachen und mehr über Harderwijk: https://wanderingcities.com/netherlands/harderwijk/?lang=de
+
+Quellen u. a. Wikipedia und Wikivoyage (CC BY-SA 4.0) sowie offizielle Websites für Tourismus, Denkmalpflege und Museen. Gespräch und Stimmen sind KI-generiert.</itunes:summary>
+      <enclosure url="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/episodes/de/de-harderwijk-1528263150-v1.mp3" length="23005132" type="audio/mpeg"/>
+      <guid isPermaLink="false">324732c9-528a-5046-a68c-65131940f5fd</guid>
+      <pubDate>Fri, 13 Nov 2026 07:31:24 +0000</pubDate>
+      <itunes:duration>00:23:50</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Weert Reiseführer &amp; Geschichte | Von der Sumpfinsel zur Tuchmetropole</title>
       <link>https://wanderingcities.com/netherlands/weert/?lang=de</link>
