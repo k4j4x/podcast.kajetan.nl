@@ -14,7 +14,27 @@
     <itunes:type>episodic</itunes:type>
     <itunes:category text="Society &amp; Culture"><itunes:category text="Places &amp; Travel"/></itunes:category>
     <itunes:image href="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/cover-it-3000.jpg"/>
-    <lastBuildDate>Fri, 13 Nov 2026 06:31:57 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 13 Nov 2026 07:01:40 +0000</lastBuildDate>
+    <item>
+      <title>Weert: guida di viaggio e storia | L'isola di fango tra le paludi</title>
+      <link>https://wanderingcities.com/netherlands/weert/?lang=it</link>
+      <description>Weert, nei Paesi Bassi, deve un soprannome a una razza caduta da un carro: gli abitanti non avevano mai visto un pesce dell'oceano, la presero per il diavolo e la pugnalarono. Il 5 giugno 1568 il conte di Horn, signore di Weert, fu decapitato a Bruxelles; in dieci anni restarono 800 abitanti. Ascolta l'episodio completo per altre storie e consigli su cosa vedere.
+
+Altre lingue e altro su Weert: https://wanderingcities.com/netherlands/weert/?lang=it
+
+Fonti, tra le altre: Wikipedia e Wikivoyage (CC BY-SA 4.0) e siti ufficiali di turismo, patrimonio e musei. La conversazione e le voci sono generate dall'IA.</description>
+      <itunes:summary>Weert, nei Paesi Bassi, deve un soprannome a una razza caduta da un carro: gli abitanti non avevano mai visto un pesce dell'oceano, la presero per il diavolo e la pugnalarono. Il 5 giugno 1568 il conte di Horn, signore di Weert, fu decapitato a Bruxelles; in dieci anni restarono 800 abitanti. Ascolta l'episodio completo per altre storie e consigli su cosa vedere.
+
+Altre lingue e altro su Weert: https://wanderingcities.com/netherlands/weert/?lang=it
+
+Fonti, tra le altre: Wikipedia e Wikivoyage (CC BY-SA 4.0) e siti ufficiali di turismo, patrimonio e musei. La conversazione e le voci sono generate dall'IA.</itunes:summary>
+      <enclosure url="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/episodes/it/it-weert-1528448216-v1.mp3" length="16669243" type="audio/mpeg"/>
+      <guid isPermaLink="false">4dedb282-50bf-57d6-bc2a-af1e98e0d5e6</guid>
+      <pubDate>Fri, 13 Nov 2026 07:01:39 +0000</pubDate>
+      <itunes:duration>00:17:14</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Assen: guida di viaggio e storia | Tra mummie millenarie e MotoGP</title>
       <link>https://wanderingcities.com/netherlands/assen/?lang=it</link>

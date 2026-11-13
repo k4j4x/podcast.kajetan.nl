@@ -14,7 +14,27 @@
     <itunes:type>episodic</itunes:type>
     <itunes:category text="Society &amp; Culture"><itunes:category text="Places &amp; Travel"/></itunes:category>
     <itunes:image href="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/cover-es-3000.jpg"/>
-    <lastBuildDate>Fri, 13 Nov 2026 06:31:57 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 13 Nov 2026 07:01:40 +0000</lastBuildDate>
+    <item>
+      <title>Weert: guía de viaje e historia | La ciudad nacida del pantano</title>
+      <link>https://wanderingcities.com/netherlands/weert/?lang=es</link>
+      <description>Weert, en los Países Bajos, tiene en su estación una estatua de bronce de Anche, una mujer que a principios del siglo XX vendía la tarta típica de Limburgo a los pasajeros por las ventanillas del tren. En 1568 el conde Philips Van Horn fue decapitado en Bruselas y los comerciantes huyeron. Escucha el episodio completo para más historias y consejos sobre qué ver.
+
+Otros idiomas y más sobre Weert: https://wanderingcities.com/netherlands/weert/?lang=es
+
+Fuentes, entre otras: Wikipedia y Wikivoyage (CC BY-SA 4.0) y webs oficiales de turismo, patrimonio y museos. La conversación y las voces están generadas por IA.</description>
+      <itunes:summary>Weert, en los Países Bajos, tiene en su estación una estatua de bronce de Anche, una mujer que a principios del siglo XX vendía la tarta típica de Limburgo a los pasajeros por las ventanillas del tren. En 1568 el conde Philips Van Horn fue decapitado en Bruselas y los comerciantes huyeron. Escucha el episodio completo para más historias y consejos sobre qué ver.
+
+Otros idiomas y más sobre Weert: https://wanderingcities.com/netherlands/weert/?lang=es
+
+Fuentes, entre otras: Wikipedia y Wikivoyage (CC BY-SA 4.0) y webs oficiales de turismo, patrimonio y museos. La conversación y las voces están generadas por IA.</itunes:summary>
+      <enclosure url="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/episodes/es/es-weert-1528448216-v1.mp3" length="12595152" type="audio/mpeg"/>
+      <guid isPermaLink="false">d0834b2c-723a-5f78-8d29-ea5295058a3b</guid>
+      <pubDate>Fri, 13 Nov 2026 07:00:58 +0000</pubDate>
+      <itunes:duration>00:12:59</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Assen: guía de viaje e historia | Del pantano a la MotoGP</title>
       <link>https://wanderingcities.com/netherlands/assen/?lang=es</link>
