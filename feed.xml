@@ -14,10 +14,11 @@
     <itunes:type>episodic</itunes:type>
     <itunes:category text="Society &amp; Culture"><itunes:category text="Places &amp; Travel"/></itunes:category>
     <itunes:image href="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/cover-3000.jpg"/>
-    <lastBuildDate>Fri, 13 Nov 2026 03:32:56 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 13 Nov 2026 04:48:19 +0000</lastBuildDate>
     <item>
       <title>Assen Travel Guide &amp; History | From Cloister Silence to MotoGP</title>
       <link>https://wanderingcities.com/netherlands/assen/?lang=en</link>
+      <podcast:transcript url="https://wanderingcities.com/netherlands/assen/transcript-en.txt" type="text/plain" language="en"/>
       <description>Assen, in the Netherlands, began with nuns banished in 1258 to a sand ridge in a barren peat bog; the circular moats they dug to drain it still shape the town's streets, the singels. In 1809, King Louis Napoleon, brother of Napoleon Bonaparte, granted Assen city rights. Listen to the full episode for more stories and tips on what to see.
 
 Other languages and more about Assen: https://wanderingcities.com/netherlands/assen/?lang=en
@@ -38,6 +39,7 @@ Sources include Wikipedia and Wikivoyage (CC BY-SA 4.0) and official tourism, he
     <item>
       <title>Kaatsheuvel Travel Guide &amp; History | From Peat Bog to Fairy Tale</title>
       <link>https://wanderingcities.com/netherlands/kaatsheuvel/?lang=en</link>
+      <podcast:transcript url="https://wanderingcities.com/netherlands/kaatsheuvel/transcript-en.txt" type="text/plain" language="en"/>
       <description>Kaatsheuvel offers notable things to see like Efteling theme park and Nationaal Park De Loonse en Drunense Duinen, rooted in a history that shapes each visit. In 1952, the Sprookjesbos opened with ten fairy tales, beginning the town’s shift from peat harvesting to tourism.
 
 Other languages and more about Kaatsheuvel: https://wanderingcities.com/netherlands/kaatsheuvel/?lang=en
@@ -58,6 +60,7 @@ Sources include Wikipedia and Wikivoyage (CC BY-SA 4.0) and official tourism, he
     <item>
       <title>Naarden Travel Guide &amp; History | How a Star Fortress Survived</title>
       <link>https://wanderingcities.com/netherlands/naarden/?lang=en</link>
+      <podcast:transcript url="https://wanderingcities.com/netherlands/naarden/transcript-en.txt" type="text/plain" language="en"/>
       <description>Naarden pairs Dutch military history with standout things to see, including the Grote Kerk, the Spaanse Huis, and Bastion Turfpoort. In 1814, French troops surrendered the town after months under heavy Dutch artillery bombardment; how did its ramparts hold?
 
 Other languages and more about Naarden: https://wanderingcities.com/netherlands/naarden/?lang=en

@@ -14,10 +14,11 @@
     <itunes:type>episodic</itunes:type>
     <itunes:category text="Society &amp; Culture"><itunes:category text="Places &amp; Travel"/></itunes:category>
     <itunes:image href="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/cover-es-3000.jpg"/>
-    <lastBuildDate>Fri, 13 Nov 2026 03:32:57 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 13 Nov 2026 04:48:20 +0000</lastBuildDate>
     <item>
       <title>Assen: guía de viaje e historia | Del pantano a la MotoGP</title>
       <link>https://wanderingcities.com/netherlands/assen/?lang=es</link>
+      <podcast:transcript url="https://wanderingcities.com/netherlands/assen/transcript-es.txt" type="text/plain" language="es"/>
       <description>Assen, en los Países Bajos, tuvo que cambiar su estatua de piedra caliza de Bartje, el niño que se negó a rezar por unas alubias pintas, porque los vándalos le cortaban la cabeza una y otra vez. En 1809, Luis Napoleón, rey de Holanda, le otorgó a Assen los derechos de ciudad. Escucha el episodio completo para más historias y consejos sobre qué ver.
 
 Otros idiomas y más sobre Assen: https://wanderingcities.com/netherlands/assen/?lang=es
@@ -38,6 +39,7 @@ Fuentes, entre otras: Wikipedia y Wikivoyage (CC BY-SA 4.0) y webs oficiales de 
     <item>
       <title>Naarden: guía de viaje e historia | Secretos de una fortaleza estrellada</title>
       <link>https://wanderingcities.com/netherlands/naarden/?lang=es</link>
+      <podcast:transcript url="https://wanderingcities.com/netherlands/naarden/transcript-es.txt" type="text/plain" language="es"/>
       <description>Naarden reúne en cada visita su historia militar con enclaves como la Grote Kerk, la Spaanse Huis y el Bastion Turfpoort. En 1814, las tropas francesas capitularon tras meses de asedio y bombardeos artilleros; ¿cómo lograron resistir sus murallas?
 
 Otros idiomas y más sobre Naarden: https://wanderingcities.com/netherlands/naarden/?lang=es

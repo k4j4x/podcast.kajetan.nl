@@ -14,10 +14,11 @@
     <itunes:type>episodic</itunes:type>
     <itunes:category text="Society &amp; Culture"><itunes:category text="Places &amp; Travel"/></itunes:category>
     <itunes:image href="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/cover-nl-3000.jpg"/>
-    <lastBuildDate>Fri, 13 Nov 2026 03:32:57 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 13 Nov 2026 04:48:19 +0000</lastBuildDate>
     <item>
       <title>Assen reisgids &amp; geschiedenis | Van kloostergebed tot ronkende motoren</title>
       <link>https://wanderingcities.com/netherlands/assen/?lang=nl</link>
+      <podcast:transcript url="https://wanderingcities.com/netherlands/assen/transcript-nl.txt" type="text/plain" language="nl"/>
       <description>Assen, in Nederland, bewaart in het Drents Museum het meisje dat twee turfstekers in het veen vonden; door haar vuurrode haren dachten ze de duivel te zien, en dorpelingen trokken stiekem haar tanden eruit voordat de archeologen kwamen. In 1809 koos koning Lodewijk Napoleon het dorp als zomerresidentie en gaf het prompt stadsrechten. Luister de hele aflevering voor meer verhalen en tips over wat je moet zien.
 
 Andere talen en meer over Assen: https://wanderingcities.com/netherlands/assen/?lang=nl
@@ -38,6 +39,7 @@ Bronnen o.a. Wikipedia en Wikivoyage (CC BY-SA 4.0) en officiële websites over 
     <item>
       <title>Kaatsheuvel reisgids &amp; geschiedenis | Van turf en rovers naar een sprookje</title>
       <link>https://wanderingcities.com/netherlands/kaatsheuvel/?lang=nl</link>
+      <podcast:transcript url="https://wanderingcities.com/netherlands/kaatsheuvel/transcript-nl.txt" type="text/plain" language="nl"/>
       <description>Kaatsheuvel combineert bezienswaardigheden zoals de Efteling en Nationaal Park De Loonse en Drunense Duinen met een geschiedenis die elk bezoek tekent. In 1952 opende het Sprookjesbos met tien sprookjes, maar hoe groeide dit dorp uit tot een toeristische trekpleister?
 
 Andere talen en meer over Kaatsheuvel: https://wanderingcities.com/netherlands/kaatsheuvel/?lang=nl
@@ -58,6 +60,7 @@ Bronnen o.a. Wikipedia en Wikivoyage (CC BY-SA 4.0) en officiële websites over 
     <item>
       <title>Naarden reisgids &amp; geschiedenis | Het geheim van de groene sneeuwvlok</title>
       <link>https://wanderingcities.com/netherlands/naarden/?lang=nl</link>
+      <podcast:transcript url="https://wanderingcities.com/netherlands/naarden/transcript-nl.txt" type="text/plain" language="nl"/>
       <description>Naarden verbindt tijdens een bezoek zijn militaire geschiedenis met bezienswaardigheden zoals de Grote Kerk, het Spaanse Huis en Bastion Turfpoort. In 1814 capituleerde het Franse garnizoen pas na maandenlange beschietingen door Nederlandse troepen; hoe hielden de dubbele omwallingen stand?
 
 Andere talen en meer over Naarden: https://wanderingcities.com/netherlands/naarden/?lang=nl

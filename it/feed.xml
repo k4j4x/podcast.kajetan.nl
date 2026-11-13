@@ -14,10 +14,11 @@
     <itunes:type>episodic</itunes:type>
     <itunes:category text="Society &amp; Culture"><itunes:category text="Places &amp; Travel"/></itunes:category>
     <itunes:image href="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/cover-it-3000.jpg"/>
-    <lastBuildDate>Fri, 13 Nov 2026 03:32:57 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 13 Nov 2026 04:48:20 +0000</lastBuildDate>
     <item>
       <title>Assen: guida di viaggio e storia | Tra mummie millenarie e MotoGP</title>
       <link>https://wanderingcities.com/netherlands/assen/?lang=it</link>
+      <podcast:transcript url="https://wanderingcities.com/netherlands/assen/transcript-it.txt" type="text/plain" language="it"/>
       <description>Assen, nei Paesi Bassi, custodisce la ragazza di Yde, trovata da due cavatori di torba che videro spuntare una testa con lunghi capelli biondi e scapparono credendola un demone. Nel 1809 re Luigi Napoleone concesse ad Assen i diritti di città e voleva farne una metropoli da 6000 abitanti. Ascolta l'episodio completo per altre storie e consigli su cosa vedere.
 
 Altre lingue e altro su Assen: https://wanderingcities.com/netherlands/assen/?lang=it
@@ -38,6 +39,7 @@ Fonti, tra le altre: Wikipedia e Wikivoyage (CC BY-SA 4.0) e siti ufficiali di t
     <item>
       <title>Naarden: guida di viaggio e storia | Segreti di una fortezza a stella</title>
       <link>https://wanderingcities.com/netherlands/naarden/?lang=it</link>
+      <podcast:transcript url="https://wanderingcities.com/netherlands/naarden/transcript-it.txt" type="text/plain" language="it"/>
       <description>Naarden unisce durante una visita la sua storia militare con luoghi come la Grote Kerk, la Spaanse Huis e il Bastion Turfpoort. Nel 1814 le truppe francesi capitolarono dopo mesi di bombardamenti dell'artiglieria; ma come riuscirono a resistere i suoi doppi bastioni?
 
 Altre lingue e altro su Naarden: https://wanderingcities.com/netherlands/naarden/?lang=it
