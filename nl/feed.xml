@@ -14,7 +14,27 @@
     <itunes:type>episodic</itunes:type>
     <itunes:category text="Society &amp; Culture"><itunes:category text="Places &amp; Travel"/></itunes:category>
     <itunes:image href="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/cover-nl-3000.jpg"/>
-    <lastBuildDate>Fri, 13 Nov 2026 06:02:19 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 13 Nov 2026 06:31:56 +0000</lastBuildDate>
+    <item>
+      <title>Weert reisgids &amp; geschiedenis | Van moeraseiland tot onthoofde graaf</title>
+      <link>https://wanderingcities.com/netherlands/weert/?lang=nl</link>
+      <description>Weert, in Nederland, viert met carnaval een 17e-eeuwse legende: inwoners hielden een rog die van een marskramerswagen viel voor de duivel en prikten erin met lange stokken. In 2020 vond een grondradar een onbekende grafkelder onder de Paterkerk, waar historici het lichaam van de in 1568 onthoofde graaf Philips van Hoorne vermoeden. Luister de hele aflevering voor meer verhalen en tips over wat je moet zien.
+
+Andere talen en meer over Weert: https://wanderingcities.com/netherlands/weert/?lang=nl
+
+Bronnen o.a. Wikipedia en Wikivoyage (CC BY-SA 4.0) en officiële websites over toerisme, erfgoed en musea. Het gesprek en de stemmen zijn door AI gegenereerd.</description>
+      <itunes:summary>Weert, in Nederland, viert met carnaval een 17e-eeuwse legende: inwoners hielden een rog die van een marskramerswagen viel voor de duivel en prikten erin met lange stokken. In 2020 vond een grondradar een onbekende grafkelder onder de Paterkerk, waar historici het lichaam van de in 1568 onthoofde graaf Philips van Hoorne vermoeden. Luister de hele aflevering voor meer verhalen en tips over wat je moet zien.
+
+Andere talen en meer over Weert: https://wanderingcities.com/netherlands/weert/?lang=nl
+
+Bronnen o.a. Wikipedia en Wikivoyage (CC BY-SA 4.0) en officiële websites over toerisme, erfgoed en musea. Het gesprek en de stemmen zijn door AI gegenereerd.</itunes:summary>
+      <enclosure url="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/episodes/nl/nl-weert-1528448216-v1.mp3" length="22655134" type="audio/mpeg"/>
+      <guid isPermaLink="false">7df74d6c-a0ef-5fd7-b33c-e5f3615f9d9a</guid>
+      <pubDate>Fri, 13 Nov 2026 06:31:55 +0000</pubDate>
+      <itunes:duration>00:23:28</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Assen reisgids &amp; geschiedenis | Van kloostergebed tot ronkende motoren</title>
       <link>https://wanderingcities.com/netherlands/assen/?lang=nl</link>

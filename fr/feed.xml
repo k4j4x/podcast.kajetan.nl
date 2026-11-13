@@ -14,7 +14,27 @@
     <itunes:type>episodic</itunes:type>
     <itunes:category text="Society &amp; Culture"><itunes:category text="Places &amp; Travel"/></itunes:category>
     <itunes:image href="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/cover-fr-3000.jpg"/>
-    <lastBuildDate>Fri, 13 Nov 2026 06:02:19 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 13 Nov 2026 06:31:56 +0000</lastBuildDate>
+    <item>
+      <title>Weert : guide de voyage et histoire | Le berceau de la rébellion</title>
+      <link>https://wanderingcities.com/netherlands/weert/?lang=fr</link>
+      <description>Weert, aux Pays-Bas, garde dans son église Saint-Martin une petite boîte en étain censée contenir le cœur du comte de Horn, ramené en secret après son exécution. Le 5 juin 1568, il a été décapité à Bruxelles avec le comte d'Egmond, une exécution qui a déclenché la guerre de 80 ans. Écoutez l'épisode complet pour plus d'histoires et de conseils sur ce qu'il faut voir.
+
+Autres langues et plus sur Weert : https://wanderingcities.com/netherlands/weert/?lang=fr
+
+Sources, entre autres : Wikipédia et Wikivoyage (CC BY-SA 4.0) ainsi que les sites officiels du tourisme, du patrimoine et des musées. La conversation et les voix sont générées par IA.</description>
+      <itunes:summary>Weert, aux Pays-Bas, garde dans son église Saint-Martin une petite boîte en étain censée contenir le cœur du comte de Horn, ramené en secret après son exécution. Le 5 juin 1568, il a été décapité à Bruxelles avec le comte d'Egmond, une exécution qui a déclenché la guerre de 80 ans. Écoutez l'épisode complet pour plus d'histoires et de conseils sur ce qu'il faut voir.
+
+Autres langues et plus sur Weert : https://wanderingcities.com/netherlands/weert/?lang=fr
+
+Sources, entre autres : Wikipédia et Wikivoyage (CC BY-SA 4.0) ainsi que les sites officiels du tourisme, du patrimoine et des musées. La conversation et les voix sont générées par IA.</itunes:summary>
+      <enclosure url="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/episodes/fr/fr-weert-1528448216-v1.mp3" length="11375016" type="audio/mpeg"/>
+      <guid isPermaLink="false">b8f2e3e5-33a2-52f2-863c-9963f3cd2032</guid>
+      <pubDate>Fri, 13 Nov 2026 06:30:58 +0000</pubDate>
+      <itunes:duration>00:11:43</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Assen : guide de voyage et histoire | Du couvent aux moteurs rugissants</title>
       <link>https://wanderingcities.com/netherlands/assen/?lang=fr</link>
