@@ -14,7 +14,27 @@
     <itunes:type>episodic</itunes:type>
     <itunes:category text="Society &amp; Culture"><itunes:category text="Places &amp; Travel"/></itunes:category>
     <itunes:image href="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/cover-es-3000.jpg"/>
-    <lastBuildDate>Fri, 13 Nov 2026 03:01:14 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 13 Nov 2026 03:32:57 +0000</lastBuildDate>
+    <item>
+      <title>Assen: guía de viaje e historia | Del pantano a la MotoGP</title>
+      <link>https://wanderingcities.com/netherlands/assen/?lang=es</link>
+      <description>Assen, en los Países Bajos, tuvo que cambiar su estatua de piedra caliza de Bartje, el niño que se negó a rezar por unas alubias pintas, porque los vándalos le cortaban la cabeza una y otra vez. En 1809, Luis Napoleón, rey de Holanda, le otorgó a Assen los derechos de ciudad. Escucha el episodio completo para más historias y consejos sobre qué ver.
+
+Otros idiomas y más sobre Assen: https://wanderingcities.com/netherlands/assen/?lang=es
+
+Fuentes, entre otras: Wikipedia y Wikivoyage (CC BY-SA 4.0) y webs oficiales de turismo, patrimonio y museos. La conversación y las voces están generadas por IA.</description>
+      <itunes:summary>Assen, en los Países Bajos, tuvo que cambiar su estatua de piedra caliza de Bartje, el niño que se negó a rezar por unas alubias pintas, porque los vándalos le cortaban la cabeza una y otra vez. En 1809, Luis Napoleón, rey de Holanda, le otorgó a Assen los derechos de ciudad. Escucha el episodio completo para más historias y consejos sobre qué ver.
+
+Otros idiomas y más sobre Assen: https://wanderingcities.com/netherlands/assen/?lang=es
+
+Fuentes, entre otras: Wikipedia y Wikivoyage (CC BY-SA 4.0) y webs oficiales de turismo, patrimonio y museos. La conversación y las voces están generadas por IA.</itunes:summary>
+      <enclosure url="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/episodes/es/es-assen-1528917714-v1.mp3" length="26356030" type="audio/mpeg"/>
+      <guid isPermaLink="false">022a4dab-83a6-51b9-8fed-b68b366cc07f</guid>
+      <pubDate>Fri, 13 Nov 2026 03:31:33 +0000</pubDate>
+      <itunes:duration>00:27:19</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Naarden: guía de viaje e historia | Secretos de una fortaleza estrellada</title>
       <link>https://wanderingcities.com/netherlands/naarden/?lang=es</link>

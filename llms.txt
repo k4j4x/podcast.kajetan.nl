@@ -4,7 +4,7 @@
 
 Episodes, texts and transcripts are made with AI from cited sources (Wikipedia, Wikivoyage and official tourism, heritage and museum websites) and checked against those sources. The conversation and voices are AI-generated.
 
-Currently 72 cities, 427 episodes, 69 city maps. Each city has:
+Currently 72 cities, 430 episodes, 69 city maps. Each city has:
 - a start screen: /<country>/<city>/
 - the podcast episode in every published language, with description and (mostly) transcript: /<country>/<city>/podcast/
 - a map of its highlights with photos and directions (most cities): /<country>/<city>/map/

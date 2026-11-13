@@ -14,7 +14,27 @@
     <itunes:type>episodic</itunes:type>
     <itunes:category text="Society &amp; Culture"><itunes:category text="Places &amp; Travel"/></itunes:category>
     <itunes:image href="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/cover-nl-3000.jpg"/>
-    <lastBuildDate>Fri, 13 Nov 2026 03:01:14 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 13 Nov 2026 03:32:57 +0000</lastBuildDate>
+    <item>
+      <title>Assen reisgids &amp; geschiedenis | Van kloostergebed tot ronkende motoren</title>
+      <link>https://wanderingcities.com/netherlands/assen/?lang=nl</link>
+      <description>Assen, in Nederland, bewaart in het Drents Museum het meisje dat twee turfstekers in het veen vonden; door haar vuurrode haren dachten ze de duivel te zien, en dorpelingen trokken stiekem haar tanden eruit voordat de archeologen kwamen. In 1809 koos koning Lodewijk Napoleon het dorp als zomerresidentie en gaf het prompt stadsrechten. Luister de hele aflevering voor meer verhalen en tips over wat je moet zien.
+
+Andere talen en meer over Assen: https://wanderingcities.com/netherlands/assen/?lang=nl
+
+Bronnen o.a. Wikipedia en Wikivoyage (CC BY-SA 4.0) en officiële websites over toerisme, erfgoed en musea. Het gesprek en de stemmen zijn door AI gegenereerd.</description>
+      <itunes:summary>Assen, in Nederland, bewaart in het Drents Museum het meisje dat twee turfstekers in het veen vonden; door haar vuurrode haren dachten ze de duivel te zien, en dorpelingen trokken stiekem haar tanden eruit voordat de archeologen kwamen. In 1809 koos koning Lodewijk Napoleon het dorp als zomerresidentie en gaf het prompt stadsrechten. Luister de hele aflevering voor meer verhalen en tips over wat je moet zien.
+
+Andere talen en meer over Assen: https://wanderingcities.com/netherlands/assen/?lang=nl
+
+Bronnen o.a. Wikipedia en Wikivoyage (CC BY-SA 4.0) en officiële websites over toerisme, erfgoed en musea. Het gesprek en de stemmen zijn door AI gegenereerd.</itunes:summary>
+      <enclosure url="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/episodes/nl/nl-assen-1528917714-v1.mp3" length="14579747" type="audio/mpeg"/>
+      <guid isPermaLink="false">e45391df-3ccf-5961-acdc-57fab0eaeebe</guid>
+      <pubDate>Fri, 13 Nov 2026 03:32:56 +0000</pubDate>
+      <itunes:duration>00:15:04</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Kaatsheuvel reisgids &amp; geschiedenis | Van turf en rovers naar een sprookje</title>
       <link>https://wanderingcities.com/netherlands/kaatsheuvel/?lang=nl</link>
