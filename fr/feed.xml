@@ -14,7 +14,27 @@
     <itunes:type>episodic</itunes:type>
     <itunes:category text="Society &amp; Culture"><itunes:category text="Places &amp; Travel"/></itunes:category>
     <itunes:image href="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/cover-fr-3000.jpg"/>
-    <lastBuildDate>Fri, 13 Nov 2026 02:45:45 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 13 Nov 2026 03:01:14 +0000</lastBuildDate>
+    <item>
+      <title>Assen : guide de voyage et histoire | Du couvent aux moteurs rugissants</title>
+      <link>https://wanderingcities.com/netherlands/assen/?lang=fr</link>
+      <description>Assen, aux Pays-Bas, garde au musée une adolescente sortie de la tourbière : les deux ouvriers qui ont vu son visage ont cru déterrer le diable et se sont enfuis en courant. En 1809, le roi Louis Napoléon en a fait sa résidence d'été et lui a accordé le statut de ville. Écoutez l'épisode complet pour plus d'histoires et de conseils sur ce qu'il faut voir.
+
+Autres langues et plus sur Assen : https://wanderingcities.com/netherlands/assen/?lang=fr
+
+Sources, entre autres : Wikipédia et Wikivoyage (CC BY-SA 4.0) ainsi que les sites officiels du tourisme, du patrimoine et des musées. La conversation et les voix sont générées par IA.</description>
+      <itunes:summary>Assen, aux Pays-Bas, garde au musée une adolescente sortie de la tourbière : les deux ouvriers qui ont vu son visage ont cru déterrer le diable et se sont enfuis en courant. En 1809, le roi Louis Napoléon en a fait sa résidence d'été et lui a accordé le statut de ville. Écoutez l'épisode complet pour plus d'histoires et de conseils sur ce qu'il faut voir.
+
+Autres langues et plus sur Assen : https://wanderingcities.com/netherlands/assen/?lang=fr
+
+Sources, entre autres : Wikipédia et Wikivoyage (CC BY-SA 4.0) ainsi que les sites officiels du tourisme, du patrimoine et des musées. La conversation et les voix sont générées par IA.</itunes:summary>
+      <enclosure url="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/episodes/fr/fr-assen-1528917714-v1.mp3" length="18457274" type="audio/mpeg"/>
+      <guid isPermaLink="false">e2a00a71-ca4d-536d-a6e9-9240675eef50</guid>
+      <pubDate>Fri, 13 Nov 2026 03:01:13 +0000</pubDate>
+      <itunes:duration>00:19:06</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Kaatsheuvel : guide de voyage et histoire | De la tourbe au royaume des contes</title>
       <link>https://wanderingcities.com/netherlands/kaatsheuvel/?lang=fr</link>
