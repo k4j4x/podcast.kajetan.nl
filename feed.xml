@@ -14,7 +14,7 @@
     <itunes:type>episodic</itunes:type>
     <itunes:category text="Society &amp; Culture"><itunes:category text="Places &amp; Travel"/></itunes:category>
     <itunes:image href="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/cover-3000.jpg"/>
-    <lastBuildDate>Sat, 14 Nov 2026 04:39:27 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 14 Nov 2026 05:03:14 +0000</lastBuildDate>
     <item>
       <title>Kerkrade Travel Guide &amp; History | From Coal Mines to City of Sound</title>
       <link>https://wanderingcities.com/netherlands/kerkrade/?lang=en</link>
@@ -91,10 +91,10 @@ Sources include Wikipedia and Wikivoyage (CC BY-SA 4.0) and official tourism, he
 Other languages and more about Assen: https://wanderingcities.com/netherlands/assen/?lang=en
 
 Sources include Wikipedia and Wikivoyage (CC BY-SA 4.0) and official tourism, heritage and museum websites. The conversation and voices are AI-generated.</itunes:summary>
-      <enclosure url="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/episodes/wandering-cities-assen-1528917714-v1.mp3" length="20791921" type="audio/mpeg"/>
+      <enclosure url="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/episodes/wandering-cities-assen-1528917714-v2.mp3" length="21081985" type="audio/mpeg"/>
       <guid isPermaLink="false">6b088003-e958-5445-899b-33e2546ea3da</guid>
       <pubDate>Fri, 13 Nov 2026 02:31:58 +0000</pubDate>
-      <itunes:duration>00:21:30</itunes:duration>
+      <itunes:duration>00:21:48</itunes:duration>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>false</itunes:explicit>
     </item>

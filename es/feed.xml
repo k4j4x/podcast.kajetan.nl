@@ -14,7 +14,7 @@
     <itunes:type>episodic</itunes:type>
     <itunes:category text="Society &amp; Culture"><itunes:category text="Places &amp; Travel"/></itunes:category>
     <itunes:image href="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/cover-es-3000.jpg"/>
-    <lastBuildDate>Sat, 14 Nov 2026 04:39:27 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 14 Nov 2026 05:03:15 +0000</lastBuildDate>
     <item>
       <title>Harderwijk: guía de viaje e historia | Del sumidero a las estrellas Michelin</title>
       <link>https://wanderingcities.com/netherlands/harderwijk/?lang=es</link>
@@ -71,10 +71,10 @@ Fuentes, entre otras: Wikipedia y Wikivoyage (CC BY-SA 4.0) y webs oficiales de 
 Otros idiomas y más sobre Assen: https://wanderingcities.com/netherlands/assen/?lang=es
 
 Fuentes, entre otras: Wikipedia y Wikivoyage (CC BY-SA 4.0) y webs oficiales de turismo, patrimonio y museos. La conversación y las voces están generadas por IA.</itunes:summary>
-      <enclosure url="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/episodes/es/es-assen-1528917714-v1.mp3" length="26356030" type="audio/mpeg"/>
+      <enclosure url="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/episodes/es/es-assen-1528917714-v2.mp3" length="21774362" type="audio/mpeg"/>
       <guid isPermaLink="false">022a4dab-83a6-51b9-8fed-b68b366cc07f</guid>
       <pubDate>Fri, 13 Nov 2026 03:31:33 +0000</pubDate>
-      <itunes:duration>00:27:19</itunes:duration>
+      <itunes:duration>00:22:33</itunes:duration>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>false</itunes:explicit>
     </item>
