@@ -14,7 +14,27 @@
     <itunes:type>episodic</itunes:type>
     <itunes:category text="Society &amp; Culture"><itunes:category text="Places &amp; Travel"/></itunes:category>
     <itunes:image href="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/cover-es-3000.jpg"/>
-    <lastBuildDate>Sat, 14 Nov 2026 03:02:01 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 14 Nov 2026 03:32:12 +0000</lastBuildDate>
+    <item>
+      <title>Harderwijk: guía de viaje e historia | Del sumidero a las estrellas Michelin</title>
+      <link>https://wanderingcities.com/netherlands/harderwijk/?lang=es</link>
+      <description>Harderwijk, en los Países Bajos, tiene bajo el arco de la Vishport, la puerta del pescado, unos pequeños peces de bronce llamados kakies incrustados en el pavimento. En 1932, el dique Afsloyd Tik cerró el mar Seiders y lo convirtió en un lago de agua dulce: los arenques murieron y la industria pesquera de la ciudad desapareció. Escucha el episodio completo para más historias y consejos sobre qué ver.
+
+Otros idiomas y más sobre Harderwijk: https://wanderingcities.com/netherlands/harderwijk/?lang=es
+
+Fuentes, entre otras: Wikipedia y Wikivoyage (CC BY-SA 4.0) y webs oficiales de turismo, patrimonio y museos. La conversación y las voces están generadas por IA.</description>
+      <itunes:summary>Harderwijk, en los Países Bajos, tiene bajo el arco de la Vishport, la puerta del pescado, unos pequeños peces de bronce llamados kakies incrustados en el pavimento. En 1932, el dique Afsloyd Tik cerró el mar Seiders y lo convirtió en un lago de agua dulce: los arenques murieron y la industria pesquera de la ciudad desapareció. Escucha el episodio completo para más historias y consejos sobre qué ver.
+
+Otros idiomas y más sobre Harderwijk: https://wanderingcities.com/netherlands/harderwijk/?lang=es
+
+Fuentes, entre otras: Wikipedia y Wikivoyage (CC BY-SA 4.0) y webs oficiales de turismo, patrimonio y museos. La conversación y las voces están generadas por IA.</itunes:summary>
+      <enclosure url="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/episodes/es/es-harderwijk-1528263150-v1.mp3" length="24045590" type="audio/mpeg"/>
+      <guid isPermaLink="false">d7207c7c-a10c-504a-8fc7-5382078d9fb4</guid>
+      <pubDate>Sat, 14 Nov 2026 03:31:26 +0000</pubDate>
+      <itunes:duration>00:24:55</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Weert: guía de viaje e historia | La ciudad nacida del pantano</title>
       <link>https://wanderingcities.com/netherlands/weert/?lang=es</link>
