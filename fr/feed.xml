@@ -14,10 +14,31 @@
     <itunes:type>episodic</itunes:type>
     <itunes:category text="Society &amp; Culture"><itunes:category text="Places &amp; Travel"/></itunes:category>
     <itunes:image href="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/cover-fr-3000.jpg"/>
-    <lastBuildDate>Sat, 14 Nov 2026 04:02:21 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 14 Nov 2026 04:33:46 +0000</lastBuildDate>
+    <item>
+      <title>Kerkrade : guide de voyage et histoire | Une frontière au cœur d'un immeuble</title>
+      <link>https://wanderingcities.com/netherlands/kerkrade/?lang=fr</link>
+      <description>Kerkrade, aux Pays-Bas, possède un immeuble de bureaux construit pile sur la frontière : la police néerlandaise et les toilettes pour femmes d'un côté, la police allemande et les toilettes pour hommes de l'autre. En 1915, l'Empire allemand a coupé une rue de la ville en deux avec une clôture, électrifiée par endroits. Écoutez l'épisode complet pour plus d'histoires et de conseils sur ce qu'il faut voir.
+
+Autres langues et plus sur Kerkrade : https://wanderingcities.com/netherlands/kerkrade/?lang=fr
+
+Sources, entre autres : Wikipédia et Wikivoyage (CC BY-SA 4.0) ainsi que les sites officiels du tourisme, du patrimoine et des musées. La conversation et les voix sont générées par IA.</description>
+      <itunes:summary>Kerkrade, aux Pays-Bas, possède un immeuble de bureaux construit pile sur la frontière : la police néerlandaise et les toilettes pour femmes d'un côté, la police allemande et les toilettes pour hommes de l'autre. En 1915, l'Empire allemand a coupé une rue de la ville en deux avec une clôture, électrifiée par endroits. Écoutez l'épisode complet pour plus d'histoires et de conseils sur ce qu'il faut voir.
+
+Autres langues et plus sur Kerkrade : https://wanderingcities.com/netherlands/kerkrade/?lang=fr
+
+Sources, entre autres : Wikipédia et Wikivoyage (CC BY-SA 4.0) ainsi que les sites officiels du tourisme, du patrimoine et des musées. La conversation et les voix sont générées par IA.</itunes:summary>
+      <enclosure url="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/episodes/fr/fr-kerkrade-1528289295-v1.mp3" length="12676983" type="audio/mpeg"/>
+      <guid isPermaLink="false">f2993e03-87f7-5b92-a0f2-af78bd431ef8</guid>
+      <pubDate>Sat, 14 Nov 2026 04:31:00 +0000</pubDate>
+      <itunes:duration>00:13:05</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Harderwijk : guide de voyage et histoire | Du hareng aux diplômes express</title>
       <link>https://wanderingcities.com/netherlands/harderwijk/?lang=fr</link>
+      <podcast:transcript url="https://wanderingcities.com/netherlands/harderwijk/transcript-fr.txt" type="text/plain" language="fr"/>
       <description>Harderwijk, aux Pays-Bas, cache de petits poissons en métal brillant dans les pavés près de sa porte du poisson, souvenir du monopole qui obligeait les pêcheurs à y vendre leurs prises. En 1811, Napoléon a fermé l'université de la ville, où Carl Linné était venu décrocher en express son diplôme de docteur. Écoutez l'épisode complet pour plus d'histoires et de conseils sur ce qu'il faut voir.
 
 Autres langues et plus sur Harderwijk : https://wanderingcities.com/netherlands/harderwijk/?lang=fr
@@ -112,10 +133,10 @@ Sources, entre autres : Wikipédia et Wikivoyage (CC BY-SA 4.0) ainsi que les si
 Autres langues et plus sur Naarden : https://wanderingcities.com/netherlands/naarden/?lang=fr
 
 Sources, entre autres : Wikipédia et Wikivoyage (CC BY-SA 4.0) ainsi que les sites officiels du tourisme, du patrimoine et des musées. La conversation et les voix sont générées par IA.</itunes:summary>
-      <enclosure url="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/episodes/fr/fr-naarden-1528999907-v1.mp3" length="16056179" type="audio/mpeg"/>
+      <enclosure url="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/episodes/fr/fr-naarden-1528999907-v2.mp3" length="19824917" type="audio/mpeg"/>
       <guid isPermaLink="false">6ccc5dcb-cc37-5a07-be2b-776059226102</guid>
       <pubDate>Thu, 12 Nov 2026 06:01:31 +0000</pubDate>
-      <itunes:duration>00:16:36</itunes:duration>
+      <itunes:duration>00:20:31</itunes:duration>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>false</itunes:explicit>
     </item>

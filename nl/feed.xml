@@ -14,10 +14,31 @@
     <itunes:type>episodic</itunes:type>
     <itunes:category text="Society &amp; Culture"><itunes:category text="Places &amp; Travel"/></itunes:category>
     <itunes:image href="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/cover-nl-3000.jpg"/>
-    <lastBuildDate>Sat, 14 Nov 2026 04:02:21 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 14 Nov 2026 04:33:45 +0000</lastBuildDate>
+    <item>
+      <title>Kerkrade reisgids &amp; geschiedenis | Van monniken en mijnen tot muziekstad</title>
+      <link>https://wanderingcities.com/netherlands/kerkrade/?lang=nl</link>
+      <description>Kerkrade, in Nederland, deelt de Nieuwstraat met Duitsland: de grens loopt midden over de weg, waar in 1968 betonnen muurtjes van zo'n 40 centimeter hoog werden neergezet. In de aanloop naar het Wereldmuziekconcours van 1957 volgden zo'n 2000 inwoners taalcursussen om buitenlandse muzikanten in hun eigen huis te kunnen ontvangen. Luister de hele aflevering voor meer verhalen en tips over wat je moet zien.
+
+Andere talen en meer over Kerkrade: https://wanderingcities.com/netherlands/kerkrade/?lang=nl
+
+Bronnen o.a. Wikipedia en Wikivoyage (CC BY-SA 4.0) en officiële websites over toerisme, erfgoed en musea. Het gesprek en de stemmen zijn door AI gegenereerd.</description>
+      <itunes:summary>Kerkrade, in Nederland, deelt de Nieuwstraat met Duitsland: de grens loopt midden over de weg, waar in 1968 betonnen muurtjes van zo'n 40 centimeter hoog werden neergezet. In de aanloop naar het Wereldmuziekconcours van 1957 volgden zo'n 2000 inwoners taalcursussen om buitenlandse muzikanten in hun eigen huis te kunnen ontvangen. Luister de hele aflevering voor meer verhalen en tips over wat je moet zien.
+
+Andere talen en meer over Kerkrade: https://wanderingcities.com/netherlands/kerkrade/?lang=nl
+
+Bronnen o.a. Wikipedia en Wikivoyage (CC BY-SA 4.0) en officiële websites over toerisme, erfgoed en musea. Het gesprek en de stemmen zijn door AI gegenereerd.</itunes:summary>
+      <enclosure url="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/episodes/nl/nl-kerkrade-1528289295-v1.mp3" length="20579971" type="audio/mpeg"/>
+      <guid isPermaLink="false">f49070af-5036-58f4-97f4-c48e120eb4b1</guid>
+      <pubDate>Sat, 14 Nov 2026 04:31:54 +0000</pubDate>
+      <itunes:duration>00:21:19</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Harderwijk reisgids &amp; geschiedenis | Rijkdom op ondiep water</title>
       <link>https://wanderingcities.com/netherlands/harderwijk/?lang=nl</link>
+      <podcast:transcript url="https://wanderingcities.com/netherlands/harderwijk/transcript-nl.txt" type="text/plain" language="nl"/>
       <description>Harderwijk, in Nederland, lag aan zulk ondiep Zuiderzeewater dat handelsschepen ver uit de kust ankerden en mannen van het schuitenvaardersgilde wol, hout en graan met roeibootjes naar de wal brachten. In 1735 kwam de Zweedse botanicus Carolus Linnaeus naar de universiteit van Harderwijk en promoveerde er in nog geen week. Luister de hele aflevering voor meer verhalen en tips over wat je moet zien.
 
 Andere talen en meer over Harderwijk: https://wanderingcities.com/netherlands/harderwijk/?lang=nl
@@ -112,10 +133,10 @@ Bronnen o.a. Wikipedia en Wikivoyage (CC BY-SA 4.0) en officiële websites over 
 Andere talen en meer over Naarden: https://wanderingcities.com/netherlands/naarden/?lang=nl
 
 Bronnen o.a. Wikipedia en Wikivoyage (CC BY-SA 4.0) en officiële websites over toerisme, erfgoed en musea. Het gesprek en de stemmen zijn door AI gegenereerd.</itunes:summary>
-      <enclosure url="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/episodes/nl/nl-naarden-1528999907-v1.mp3" length="19395889" type="audio/mpeg"/>
+      <enclosure url="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/episodes/nl/nl-naarden-1528999907-v2.mp3" length="25328820" type="audio/mpeg"/>
       <guid isPermaLink="false">fec85abd-c774-58ce-9a54-54e16ffcc477</guid>
       <pubDate>Thu, 12 Nov 2026 06:02:49 +0000</pubDate>
-      <itunes:duration>00:20:05</itunes:duration>
+      <itunes:duration>00:26:15</itunes:duration>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>false</itunes:explicit>
     </item>
