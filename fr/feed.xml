@@ -14,7 +14,27 @@
     <itunes:type>episodic</itunes:type>
     <itunes:category text="Society &amp; Culture"><itunes:category text="Places &amp; Travel"/></itunes:category>
     <itunes:image href="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/cover-fr-3000.jpg"/>
-    <lastBuildDate>Sat, 14 Nov 2026 02:27:24 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 14 Nov 2026 03:02:01 +0000</lastBuildDate>
+    <item>
+      <title>Harderwijk : guide de voyage et histoire | Du hareng aux diplômes express</title>
+      <link>https://wanderingcities.com/netherlands/harderwijk/?lang=fr</link>
+      <description>Harderwijk, aux Pays-Bas, cache de petits poissons en métal brillant dans les pavés près de sa porte du poisson, souvenir du monopole qui obligeait les pêcheurs à y vendre leurs prises. En 1811, Napoléon a fermé l'université de la ville, où Carl Linné était venu décrocher en express son diplôme de docteur. Écoutez l'épisode complet pour plus d'histoires et de conseils sur ce qu'il faut voir.
+
+Autres langues et plus sur Harderwijk : https://wanderingcities.com/netherlands/harderwijk/?lang=fr
+
+Sources, entre autres : Wikipédia et Wikivoyage (CC BY-SA 4.0) ainsi que les sites officiels du tourisme, du patrimoine et des musées. La conversation et les voix sont générées par IA.</description>
+      <itunes:summary>Harderwijk, aux Pays-Bas, cache de petits poissons en métal brillant dans les pavés près de sa porte du poisson, souvenir du monopole qui obligeait les pêcheurs à y vendre leurs prises. En 1811, Napoléon a fermé l'université de la ville, où Carl Linné était venu décrocher en express son diplôme de docteur. Écoutez l'épisode complet pour plus d'histoires et de conseils sur ce qu'il faut voir.
+
+Autres langues et plus sur Harderwijk : https://wanderingcities.com/netherlands/harderwijk/?lang=fr
+
+Sources, entre autres : Wikipédia et Wikivoyage (CC BY-SA 4.0) ainsi que les sites officiels du tourisme, du patrimoine et des musées. La conversation et les voix sont générées par IA.</itunes:summary>
+      <enclosure url="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/episodes/fr/fr-harderwijk-1528263150-v1.mp3" length="16485421" type="audio/mpeg"/>
+      <guid isPermaLink="false">138261ef-e573-58b5-b42f-bd87785bc5b2</guid>
+      <pubDate>Sat, 14 Nov 2026 03:01:07 +0000</pubDate>
+      <itunes:duration>00:17:03</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Weert : guide de voyage et histoire | Le berceau de la rébellion</title>
       <link>https://wanderingcities.com/netherlands/weert/?lang=fr</link>
