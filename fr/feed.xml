@@ -14,7 +14,27 @@
     <itunes:type>episodic</itunes:type>
     <itunes:category text="Society &amp; Culture"><itunes:category text="Places &amp; Travel"/></itunes:category>
     <itunes:image href="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/cover-fr-3000.jpg"/>
-    <lastBuildDate>Sat, 14 Nov 2026 09:31:51 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 14 Nov 2026 10:01:39 +0000</lastBuildDate>
+    <item>
+      <title>Wageningen : guide de voyage et histoire | Une université plutôt qu'une gare</title>
+      <link>https://wanderingcities.com/netherlands/wageningen/?lang=fr</link>
+      <description>Wageningen, aux Pays-Bas, a vu en mai 1940 quelque 14 000 habitants fuir la ville sur des péniches rhénanes qui transportaient d'habitude du charbon ou des céréales. Le 5 mai 1945, la capitulation allemande y est conclue à l'hôtel De Wereld, mais faute de machine à écrire, le document n'est signé que le lendemain, antidaté au 5 mai. Écoutez l'épisode complet pour plus d'histoires et de conseils sur ce qu'il faut voir.
+
+Autres langues et plus sur Wageningen : https://wanderingcities.com/netherlands/wageningen/?lang=fr
+
+Sources, entre autres : Wikipédia et Wikivoyage (CC BY-SA 4.0) ainsi que les sites officiels du tourisme, du patrimoine et des musées. La conversation et les voix sont générées par IA.</description>
+      <itunes:summary>Wageningen, aux Pays-Bas, a vu en mai 1940 quelque 14 000 habitants fuir la ville sur des péniches rhénanes qui transportaient d'habitude du charbon ou des céréales. Le 5 mai 1945, la capitulation allemande y est conclue à l'hôtel De Wereld, mais faute de machine à écrire, le document n'est signé que le lendemain, antidaté au 5 mai. Écoutez l'épisode complet pour plus d'histoires et de conseils sur ce qu'il faut voir.
+
+Autres langues et plus sur Wageningen : https://wanderingcities.com/netherlands/wageningen/?lang=fr
+
+Sources, entre autres : Wikipédia et Wikivoyage (CC BY-SA 4.0) ainsi que les sites officiels du tourisme, du patrimoine et des musées. La conversation et les voix sont générées par IA.</itunes:summary>
+      <enclosure url="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/episodes/fr/fr-wageningen-1528070340-v1.mp3" length="12287027" type="audio/mpeg"/>
+      <guid isPermaLink="false">aea8fc0d-9522-5bc5-b28e-f286160bd938</guid>
+      <pubDate>Sat, 14 Nov 2026 10:00:55 +0000</pubDate>
+      <itunes:duration>00:12:40</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Kerkrade : guide de voyage et histoire | Une frontière au cœur d'un immeuble</title>
       <link>https://wanderingcities.com/netherlands/kerkrade/?lang=fr</link>

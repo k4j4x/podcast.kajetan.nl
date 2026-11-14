@@ -14,7 +14,27 @@
     <itunes:type>episodic</itunes:type>
     <itunes:category text="Society &amp; Culture"><itunes:category text="Places &amp; Travel"/></itunes:category>
     <itunes:image href="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/cover-nl-3000.jpg"/>
-    <lastBuildDate>Sat, 14 Nov 2026 09:31:51 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 14 Nov 2026 10:01:39 +0000</lastBuildDate>
+    <item>
+      <title>Wageningen reisgids &amp; geschiedenis | Gered door het ontbrekende station</title>
+      <link>https://wanderingcities.com/netherlands/wageningen/?lang=nl</link>
+      <description>Wageningen, in Nederland, bereik je vanuit het zuiden met een gierpontje over de Rijn, dat vrijwel zonder motor door de stroming naar de overkant wordt gedrukt. Op 10 mei 1940 werden 14.000 inwoners op Rijnaken geëvacueerd; bij terugkomst lag het centrum grotendeels in puin, beschoten door Nederlands artillerievuur vanaf de Grebbeberg. Luister de hele aflevering voor meer verhalen en tips over wat je moet zien.
+
+Andere talen en meer over Wageningen: https://wanderingcities.com/netherlands/wageningen/?lang=nl
+
+Bronnen o.a. Wikipedia en Wikivoyage (CC BY-SA 4.0) en officiële websites over toerisme, erfgoed en musea. Het gesprek en de stemmen zijn door AI gegenereerd.</description>
+      <itunes:summary>Wageningen, in Nederland, bereik je vanuit het zuiden met een gierpontje over de Rijn, dat vrijwel zonder motor door de stroming naar de overkant wordt gedrukt. Op 10 mei 1940 werden 14.000 inwoners op Rijnaken geëvacueerd; bij terugkomst lag het centrum grotendeels in puin, beschoten door Nederlands artillerievuur vanaf de Grebbeberg. Luister de hele aflevering voor meer verhalen en tips over wat je moet zien.
+
+Andere talen en meer over Wageningen: https://wanderingcities.com/netherlands/wageningen/?lang=nl
+
+Bronnen o.a. Wikipedia en Wikivoyage (CC BY-SA 4.0) en officiële websites over toerisme, erfgoed en musea. Het gesprek en de stemmen zijn door AI gegenereerd.</itunes:summary>
+      <enclosure url="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/episodes/nl/nl-wageningen-1528070340-v1.mp3" length="18431241" type="audio/mpeg"/>
+      <guid isPermaLink="false">f0a812ad-e0ab-5f9d-82b9-b06300f6f839</guid>
+      <pubDate>Sat, 14 Nov 2026 10:01:38 +0000</pubDate>
+      <itunes:duration>00:19:04</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Kerkrade reisgids &amp; geschiedenis | Van monniken en mijnen tot muziekstad</title>
       <link>https://wanderingcities.com/netherlands/kerkrade/?lang=nl</link>
