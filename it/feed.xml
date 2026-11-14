@@ -14,7 +14,7 @@
     <itunes:type>episodic</itunes:type>
     <itunes:category text="Society &amp; Culture"><itunes:category text="Places &amp; Travel"/></itunes:category>
     <itunes:image href="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/cover-it-3000.jpg"/>
-    <lastBuildDate>Sat, 14 Nov 2026 03:32:12 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 14 Nov 2026 04:02:21 +0000</lastBuildDate>
     <item>
       <title>Harderwijk: guida di viaggio e storia | Il giorno in cui scomparve il mare</title>
       <link>https://wanderingcities.com/netherlands/harderwijk/?lang=it</link>
@@ -38,6 +38,7 @@ Fonti, tra le altre: Wikipedia e Wikivoyage (CC BY-SA 4.0) e siti ufficiali di t
     <item>
       <title>Weert: guida di viaggio e storia | L'isola di fango tra le paludi</title>
       <link>https://wanderingcities.com/netherlands/weert/?lang=it</link>
+      <podcast:transcript url="https://wanderingcities.com/netherlands/weert/transcript-it.txt" type="text/plain" language="it"/>
       <description>Weert, nei Paesi Bassi, deve un soprannome a una razza caduta da un carro: gli abitanti non avevano mai visto un pesce dell'oceano, la presero per il diavolo e la pugnalarono. Il 5 giugno 1568 il conte di Horn, signore di Weert, fu decapitato a Bruxelles; in dieci anni restarono 800 abitanti. Ascolta l'episodio completo per altre storie e consigli su cosa vedere.
 
 Altre lingue e altro su Weert: https://wanderingcities.com/netherlands/weert/?lang=it

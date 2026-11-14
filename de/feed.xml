@@ -14,10 +14,31 @@
     <itunes:type>episodic</itunes:type>
     <itunes:category text="Society &amp; Culture"><itunes:category text="Places &amp; Travel"/></itunes:category>
     <itunes:image href="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/cover-de-3000.jpg"/>
-    <lastBuildDate>Sat, 14 Nov 2026 03:32:12 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 14 Nov 2026 04:02:20 +0000</lastBuildDate>
+    <item>
+      <title>Kerkrade Reiseführer &amp; Geschichte | Vom Kohlerevier zur Klangstadt</title>
+      <link>https://wanderingcities.com/netherlands/kerkrade/?lang=de</link>
+      <description>Kerkrade, in den Niederlanden, hat eine Straße, die Neustraße, auf der ein Schritt nach rechts dich nach Deutschland bringt – ohne Schranke, ohne Zollhäuschen, nur eine unsichtbare Linie in der Mitte. Schon 1113, kurz nach Gründung der Abtei Klosterrade, erwähnen Dokumente eine Schenkung von Steinkohle – vermutlich die älteste dokumentierte Erwähnung von Kohleabbau in Europa. In der ganzen Folge gibt es mehr Geschichten und Tipps zu den Sehenswürdigkeiten.
+
+Andere Sprachen und mehr über Kerkrade: https://wanderingcities.com/netherlands/kerkrade/?lang=de
+
+Quellen u. a. Wikipedia und Wikivoyage (CC BY-SA 4.0) sowie offizielle Websites für Tourismus, Denkmalpflege und Museen. Gespräch und Stimmen sind KI-generiert.</description>
+      <itunes:summary>Kerkrade, in den Niederlanden, hat eine Straße, die Neustraße, auf der ein Schritt nach rechts dich nach Deutschland bringt – ohne Schranke, ohne Zollhäuschen, nur eine unsichtbare Linie in der Mitte. Schon 1113, kurz nach Gründung der Abtei Klosterrade, erwähnen Dokumente eine Schenkung von Steinkohle – vermutlich die älteste dokumentierte Erwähnung von Kohleabbau in Europa. In der ganzen Folge gibt es mehr Geschichten und Tipps zu den Sehenswürdigkeiten.
+
+Andere Sprachen und mehr über Kerkrade: https://wanderingcities.com/netherlands/kerkrade/?lang=de
+
+Quellen u. a. Wikipedia und Wikivoyage (CC BY-SA 4.0) sowie offizielle Websites für Tourismus, Denkmalpflege und Museen. Gespräch und Stimmen sind KI-generiert.</itunes:summary>
+      <enclosure url="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/episodes/de/de-kerkrade-1528289295-v1.mp3" length="23619518" type="audio/mpeg"/>
+      <guid isPermaLink="false">07b87e0d-bb8f-5db8-a878-add023d1bf2d</guid>
+      <pubDate>Sat, 14 Nov 2026 04:01:42 +0000</pubDate>
+      <itunes:duration>00:24:29</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Harderwijk Reiseführer &amp; Geschichte | Der Tag, an dem das Meer verschwand</title>
       <link>https://wanderingcities.com/netherlands/harderwijk/?lang=de</link>
+      <podcast:transcript url="https://wanderingcities.com/netherlands/harderwijk/transcript-de.txt" type="text/plain" language="de"/>
       <description>Harderwijk, in den Niederlanden, war im 18. Jahrhundert für schnelle Doktortitel bekannt – ein Spottreim nannte sie in einem Atemzug mit Bückling und Blaubeeren. 1932 wurde die letzte Lücke im Afsluitdijk geschlossen, und weil die Zuiderzee zum Binnensee wurde, verschwanden Hering und Sardellen – die Fischerei der Stadt war praktisch tot. In der ganzen Folge gibt es mehr Geschichten und Tipps zu den Sehenswürdigkeiten.
 
 Andere Sprachen und mehr über Harderwijk: https://wanderingcities.com/netherlands/harderwijk/?lang=de
@@ -38,6 +59,7 @@ Quellen u. a. Wikipedia und Wikivoyage (CC BY-SA 4.0) sowie offizielle Websites 
     <item>
       <title>Weert Reiseführer &amp; Geschichte | Von der Sumpfinsel zur Tuchmetropole</title>
       <link>https://wanderingcities.com/netherlands/weert/?lang=de</link>
+      <podcast:transcript url="https://wanderingcities.com/netherlands/weert/transcript-de.txt" type="text/plain" language="de"/>
       <description>Weert, in den Niederlanden: In der Sint Martinuskerk soll das Herz des in Brüssel geköpften Grafen Philips von Horne in einer unscheinbaren Blechdose ruhen. Im Jahr 2020 stießen Forscher bei Ausgrabungen an einer nahen Burgruine auf eine unbekannte Grabkammer – seitdem wird diskutiert, ob die Überreste des Grafen dort vor den spanischen Truppen versteckt wurden. In der ganzen Folge gibt es mehr Geschichten und Tipps zu den Sehenswürdigkeiten.
 
 Andere Sprachen und mehr über Weert: https://wanderingcities.com/netherlands/weert/?lang=de

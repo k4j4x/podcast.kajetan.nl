@@ -14,10 +14,31 @@
     <itunes:type>episodic</itunes:type>
     <itunes:category text="Society &amp; Culture"><itunes:category text="Places &amp; Travel"/></itunes:category>
     <itunes:image href="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/cover-3000.jpg"/>
-    <lastBuildDate>Sat, 14 Nov 2026 03:32:11 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 14 Nov 2026 04:02:20 +0000</lastBuildDate>
+    <item>
+      <title>Kerkrade Travel Guide &amp; History | From Coal Mines to City of Sound</title>
+      <link>https://wanderingcities.com/netherlands/kerkrade/?lang=en</link>
+      <description>Kerkrade, in the Netherlands, shares an office complex with the German town of Herzogenrath, and the border runs straight through its main lobby. In 1968, the two-metre iron fence the German military built down the border street in World War I was replaced by a row of 40-centimetre concrete blocks. Listen to the full episode for more stories and tips on what to see.
+
+Other languages and more about Kerkrade: https://wanderingcities.com/netherlands/kerkrade/?lang=en
+
+Sources include Wikipedia and Wikivoyage (CC BY-SA 4.0) and official tourism, heritage and museum websites. The conversation and voices are AI-generated.</description>
+      <itunes:summary>Kerkrade, in the Netherlands, shares an office complex with the German town of Herzogenrath, and the border runs straight through its main lobby. In 1968, the two-metre iron fence the German military built down the border street in World War I was replaced by a row of 40-centimetre concrete blocks. Listen to the full episode for more stories and tips on what to see.
+
+Other languages and more about Kerkrade: https://wanderingcities.com/netherlands/kerkrade/?lang=en
+
+Sources include Wikipedia and Wikivoyage (CC BY-SA 4.0) and official tourism, heritage and museum websites. The conversation and voices are AI-generated.</itunes:summary>
+      <enclosure url="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/episodes/wandering-cities-kerkrade-1528289295-v1.mp3" length="15470469" type="audio/mpeg"/>
+      <guid isPermaLink="false">efcbe676-1738-55e8-9aff-19544b04d61a</guid>
+      <pubDate>Sat, 14 Nov 2026 04:02:20 +0000</pubDate>
+      <itunes:duration>00:15:57</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Harderwijk Travel Guide &amp; History | When the Sea Disappeared</title>
       <link>https://wanderingcities.com/netherlands/harderwijk/?lang=en</link>
+      <podcast:transcript url="https://wanderingcities.com/netherlands/harderwijk/transcript-en.txt" type="text/plain" language="en"/>
       <description>Harderwijk, in the Netherlands, has church ceiling paintings that Calvinists covered with thick whitewash, which kept them in pristine condition until restorers scraped it away between 1968 and 1980. In 1811, Louis Bonaparte shut down the town's university, known for fast, cheap doctorates after a quick oral exam in Latin. Listen to the full episode for more stories and tips on what to see.
 
 Other languages and more about Harderwijk: https://wanderingcities.com/netherlands/harderwijk/?lang=en
@@ -38,6 +59,7 @@ Sources include Wikipedia and Wikivoyage (CC BY-SA 4.0) and official tourism, he
     <item>
       <title>Weert Travel Guide &amp; History | From Swamp Island to Cloth Capital</title>
       <link>https://wanderingcities.com/netherlands/weert/?lang=en</link>
+      <podcast:transcript url="https://wanderingcities.com/netherlands/weert/transcript-en.txt" type="text/plain" language="en"/>
       <description>Weert, in the Netherlands, is where a woman known as Antia of the station walked onto the platforms after the railway arrived and sold slices of fruit pie to passengers leaning out of the train windows. Count Philips van Horn was beheaded in Brussels on June 5th, 1568, for showing leniency toward Protestant rebels. Listen to the full episode for more stories and tips on what to see.
 
 Other languages and more about Weert: https://wanderingcities.com/netherlands/weert/?lang=en

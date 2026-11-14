@@ -14,7 +14,7 @@
     <itunes:type>episodic</itunes:type>
     <itunes:category text="Society &amp; Culture"><itunes:category text="Places &amp; Travel"/></itunes:category>
     <itunes:image href="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/cover-es-3000.jpg"/>
-    <lastBuildDate>Sat, 14 Nov 2026 03:32:12 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 14 Nov 2026 04:02:21 +0000</lastBuildDate>
     <item>
       <title>Harderwijk: guía de viaje e historia | Del sumidero a las estrellas Michelin</title>
       <link>https://wanderingcities.com/netherlands/harderwijk/?lang=es</link>
@@ -38,6 +38,7 @@ Fuentes, entre otras: Wikipedia y Wikivoyage (CC BY-SA 4.0) y webs oficiales de 
     <item>
       <title>Weert: guía de viaje e historia | La ciudad nacida del pantano</title>
       <link>https://wanderingcities.com/netherlands/weert/?lang=es</link>
+      <podcast:transcript url="https://wanderingcities.com/netherlands/weert/transcript-es.txt" type="text/plain" language="es"/>
       <description>Weert, en los Países Bajos, tiene en su estación una estatua de bronce de Anche, una mujer que a principios del siglo XX vendía la tarta típica de Limburgo a los pasajeros por las ventanillas del tren. En 1568 el conde Philips Van Horn fue decapitado en Bruselas y los comerciantes huyeron. Escucha el episodio completo para más historias y consejos sobre qué ver.
 
 Otros idiomas y más sobre Weert: https://wanderingcities.com/netherlands/weert/?lang=es
