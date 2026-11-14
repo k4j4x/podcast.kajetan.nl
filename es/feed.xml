@@ -14,7 +14,27 @@
     <itunes:type>episodic</itunes:type>
     <itunes:category text="Society &amp; Culture"><itunes:category text="Places &amp; Travel"/></itunes:category>
     <itunes:image href="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/cover-es-3000.jpg"/>
-    <lastBuildDate>Sat, 14 Nov 2026 10:01:39 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 14 Nov 2026 10:32:02 +0000</lastBuildDate>
+    <item>
+      <title>Wageningen: guía de viaje e historia | De la liberación al Food Valley</title>
+      <link>https://wanderingcities.com/netherlands/wageningen/?lang=es</link>
+      <description>Wageningen, en los Países Bajos, llegó a estar repleta de fábricas de puros, gracias a agricultores que abonaban con fuerza sus tierras arenosas para cultivar tabaco. El 5 de mayo de 1945, un general aliado y un coronel general alemán negociaron allí la rendición en un hotel llamado "el mundo". Escucha el episodio completo para más historias y consejos sobre qué ver.
+
+Otros idiomas y más sobre Wageningen: https://wanderingcities.com/netherlands/wageningen/?lang=es
+
+Fuentes, entre otras: Wikipedia y Wikivoyage (CC BY-SA 4.0) y webs oficiales de turismo, patrimonio y museos. La conversación y las voces están generadas por IA.</description>
+      <itunes:summary>Wageningen, en los Países Bajos, llegó a estar repleta de fábricas de puros, gracias a agricultores que abonaban con fuerza sus tierras arenosas para cultivar tabaco. El 5 de mayo de 1945, un general aliado y un coronel general alemán negociaron allí la rendición en un hotel llamado "el mundo". Escucha el episodio completo para más historias y consejos sobre qué ver.
+
+Otros idiomas y más sobre Wageningen: https://wanderingcities.com/netherlands/wageningen/?lang=es
+
+Fuentes, entre otras: Wikipedia y Wikivoyage (CC BY-SA 4.0) y webs oficiales de turismo, patrimonio y museos. La conversación y las voces están generadas por IA.</itunes:summary>
+      <enclosure url="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/episodes/es/es-wageningen-1528070340-v1.mp3" length="24628213" type="audio/mpeg"/>
+      <guid isPermaLink="false">7c91be40-a21b-5427-8a9e-4f2d17454420</guid>
+      <pubDate>Sat, 14 Nov 2026 10:31:23 +0000</pubDate>
+      <itunes:duration>00:25:31</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Harderwijk: guía de viaje e historia | Del sumidero a las estrellas Michelin</title>
       <link>https://wanderingcities.com/netherlands/harderwijk/?lang=es</link>
