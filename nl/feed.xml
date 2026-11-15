@@ -14,7 +14,27 @@
     <itunes:type>episodic</itunes:type>
     <itunes:category text="Society &amp; Culture"><itunes:category text="Places &amp; Travel"/></itunes:category>
     <itunes:image href="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/cover-nl-3000.jpg"/>
-    <lastBuildDate>Sun, 15 Nov 2026 07:31:56 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 15 Nov 2026 08:01:28 +0000</lastBuildDate>
+    <item>
+      <title>Brielle reisgids &amp; geschiedenis | Hoe de Watergeuzen toesloegen</title>
+      <link>https://wanderingcities.com/netherlands/brielle/?lang=nl</link>
+      <description>Brielle, in Nederland, kent de kalknacht: de avond voor 1 april trekken bewoners de straat op en kladden ze alle ramen van de stad vol met witte kalk, tegenwoordig witte verf. Op 1 april 1572 ramden de hongerige Watergeuzen de Noordpoort open met een houten scheepsmast en namen ze de stad in. Luister de hele aflevering voor meer verhalen en tips over wat je moet zien.
+
+Andere talen en meer over Brielle: https://wanderingcities.com/netherlands/brielle/?lang=nl
+
+Bronnen o.a. Wikipedia en Wikivoyage (CC BY-SA 4.0) en officiële websites over toerisme, erfgoed en musea. Het gesprek en de stemmen zijn door AI gegenereerd.</description>
+      <itunes:summary>Brielle, in Nederland, kent de kalknacht: de avond voor 1 april trekken bewoners de straat op en kladden ze alle ramen van de stad vol met witte kalk, tegenwoordig witte verf. Op 1 april 1572 ramden de hongerige Watergeuzen de Noordpoort open met een houten scheepsmast en namen ze de stad in. Luister de hele aflevering voor meer verhalen en tips over wat je moet zien.
+
+Andere talen en meer over Brielle: https://wanderingcities.com/netherlands/brielle/?lang=nl
+
+Bronnen o.a. Wikipedia en Wikivoyage (CC BY-SA 4.0) en officiële websites over toerisme, erfgoed en musea. Het gesprek en de stemmen zijn door AI gegenereerd.</itunes:summary>
+      <enclosure url="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/episodes/nl/nl-brielle-1528923467-v1.mp3" length="14821738" type="audio/mpeg"/>
+      <guid isPermaLink="false">f6b56c7a-8734-5405-a9b1-720496f03805</guid>
+      <pubDate>Sun, 15 Nov 2026 08:01:27 +0000</pubDate>
+      <itunes:duration>00:15:19</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Sittard reisgids &amp; geschiedenis | Overleven onder vier vlaggen</title>
       <link>https://wanderingcities.com/netherlands/sittard/?lang=nl</link>

@@ -14,7 +14,27 @@
     <itunes:type>episodic</itunes:type>
     <itunes:category text="Society &amp; Culture"><itunes:category text="Places &amp; Travel"/></itunes:category>
     <itunes:image href="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/cover-de-3000.jpg"/>
-    <lastBuildDate>Sun, 15 Nov 2026 07:31:56 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 15 Nov 2026 08:01:28 +0000</lastBuildDate>
+    <item>
+      <title>Brielle Reiseführer &amp; Geschichte | Wie Rebellen ein Weltreich stürzten</title>
+      <link>https://wanderingcities.com/netherlands/brielle/?lang=de</link>
+      <description>Brielle, in den Niederlanden, wird in der Kalknacht vor dem 1. April mit Kreide bemalt: Jugendliche ziehen durch die Straßen und bemalen Fenster und Mauern, so wie Geusen-Anhänger 1572 die Türen spanientreuer Bürger markierten. Am 1. April 1572 rammten die Wassergeusen das nördliche Tor mit einem abmontierten Schiffsmast auf und nahmen die unbewachte Stadt ein. In der ganzen Folge gibt es mehr Geschichten und Tipps zu den Sehenswürdigkeiten.
+
+Andere Sprachen und mehr über Brielle: https://wanderingcities.com/netherlands/brielle/?lang=de
+
+Quellen u. a. Wikipedia und Wikivoyage (CC BY-SA 4.0) sowie offizielle Websites für Tourismus, Denkmalpflege und Museen. Gespräch und Stimmen sind KI-generiert.</description>
+      <itunes:summary>Brielle, in den Niederlanden, wird in der Kalknacht vor dem 1. April mit Kreide bemalt: Jugendliche ziehen durch die Straßen und bemalen Fenster und Mauern, so wie Geusen-Anhänger 1572 die Türen spanientreuer Bürger markierten. Am 1. April 1572 rammten die Wassergeusen das nördliche Tor mit einem abmontierten Schiffsmast auf und nahmen die unbewachte Stadt ein. In der ganzen Folge gibt es mehr Geschichten und Tipps zu den Sehenswürdigkeiten.
+
+Andere Sprachen und mehr über Brielle: https://wanderingcities.com/netherlands/brielle/?lang=de
+
+Quellen u. a. Wikipedia und Wikivoyage (CC BY-SA 4.0) sowie offizielle Websites für Tourismus, Denkmalpflege und Museen. Gespräch und Stimmen sind KI-generiert.</itunes:summary>
+      <enclosure url="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/episodes/de/de-brielle-1528923467-v1.mp3" length="20142941" type="audio/mpeg"/>
+      <guid isPermaLink="false">7b5c414a-3f67-53c7-8091-6b8c5911dd4c</guid>
+      <pubDate>Sun, 15 Nov 2026 08:00:53 +0000</pubDate>
+      <itunes:duration>00:20:51</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Sittard Reiseführer &amp; Geschichte | Als ein Löwe die Messe störte</title>
       <link>https://wanderingcities.com/netherlands/sittard/?lang=de</link>
