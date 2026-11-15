@@ -14,7 +14,7 @@
     <itunes:type>episodic</itunes:type>
     <itunes:category text="Society &amp; Culture"><itunes:category text="Places &amp; Travel"/></itunes:category>
     <itunes:image href="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/cover-de-3000.jpg"/>
-    <lastBuildDate>Sun, 15 Nov 2026 03:32:19 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 15 Nov 2026 04:02:01 +0000</lastBuildDate>
     <item>
       <title>Goes Reiseführer &amp; Geschichte | Vom Salzhafen zur Einkaufsstadt</title>
       <link>https://wanderingcities.com/netherlands/goes/?lang=de</link>
@@ -38,6 +38,7 @@ Quellen u. a. Wikipedia und Wikivoyage (CC BY-SA 4.0) sowie offizielle Websites 
     <item>
       <title>Wageningen Reiseführer &amp; Geschichte | Eine Universität statt eines Bahnhofs</title>
       <link>https://wanderingcities.com/netherlands/wageningen/?lang=de</link>
+      <podcast:transcript url="https://wanderingcities.com/netherlands/wageningen/transcript-de.txt" type="text/plain" language="de"/>
       <description>Wageningen, in den Niederlanden, hat bis heute keinen eigenen Bahnhof: Im 19. Jahrhundert wählte die Stadt statt eines Bahnanschlusses eine Universität. Am 10. Mai 1940 wurden an einem einzigen Tag 14.000 Einwohner auf Rheinkähnen nach Westen gebracht, bevor niederländische Artillerie vom Grebbeberg aus das eigene Stadtzentrum zerschoss. In der ganzen Folge gibt es mehr Geschichten und Tipps zu den Sehenswürdigkeiten.
 
 Andere Sprachen und mehr über Wageningen: https://wanderingcities.com/netherlands/wageningen/?lang=de
@@ -58,6 +59,7 @@ Quellen u. a. Wikipedia und Wikivoyage (CC BY-SA 4.0) sowie offizielle Websites 
     <item>
       <title>Kerkrade Reiseführer &amp; Geschichte | Vom Kohlerevier zur Klangstadt</title>
       <link>https://wanderingcities.com/netherlands/kerkrade/?lang=de</link>
+      <podcast:transcript url="https://wanderingcities.com/netherlands/kerkrade/transcript-de.txt" type="text/plain" language="de"/>
       <description>Kerkrade, in den Niederlanden, hat eine Straße, die Neustraße, auf der ein Schritt nach rechts dich nach Deutschland bringt – ohne Schranke, ohne Zollhäuschen, nur eine unsichtbare Linie in der Mitte. Schon 1113, kurz nach Gründung der Abtei Klosterrade, erwähnen Dokumente eine Schenkung von Steinkohle – vermutlich die älteste dokumentierte Erwähnung von Kohleabbau in Europa. In der ganzen Folge gibt es mehr Geschichten und Tipps zu den Sehenswürdigkeiten.
 
 Andere Sprachen und mehr über Kerkrade: https://wanderingcities.com/netherlands/kerkrade/?lang=de

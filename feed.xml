@@ -14,7 +14,27 @@
     <itunes:type>episodic</itunes:type>
     <itunes:category text="Society &amp; Culture"><itunes:category text="Places &amp; Travel"/></itunes:category>
     <itunes:image href="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/cover-3000.jpg"/>
-    <lastBuildDate>Sun, 15 Nov 2026 03:32:19 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 15 Nov 2026 04:02:01 +0000</lastBuildDate>
+    <item>
+      <title>Sittard Travel Guide &amp; History | When a Lion Walked Into Mass</title>
+      <link>https://wanderingcities.com/netherlands/sittard/?lang=en</link>
+      <description>Sittard, in the Netherlands, has a bronze lion at the door of St. Michael's Church for the circus lion that strolled into mass in August 1938. After a dysentery epidemic ended in 1668, the town promised to march every year to thank St. Rosa, and has kept that promise for over 350 years. Listen to the full episode for more stories and tips on what to see.
+
+Other languages and more about Sittard: https://wanderingcities.com/netherlands/sittard/?lang=en
+
+Sources include Wikipedia and Wikivoyage (CC BY-SA 4.0) and official tourism, heritage and museum websites. The conversation and voices are AI-generated.</description>
+      <itunes:summary>Sittard, in the Netherlands, has a bronze lion at the door of St. Michael's Church for the circus lion that strolled into mass in August 1938. After a dysentery epidemic ended in 1668, the town promised to march every year to thank St. Rosa, and has kept that promise for over 350 years. Listen to the full episode for more stories and tips on what to see.
+
+Other languages and more about Sittard: https://wanderingcities.com/netherlands/sittard/?lang=en
+
+Sources include Wikipedia and Wikivoyage (CC BY-SA 4.0) and official tourism, heritage and museum websites. The conversation and voices are AI-generated.</itunes:summary>
+      <enclosure url="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/episodes/wandering-cities-sittard-1528793014-v1.mp3" length="21620733" type="audio/mpeg"/>
+      <guid isPermaLink="false">e370afbc-cf0f-5217-a15a-566450df4077</guid>
+      <pubDate>Sun, 15 Nov 2026 04:02:01 +0000</pubDate>
+      <itunes:duration>00:22:22</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Goes Travel Guide &amp; History | From Salt Port to Shopping Mecca</title>
       <link>https://wanderingcities.com/netherlands/goes/?lang=en</link>
@@ -38,6 +58,7 @@ Sources include Wikipedia and Wikivoyage (CC BY-SA 4.0) and official tourism, he
     <item>
       <title>Wageningen Travel Guide &amp; History | A University Instead of a Station</title>
       <link>https://wanderingcities.com/netherlands/wageningen/?lang=en</link>
+      <podcast:transcript url="https://wanderingcities.com/netherlands/wageningen/transcript-en.txt" type="text/plain" language="en"/>
       <description>Wageningen, in the Netherlands, turned down a station on the national railway line and chose a university instead; today you still arrive by bus 88 from Ede-Wageningen station. On May 5, 1945, Canadian Lieutenant General Charles Foulkes and German General Johannes Blaskowitz met at a hotel whose name means "the world" to negotiate the capitulation. Listen to the full episode for more stories and tips on what to see.
 
 Other languages and more about Wageningen: https://wanderingcities.com/netherlands/wageningen/?lang=en
@@ -58,6 +79,7 @@ Sources include Wikipedia and Wikivoyage (CC BY-SA 4.0) and official tourism, he
     <item>
       <title>Kerkrade Travel Guide &amp; History | From Coal Mines to City of Sound</title>
       <link>https://wanderingcities.com/netherlands/kerkrade/?lang=en</link>
+      <podcast:transcript url="https://wanderingcities.com/netherlands/kerkrade/transcript-en.txt" type="text/plain" language="en"/>
       <description>Kerkrade, in the Netherlands, shares an office complex with the German town of Herzogenrath, and the border runs straight through its main lobby. In 1968, the two-metre iron fence the German military built down the border street in World War I was replaced by a row of 40-centimetre concrete blocks. Listen to the full episode for more stories and tips on what to see.
 
 Other languages and more about Kerkrade: https://wanderingcities.com/netherlands/kerkrade/?lang=en

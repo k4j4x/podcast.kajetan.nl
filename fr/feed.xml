@@ -14,7 +14,7 @@
     <itunes:type>episodic</itunes:type>
     <itunes:category text="Society &amp; Culture"><itunes:category text="Places &amp; Travel"/></itunes:category>
     <itunes:image href="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/cover-fr-3000.jpg"/>
-    <lastBuildDate>Sun, 15 Nov 2026 03:32:20 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 15 Nov 2026 04:02:01 +0000</lastBuildDate>
     <item>
       <title>Goes : guide de voyage et histoire | L'horloge qui n'a qu'une seule aiguille</title>
       <link>https://wanderingcities.com/netherlands/goes/?lang=fr</link>
@@ -38,6 +38,7 @@ Sources, entre autres : Wikipédia et Wikivoyage (CC BY-SA 4.0) ainsi que les si
     <item>
       <title>Wageningen : guide de voyage et histoire | Une université plutôt qu'une gare</title>
       <link>https://wanderingcities.com/netherlands/wageningen/?lang=fr</link>
+      <podcast:transcript url="https://wanderingcities.com/netherlands/wageningen/transcript-fr.txt" type="text/plain" language="fr"/>
       <description>Wageningen, aux Pays-Bas, a vu en mai 1940 quelque 14 000 habitants fuir la ville sur des péniches rhénanes qui transportaient d'habitude du charbon ou des céréales. Le 5 mai 1945, la capitulation allemande y est conclue à l'hôtel De Wereld, mais faute de machine à écrire, le document n'est signé que le lendemain, antidaté au 5 mai. Écoutez l'épisode complet pour plus d'histoires et de conseils sur ce qu'il faut voir.
 
 Autres langues et plus sur Wageningen : https://wanderingcities.com/netherlands/wageningen/?lang=fr
@@ -58,6 +59,7 @@ Sources, entre autres : Wikipédia et Wikivoyage (CC BY-SA 4.0) ainsi que les si
     <item>
       <title>Kerkrade : guide de voyage et histoire | Une frontière au cœur d'un immeuble</title>
       <link>https://wanderingcities.com/netherlands/kerkrade/?lang=fr</link>
+      <podcast:transcript url="https://wanderingcities.com/netherlands/kerkrade/transcript-fr.txt" type="text/plain" language="fr"/>
       <description>Kerkrade, aux Pays-Bas, possède un immeuble de bureaux construit pile sur la frontière : la police néerlandaise et les toilettes pour femmes d'un côté, la police allemande et les toilettes pour hommes de l'autre. En 1915, l'Empire allemand a coupé une rue de la ville en deux avec une clôture, électrifiée par endroits. Écoutez l'épisode complet pour plus d'histoires et de conseils sur ce qu'il faut voir.
 
 Autres langues et plus sur Kerkrade : https://wanderingcities.com/netherlands/kerkrade/?lang=fr
