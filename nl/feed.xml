@@ -14,7 +14,27 @@
     <itunes:type>episodic</itunes:type>
     <itunes:category text="Society &amp; Culture"><itunes:category text="Places &amp; Travel"/></itunes:category>
     <itunes:image href="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/cover-nl-3000.jpg"/>
-    <lastBuildDate>Sun, 15 Nov 2026 04:26:50 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 15 Nov 2026 06:32:01 +0000</lastBuildDate>
+    <item>
+      <title>Sittard reisgids &amp; geschiedenis | Overleven onder vier vlaggen</title>
+      <link>https://wanderingcities.com/netherlands/sittard/?lang=nl</link>
+      <description>Sittard, in Nederland, heeft een kerk waar in 1938 tijdens de mis een ontsnapte leeuw, Azor, binnenliep; een klein leeuwtje naast de deur herinnert er nog aan. In 1883 kreeg de Basiliek van Onze Lieve Vrouw van het Heilig Hart de basiliekstatus van de paus, als allereerste kerk in heel Nederland. Luister de hele aflevering voor meer verhalen en tips over wat je moet zien.
+
+Andere talen en meer over Sittard: https://wanderingcities.com/netherlands/sittard/?lang=nl
+
+Bronnen o.a. Wikipedia en Wikivoyage (CC BY-SA 4.0) en officiële websites over toerisme, erfgoed en musea. Het gesprek en de stemmen zijn door AI gegenereerd.</description>
+      <itunes:summary>Sittard, in Nederland, heeft een kerk waar in 1938 tijdens de mis een ontsnapte leeuw, Azor, binnenliep; een klein leeuwtje naast de deur herinnert er nog aan. In 1883 kreeg de Basiliek van Onze Lieve Vrouw van het Heilig Hart de basiliekstatus van de paus, als allereerste kerk in heel Nederland. Luister de hele aflevering voor meer verhalen en tips over wat je moet zien.
+
+Andere talen en meer over Sittard: https://wanderingcities.com/netherlands/sittard/?lang=nl
+
+Bronnen o.a. Wikipedia en Wikivoyage (CC BY-SA 4.0) en officiële websites over toerisme, erfgoed en musea. Het gesprek en de stemmen zijn door AI gegenereerd.</itunes:summary>
+      <enclosure url="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/episodes/nl/nl-sittard-1528793014-v1.mp3" length="13248956" type="audio/mpeg"/>
+      <guid isPermaLink="false">3ccf95ae-3622-53d4-9045-782918a6bc89</guid>
+      <pubDate>Sun, 15 Nov 2026 06:32:00 +0000</pubDate>
+      <itunes:duration>00:13:41</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Goes reisgids &amp; geschiedenis | Van zoutketen tot moderne stad</title>
       <link>https://wanderingcities.com/netherlands/goes/?lang=nl</link>

@@ -14,7 +14,27 @@
     <itunes:type>episodic</itunes:type>
     <itunes:category text="Society &amp; Culture"><itunes:category text="Places &amp; Travel"/></itunes:category>
     <itunes:image href="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/cover-de-3000.jpg"/>
-    <lastBuildDate>Sun, 15 Nov 2026 04:26:50 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 15 Nov 2026 06:32:01 +0000</lastBuildDate>
+    <item>
+      <title>Sittard Reiseführer &amp; Geschichte | Als ein Löwe die Messe störte</title>
+      <link>https://wanderingcities.com/netherlands/sittard/?lang=de</link>
+      <description>Sittard, in den Niederlanden, erlebte Ende August 1938 eine stille Messe, in die plötzlich der Zirkuslöwe Asor spazierte. Er drehte eine friedliche Runde durchs Kirchenschiff und ließ sich problemlos wieder einfangen. 1883 verlieh der Papst der Basilika Unserer Lieben Frau den Titel Basilika Minor, als erster Kirche der Niederlande. In der ganzen Folge gibt es mehr Geschichten und Tipps zu den Sehenswürdigkeiten.
+
+Andere Sprachen und mehr über Sittard: https://wanderingcities.com/netherlands/sittard/?lang=de
+
+Quellen u. a. Wikipedia und Wikivoyage (CC BY-SA 4.0) sowie offizielle Websites für Tourismus, Denkmalpflege und Museen. Gespräch und Stimmen sind KI-generiert.</description>
+      <itunes:summary>Sittard, in den Niederlanden, erlebte Ende August 1938 eine stille Messe, in die plötzlich der Zirkuslöwe Asor spazierte. Er drehte eine friedliche Runde durchs Kirchenschiff und ließ sich problemlos wieder einfangen. 1883 verlieh der Papst der Basilika Unserer Lieben Frau den Titel Basilika Minor, als erster Kirche der Niederlande. In der ganzen Folge gibt es mehr Geschichten und Tipps zu den Sehenswürdigkeiten.
+
+Andere Sprachen und mehr über Sittard: https://wanderingcities.com/netherlands/sittard/?lang=de
+
+Quellen u. a. Wikipedia und Wikivoyage (CC BY-SA 4.0) sowie offizielle Websites für Tourismus, Denkmalpflege und Museen. Gespräch und Stimmen sind KI-generiert.</itunes:summary>
+      <enclosure url="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/episodes/de/de-sittard-1528793014-v1.mp3" length="27644879" type="audio/mpeg"/>
+      <guid isPermaLink="false">e423d360-c5b0-5ab7-9a8d-6179f687cfa5</guid>
+      <pubDate>Sun, 15 Nov 2026 06:31:29 +0000</pubDate>
+      <itunes:duration>00:28:40</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Goes Reiseführer &amp; Geschichte | Vom Salzhafen zur Einkaufsstadt</title>
       <link>https://wanderingcities.com/netherlands/goes/?lang=de</link>
