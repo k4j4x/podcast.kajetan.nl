@@ -14,7 +14,27 @@
     <itunes:type>episodic</itunes:type>
     <itunes:category text="Society &amp; Culture"><itunes:category text="Places &amp; Travel"/></itunes:category>
     <itunes:image href="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/cover-fr-3000.jpg"/>
-    <lastBuildDate>Sun, 15 Nov 2026 06:32:01 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 15 Nov 2026 07:01:57 +0000</lastBuildDate>
+    <item>
+      <title>Sittard : guide de voyage et histoire | Un joyau forgé par les frontières</title>
+      <link>https://wanderingcities.com/netherlands/sittard/?lang=fr</link>
+      <description>Sittard, aux Pays-Bas, garde près de la porte de l'église Saint-Michel une sculpture du lion Assor, échappé d'un cirque et entré dans la nef en plein office. Le 20 avril 1963, sept garçons et trois filles d'un collège ont décidé de marcher 80 km en moins de 20 heures : la Marche Kennedy était née. Écoutez l'épisode complet pour plus d'histoires et de conseils sur ce qu'il faut voir.
+
+Autres langues et plus sur Sittard : https://wanderingcities.com/netherlands/sittard/?lang=fr
+
+Sources, entre autres : Wikipédia et Wikivoyage (CC BY-SA 4.0) ainsi que les sites officiels du tourisme, du patrimoine et des musées. La conversation et les voix sont générées par IA.</description>
+      <itunes:summary>Sittard, aux Pays-Bas, garde près de la porte de l'église Saint-Michel une sculpture du lion Assor, échappé d'un cirque et entré dans la nef en plein office. Le 20 avril 1963, sept garçons et trois filles d'un collège ont décidé de marcher 80 km en moins de 20 heures : la Marche Kennedy était née. Écoutez l'épisode complet pour plus d'histoires et de conseils sur ce qu'il faut voir.
+
+Autres langues et plus sur Sittard : https://wanderingcities.com/netherlands/sittard/?lang=fr
+
+Sources, entre autres : Wikipédia et Wikivoyage (CC BY-SA 4.0) ainsi que les sites officiels du tourisme, du patrimoine et des musées. La conversation et les voix sont générées par IA.</itunes:summary>
+      <enclosure url="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/episodes/fr/fr-sittard-1528793014-v1.mp3" length="19712066" type="audio/mpeg"/>
+      <guid isPermaLink="false">a25f5654-2448-56b5-b674-e677b807034d</guid>
+      <pubDate>Sun, 15 Nov 2026 07:01:56 +0000</pubDate>
+      <itunes:duration>00:20:24</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Goes : guide de voyage et histoire | L'horloge qui n'a qu'une seule aiguille</title>
       <link>https://wanderingcities.com/netherlands/goes/?lang=fr</link>

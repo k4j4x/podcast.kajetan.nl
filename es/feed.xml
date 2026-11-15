@@ -14,7 +14,27 @@
     <itunes:type>episodic</itunes:type>
     <itunes:category text="Society &amp; Culture"><itunes:category text="Places &amp; Travel"/></itunes:category>
     <itunes:image href="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/cover-es-3000.jpg"/>
-    <lastBuildDate>Sun, 15 Nov 2026 06:32:01 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 15 Nov 2026 07:01:57 +0000</lastBuildDate>
+    <item>
+      <title>Sittard: guía de viaje e historia | Una vida entre cuatro fronteras</title>
+      <link>https://wanderingcities.com/netherlands/sittard/?lang=es</link>
+      <description>Sittard, en los Países Bajos, tiene un pequeño león de piedra en la puerta de la St. Michelskerk: recuerda el día de 1938 en que Asor, un león escapado de un circo, entró en la iglesia en plena misa de Santa Rosa. En 1243, el duque de Limburgo le concedió a la ciudad sus derechos de ciudad. Escucha el episodio completo para más historias y consejos sobre qué ver.
+
+Otros idiomas y más sobre Sittard: https://wanderingcities.com/netherlands/sittard/?lang=es
+
+Fuentes, entre otras: Wikipedia y Wikivoyage (CC BY-SA 4.0) y webs oficiales de turismo, patrimonio y museos. La conversación y las voces están generadas por IA.</description>
+      <itunes:summary>Sittard, en los Países Bajos, tiene un pequeño león de piedra en la puerta de la St. Michelskerk: recuerda el día de 1938 en que Asor, un león escapado de un circo, entró en la iglesia en plena misa de Santa Rosa. En 1243, el duque de Limburgo le concedió a la ciudad sus derechos de ciudad. Escucha el episodio completo para más historias y consejos sobre qué ver.
+
+Otros idiomas y más sobre Sittard: https://wanderingcities.com/netherlands/sittard/?lang=es
+
+Fuentes, entre otras: Wikipedia y Wikivoyage (CC BY-SA 4.0) y webs oficiales de turismo, patrimonio y museos. La conversación y las voces están generadas por IA.</itunes:summary>
+      <enclosure url="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/episodes/es/es-sittard-1528793014-v1.mp3" length="19139985" type="audio/mpeg"/>
+      <guid isPermaLink="false">4f5a9a5f-5268-565a-93fe-2d761e993a18</guid>
+      <pubDate>Sun, 15 Nov 2026 07:01:11 +0000</pubDate>
+      <itunes:duration>00:19:48</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Goes: guía de viaje e historia | La joya oculta de Zelanda</title>
       <link>https://wanderingcities.com/netherlands/goes/?lang=es</link>
