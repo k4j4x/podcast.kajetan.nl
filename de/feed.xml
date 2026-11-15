@@ -14,10 +14,11 @@
     <itunes:type>episodic</itunes:type>
     <itunes:category text="Society &amp; Culture"><itunes:category text="Places &amp; Travel"/></itunes:category>
     <itunes:image href="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/cover-de-3000.jpg"/>
-    <lastBuildDate>Sun, 15 Nov 2026 04:02:01 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 15 Nov 2026 04:26:50 +0000</lastBuildDate>
     <item>
       <title>Goes Reiseführer &amp; Geschichte | Vom Salzhafen zur Einkaufsstadt</title>
       <link>https://wanderingcities.com/netherlands/goes/?lang=de</link>
+      <podcast:transcript url="https://wanderingcities.com/netherlands/goes/transcript-de.txt" type="text/plain" language="de"/>
       <description>Goes, in den Niederlanden, bekam ein Uhrwerk von einem Goldschmied, der als einzigen Lohn ein Häuschen direkt neben dem Rathaus verlangte – die Uhr tickt bis heute. Im Jahr 1572 wateten 3000 spanische Soldaten bei Ebbe kilometerweit durch knietiefen Schlamm der Schelde, um die belagerte Stadt zu retten. In der ganzen Folge gibt es mehr Geschichten und Tipps zu den Sehenswürdigkeiten.
 
 Andere Sprachen und mehr über Goes: https://wanderingcities.com/netherlands/goes/?lang=de

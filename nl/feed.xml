@@ -14,10 +14,11 @@
     <itunes:type>episodic</itunes:type>
     <itunes:category text="Society &amp; Culture"><itunes:category text="Places &amp; Travel"/></itunes:category>
     <itunes:image href="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/cover-nl-3000.jpg"/>
-    <lastBuildDate>Sun, 15 Nov 2026 04:02:01 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 15 Nov 2026 04:26:50 +0000</lastBuildDate>
     <item>
       <title>Goes reisgids &amp; geschiedenis | Van zoutketen tot moderne stad</title>
       <link>https://wanderingcities.com/netherlands/goes/?lang=nl</link>
+      <podcast:transcript url="https://wanderingcities.com/netherlands/goes/transcript-nl.txt" type="text/plain" language="nl"/>
       <description>Goes, in Nederland, heeft een uurwerk zonder secondewijzer dat een zilversmid in 1432 op eigen kosten smeedde; als dank mocht hij een huisje tegen het stadhuis bouwen. In 1554 vatte een houten zoutkeet vlam en joeg een harde noordoostenwind het vuur door de stad, waarna het hele noordwestelijke deel van Goes afbrandde. Luister de hele aflevering voor meer verhalen en tips over wat je moet zien.
 
 Andere talen en meer over Goes: https://wanderingcities.com/netherlands/goes/?lang=nl

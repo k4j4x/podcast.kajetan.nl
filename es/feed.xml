@@ -14,10 +14,11 @@
     <itunes:type>episodic</itunes:type>
     <itunes:category text="Society &amp; Culture"><itunes:category text="Places &amp; Travel"/></itunes:category>
     <itunes:image href="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/cover-es-3000.jpg"/>
-    <lastBuildDate>Sun, 15 Nov 2026 04:02:02 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 15 Nov 2026 04:26:51 +0000</lastBuildDate>
     <item>
       <title>Goes: guía de viaje e historia | La joya oculta de Zelanda</title>
       <link>https://wanderingcities.com/netherlands/goes/?lang=es</link>
+      <podcast:transcript url="https://wanderingcities.com/netherlands/goes/transcript-es.txt" type="text/plain" language="es"/>
       <description>Goes, en los Países Bajos, guarda un reloj de 1432 que el orfebre Jacob pagó de su bolsillo; a cambio de darle cuerda toda su vida, le dejaron construir una casita junto al Ayuntamiento. En 1554, una cabaña de sal ardió con viento del noreste y el fuego destruyó un cuarto de la ciudad. Escucha el episodio completo para más historias y consejos sobre qué ver.
 
 Otros idiomas y más sobre Goes: https://wanderingcities.com/netherlands/goes/?lang=es
