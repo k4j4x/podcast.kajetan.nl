@@ -14,7 +14,27 @@
     <itunes:type>episodic</itunes:type>
     <itunes:category text="Society &amp; Culture"><itunes:category text="Places &amp; Travel"/></itunes:category>
     <itunes:image href="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/cover-3000.jpg"/>
-    <lastBuildDate>Sun, 15 Nov 2026 07:01:56 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 15 Nov 2026 07:31:56 +0000</lastBuildDate>
+    <item>
+      <title>Brielle Travel Guide &amp; History | When Rebels Sparked a Republic</title>
+      <link>https://wanderingcities.com/netherlands/brielle/?lang=en</link>
+      <description>Brielle, in the Netherlands, has a chalk night before April 1st, when teenagers draw on windows, just as rebel sympathizers once chalked the doors of Spanish loyalists. In 1572, storm-blown Sea Beggars smashed the town's north gate with a ship's mast and claimed it for William of Orange. Listen to the full episode for more stories and tips on what to see.
+
+Other languages and more about Brielle: https://wanderingcities.com/netherlands/brielle/?lang=en
+
+Sources include Wikipedia and Wikivoyage (CC BY-SA 4.0) and official tourism, heritage and museum websites. The conversation and voices are AI-generated.</description>
+      <itunes:summary>Brielle, in the Netherlands, has a chalk night before April 1st, when teenagers draw on windows, just as rebel sympathizers once chalked the doors of Spanish loyalists. In 1572, storm-blown Sea Beggars smashed the town's north gate with a ship's mast and claimed it for William of Orange. Listen to the full episode for more stories and tips on what to see.
+
+Other languages and more about Brielle: https://wanderingcities.com/netherlands/brielle/?lang=en
+
+Sources include Wikipedia and Wikivoyage (CC BY-SA 4.0) and official tourism, heritage and museum websites. The conversation and voices are AI-generated.</itunes:summary>
+      <enclosure url="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/episodes/wandering-cities-brielle-1528923467-v1.mp3" length="19482874" type="audio/mpeg"/>
+      <guid isPermaLink="false">1f723026-c19e-56d5-862d-55220b3e400b</guid>
+      <pubDate>Sun, 15 Nov 2026 07:31:55 +0000</pubDate>
+      <itunes:duration>00:20:08</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Sittard Travel Guide &amp; History | When a Lion Walked Into Mass</title>
       <link>https://wanderingcities.com/netherlands/sittard/?lang=en</link>
