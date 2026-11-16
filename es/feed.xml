@@ -14,7 +14,27 @@
     <itunes:type>episodic</itunes:type>
     <itunes:category text="Society &amp; Culture"><itunes:category text="Places &amp; Travel"/></itunes:category>
     <itunes:image href="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/cover-es-3000.jpg"/>
-    <lastBuildDate>Mon, 16 Nov 2026 04:01:57 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 16 Nov 2026 05:31:49 +0000</lastBuildDate>
+    <item>
+      <title>Kaatsheuvel: guía de viaje e historia | El parque que no puede crecer más</title>
+      <link>https://wanderingcities.com/netherlands/kaatsheuvel/?lang=es</link>
+      <description>Kaatsheuvel, en los Países Bajos, tiene un parque temático, Efteling, que por ley no puede pasar de 5 millones de visitantes únicos al año por el nitrógeno que daña las reservas naturales vecinas. En 1853, los zapateros se llevaron el ayuntamiento desde Loon op Zand, con horcas y palos, y tuvo que intervenir la infantería. Escucha el episodio completo para más historias y consejos sobre qué ver.
+
+Otros idiomas y más sobre Kaatsheuvel: https://wanderingcities.com/netherlands/kaatsheuvel/?lang=es
+
+Fuentes, entre otras: Wikipedia y Wikivoyage (CC BY-SA 4.0) y webs oficiales de turismo, patrimonio y museos. La conversación y las voces están generadas por IA.</description>
+      <itunes:summary>Kaatsheuvel, en los Países Bajos, tiene un parque temático, Efteling, que por ley no puede pasar de 5 millones de visitantes únicos al año por el nitrógeno que daña las reservas naturales vecinas. En 1853, los zapateros se llevaron el ayuntamiento desde Loon op Zand, con horcas y palos, y tuvo que intervenir la infantería. Escucha el episodio completo para más historias y consejos sobre qué ver.
+
+Otros idiomas y más sobre Kaatsheuvel: https://wanderingcities.com/netherlands/kaatsheuvel/?lang=es
+
+Fuentes, entre otras: Wikipedia y Wikivoyage (CC BY-SA 4.0) y webs oficiales de turismo, patrimonio y museos. La conversación y las voces están generadas por IA.</itunes:summary>
+      <enclosure url="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/episodes/es/es-kaatsheuvel-1528956627-v1.mp3" length="18280673" type="audio/mpeg"/>
+      <guid isPermaLink="false">43234d2c-656b-547f-8174-78a1eee52c2d</guid>
+      <pubDate>Mon, 16 Nov 2026 05:31:07 +0000</pubDate>
+      <itunes:duration>00:18:55</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Brielle: guía de viaje e historia | El origen accidental de una nación</title>
       <link>https://wanderingcities.com/netherlands/brielle/?lang=es</link>
