@@ -14,7 +14,27 @@
     <itunes:type>episodic</itunes:type>
     <itunes:category text="Society &amp; Culture"><itunes:category text="Places &amp; Travel"/></itunes:category>
     <itunes:image href="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/cover-it-3000.jpg"/>
-    <lastBuildDate>Mon, 16 Nov 2026 06:31:30 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 16 Nov 2026 07:01:14 +0000</lastBuildDate>
+    <item>
+      <title>Oosterbeek: guida di viaggio e storia | Tra impressionismo e Market Garden</title>
+      <link>https://wanderingcities.com/netherlands/oosterbeek/?lang=it</link>
+      <description>Oosterbeek, nei Paesi Bassi: dietro Villa Hartenstein, oggi Airborne Museum, c'è un campo da tennis le cui alte recinzioni furono usate dai britannici per rinchiudere i prigionieri di guerra tedeschi. Nel 1947 l'associazione sportiva della polizia locale avviò l'Airborne March, che ogni primo sabato di settembre riunisce oltre 36.000 partecipanti. Ascolta l'episodio completo per altre storie e consigli su cosa vedere.
+
+Altre lingue e altro su Oosterbeek: https://wanderingcities.com/netherlands/oosterbeek/?lang=it
+
+Fonti, tra le altre: Wikipedia e Wikivoyage (CC BY-SA 4.0) e siti ufficiali di turismo, patrimonio e musei. La conversazione e le voci sono generate dall'IA.</description>
+      <itunes:summary>Oosterbeek, nei Paesi Bassi: dietro Villa Hartenstein, oggi Airborne Museum, c'è un campo da tennis le cui alte recinzioni furono usate dai britannici per rinchiudere i prigionieri di guerra tedeschi. Nel 1947 l'associazione sportiva della polizia locale avviò l'Airborne March, che ogni primo sabato di settembre riunisce oltre 36.000 partecipanti. Ascolta l'episodio completo per altre storie e consigli su cosa vedere.
+
+Altre lingue e altro su Oosterbeek: https://wanderingcities.com/netherlands/oosterbeek/?lang=it
+
+Fonti, tra le altre: Wikipedia e Wikivoyage (CC BY-SA 4.0) e siti ufficiali di turismo, patrimonio e musei. La conversazione e le voci sono generate dall'IA.</itunes:summary>
+      <enclosure url="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/episodes/it/it-oosterbeek-1528999908-v1.mp3" length="16465706" type="audio/mpeg"/>
+      <guid isPermaLink="false">5c92fc5a-99c4-5e07-a97d-3d28b6975b6b</guid>
+      <pubDate>Mon, 16 Nov 2026 07:01:13 +0000</pubDate>
+      <itunes:duration>00:17:01</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Kaatsheuvel: guida di viaggio e storia | Dalle scarpe al bosco delle fiabe</title>
       <link>https://wanderingcities.com/netherlands/kaatsheuvel/?lang=it</link>
