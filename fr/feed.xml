@@ -14,7 +14,27 @@
     <itunes:type>episodic</itunes:type>
     <itunes:category text="Society &amp; Culture"><itunes:category text="Places &amp; Travel"/></itunes:category>
     <itunes:image href="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/cover-fr-3000.jpg"/>
-    <lastBuildDate>Mon, 16 Nov 2026 07:31:28 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 16 Nov 2026 08:01:08 +0000</lastBuildDate>
+    <item>
+      <title>Doesburg : guide de voyage et histoire | Comment le déclin sauva le Moyen Âge</title>
+      <link>https://wanderingcities.com/netherlands/doesburg/?lang=fr</link>
+      <description>Doesburg, aux Pays-Bas, a un café public en activité depuis 1478, où, au Moyen Âge, une partie du salaire des ouvriers était payée en bière, directement sur place, car l'eau était imbuvable. Faute d'argent, la ville, surnommée « la ville malodorante » au XIXe siècle, n'a eu de véritable système d'égout qu'en 1935. Écoutez l'épisode complet pour plus d'histoires et de conseils sur ce qu'il faut voir.
+
+Autres langues et plus sur Doesburg : https://wanderingcities.com/netherlands/doesburg/?lang=fr
+
+Sources, entre autres : Wikipédia et Wikivoyage (CC BY-SA 4.0) ainsi que les sites officiels du tourisme, du patrimoine et des musées. La conversation et les voix sont générées par IA.</description>
+      <itunes:summary>Doesburg, aux Pays-Bas, a un café public en activité depuis 1478, où, au Moyen Âge, une partie du salaire des ouvriers était payée en bière, directement sur place, car l'eau était imbuvable. Faute d'argent, la ville, surnommée « la ville malodorante » au XIXe siècle, n'a eu de véritable système d'égout qu'en 1935. Écoutez l'épisode complet pour plus d'histoires et de conseils sur ce qu'il faut voir.
+
+Autres langues et plus sur Doesburg : https://wanderingcities.com/netherlands/doesburg/?lang=fr
+
+Sources, entre autres : Wikipédia et Wikivoyage (CC BY-SA 4.0) ainsi que les sites officiels du tourisme, du patrimoine et des musées. La conversation et les voix sont générées par IA.</itunes:summary>
+      <enclosure url="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/episodes/fr/fr-doesburg-1528413725-v1.mp3" length="13694297" type="audio/mpeg"/>
+      <guid isPermaLink="false">c76d622d-6a6e-5ef2-a29a-3945496cd07b</guid>
+      <pubDate>Mon, 16 Nov 2026 08:00:30 +0000</pubDate>
+      <itunes:duration>00:14:08</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Oosterbeek : guide de voyage et histoire | Des peintres aux parachutistes</title>
       <link>https://wanderingcities.com/netherlands/oosterbeek/?lang=fr</link>

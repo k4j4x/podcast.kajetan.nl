@@ -14,7 +14,27 @@
     <itunes:type>episodic</itunes:type>
     <itunes:category text="Society &amp; Culture"><itunes:category text="Places &amp; Travel"/></itunes:category>
     <itunes:image href="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/cover-nl-3000.jpg"/>
-    <lastBuildDate>Mon, 16 Nov 2026 07:31:28 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 16 Nov 2026 08:01:08 +0000</lastBuildDate>
+    <item>
+      <title>Doesburg reisgids &amp; geschiedenis | Hoe armoede de middeleeuwen redde</title>
+      <link>https://wanderingcities.com/netherlands/doesburg/?lang=nl</link>
+      <description>Doesburg, in Nederland, heeft met De Waag uit 1478 hoogstwaarschijnlijk het oudste nog werkende café van het land: je drinkt er een biertje waar Hanzekooplieden vroeger hun goederen lieten wegen. In 1945, daags voor de komst van de Canadezen, bliezen terugtrekkende Duitse troepen de 94 meter hoge toren van de Martinikerk op. Luister de hele aflevering voor meer verhalen en tips over wat je moet zien.
+
+Andere talen en meer over Doesburg: https://wanderingcities.com/netherlands/doesburg/?lang=nl
+
+Bronnen o.a. Wikipedia en Wikivoyage (CC BY-SA 4.0) en officiële websites over toerisme, erfgoed en musea. Het gesprek en de stemmen zijn door AI gegenereerd.</description>
+      <itunes:summary>Doesburg, in Nederland, heeft met De Waag uit 1478 hoogstwaarschijnlijk het oudste nog werkende café van het land: je drinkt er een biertje waar Hanzekooplieden vroeger hun goederen lieten wegen. In 1945, daags voor de komst van de Canadezen, bliezen terugtrekkende Duitse troepen de 94 meter hoge toren van de Martinikerk op. Luister de hele aflevering voor meer verhalen en tips over wat je moet zien.
+
+Andere talen en meer over Doesburg: https://wanderingcities.com/netherlands/doesburg/?lang=nl
+
+Bronnen o.a. Wikipedia en Wikivoyage (CC BY-SA 4.0) en officiële websites over toerisme, erfgoed en musea. Het gesprek en de stemmen zijn door AI gegenereerd.</itunes:summary>
+      <enclosure url="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/episodes/nl/nl-doesburg-1528413725-v1.mp3" length="17124280" type="audio/mpeg"/>
+      <guid isPermaLink="false">e60d6f9e-5ef9-5136-8a2c-ccc3baf8e325</guid>
+      <pubDate>Mon, 16 Nov 2026 08:01:07 +0000</pubDate>
+      <itunes:duration>00:17:43</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Oosterbeek reisgids &amp; geschiedenis | Tussen kunst en kogelgaten</title>
       <link>https://wanderingcities.com/netherlands/oosterbeek/?lang=nl</link>
