@@ -14,7 +14,27 @@
     <itunes:type>episodic</itunes:type>
     <itunes:category text="Society &amp; Culture"><itunes:category text="Places &amp; Travel"/></itunes:category>
     <itunes:image href="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/cover-es-3000.jpg"/>
-    <lastBuildDate>Mon, 16 Nov 2026 08:01:08 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 16 Nov 2026 08:31:12 +0000</lastBuildDate>
+    <item>
+      <title>Doesburg: guía de viaje e historia | Cómo la ruina salvó la Edad Media</title>
+      <link>https://wanderingcities.com/netherlands/doesburg/?lang=es</link>
+      <description>Doesburg, en los Países Bajos, tiene la Martinikerk, cuya torre de 94 metros recibió rayos en 1487, 1548 y 1717 y que los alemanes volaron con explosivos el 15 de abril de 1945. En 1701, una ley militar prohibió construir cualquier edificio fuera de las nuevas murallas, y esa prohibición se mantuvo hasta 1923. Escucha el episodio completo para más historias y consejos sobre qué ver.
+
+Otros idiomas y más sobre Doesburg: https://wanderingcities.com/netherlands/doesburg/?lang=es
+
+Fuentes, entre otras: Wikipedia y Wikivoyage (CC BY-SA 4.0) y webs oficiales de turismo, patrimonio y museos. La conversación y las voces están generadas por IA.</description>
+      <itunes:summary>Doesburg, en los Países Bajos, tiene la Martinikerk, cuya torre de 94 metros recibió rayos en 1487, 1548 y 1717 y que los alemanes volaron con explosivos el 15 de abril de 1945. En 1701, una ley militar prohibió construir cualquier edificio fuera de las nuevas murallas, y esa prohibición se mantuvo hasta 1923. Escucha el episodio completo para más historias y consejos sobre qué ver.
+
+Otros idiomas y más sobre Doesburg: https://wanderingcities.com/netherlands/doesburg/?lang=es
+
+Fuentes, entre otras: Wikipedia y Wikivoyage (CC BY-SA 4.0) y webs oficiales de turismo, patrimonio y museos. La conversación y las voces están generadas por IA.</itunes:summary>
+      <enclosure url="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/episodes/es/es-doesburg-1528413725-v1.mp3" length="15940931" type="audio/mpeg"/>
+      <guid isPermaLink="false">7a55b0fd-bcd0-5656-bb39-eb748141cdea</guid>
+      <pubDate>Mon, 16 Nov 2026 08:30:34 +0000</pubDate>
+      <itunes:duration>00:16:28</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Oosterbeek: guía de viaje e historia | Del arte al infierno bélico</title>
       <link>https://wanderingcities.com/netherlands/oosterbeek/?lang=es</link>
