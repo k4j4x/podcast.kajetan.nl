@@ -6,6 +6,17 @@
 <title>Heerlen: history and what to see · Wandering Cities</title>
 <meta name="description" content="Heerlen lies in the far south-east of the Netherlands, in South Limburg, east of Maastricht and north of the German city of Aachen. It is the central town of Parkstad Limburg, a city-region of about 250,000 people. The municipality, which has included Hoensbroek since 1982, had 87,764 inhabitants on">
 <link rel="canonical" href="https://wanderingcities.com/netherlands/heerlen/story/">
+<link rel="alternate" hreflang="en" href="https://wanderingcities.com/netherlands/heerlen/story/">
+<link rel="alternate" hreflang="de" href="https://wanderingcities.com/de/netherlands/heerlen/story/">
+<link rel="alternate" hreflang="nl" href="https://wanderingcities.com/nl/netherlands/heerlen/story/">
+<link rel="alternate" hreflang="fr" href="https://wanderingcities.com/fr/netherlands/heerlen/story/">
+<link rel="alternate" hreflang="es" href="https://wanderingcities.com/es/netherlands/heerlen/story/">
+<link rel="alternate" hreflang="it" href="https://wanderingcities.com/it/netherlands/heerlen/story/">
+<link rel="alternate" hreflang="x-default" href="https://wanderingcities.com/netherlands/heerlen/story/">
+<script>
+window.WC={lang:"en",alt:{"en": "/netherlands/heerlen/story/", "de": "/de/netherlands/heerlen/story/", "nl": "/nl/netherlands/heerlen/story/", "fr": "/fr/netherlands/heerlen/story/", "es": "/es/netherlands/heerlen/story/", "it": "/it/netherlands/heerlen/story/"},fixed:0,go(l,auto){if(!auto)try{localStorage.setItem('wc-lang',l)}catch(e){}const p=new URLSearchParams(location.search);p.delete('lang');const f=p.get('from'),m=f&&f.match(/^\/(?:[a-z]{2}\/)?([a-z0-9-]+\/[a-z0-9-]+\/)$/);if(m)p.set('from',(l==='en'?'/':'/'+l+'/')+m[1]);const h=location.hash.slice(1),s=p.toString(),t=this.alt[l]+(s?'?'+s:'')+(h&&!this.alt[h]?'#'+h:'');auto?location.replace(t):location.href=t}};
+(()=>{const q=new URLSearchParams(location.search).get('lang'),h=location.hash.slice(1);let s=null;try{s=localStorage.getItem('wc-lang')}catch(e){}const l=[q,h,s,(navigator.language||'en').slice(0,2)].find(x=>x&&WC.alt[x]);if(l&&l!=='en')WC.go(l,1)})();
+</script>
 <link rel="alternate" type="application/rss+xml" title="Wandering Cities" href="/feed.xml">
 <meta property="og:title" content="Heerlen: history and what to see · Wandering Cities">
 <meta property="og:description" content="Heerlen lies in the far south-east of the Netherlands, in South Limburg, east of Maastricht and north of the German city of Aachen. It is the central town of Parkstad Limburg, a city-region of about 250,000 people. The municipality, which has included Hoensbroek since 1982, had 87,764 inhabitants on">
@@ -531,7 +542,7 @@ let L=[q,st,nav,'en',langs[0]].find(x=>langs.includes(x));
 function set(l){L=l;sel.value=l;document.getElementById('lc').textContent=l.toUpperCase();document.getElementById('sk').textContent=K[l];
  document.querySelectorAll('section.story').forEach(s=>{s.hidden=s.id!==l});
  const p=new URL(location);if(l===langs[0]&&!q)p.searchParams.delete('lang');else p.searchParams.set('lang',l);history.replaceState(null,'',p)}
-sel.onchange=()=>{try{localStorage.setItem('wc-lang',sel.value)}catch(e){}set(sel.value)};set(L);})();
+sel.onchange=()=>WC.go(sel.value);set(L);})();
 </script>
 </main>
 <footer><p>Sources include Wikipedia and Wikivoyage (CC BY-SA 4.0) and official tourism, heritage and museum websites. The conversation and voices are AI-generated.</p><p><a href="/">All cities</a> · <a href="/about/">About</a> · <a href="/credits/">Image credits</a></p><p class="legal">Text, audio and transcripts © Kajetan Studio. Use for AI training, text and data mining or automated scraping is not permitted (opt-out under Art. 4 EU Directive 2019/790). Photos and map drawings: see the licence shown with each.</p></footer>

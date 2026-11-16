@@ -6,6 +6,17 @@
 <title>Arnhem: history and what to see · Wandering Cities</title>
 <meta name="description" content="Arnhem lies in the east of the Netherlands, about 15 kilometres from the German border, on both banks of the Nederrijn (Lower Rhine). It is the capital of the province of Gelderland and, after Nijmegen, its second city; on 1 January 2024 the municipality had 167,651 inhabitants. The town did not gro">
 <link rel="canonical" href="https://wanderingcities.com/netherlands/arnhem/story/">
+<link rel="alternate" hreflang="en" href="https://wanderingcities.com/netherlands/arnhem/story/">
+<link rel="alternate" hreflang="de" href="https://wanderingcities.com/de/netherlands/arnhem/story/">
+<link rel="alternate" hreflang="nl" href="https://wanderingcities.com/nl/netherlands/arnhem/story/">
+<link rel="alternate" hreflang="fr" href="https://wanderingcities.com/fr/netherlands/arnhem/story/">
+<link rel="alternate" hreflang="es" href="https://wanderingcities.com/es/netherlands/arnhem/story/">
+<link rel="alternate" hreflang="it" href="https://wanderingcities.com/it/netherlands/arnhem/story/">
+<link rel="alternate" hreflang="x-default" href="https://wanderingcities.com/netherlands/arnhem/story/">
+<script>
+window.WC={lang:"en",alt:{"en": "/netherlands/arnhem/story/", "de": "/de/netherlands/arnhem/story/", "nl": "/nl/netherlands/arnhem/story/", "fr": "/fr/netherlands/arnhem/story/", "es": "/es/netherlands/arnhem/story/", "it": "/it/netherlands/arnhem/story/"},fixed:0,go(l,auto){if(!auto)try{localStorage.setItem('wc-lang',l)}catch(e){}const p=new URLSearchParams(location.search);p.delete('lang');const f=p.get('from'),m=f&&f.match(/^\/(?:[a-z]{2}\/)?([a-z0-9-]+\/[a-z0-9-]+\/)$/);if(m)p.set('from',(l==='en'?'/':'/'+l+'/')+m[1]);const h=location.hash.slice(1),s=p.toString(),t=this.alt[l]+(s?'?'+s:'')+(h&&!this.alt[h]?'#'+h:'');auto?location.replace(t):location.href=t}};
+(()=>{const q=new URLSearchParams(location.search).get('lang'),h=location.hash.slice(1);let s=null;try{s=localStorage.getItem('wc-lang')}catch(e){}const l=[q,h,s,(navigator.language||'en').slice(0,2)].find(x=>x&&WC.alt[x]);if(l&&l!=='en')WC.go(l,1)})();
+</script>
 <link rel="alternate" type="application/rss+xml" title="Wandering Cities" href="/feed.xml">
 <meta property="og:title" content="Arnhem: history and what to see · Wandering Cities">
 <meta property="og:description" content="Arnhem lies in the east of the Netherlands, about 15 kilometres from the German border, on both banks of the Nederrijn (Lower Rhine). It is the capital of the province of Gelderland and, after Nijmegen, its second city; on 1 January 2024 the municipality had 167,651 inhabitants. The town did not gro">
@@ -489,7 +500,7 @@ let L=[q,st,nav,'en',langs[0]].find(x=>langs.includes(x));
 function set(l){L=l;sel.value=l;document.getElementById('lc').textContent=l.toUpperCase();document.getElementById('sk').textContent=K[l];
  document.querySelectorAll('section.story').forEach(s=>{s.hidden=s.id!==l});
  const p=new URL(location);if(l===langs[0]&&!q)p.searchParams.delete('lang');else p.searchParams.set('lang',l);history.replaceState(null,'',p)}
-sel.onchange=()=>{try{localStorage.setItem('wc-lang',sel.value)}catch(e){}set(sel.value)};set(L);})();
+sel.onchange=()=>WC.go(sel.value);set(L);})();
 </script>
 </main>
 <footer><p>Sources include Wikipedia and Wikivoyage (CC BY-SA 4.0) and official tourism, heritage and museum websites. The conversation and voices are AI-generated.</p><p><a href="/">All cities</a> · <a href="/about/">About</a> · <a href="/credits/">Image credits</a></p><p class="legal">Text, audio and transcripts © Kajetan Studio. Use for AI training, text and data mining or automated scraping is not permitted (opt-out under Art. 4 EU Directive 2019/790). Photos and map drawings: see the licence shown with each.</p></footer>

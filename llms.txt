@@ -9,6 +9,7 @@ Currently 81 cities, 484 episodes, 74 city maps. Each city has:
 - the podcast episode in every published language, with description and (mostly) transcript: /<country>/<city>/podcast/
 - a map of its highlights with photos and directions (most cities): /<country>/<city>/map/
 - phrases, customs and food for visitors, per country: /<country>/phrases/, /<country>/customs/, /<country>/food/
+- every page above also in German, Dutch, French, Spanish, Italian under /<language>/ (/de/, /nl/, /fr/, /es/, /it/), e.g. /nl/<country>/<city>/podcast/
 
 ## Key pages
 

@@ -6,6 +6,17 @@
 <title>Wandering Cities · City travel guides &amp; history podcast</title>
 <meta name="description" content="City travel guides and history from the Netherlands, one city per episode.">
 <link rel="canonical" href="https://wanderingcities.com/">
+<link rel="alternate" hreflang="en" href="https://wanderingcities.com/">
+<link rel="alternate" hreflang="de" href="https://wanderingcities.com/de/">
+<link rel="alternate" hreflang="nl" href="https://wanderingcities.com/nl/">
+<link rel="alternate" hreflang="fr" href="https://wanderingcities.com/fr/">
+<link rel="alternate" hreflang="es" href="https://wanderingcities.com/es/">
+<link rel="alternate" hreflang="it" href="https://wanderingcities.com/it/">
+<link rel="alternate" hreflang="x-default" href="https://wanderingcities.com/">
+<script>
+window.WC={lang:"en",alt:{"en": "/", "de": "/de/", "nl": "/nl/", "fr": "/fr/", "es": "/es/", "it": "/it/"},fixed:0,go(l,auto){if(!auto)try{localStorage.setItem('wc-lang',l)}catch(e){}const p=new URLSearchParams(location.search);p.delete('lang');const f=p.get('from'),m=f&&f.match(/^\/(?:[a-z]{2}\/)?([a-z0-9-]+\/[a-z0-9-]+\/)$/);if(m)p.set('from',(l==='en'?'/':'/'+l+'/')+m[1]);const h=location.hash.slice(1),s=p.toString(),t=this.alt[l]+(s?'?'+s:'')+(h&&!this.alt[h]?'#'+h:'');auto?location.replace(t):location.href=t}};
+(()=>{const q=new URLSearchParams(location.search).get('lang'),h=location.hash.slice(1);let s=null;try{s=localStorage.getItem('wc-lang')}catch(e){}const l=[q,h,s,(navigator.language||'en').slice(0,2)].find(x=>x&&WC.alt[x]);if(l&&l!=='en')WC.go(l,1)})();
+</script>
 <link rel="alternate" type="application/rss+xml" title="Wandering Cities" href="/feed.xml">
 <meta property="og:title" content="Wandering Cities · City travel guides &amp; history podcast">
 <meta property="og:description" content="City travel guides and history from the Netherlands, one city per episode.">

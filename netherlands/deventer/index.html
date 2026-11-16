@@ -6,6 +6,17 @@
 <title>Deventer travel guide: podcast &amp; map · Wandering Cities</title>
 <meta name="description" content="Deventer: listen to the travel guide &amp; history podcast and explore the map of highlights. Deventer, in the Netherlands, features medieval history around the Brink square and the Lebuïnus Church, offering key things to see when you visit. In the French period, by tradition in 1813, Napoleon&#x27;s soldier">
 <link rel="canonical" href="https://wanderingcities.com/netherlands/deventer/">
+<link rel="alternate" hreflang="en" href="https://wanderingcities.com/netherlands/deventer/">
+<link rel="alternate" hreflang="de" href="https://wanderingcities.com/de/netherlands/deventer/">
+<link rel="alternate" hreflang="nl" href="https://wanderingcities.com/nl/netherlands/deventer/">
+<link rel="alternate" hreflang="fr" href="https://wanderingcities.com/fr/netherlands/deventer/">
+<link rel="alternate" hreflang="es" href="https://wanderingcities.com/es/netherlands/deventer/">
+<link rel="alternate" hreflang="it" href="https://wanderingcities.com/it/netherlands/deventer/">
+<link rel="alternate" hreflang="x-default" href="https://wanderingcities.com/netherlands/deventer/">
+<script>
+window.WC={lang:"en",alt:{"en": "/netherlands/deventer/", "de": "/de/netherlands/deventer/", "nl": "/nl/netherlands/deventer/", "fr": "/fr/netherlands/deventer/", "es": "/es/netherlands/deventer/", "it": "/it/netherlands/deventer/"},fixed:0,go(l,auto){if(!auto)try{localStorage.setItem('wc-lang',l)}catch(e){}const p=new URLSearchParams(location.search);p.delete('lang');const f=p.get('from'),m=f&&f.match(/^\/(?:[a-z]{2}\/)?([a-z0-9-]+\/[a-z0-9-]+\/)$/);if(m)p.set('from',(l==='en'?'/':'/'+l+'/')+m[1]);const h=location.hash.slice(1),s=p.toString(),t=this.alt[l]+(s?'?'+s:'')+(h&&!this.alt[h]?'#'+h:'');auto?location.replace(t):location.href=t}};
+(()=>{const q=new URLSearchParams(location.search).get('lang'),h=location.hash.slice(1);let s=null;try{s=localStorage.getItem('wc-lang')}catch(e){}const l=[q,h,s,(navigator.language||'en').slice(0,2)].find(x=>x&&WC.alt[x]);if(l&&l!=='en')WC.go(l,1)})();
+</script>
 <link rel="alternate" type="application/rss+xml" title="Wandering Cities" href="/feed.xml">
 <meta property="og:title" content="Deventer travel guide: podcast &amp; map · Wandering Cities">
 <meta property="og:description" content="Deventer: listen to the travel guide &amp; history podcast and explore the map of highlights. Deventer, in the Netherlands, features medieval history around the Brink square and the Lebuïnus Church, offering key things to see when you visit. In the French period, by tradition in 1813, Napoleon&#x27;s soldier">
@@ -35,7 +46,7 @@ function set(l){L=l;sel.value=l;document.documentElement.lang=l;document.getElem
  document.querySelectorAll('[data-k]').forEach(el=>{const k=el.dataset.k,t=el.matches('.app')?el.querySelector('b'):el;if(u[k])t.textContent=u[k];
   const s=el.querySelector('em');if(s)s.textContent=u.soon;if(el.dataset.href)el.href=el.dataset.href.replace('{l}',l)});
  const p=new URL(location);if(l===D.langs[0]&&!q)p.searchParams.delete('lang');else p.searchParams.set('lang',l);history.replaceState(null,'',p)}
-sel.onchange=()=>{try{localStorage.setItem('wc-lang',sel.value)}catch(e){}set(sel.value)};set(L);})();
+sel.onchange=()=>WC.go(sel.value);set(L);})();
 </script>
 </main>
 <footer><p>Sources include Wikipedia and Wikivoyage (CC BY-SA 4.0) and official tourism, heritage and museum websites. The conversation and voices are AI-generated.</p><p><a href="/">All cities</a> · <a href="/about/">About</a> · <a href="/credits/">Image credits</a></p><p class="legal">Text, audio and transcripts © Kajetan Studio. Use for AI training, text and data mining or automated scraping is not permitted (opt-out under Art. 4 EU Directive 2019/790). Photos and map drawings: see the licence shown with each.</p></footer>
