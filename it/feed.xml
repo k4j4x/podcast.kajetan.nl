@@ -2,11 +2,11 @@
 <rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:podcast="https://podcastindex.org/namespace/1.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Città Vaganti</title>
-    <link>https://wanderingcities.com/</link>
+    <link>https://wanderingcities.com/it/</link>
     <atom:link href="https://wanderingcities.com/it/feed.xml" rel="self" type="application/rss+xml"/>
     <language>it</language>
-    <description>Guida di viaggio e storia delle città dei Paesi Bassi. Due conduttori curiosi esplorano in ogni episodio una città diversa: come è nata, quali monumenti valgono la visita, cosa assaggiare e per quali feste vale la pena organizzare un viaggio. Dalle grandi città ai piccoli porti, ogni episodio si chiude con consigli pratici per la tua visita. La conversazione e le voci sono generate dall'IA.</description>
-    <itunes:summary>Guida di viaggio e storia delle città dei Paesi Bassi. Due conduttori curiosi esplorano in ogni episodio una città diversa: come è nata, quali monumenti valgono la visita, cosa assaggiare e per quali feste vale la pena organizzare un viaggio. Dalle grandi città ai piccoli porti, ogni episodio si chiude con consigli pratici per la tua visita. La conversazione e le voci sono generate dall'IA.</itunes:summary>
+    <description>Guida di viaggio e storia delle città dei Paesi Bassi. Due conduttori curiosi esplorano in ogni episodio una città diversa: come è nata, quali monumenti valgono la visita, cosa assaggiare e per quali feste vale la pena organizzare un viaggio. Dalle grandi città ai piccoli porti, ogni episodio si chiude con consigli pratici per la tua visita. La conversazione e le voci sono generate dall'IA. Mappe, storie, frasi utili e altro per ogni città: https://wanderingcities.com/it/</description>
+    <itunes:summary>Guida di viaggio e storia delle città dei Paesi Bassi. Due conduttori curiosi esplorano in ogni episodio una città diversa: come è nata, quali monumenti valgono la visita, cosa assaggiare e per quali feste vale la pena organizzare un viaggio. Dalle grandi città ai piccoli porti, ogni episodio si chiude con consigli pratici per la tua visita. La conversazione e le voci sono generate dall'IA. Mappe, storie, frasi utili e altro per ogni città: https://wanderingcities.com/it/</itunes:summary>
     <itunes:subtitle>Guida di viaggio e storia delle città dei Paesi Bassi, una città per episodio.</itunes:subtitle>
     <itunes:author>Città Vaganti</itunes:author>
     <itunes:owner><itunes:name>Kajetan Studio</itunes:name><itunes:email>kaj@wanderingcities.com</itunes:email></itunes:owner>
@@ -14,7 +14,7 @@
     <itunes:type>episodic</itunes:type>
     <itunes:category text="Society &amp; Culture"><itunes:category text="Places &amp; Travel"/></itunes:category>
     <itunes:image href="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/cover-it-3000.jpg"/>
-    <lastBuildDate>Mon, 16 Nov 2026 16:28:53 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 16 Nov 2026 16:44:23 +0000</lastBuildDate>
     <item>
       <title>Doesburg: guida di viaggio e storia | Dal fango ai capolavori di cristallo</title>
       <link>https://wanderingcities.com/it/netherlands/doesburg/</link>

@@ -2,11 +2,11 @@
 <rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:podcast="https://podcastindex.org/namespace/1.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Hörreisen</title>
-    <link>https://wanderingcities.com/</link>
+    <link>https://wanderingcities.com/de/</link>
     <atom:link href="https://wanderingcities.com/de/feed.xml" rel="self" type="application/rss+xml"/>
     <language>de</language>
-    <description>Reiseführer und Geschichte niederländischer Städte. Zwei neugierige Gastgeber erkunden in jeder Folge eine andere Stadt: wie sie entstanden ist, welche Sehenswürdigkeiten sich lohnen, was man probieren sollte und welche Feste eine Reise wert sind. Von Großstädten bis zu kleinen Hafenorten endet jede Folge mit praktischen Tipps für den eigenen Besuch. Gespräch und Stimmen sind KI-generiert.</description>
-    <itunes:summary>Reiseführer und Geschichte niederländischer Städte. Zwei neugierige Gastgeber erkunden in jeder Folge eine andere Stadt: wie sie entstanden ist, welche Sehenswürdigkeiten sich lohnen, was man probieren sollte und welche Feste eine Reise wert sind. Von Großstädten bis zu kleinen Hafenorten endet jede Folge mit praktischen Tipps für den eigenen Besuch. Gespräch und Stimmen sind KI-generiert.</itunes:summary>
+    <description>Reiseführer und Geschichte niederländischer Städte. Zwei neugierige Gastgeber erkunden in jeder Folge eine andere Stadt: wie sie entstanden ist, welche Sehenswürdigkeiten sich lohnen, was man probieren sollte und welche Feste eine Reise wert sind. Von Großstädten bis zu kleinen Hafenorten endet jede Folge mit praktischen Tipps für den eigenen Besuch. Gespräch und Stimmen sind KI-generiert. Karten, Geschichten, Sprachführer und mehr zu jeder Stadt: https://wanderingcities.com/de/</description>
+    <itunes:summary>Reiseführer und Geschichte niederländischer Städte. Zwei neugierige Gastgeber erkunden in jeder Folge eine andere Stadt: wie sie entstanden ist, welche Sehenswürdigkeiten sich lohnen, was man probieren sollte und welche Feste eine Reise wert sind. Von Großstädten bis zu kleinen Hafenorten endet jede Folge mit praktischen Tipps für den eigenen Besuch. Gespräch und Stimmen sind KI-generiert. Karten, Geschichten, Sprachführer und mehr zu jeder Stadt: https://wanderingcities.com/de/</itunes:summary>
     <itunes:subtitle>Reiseführer und Geschichte niederländischer Städte, eine Stadt pro Folge.</itunes:subtitle>
     <itunes:author>Hörreisen</itunes:author>
     <itunes:owner><itunes:name>Kajetan Studio</itunes:name><itunes:email>kaj@wanderingcities.com</itunes:email></itunes:owner>
@@ -14,7 +14,7 @@
     <itunes:type>episodic</itunes:type>
     <itunes:category text="Society &amp; Culture"><itunes:category text="Places &amp; Travel"/></itunes:category>
     <itunes:image href="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/cover-de-3000.jpg"/>
-    <lastBuildDate>Mon, 16 Nov 2026 16:28:53 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 16 Nov 2026 16:44:22 +0000</lastBuildDate>
     <item>
       <title>Doesburg Reiseführer &amp; Geschichte | Wie Armut das Mittelalter rettete</title>
       <link>https://wanderingcities.com/de/netherlands/doesburg/</link>

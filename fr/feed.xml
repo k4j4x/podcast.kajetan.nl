@@ -2,11 +2,11 @@
 <rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:podcast="https://podcastindex.org/namespace/1.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Villes Vagabondes</title>
-    <link>https://wanderingcities.com/</link>
+    <link>https://wanderingcities.com/fr/</link>
     <atom:link href="https://wanderingcities.com/fr/feed.xml" rel="self" type="application/rss+xml"/>
     <language>fr</language>
-    <description>Guide de voyage et histoire des villes des Pays-Bas. Deux animateurs curieux explorent une ville différente à chaque épisode : ses origines, les monuments qui valent le détour, les spécialités à goûter et les fêtes pour lesquelles organiser un voyage. Des grandes villes aux petits ports, chaque épisode se termine par des conseils pratiques pour votre visite. La conversation et les voix sont générées par IA.</description>
-    <itunes:summary>Guide de voyage et histoire des villes des Pays-Bas. Deux animateurs curieux explorent une ville différente à chaque épisode : ses origines, les monuments qui valent le détour, les spécialités à goûter et les fêtes pour lesquelles organiser un voyage. Des grandes villes aux petits ports, chaque épisode se termine par des conseils pratiques pour votre visite. La conversation et les voix sont générées par IA.</itunes:summary>
+    <description>Guide de voyage et histoire des villes des Pays-Bas. Deux animateurs curieux explorent une ville différente à chaque épisode : ses origines, les monuments qui valent le détour, les spécialités à goûter et les fêtes pour lesquelles organiser un voyage. Des grandes villes aux petits ports, chaque épisode se termine par des conseils pratiques pour votre visite. La conversation et les voix sont générées par IA. Cartes, histoires, expressions utiles et plus pour chaque ville : https://wanderingcities.com/fr/</description>
+    <itunes:summary>Guide de voyage et histoire des villes des Pays-Bas. Deux animateurs curieux explorent une ville différente à chaque épisode : ses origines, les monuments qui valent le détour, les spécialités à goûter et les fêtes pour lesquelles organiser un voyage. Des grandes villes aux petits ports, chaque épisode se termine par des conseils pratiques pour votre visite. La conversation et les voix sont générées par IA. Cartes, histoires, expressions utiles et plus pour chaque ville : https://wanderingcities.com/fr/</itunes:summary>
     <itunes:subtitle>Guide de voyage et histoire des villes des Pays-Bas, une ville par épisode.</itunes:subtitle>
     <itunes:author>Villes Vagabondes</itunes:author>
     <itunes:owner><itunes:name>Kajetan Studio</itunes:name><itunes:email>kaj@wanderingcities.com</itunes:email></itunes:owner>
@@ -14,7 +14,7 @@
     <itunes:type>episodic</itunes:type>
     <itunes:category text="Society &amp; Culture"><itunes:category text="Places &amp; Travel"/></itunes:category>
     <itunes:image href="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/cover-fr-3000.jpg"/>
-    <lastBuildDate>Mon, 16 Nov 2026 16:28:53 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 16 Nov 2026 16:44:23 +0000</lastBuildDate>
     <item>
       <title>Doesburg : guide de voyage et histoire | Comment le déclin sauva le Moyen Âge</title>
       <link>https://wanderingcities.com/fr/netherlands/doesburg/</link>
