@@ -5,16 +5,16 @@
     <link>https://wanderingcities.com/</link>
     <atom:link href="https://wanderingcities.com/feed.xml" rel="self" type="application/rss+xml"/>
     <language>en</language>
-    <description>City travel guides and history from the Netherlands. Two curious hosts wander through a different city every episode: how it came to be, the landmarks worth seeing, the food worth trying and the festivals worth planning a trip around. From capitals to small harbour towns, each episode ends with practical tips for your own visit. The conversation and voices are AI-generated. Maps, stories, phrases and more for every city: https://wanderingcities.com/</description>
-    <itunes:summary>City travel guides and history from the Netherlands. Two curious hosts wander through a different city every episode: how it came to be, the landmarks worth seeing, the food worth trying and the festivals worth planning a trip around. From capitals to small harbour towns, each episode ends with practical tips for your own visit. The conversation and voices are AI-generated. Maps, stories, phrases and more for every city: https://wanderingcities.com/</itunes:summary>
-    <itunes:subtitle>City travel guides and history from the Netherlands, one city per episode.</itunes:subtitle>
+    <description>City travel guides and history. Two curious hosts wander through a different city every episode: how it came to be, the landmarks worth seeing, the food worth trying and the festivals worth planning a trip around. From capitals to small harbour towns, each episode ends with practical tips for your own visit. The conversation and voices are AI-generated. Tourism map, story, language guide and more for every city: https://wanderingcities.com/</description>
+    <itunes:summary>City travel guides and history. Two curious hosts wander through a different city every episode: how it came to be, the landmarks worth seeing, the food worth trying and the festivals worth planning a trip around. From capitals to small harbour towns, each episode ends with practical tips for your own visit. The conversation and voices are AI-generated. Tourism map, story, language guide and more for every city: https://wanderingcities.com/</itunes:summary>
+    <itunes:subtitle>City travel guides and history, one city per episode.</itunes:subtitle>
     <itunes:author>Wandering Cities</itunes:author>
     <itunes:owner><itunes:name>Kajetan Studio</itunes:name><itunes:email>kaj@wanderingcities.com</itunes:email></itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <itunes:category text="Society &amp; Culture"><itunes:category text="Places &amp; Travel"/></itunes:category>
     <itunes:image href="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/cover-3000.jpg"/>
-    <lastBuildDate>Mon, 16 Nov 2026 16:44:22 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 16 Nov 2026 16:52:57 +0000</lastBuildDate>
     <item>
       <title>Doesburg Travel Guide &amp; History | How Poverty Saved the Middle Ages</title>
       <link>https://wanderingcities.com/netherlands/doesburg/?lang=en</link>
