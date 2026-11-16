@@ -14,7 +14,27 @@
     <itunes:type>episodic</itunes:type>
     <itunes:category text="Society &amp; Culture"><itunes:category text="Places &amp; Travel"/></itunes:category>
     <itunes:image href="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/cover-nl-3000.jpg"/>
-    <lastBuildDate>Mon, 16 Nov 2026 06:02:08 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 16 Nov 2026 06:31:30 +0000</lastBuildDate>
+    <item>
+      <title>Oosterbeek reisgids &amp; geschiedenis | Tussen kunst en kogelgaten</title>
+      <link>https://wanderingcities.com/netherlands/oosterbeek/?lang=nl</link>
+      <description>Oosterbeek, in Nederland, is een dorp waar in Hotel de Tafelberg zwaargewonde soldaten zonder deugdelijke verdoving werden geopereerd op de massieve biljarttafel in de recreatiezaal. In 1947 begon de Airborne wandeltocht met zo'n 2000 wandelaars; vandaag doen er meer dan 36.000 mensen mee. Luister de hele aflevering voor meer verhalen en tips over wat je moet zien.
+
+Andere talen en meer over Oosterbeek: https://wanderingcities.com/netherlands/oosterbeek/?lang=nl
+
+Bronnen o.a. Wikipedia en Wikivoyage (CC BY-SA 4.0) en officiële websites over toerisme, erfgoed en musea. Het gesprek en de stemmen zijn door AI gegenereerd.</description>
+      <itunes:summary>Oosterbeek, in Nederland, is een dorp waar in Hotel de Tafelberg zwaargewonde soldaten zonder deugdelijke verdoving werden geopereerd op de massieve biljarttafel in de recreatiezaal. In 1947 begon de Airborne wandeltocht met zo'n 2000 wandelaars; vandaag doen er meer dan 36.000 mensen mee. Luister de hele aflevering voor meer verhalen en tips over wat je moet zien.
+
+Andere talen en meer over Oosterbeek: https://wanderingcities.com/netherlands/oosterbeek/?lang=nl
+
+Bronnen o.a. Wikipedia en Wikivoyage (CC BY-SA 4.0) en officiële websites over toerisme, erfgoed en musea. Het gesprek en de stemmen zijn door AI gegenereerd.</itunes:summary>
+      <enclosure url="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/episodes/nl/nl-oosterbeek-1528999908-v1.mp3" length="21708869" type="audio/mpeg"/>
+      <guid isPermaLink="false">525282fd-56fa-5ff7-874f-5aa7a235f849</guid>
+      <pubDate>Mon, 16 Nov 2026 06:31:29 +0000</pubDate>
+      <itunes:duration>00:22:29</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Brielle reisgids &amp; geschiedenis | Hoe de Watergeuzen toesloegen</title>
       <link>https://wanderingcities.com/netherlands/brielle/?lang=nl</link>
