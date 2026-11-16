@@ -14,7 +14,7 @@
     <itunes:type>episodic</itunes:type>
     <itunes:category text="Society &amp; Culture"><itunes:category text="Places &amp; Travel"/></itunes:category>
     <itunes:image href="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/cover-fr-3000.jpg"/>
-    <lastBuildDate>Mon, 16 Nov 2026 02:16:59 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 16 Nov 2026 04:01:56 +0000</lastBuildDate>
     <item>
       <title>Brielle : guide de voyage et histoire | La farce qui fit naître les Pays-Bas</title>
       <link>https://wanderingcities.com/netherlands/brielle/?lang=fr</link>
@@ -38,6 +38,7 @@ Sources, entre autres : Wikipédia et Wikivoyage (CC BY-SA 4.0) ainsi que les si
     <item>
       <title>Sittard : guide de voyage et histoire | Un joyau forgé par les frontières</title>
       <link>https://wanderingcities.com/netherlands/sittard/?lang=fr</link>
+      <podcast:transcript url="https://wanderingcities.com/netherlands/sittard/transcript-fr.txt" type="text/plain" language="fr"/>
       <description>Sittard, aux Pays-Bas, garde près de la porte de l'église Saint-Michel une sculpture du lion Assor, échappé d'un cirque et entré dans la nef en plein office. Le 20 avril 1963, sept garçons et trois filles d'un collège ont décidé de marcher 80 km en moins de 20 heures : la Marche Kennedy était née. Écoutez l'épisode complet pour plus d'histoires et de conseils sur ce qu'il faut voir.
 
 Autres langues et plus sur Sittard : https://wanderingcities.com/netherlands/sittard/?lang=fr

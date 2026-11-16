@@ -14,10 +14,31 @@
     <itunes:type>episodic</itunes:type>
     <itunes:category text="Society &amp; Culture"><itunes:category text="Places &amp; Travel"/></itunes:category>
     <itunes:image href="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/cover-es-3000.jpg"/>
-    <lastBuildDate>Mon, 16 Nov 2026 02:16:59 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 16 Nov 2026 04:01:57 +0000</lastBuildDate>
+    <item>
+      <title>Brielle: guía de viaje e historia | El origen accidental de una nación</title>
+      <link>https://wanderingcities.com/netherlands/brielle/?lang=es</link>
+      <description>Brielle, en los Países Bajos, es donde los mendigos del mar arrancaron el mástil de uno de sus barcos, lo cargaron a hombros y lo usaron como ariete para echar abajo la puerta norte. El 1 de abril de 1572 la ciudad fue la primera de los Países Bajos liberada del dominio español. Escucha el episodio completo para más historias y consejos sobre qué ver.
+
+Otros idiomas y más sobre Brielle: https://wanderingcities.com/netherlands/brielle/?lang=es
+
+Fuentes, entre otras: Wikipedia y Wikivoyage (CC BY-SA 4.0) y webs oficiales de turismo, patrimonio y museos. La conversación y las voces están generadas por IA.</description>
+      <itunes:summary>Brielle, en los Países Bajos, es donde los mendigos del mar arrancaron el mástil de uno de sus barcos, lo cargaron a hombros y lo usaron como ariete para echar abajo la puerta norte. El 1 de abril de 1572 la ciudad fue la primera de los Países Bajos liberada del dominio español. Escucha el episodio completo para más historias y consejos sobre qué ver.
+
+Otros idiomas y más sobre Brielle: https://wanderingcities.com/netherlands/brielle/?lang=es
+
+Fuentes, entre otras: Wikipedia y Wikivoyage (CC BY-SA 4.0) y webs oficiales de turismo, patrimonio y museos. La conversación y las voces están generadas por IA.</itunes:summary>
+      <enclosure url="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/episodes/es/es-brielle-1528923467-v1.mp3" length="25446577" type="audio/mpeg"/>
+      <guid isPermaLink="false">9e3614a0-b0db-5e31-b71d-32fdb0124625</guid>
+      <pubDate>Mon, 16 Nov 2026 04:01:25 +0000</pubDate>
+      <itunes:duration>00:26:22</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Sittard: guía de viaje e historia | Una vida entre cuatro fronteras</title>
       <link>https://wanderingcities.com/netherlands/sittard/?lang=es</link>
+      <podcast:transcript url="https://wanderingcities.com/netherlands/sittard/transcript-es.txt" type="text/plain" language="es"/>
       <description>Sittard, en los Países Bajos, tiene un pequeño león de piedra en la puerta de la St. Michelskerk: recuerda el día de 1938 en que Asor, un león escapado de un circo, entró en la iglesia en plena misa de Santa Rosa. En 1243, el duque de Limburgo le concedió a la ciudad sus derechos de ciudad. Escucha el episodio completo para más historias y consejos sobre qué ver.
 
 Otros idiomas y más sobre Sittard: https://wanderingcities.com/netherlands/sittard/?lang=es

@@ -14,10 +14,11 @@
     <itunes:type>episodic</itunes:type>
     <itunes:category text="Society &amp; Culture"><itunes:category text="Places &amp; Travel"/></itunes:category>
     <itunes:image href="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/cover-de-3000.jpg"/>
-    <lastBuildDate>Mon, 16 Nov 2026 02:16:58 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 16 Nov 2026 04:01:56 +0000</lastBuildDate>
     <item>
       <title>Brielle Reiseführer &amp; Geschichte | Wie Rebellen ein Weltreich stürzten</title>
       <link>https://wanderingcities.com/netherlands/brielle/?lang=de</link>
+      <podcast:transcript url="https://wanderingcities.com/netherlands/brielle/transcript-de.txt" type="text/plain" language="de"/>
       <description>Brielle, in den Niederlanden, wird in der Kalknacht vor dem 1. April mit Kreide bemalt: Jugendliche ziehen durch die Straßen und bemalen Fenster und Mauern, so wie Geusen-Anhänger 1572 die Türen spanientreuer Bürger markierten. Am 1. April 1572 rammten die Wassergeusen das nördliche Tor mit einem abmontierten Schiffsmast auf und nahmen die unbewachte Stadt ein. In der ganzen Folge gibt es mehr Geschichten und Tipps zu den Sehenswürdigkeiten.
 
 Andere Sprachen und mehr über Brielle: https://wanderingcities.com/netherlands/brielle/?lang=de
@@ -38,6 +39,7 @@ Quellen u. a. Wikipedia und Wikivoyage (CC BY-SA 4.0) sowie offizielle Websites 
     <item>
       <title>Sittard Reiseführer &amp; Geschichte | Als ein Löwe die Messe störte</title>
       <link>https://wanderingcities.com/netherlands/sittard/?lang=de</link>
+      <podcast:transcript url="https://wanderingcities.com/netherlands/sittard/transcript-de.txt" type="text/plain" language="de"/>
       <description>Sittard, in den Niederlanden, erlebte Ende August 1938 eine stille Messe, in die plötzlich der Zirkuslöwe Asor spazierte. Er drehte eine friedliche Runde durchs Kirchenschiff und ließ sich problemlos wieder einfangen. 1883 verlieh der Papst der Basilika Unserer Lieben Frau den Titel Basilika Minor, als erster Kirche der Niederlande. In der ganzen Folge gibt es mehr Geschichten und Tipps zu den Sehenswürdigkeiten.
 
 Andere Sprachen und mehr über Sittard: https://wanderingcities.com/netherlands/sittard/?lang=de
