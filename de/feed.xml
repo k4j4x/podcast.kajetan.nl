@@ -14,7 +14,27 @@
     <itunes:type>episodic</itunes:type>
     <itunes:category text="Society &amp; Culture"><itunes:category text="Places &amp; Travel"/></itunes:category>
     <itunes:image href="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/cover-de-3000.jpg"/>
-    <lastBuildDate>Mon, 16 Nov 2026 07:01:13 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 16 Nov 2026 07:31:28 +0000</lastBuildDate>
+    <item>
+      <title>Doesburg Reiseführer &amp; Geschichte | Wie Armut das Mittelalter rettete</title>
+      <link>https://wanderingcities.com/netherlands/doesburg/?lang=de</link>
+      <description>Doesburg, in den Niederlanden, hatte bis 1935 keine funktionierende Kanalisation, und der Gestank in den engen Gassen war so stark, dass die Stadt in der Region spöttisch Smeerburg genannt wurde. Am 15. April 1945 sprengten abziehende deutsche Truppen den 94 Meter hohen Turm der Martinikerk in die Luft. In der ganzen Folge gibt es mehr Geschichten und Tipps zu den Sehenswürdigkeiten.
+
+Andere Sprachen und mehr über Doesburg: https://wanderingcities.com/netherlands/doesburg/?lang=de
+
+Quellen u. a. Wikipedia und Wikivoyage (CC BY-SA 4.0) sowie offizielle Websites für Tourismus, Denkmalpflege und Museen. Gespräch und Stimmen sind KI-generiert.</description>
+      <itunes:summary>Doesburg, in den Niederlanden, hatte bis 1935 keine funktionierende Kanalisation, und der Gestank in den engen Gassen war so stark, dass die Stadt in der Region spöttisch Smeerburg genannt wurde. Am 15. April 1945 sprengten abziehende deutsche Truppen den 94 Meter hohen Turm der Martinikerk in die Luft. In der ganzen Folge gibt es mehr Geschichten und Tipps zu den Sehenswürdigkeiten.
+
+Andere Sprachen und mehr über Doesburg: https://wanderingcities.com/netherlands/doesburg/?lang=de
+
+Quellen u. a. Wikipedia und Wikivoyage (CC BY-SA 4.0) sowie offizielle Websites für Tourismus, Denkmalpflege und Museen. Gespräch und Stimmen sind KI-generiert.</itunes:summary>
+      <enclosure url="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/episodes/de/de-doesburg-1528413725-v1.mp3" length="22840448" type="audio/mpeg"/>
+      <guid isPermaLink="false">eb574f82-b614-5b52-9f60-373013bf528e</guid>
+      <pubDate>Mon, 16 Nov 2026 07:30:49 +0000</pubDate>
+      <itunes:duration>00:23:40</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Oosterbeek Reiseführer &amp; Geschichte | Vom Idyll in den Hexenkessel</title>
       <link>https://wanderingcities.com/netherlands/oosterbeek/?lang=de</link>

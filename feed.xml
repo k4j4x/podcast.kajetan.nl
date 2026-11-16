@@ -14,7 +14,27 @@
     <itunes:type>episodic</itunes:type>
     <itunes:category text="Society &amp; Culture"><itunes:category text="Places &amp; Travel"/></itunes:category>
     <itunes:image href="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/cover-3000.jpg"/>
-    <lastBuildDate>Mon, 16 Nov 2026 07:01:13 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 16 Nov 2026 07:31:28 +0000</lastBuildDate>
+    <item>
+      <title>Doesburg Travel Guide &amp; History | How Poverty Saved the Middle Ages</title>
+      <link>https://wanderingcities.com/netherlands/doesburg/?lang=en</link>
+      <description>Doesburg, in the Netherlands, has a 94-meter church tower that lightning destroyed in 1487, 1548 and 1717, the French burned in 1672, and German troops blew up in 1945, and every time the town rebuilt it. As a fortress city, Doesburg was forbidden to build anything outside its walls until 1923. Listen to the full episode for more stories and tips on what to see.
+
+Other languages and more about Doesburg: https://wanderingcities.com/netherlands/doesburg/?lang=en
+
+Sources include Wikipedia and Wikivoyage (CC BY-SA 4.0) and official tourism, heritage and museum websites. The conversation and voices are AI-generated.</description>
+      <itunes:summary>Doesburg, in the Netherlands, has a 94-meter church tower that lightning destroyed in 1487, 1548 and 1717, the French burned in 1672, and German troops blew up in 1945, and every time the town rebuilt it. As a fortress city, Doesburg was forbidden to build anything outside its walls until 1923. Listen to the full episode for more stories and tips on what to see.
+
+Other languages and more about Doesburg: https://wanderingcities.com/netherlands/doesburg/?lang=en
+
+Sources include Wikipedia and Wikivoyage (CC BY-SA 4.0) and official tourism, heritage and museum websites. The conversation and voices are AI-generated.</itunes:summary>
+      <enclosure url="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/episodes/wandering-cities-doesburg-1528413725-v1.mp3" length="18024201" type="audio/mpeg"/>
+      <guid isPermaLink="false">4412a379-ffbf-51db-b5dd-3e89289c6960</guid>
+      <pubDate>Mon, 16 Nov 2026 07:31:27 +0000</pubDate>
+      <itunes:duration>00:18:37</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Oosterbeek Travel Guide &amp; History | From Luxury Idyll to the Cauldron</title>
       <link>https://wanderingcities.com/netherlands/oosterbeek/?lang=en</link>
