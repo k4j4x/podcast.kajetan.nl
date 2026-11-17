@@ -14,7 +14,27 @@
     <itunes:type>episodic</itunes:type>
     <itunes:category text="Society &amp; Culture"><itunes:category text="Places &amp; Travel"/></itunes:category>
     <itunes:image href="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/cover-nl-3000.jpg"/>
-    <lastBuildDate>Tue, 17 Nov 2026 07:01:36 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 17 Nov 2026 07:31:10 +0000</lastBuildDate>
+    <item>
+      <title>Urk reisgids &amp; geschiedenis | Waarom een eiland een eiland bleef</title>
+      <link>https://wanderingcities.com/nl/netherlands/urk/</link>
+      <description>Urk, in Nederland, kent geen ooievaar: vaders roeien naar de Ommelebommel, een steen in het water, en betalen er een gulden voor een meisje en twee voor een jongen. Sinds de inpoldering in 1939 ligt Urk vast aan de Noord-Oostpolder; de vissers stapten over op grote kotters en visten voortaan op de Noordzee. Luister de hele aflevering voor meer verhalen en tips over wat je moet zien.
+
+Andere talen en meer over Urk: https://wanderingcities.com/nl/netherlands/urk/
+
+Bronnen o.a. Wikipedia en Wikivoyage (CC BY-SA 4.0) en officiële websites over toerisme, erfgoed en musea. Het gesprek en de stemmen zijn door AI gegenereerd.</description>
+      <itunes:summary>Urk, in Nederland, kent geen ooievaar: vaders roeien naar de Ommelebommel, een steen in het water, en betalen er een gulden voor een meisje en twee voor een jongen. Sinds de inpoldering in 1939 ligt Urk vast aan de Noord-Oostpolder; de vissers stapten over op grote kotters en visten voortaan op de Noordzee. Luister de hele aflevering voor meer verhalen en tips over wat je moet zien.
+
+Andere talen en meer over Urk: https://wanderingcities.com/nl/netherlands/urk/
+
+Bronnen o.a. Wikipedia en Wikivoyage (CC BY-SA 4.0) en officiële websites over toerisme, erfgoed en musea. Het gesprek en de stemmen zijn door AI gegenereerd.</itunes:summary>
+      <enclosure url="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/episodes/nl/nl-urk-1528778897-v1.mp3" length="13457102" type="audio/mpeg"/>
+      <guid isPermaLink="false">5141210e-a58c-5313-a489-aaa81be4f73a</guid>
+      <pubDate>Tue, 17 Nov 2026 07:31:09 +0000</pubDate>
+      <itunes:duration>00:13:54</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Heusden reisgids &amp; geschiedenis | Ontsnapt aan de sloophamer</title>
       <link>https://wanderingcities.com/nl/netherlands/heusden/</link>
