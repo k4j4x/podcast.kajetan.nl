@@ -14,7 +14,27 @@
     <itunes:type>episodic</itunes:type>
     <itunes:category text="Society &amp; Culture"><itunes:category text="Places &amp; Travel"/></itunes:category>
     <itunes:image href="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/cover-es-3000.jpg"/>
-    <lastBuildDate>Tue, 17 Nov 2026 09:01:28 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 17 Nov 2026 09:30:52 +0000</lastBuildDate>
+    <item>
+      <title>Franeker: guía de viaje e historia | El sistema solar en el salón</title>
+      <link>https://wanderingcities.com/es/netherlands/franeker/</link>
+      <description>Franeker, en los Países Bajos, guarda el techo donde un esquilador de lana clavó engranajes de madera con dientes de clavos forjados a mano para mover los planetas. En 1774, un panfleto anunció que una alineación de planetas lanzaría la Tierra contra el Sol, y él construyó su maqueta para desmentirlo. Escucha el episodio completo para más historias y consejos sobre qué ver.
+
+Otros idiomas y más sobre Franeker: https://wanderingcities.com/es/netherlands/franeker/
+
+Fuentes, entre otras: Wikipedia y Wikivoyage (CC BY-SA 4.0) y webs oficiales de turismo, patrimonio y museos. La conversación y las voces están generadas por IA.</description>
+      <itunes:summary>Franeker, en los Países Bajos, guarda el techo donde un esquilador de lana clavó engranajes de madera con dientes de clavos forjados a mano para mover los planetas. En 1774, un panfleto anunció que una alineación de planetas lanzaría la Tierra contra el Sol, y él construyó su maqueta para desmentirlo. Escucha el episodio completo para más historias y consejos sobre qué ver.
+
+Otros idiomas y más sobre Franeker: https://wanderingcities.com/es/netherlands/franeker/
+
+Fuentes, entre otras: Wikipedia y Wikivoyage (CC BY-SA 4.0) y webs oficiales de turismo, patrimonio y museos. La conversación y las voces están generadas por IA.</itunes:summary>
+      <enclosure url="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/episodes/es/es-franeker-1528890881-v1.mp3" length="24070227" type="audio/mpeg"/>
+      <guid isPermaLink="false">dbbf7b76-a52b-53d7-88fc-276676528688</guid>
+      <pubDate>Tue, 17 Nov 2026 09:30:51 +0000</pubDate>
+      <itunes:duration>00:24:56</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Urk: guía de viaje e historia | Una isla rodeada de tierra</title>
       <link>https://wanderingcities.com/es/netherlands/urk/</link>
