@@ -14,7 +14,27 @@
     <itunes:type>episodic</itunes:type>
     <itunes:category text="Society &amp; Culture"><itunes:category text="Places &amp; Travel"/></itunes:category>
     <itunes:image href="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/cover-es-3000.jpg"/>
-    <lastBuildDate>Tue, 17 Nov 2026 06:01:10 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 17 Nov 2026 06:31:31 +0000</lastBuildDate>
+    <item>
+      <title>Heusden: guía de viaje e historia | Una fortaleza rescatada del asfalto</title>
+      <link>https://wanderingcities.com/es/netherlands/heusden/</link>
+      <description>Heusden, en los Países Bajos, guardaba 60.000 libras de pólvora en la torre de su castillo hasta que un rayo la alcanzó el 24 de julio de 1680 y el castillo desapareció. En 1968 empezó una restauración de casi 20 años que devolvió la ciudad al mapa de Joan Blau de 1649. Escucha el episodio completo para más historias y consejos sobre qué ver.
+
+Otros idiomas y más sobre Heusden: https://wanderingcities.com/es/netherlands/heusden/
+
+Fuentes, entre otras: Wikipedia y Wikivoyage (CC BY-SA 4.0) y webs oficiales de turismo, patrimonio y museos. La conversación y las voces están generadas por IA.</description>
+      <itunes:summary>Heusden, en los Países Bajos, guardaba 60.000 libras de pólvora en la torre de su castillo hasta que un rayo la alcanzó el 24 de julio de 1680 y el castillo desapareció. En 1968 empezó una restauración de casi 20 años que devolvió la ciudad al mapa de Joan Blau de 1649. Escucha el episodio completo para más historias y consejos sobre qué ver.
+
+Otros idiomas y más sobre Heusden: https://wanderingcities.com/es/netherlands/heusden/
+
+Fuentes, entre otras: Wikipedia y Wikivoyage (CC BY-SA 4.0) y webs oficiales de turismo, patrimonio y museos. La conversación y las voces están generadas por IA.</itunes:summary>
+      <enclosure url="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/episodes/es/es-heusden-1528318846-v1.mp3" length="20305263" type="audio/mpeg"/>
+      <guid isPermaLink="false">b6d1cec2-4674-58fb-868d-ce9e4f23b857</guid>
+      <pubDate>Tue, 17 Nov 2026 06:30:46 +0000</pubDate>
+      <itunes:duration>00:21:01</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Doesburg: guía de viaje e historia | Cómo la ruina salvó la Edad Media</title>
       <link>https://wanderingcities.com/es/netherlands/doesburg/</link>

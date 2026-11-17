@@ -14,7 +14,27 @@
     <itunes:type>episodic</itunes:type>
     <itunes:category text="Society &amp; Culture"><itunes:category text="Places &amp; Travel"/></itunes:category>
     <itunes:image href="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/cover-it-3000.jpg"/>
-    <lastBuildDate>Tue, 17 Nov 2026 06:01:10 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 17 Nov 2026 06:31:31 +0000</lastBuildDate>
+    <item>
+      <title>Heusden: guida di viaggio e storia | La fortezza tornata al 1649</title>
+      <link>https://wanderingcities.com/it/netherlands/heusden/</link>
+      <description>Heusden, nei Paesi Bassi, ha riscavato il porto interrato nel 1904: negli anni 70 le scavatrici hanno tolto migliaia di tonnellate di terra per rispettare una mappa del 1649. Il 24 luglio 1680 un fulmine colpì il mastio del castello, che conteneva 60.000 libbre di polvere da sparo: il castello fu spazzato via. Ascolta l'episodio completo per altre storie e consigli su cosa vedere.
+
+Altre lingue e altro su Heusden: https://wanderingcities.com/it/netherlands/heusden/
+
+Fonti, tra le altre: Wikipedia e Wikivoyage (CC BY-SA 4.0) e siti ufficiali di turismo, patrimonio e musei. La conversazione e le voci sono generate dall'IA.</description>
+      <itunes:summary>Heusden, nei Paesi Bassi, ha riscavato il porto interrato nel 1904: negli anni 70 le scavatrici hanno tolto migliaia di tonnellate di terra per rispettare una mappa del 1649. Il 24 luglio 1680 un fulmine colpì il mastio del castello, che conteneva 60.000 libbre di polvere da sparo: il castello fu spazzato via. Ascolta l'episodio completo per altre storie e consigli su cosa vedere.
+
+Altre lingue e altro su Heusden: https://wanderingcities.com/it/netherlands/heusden/
+
+Fonti, tra le altre: Wikipedia e Wikivoyage (CC BY-SA 4.0) e siti ufficiali di turismo, patrimonio e musei. La conversazione e le voci sono generate dall'IA.</itunes:summary>
+      <enclosure url="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/episodes/it/it-heusden-1528318846-v1.mp3" length="20942039" type="audio/mpeg"/>
+      <guid isPermaLink="false">cbbfb54d-0f3d-57c5-afbe-38637bf6abc2</guid>
+      <pubDate>Tue, 17 Nov 2026 06:31:30 +0000</pubDate>
+      <itunes:duration>00:21:41</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Doesburg: guida di viaggio e storia | Dal fango ai capolavori di cristallo</title>
       <link>https://wanderingcities.com/it/netherlands/doesburg/</link>
