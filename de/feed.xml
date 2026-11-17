@@ -14,7 +14,27 @@
     <itunes:type>episodic</itunes:type>
     <itunes:category text="Society &amp; Culture"><itunes:category text="Places &amp; Travel"/></itunes:category>
     <itunes:image href="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/cover-de-3000.jpg"/>
-    <lastBuildDate>Tue, 17 Nov 2026 06:31:30 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 17 Nov 2026 07:01:36 +0000</lastBuildDate>
+    <item>
+      <title>Urk Reiseführer &amp; Geschichte | Ein Eiland auf dem Trockenen</title>
+      <link>https://wanderingcities.com/de/netherlands/urk/</link>
+      <description>Urk, in den Niederlanden: Kindern erzählte man früher, Babys kämen aus einem Stein etwa 30 Meter vor der Küste – der Vater ruderte nach Schokland für den Schlüssel, ein Mädchen kostete einen Gulden, ein Junge zwei. Am 15. November 1845 wurde der Leuchtturm zum ersten Mal entzündet, nach Jahren mit Sturmflut, Schiffsunglücken und Pocken. In der ganzen Folge gibt es mehr Geschichten und Tipps zu den Sehenswürdigkeiten.
+
+Andere Sprachen und mehr über Urk: https://wanderingcities.com/de/netherlands/urk/
+
+Quellen u. a. Wikipedia und Wikivoyage (CC BY-SA 4.0) sowie offizielle Websites für Tourismus, Denkmalpflege und Museen. Gespräch und Stimmen sind KI-generiert.</description>
+      <itunes:summary>Urk, in den Niederlanden: Kindern erzählte man früher, Babys kämen aus einem Stein etwa 30 Meter vor der Küste – der Vater ruderte nach Schokland für den Schlüssel, ein Mädchen kostete einen Gulden, ein Junge zwei. Am 15. November 1845 wurde der Leuchtturm zum ersten Mal entzündet, nach Jahren mit Sturmflut, Schiffsunglücken und Pocken. In der ganzen Folge gibt es mehr Geschichten und Tipps zu den Sehenswürdigkeiten.
+
+Andere Sprachen und mehr über Urk: https://wanderingcities.com/de/netherlands/urk/
+
+Quellen u. a. Wikipedia und Wikivoyage (CC BY-SA 4.0) sowie offizielle Websites für Tourismus, Denkmalpflege und Museen. Gespräch und Stimmen sind KI-generiert.</itunes:summary>
+      <enclosure url="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/episodes/de/de-urk-1528778897-v1.mp3" length="25507425" type="audio/mpeg"/>
+      <guid isPermaLink="false">06c0680c-d27c-5fa8-95bf-48c9fb6d6e8c</guid>
+      <pubDate>Tue, 17 Nov 2026 07:00:54 +0000</pubDate>
+      <itunes:duration>00:26:27</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Heusden Reiseführer &amp; Geschichte | Rückkehr nach dem Stadtplan von 1649</title>
       <link>https://wanderingcities.com/de/netherlands/heusden/</link>
