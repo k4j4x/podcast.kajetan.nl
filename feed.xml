@@ -14,7 +14,28 @@
     <itunes:type>episodic</itunes:type>
     <itunes:category text="Society &amp; Culture"><itunes:category text="Places &amp; Travel"/></itunes:category>
     <itunes:image href="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/cover-3000.jpg"/>
-    <lastBuildDate>Tue, 17 Nov 2026 04:31:53 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 17 Nov 2026 05:02:08 +0000</lastBuildDate>
+    <item>
+      <title>Texel Travel Guide &amp; History | Royal Silk and a Midnight Mutiny</title>
+      <link>https://wanderingcities.com/netherlands/texel/?lang=en</link>
+      <podcast:transcript url="https://wanderingcities.com/netherlands/texel/transcript-en.txt" type="text/plain" language="en"/>
+      <description>Texel, in the Netherlands, was once famous for Tesselse Groene, a green cheese that got its color and spicy flavor from juice squeezed from boiled sheep dung. In 2014, divers exploring the Palmwood wreck from 1643 pulled up a 400-year-old silk dress, kept whole by the oxygen-free mud. Listen to the full episode for more stories and tips on what to see.
+
+Other languages and more about Texel: https://wanderingcities.com/netherlands/texel/?lang=en
+
+Sources include Wikipedia and Wikivoyage (CC BY-SA 4.0) and official tourism, heritage and museum websites. The conversation and voices are AI-generated.</description>
+      <itunes:summary>Texel, in the Netherlands, was once famous for Tesselse Groene, a green cheese that got its color and spicy flavor from juice squeezed from boiled sheep dung. In 2014, divers exploring the Palmwood wreck from 1643 pulled up a 400-year-old silk dress, kept whole by the oxygen-free mud. Listen to the full episode for more stories and tips on what to see.
+
+Other languages and more about Texel: https://wanderingcities.com/netherlands/texel/?lang=en
+
+Sources include Wikipedia and Wikivoyage (CC BY-SA 4.0) and official tourism, heritage and museum websites. The conversation and voices are AI-generated.</itunes:summary>
+      <enclosure url="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/episodes/wandering-cities-texel-1528999909-v1.mp3" length="21661277" type="audio/mpeg"/>
+      <guid isPermaLink="false">69dc68f0-036b-593d-81a0-85fc99ccc54e</guid>
+      <pubDate>Tue, 17 Nov 2026 05:02:08 +0000</pubDate>
+      <itunes:duration>00:22:24</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Heusden Travel Guide &amp; History | Rebuilt from a 1649 Map</title>
       <link>https://wanderingcities.com/netherlands/heusden/?lang=en</link>
@@ -154,10 +175,10 @@ Sources include Wikipedia and Wikivoyage (CC BY-SA 4.0) and official tourism, he
 Other languages and more about Wageningen: https://wanderingcities.com/netherlands/wageningen/?lang=en
 
 Sources include Wikipedia and Wikivoyage (CC BY-SA 4.0) and official tourism, heritage and museum websites. The conversation and voices are AI-generated.</itunes:summary>
-      <enclosure url="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/episodes/wandering-cities-wageningen-1528070340-v1.mp3" length="19419350" type="audio/mpeg"/>
+      <enclosure url="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/episodes/wandering-cities-wageningen-1528070340-v2.mp3" length="20302498" type="audio/mpeg"/>
       <guid isPermaLink="false">bd25e474-7655-5afc-9ee9-1e34af9048f1</guid>
       <pubDate>Sat, 14 Nov 2026 09:31:50 +0000</pubDate>
-      <itunes:duration>00:20:04</itunes:duration>
+      <itunes:duration>00:20:59</itunes:duration>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>false</itunes:explicit>
     </item>
