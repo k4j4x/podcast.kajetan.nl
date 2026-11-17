@@ -14,10 +14,31 @@
     <itunes:type>episodic</itunes:type>
     <itunes:category text="Society &amp; Culture"><itunes:category text="Places &amp; Travel"/></itunes:category>
     <itunes:image href="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/cover-3000.jpg"/>
-    <lastBuildDate>Tue, 17 Nov 2026 02:20:27 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 17 Nov 2026 04:31:53 +0000</lastBuildDate>
+    <item>
+      <title>Heusden Travel Guide &amp; History | Rebuilt from a 1649 Map</title>
+      <link>https://wanderingcities.com/netherlands/heusden/?lang=en</link>
+      <description>Heusden, in the Netherlands, took apart an old windmill from another town and rebuilt it on its own walls in the 1970s, just so the skyline would match a 1649 map. On July 24, 1680, lightning struck the castle keep, where 60,000 pounds of gunpowder were stored, and the explosion vaporized the castle. Listen to the full episode for more stories and tips on what to see.
+
+Other languages and more about Heusden: https://wanderingcities.com/netherlands/heusden/?lang=en
+
+Sources include Wikipedia and Wikivoyage (CC BY-SA 4.0) and official tourism, heritage and museum websites. The conversation and voices are AI-generated.</description>
+      <itunes:summary>Heusden, in the Netherlands, took apart an old windmill from another town and rebuilt it on its own walls in the 1970s, just so the skyline would match a 1649 map. On July 24, 1680, lightning struck the castle keep, where 60,000 pounds of gunpowder were stored, and the explosion vaporized the castle. Listen to the full episode for more stories and tips on what to see.
+
+Other languages and more about Heusden: https://wanderingcities.com/netherlands/heusden/?lang=en
+
+Sources include Wikipedia and Wikivoyage (CC BY-SA 4.0) and official tourism, heritage and museum websites. The conversation and voices are AI-generated.</itunes:summary>
+      <enclosure url="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/episodes/wandering-cities-heusden-1528318846-v1.mp3" length="19214537" type="audio/mpeg"/>
+      <guid isPermaLink="false">172d7387-caf9-519f-9368-231d9b9b2d22</guid>
+      <pubDate>Tue, 17 Nov 2026 04:31:52 +0000</pubDate>
+      <itunes:duration>00:19:51</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Doesburg Travel Guide &amp; History | How Poverty Saved the Middle Ages</title>
       <link>https://wanderingcities.com/netherlands/doesburg/?lang=en</link>
+      <podcast:transcript url="https://wanderingcities.com/netherlands/doesburg/transcript-en.txt" type="text/plain" language="en"/>
       <description>Doesburg, in the Netherlands, has a 94-meter church tower that lightning destroyed in 1487, 1548 and 1717, the French burned in 1672, and German troops blew up in 1945, and every time the town rebuilt it. As a fortress city, Doesburg was forbidden to build anything outside its walls until 1923. Listen to the full episode for more stories and tips on what to see.
 
 Other languages and more about Doesburg: https://wanderingcities.com/netherlands/doesburg/?lang=en
@@ -38,6 +59,7 @@ Sources include Wikipedia and Wikivoyage (CC BY-SA 4.0) and official tourism, he
     <item>
       <title>Oosterbeek Travel Guide &amp; History | From Luxury Idyll to the Cauldron</title>
       <link>https://wanderingcities.com/netherlands/oosterbeek/?lang=en</link>
+      <podcast:transcript url="https://wanderingcities.com/netherlands/oosterbeek/transcript-en.txt" type="text/plain" language="en"/>
       <description>Oosterbeek, in the Netherlands, is where British troops in 1944 held over 200 German prisoners in the clay tennis courts behind Villa Hartinstein, because the clay let them dig trenches against mortar fire from their own army. In 1947 the local police sports association started the Airborne March to trace the liberators' footsteps. Listen to the full episode for more stories and tips on what to see.
 
 Other languages and more about Oosterbeek: https://wanderingcities.com/netherlands/oosterbeek/?lang=en

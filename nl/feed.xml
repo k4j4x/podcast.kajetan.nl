@@ -14,10 +14,11 @@
     <itunes:type>episodic</itunes:type>
     <itunes:category text="Society &amp; Culture"><itunes:category text="Places &amp; Travel"/></itunes:category>
     <itunes:image href="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/cover-nl-3000.jpg"/>
-    <lastBuildDate>Tue, 17 Nov 2026 02:20:27 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 17 Nov 2026 04:31:54 +0000</lastBuildDate>
     <item>
       <title>Doesburg reisgids &amp; geschiedenis | Hoe armoede de middeleeuwen redde</title>
       <link>https://wanderingcities.com/nl/netherlands/doesburg/</link>
+      <podcast:transcript url="https://wanderingcities.com/netherlands/doesburg/transcript-nl.txt" type="text/plain" language="nl"/>
       <description>Doesburg, in Nederland, heeft met De Waag uit 1478 hoogstwaarschijnlijk het oudste nog werkende café van het land: je drinkt er een biertje waar Hanzekooplieden vroeger hun goederen lieten wegen. In 1945, daags voor de komst van de Canadezen, bliezen terugtrekkende Duitse troepen de 94 meter hoge toren van de Martinikerk op. Luister de hele aflevering voor meer verhalen en tips over wat je moet zien.
 
 Andere talen en meer over Doesburg: https://wanderingcities.com/nl/netherlands/doesburg/
@@ -38,6 +39,7 @@ Bronnen o.a. Wikipedia en Wikivoyage (CC BY-SA 4.0) en officiële websites over 
     <item>
       <title>Oosterbeek reisgids &amp; geschiedenis | Tussen kunst en kogelgaten</title>
       <link>https://wanderingcities.com/nl/netherlands/oosterbeek/</link>
+      <podcast:transcript url="https://wanderingcities.com/netherlands/oosterbeek/transcript-nl.txt" type="text/plain" language="nl"/>
       <description>Oosterbeek, in Nederland, is een dorp waar in Hotel de Tafelberg zwaargewonde soldaten zonder deugdelijke verdoving werden geopereerd op de massieve biljarttafel in de recreatiezaal. In 1947 begon de Airborne wandeltocht met zo'n 2000 wandelaars; vandaag doen er meer dan 36.000 mensen mee. Luister de hele aflevering voor meer verhalen en tips over wat je moet zien.
 
 Andere talen en meer over Oosterbeek: https://wanderingcities.com/nl/netherlands/oosterbeek/

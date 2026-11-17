@@ -14,10 +14,31 @@
     <itunes:type>episodic</itunes:type>
     <itunes:category text="Society &amp; Culture"><itunes:category text="Places &amp; Travel"/></itunes:category>
     <itunes:image href="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/cover-de-3000.jpg"/>
-    <lastBuildDate>Tue, 17 Nov 2026 02:20:27 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 17 Nov 2026 04:31:53 +0000</lastBuildDate>
+    <item>
+      <title>Heusden Reiseführer &amp; Geschichte | Rückkehr nach dem Stadtplan von 1649</title>
+      <link>https://wanderingcities.com/de/netherlands/heusden/</link>
+      <description>Heusden, in den Niederlanden: Ein Blitz schlug in den Burgturm ein, in dem 60.000 Pfund Schießpulver lagerten, und die Explosion löschte die ganze Burg aus. Ab 1968 baute man die heruntergekommene Altstadt nach einem Stadtplan des Amsterdamer Kartografen Johan Blau von 1649 wieder auf, statt sie für Hochhäuser abzureißen. In der ganzen Folge gibt es mehr Geschichten und Tipps zu den Sehenswürdigkeiten.
+
+Andere Sprachen und mehr über Heusden: https://wanderingcities.com/de/netherlands/heusden/
+
+Quellen u. a. Wikipedia und Wikivoyage (CC BY-SA 4.0) sowie offizielle Websites für Tourismus, Denkmalpflege und Museen. Gespräch und Stimmen sind KI-generiert.</description>
+      <itunes:summary>Heusden, in den Niederlanden: Ein Blitz schlug in den Burgturm ein, in dem 60.000 Pfund Schießpulver lagerten, und die Explosion löschte die ganze Burg aus. Ab 1968 baute man die heruntergekommene Altstadt nach einem Stadtplan des Amsterdamer Kartografen Johan Blau von 1649 wieder auf, statt sie für Hochhäuser abzureißen. In der ganzen Folge gibt es mehr Geschichten und Tipps zu den Sehenswürdigkeiten.
+
+Andere Sprachen und mehr über Heusden: https://wanderingcities.com/de/netherlands/heusden/
+
+Quellen u. a. Wikipedia und Wikivoyage (CC BY-SA 4.0) sowie offizielle Websites für Tourismus, Denkmalpflege und Museen. Gespräch und Stimmen sind KI-generiert.</itunes:summary>
+      <enclosure url="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/episodes/de/de-heusden-1528318846-v1.mp3" length="16042346" type="audio/mpeg"/>
+      <guid isPermaLink="false">44a93b0e-22cc-5b02-9304-58be68c0e8b9</guid>
+      <pubDate>Tue, 17 Nov 2026 04:30:50 +0000</pubDate>
+      <itunes:duration>00:16:35</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Doesburg Reiseführer &amp; Geschichte | Wie Armut das Mittelalter rettete</title>
       <link>https://wanderingcities.com/de/netherlands/doesburg/</link>
+      <podcast:transcript url="https://wanderingcities.com/netherlands/doesburg/transcript-de.txt" type="text/plain" language="de"/>
       <description>Doesburg, in den Niederlanden, hatte bis 1935 keine funktionierende Kanalisation, und der Gestank in den engen Gassen war so stark, dass die Stadt in der Region spöttisch Smeerburg genannt wurde. Am 15. April 1945 sprengten abziehende deutsche Truppen den 94 Meter hohen Turm der Martinikerk in die Luft. In der ganzen Folge gibt es mehr Geschichten und Tipps zu den Sehenswürdigkeiten.
 
 Andere Sprachen und mehr über Doesburg: https://wanderingcities.com/de/netherlands/doesburg/
@@ -38,6 +59,7 @@ Quellen u. a. Wikipedia und Wikivoyage (CC BY-SA 4.0) sowie offizielle Websites 
     <item>
       <title>Oosterbeek Reiseführer &amp; Geschichte | Vom Idyll in den Hexenkessel</title>
       <link>https://wanderingcities.com/de/netherlands/oosterbeek/</link>
+      <podcast:transcript url="https://wanderingcities.com/netherlands/oosterbeek/transcript-de.txt" type="text/plain" language="de"/>
       <description>Oosterbeek, in den Niederlanden, hatte hinter der Villa Hartenstein einen Tennisplatz, auf dem britische Soldaten im September 1944 über 200 deutsche Gefangene festhielten und ihnen Schaufeln gaben, um Schützengräben in den roten Sand zu graben. 1947 organisierte der Polizeisportverein Renkum einen Gedenkmarsch mit knapp 2000 Teilnehmern; heute marschieren über 36.000 Menschen mit. In der ganzen Folge gibt es mehr Geschichten und Tipps zu den Sehenswürdigkeiten.
 
 Andere Sprachen und mehr über Oosterbeek: https://wanderingcities.com/de/netherlands/oosterbeek/
