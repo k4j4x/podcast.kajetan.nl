@@ -14,7 +14,7 @@
     <itunes:type>episodic</itunes:type>
     <itunes:category text="Society &amp; Culture"><itunes:category text="Places &amp; Travel"/></itunes:category>
     <itunes:image href="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/cover-it-3000.jpg"/>
-    <lastBuildDate>Tue, 17 Nov 2026 05:18:55 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 17 Nov 2026 05:33:35 +0000</lastBuildDate>
     <item>
       <title>Doesburg: guida di viaggio e storia | Dal fango ai capolavori di cristallo</title>
       <link>https://wanderingcities.com/it/netherlands/doesburg/</link>
@@ -113,10 +113,10 @@ Fonti, tra le altre: Wikipedia e Wikivoyage (CC BY-SA 4.0) e siti ufficiali di t
 Altre lingue e altro su Sittard: https://wanderingcities.com/it/netherlands/sittard/
 
 Fonti, tra le altre: Wikipedia e Wikivoyage (CC BY-SA 4.0) e siti ufficiali di turismo, patrimonio e musei. La conversazione e le voci sono generate dall'IA.</itunes:summary>
-      <enclosure url="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/episodes/it/it-sittard-1528793014-v1.mp3" length="18499074" type="audio/mpeg"/>
+      <enclosure url="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/episodes/it/it-sittard-1528793014-v2.mp3" length="24941915" type="audio/mpeg"/>
       <guid isPermaLink="false">834c85ba-49ce-5cde-aa72-cc1ebc8f8acb</guid>
       <pubDate>Sun, 15 Nov 2026 07:31:10 +0000</pubDate>
-      <itunes:duration>00:19:08</itunes:duration>
+      <itunes:duration>00:25:51</itunes:duration>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>false</itunes:explicit>
     </item>
@@ -155,10 +155,10 @@ Fonti, tra le altre: Wikipedia e Wikivoyage (CC BY-SA 4.0) e siti ufficiali di t
 Altre lingue e altro su Wageningen: https://wanderingcities.com/it/netherlands/wageningen/
 
 Fonti, tra le altre: Wikipedia e Wikivoyage (CC BY-SA 4.0) e siti ufficiali di turismo, patrimonio e musei. La conversazione e le voci sono generate dall'IA.</itunes:summary>
-      <enclosure url="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/episodes/it/it-wageningen-1528070340-v1.mp3" length="15502365" type="audio/mpeg"/>
+      <enclosure url="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/episodes/it/it-wageningen-1528070340-v2.mp3" length="17366881" type="audio/mpeg"/>
       <guid isPermaLink="false">4ca7c532-18db-5665-a841-a23326dc857d</guid>
       <pubDate>Sat, 14 Nov 2026 10:32:00 +0000</pubDate>
-      <itunes:duration>00:16:01</itunes:duration>
+      <itunes:duration>00:17:58</itunes:duration>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>false</itunes:explicit>
     </item>

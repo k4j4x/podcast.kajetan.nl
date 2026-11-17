@@ -14,7 +14,7 @@
     <itunes:type>episodic</itunes:type>
     <itunes:category text="Society &amp; Culture"><itunes:category text="Places &amp; Travel"/></itunes:category>
     <itunes:image href="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/cover-fr-3000.jpg"/>
-    <lastBuildDate>Tue, 17 Nov 2026 05:18:55 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 17 Nov 2026 05:33:34 +0000</lastBuildDate>
     <item>
       <title>Doesburg : guide de voyage et histoire | Comment le déclin sauva le Moyen Âge</title>
       <link>https://wanderingcities.com/fr/netherlands/doesburg/</link>
@@ -113,10 +113,10 @@ Sources, entre autres : Wikipédia et Wikivoyage (CC BY-SA 4.0) ainsi que les si
 Autres langues et plus sur Goes : https://wanderingcities.com/fr/netherlands/goes/
 
 Sources, entre autres : Wikipédia et Wikivoyage (CC BY-SA 4.0) ainsi que les sites officiels du tourisme, du patrimoine et des musées. La conversation et les voix sont générées par IA.</itunes:summary>
-      <enclosure url="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/episodes/fr/fr-goes-1528134132-v1.mp3" length="20056391" type="audio/mpeg"/>
+      <enclosure url="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/episodes/fr/fr-goes-1528134132-v2.mp3" length="19681064" type="audio/mpeg"/>
       <guid isPermaLink="false">dbe15096-caaf-58ea-a6b9-f8c8be683210</guid>
       <pubDate>Sun, 15 Nov 2026 03:32:19 +0000</pubDate>
-      <itunes:duration>00:20:46</itunes:duration>
+      <itunes:duration>00:20:22</itunes:duration>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>false</itunes:explicit>
     </item>
