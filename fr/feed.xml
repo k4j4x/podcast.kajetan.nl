@@ -14,7 +14,27 @@
     <itunes:type>episodic</itunes:type>
     <itunes:category text="Society &amp; Culture"><itunes:category text="Places &amp; Travel"/></itunes:category>
     <itunes:image href="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/cover-fr-3000.jpg"/>
-    <lastBuildDate>Tue, 17 Nov 2026 05:33:34 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 17 Nov 2026 06:01:10 +0000</lastBuildDate>
+    <item>
+      <title>Heusden : guide de voyage et histoire | Renaissance d'une forteresse étoilée</title>
+      <link>https://wanderingcities.com/fr/netherlands/heusden/</link>
+      <description>Heusden, aux Pays-Bas, a une confiserie qui transforme la Zuiderwaterlinie, une ligne de défense qui inondait les champs pour arrêter les armées, en bonbon au chocolat praliné. Dans la nuit du 4 au 5 novembre 1944, les Allemands ont fait sauter la tour de l'hôtel de ville, tuant 134 personnes abritées dans les caves, dont 74 enfants. Écoutez l'épisode complet pour plus d'histoires et de conseils sur ce qu'il faut voir.
+
+Autres langues et plus sur Heusden : https://wanderingcities.com/fr/netherlands/heusden/
+
+Sources, entre autres : Wikipédia et Wikivoyage (CC BY-SA 4.0) ainsi que les sites officiels du tourisme, du patrimoine et des musées. La conversation et les voix sont générées par IA.</description>
+      <itunes:summary>Heusden, aux Pays-Bas, a une confiserie qui transforme la Zuiderwaterlinie, une ligne de défense qui inondait les champs pour arrêter les armées, en bonbon au chocolat praliné. Dans la nuit du 4 au 5 novembre 1944, les Allemands ont fait sauter la tour de l'hôtel de ville, tuant 134 personnes abritées dans les caves, dont 74 enfants. Écoutez l'épisode complet pour plus d'histoires et de conseils sur ce qu'il faut voir.
+
+Autres langues et plus sur Heusden : https://wanderingcities.com/fr/netherlands/heusden/
+
+Sources, entre autres : Wikipédia et Wikivoyage (CC BY-SA 4.0) ainsi que les sites officiels du tourisme, du patrimoine et des musées. La conversation et les voix sont générées par IA.</itunes:summary>
+      <enclosure url="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/episodes/fr/fr-heusden-1528318846-v1.mp3" length="20604832" type="audio/mpeg"/>
+      <guid isPermaLink="false">2bd6e13e-28a9-50d2-95bf-a89f9e1aec73</guid>
+      <pubDate>Tue, 17 Nov 2026 06:00:44 +0000</pubDate>
+      <itunes:duration>00:21:20</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Doesburg : guide de voyage et histoire | Comment le déclin sauva le Moyen Âge</title>
       <link>https://wanderingcities.com/fr/netherlands/doesburg/</link>

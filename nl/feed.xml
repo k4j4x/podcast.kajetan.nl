@@ -14,7 +14,27 @@
     <itunes:type>episodic</itunes:type>
     <itunes:category text="Society &amp; Culture"><itunes:category text="Places &amp; Travel"/></itunes:category>
     <itunes:image href="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/cover-nl-3000.jpg"/>
-    <lastBuildDate>Tue, 17 Nov 2026 05:33:34 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 17 Nov 2026 06:01:10 +0000</lastBuildDate>
+    <item>
+      <title>Heusden reisgids &amp; geschiedenis | Ontsnapt aan de sloophamer</title>
+      <link>https://wanderingcities.com/nl/netherlands/heusden/</link>
+      <description>Heusden, in Nederland, heeft aan de haven drie standaardmolens die er een tijd niet meer stonden; voor molen 1 gebruikten ze onderdelen van een sloopmolen uit het Belgische Lommel. Op 24 juli 1680 sloeg de bliksem in de kasteeltoren met 60.000 pond buskruit, en het hele kasteel werd weggevaagd. Luister de hele aflevering voor meer verhalen en tips over wat je moet zien.
+
+Andere talen en meer over Heusden: https://wanderingcities.com/nl/netherlands/heusden/
+
+Bronnen o.a. Wikipedia en Wikivoyage (CC BY-SA 4.0) en officiële websites over toerisme, erfgoed en musea. Het gesprek en de stemmen zijn door AI gegenereerd.</description>
+      <itunes:summary>Heusden, in Nederland, heeft aan de haven drie standaardmolens die er een tijd niet meer stonden; voor molen 1 gebruikten ze onderdelen van een sloopmolen uit het Belgische Lommel. Op 24 juli 1680 sloeg de bliksem in de kasteeltoren met 60.000 pond buskruit, en het hele kasteel werd weggevaagd. Luister de hele aflevering voor meer verhalen en tips over wat je moet zien.
+
+Andere talen en meer over Heusden: https://wanderingcities.com/nl/netherlands/heusden/
+
+Bronnen o.a. Wikipedia en Wikivoyage (CC BY-SA 4.0) en officiële websites over toerisme, erfgoed en musea. Het gesprek en de stemmen zijn door AI gegenereerd.</itunes:summary>
+      <enclosure url="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/episodes/nl/nl-heusden-1528318846-v1.mp3" length="11220599" type="audio/mpeg"/>
+      <guid isPermaLink="false">cd2abbc3-025d-55d0-843f-0c28f79a589a</guid>
+      <pubDate>Tue, 17 Nov 2026 06:01:09 +0000</pubDate>
+      <itunes:duration>00:11:34</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Doesburg reisgids &amp; geschiedenis | Hoe armoede de middeleeuwen redde</title>
       <link>https://wanderingcities.com/nl/netherlands/doesburg/</link>
