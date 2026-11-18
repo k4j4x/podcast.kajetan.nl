@@ -14,7 +14,27 @@
     <itunes:type>episodic</itunes:type>
     <itunes:category text="Society &amp; Culture"><itunes:category text="Places &amp; Travel"/></itunes:category>
     <itunes:image href="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/cover-3000.jpg"/>
-    <lastBuildDate>Wed, 18 Nov 2026 09:01:54 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 18 Nov 2026 09:32:29 +0000</lastBuildDate>
+    <item>
+      <title>Westerbork Travel Guide &amp; History | Village Peace and Dark Shadows</title>
+      <link>https://wanderingcities.com/netherlands/westerbork/?lang=en</link>
+      <description>Westerbork, in the Netherlands, has a field of 102,000 stones beside 14 radio telescopes so sensitive that motor vehicles are banned near the former camp: one spark from a car's ignition can disrupt their data. The Dutch government built the camp in 1939 to house German Jews fleeing Nazi Germany. Listen to the full episode for more stories and tips on what to see.
+
+Other languages and more about Westerbork: https://wanderingcities.com/netherlands/westerbork/?lang=en
+
+Sources include Wikipedia and Wikivoyage (CC BY-SA 4.0) and official tourism, heritage and museum websites. The conversation and voices are AI-generated.</description>
+      <itunes:summary>Westerbork, in the Netherlands, has a field of 102,000 stones beside 14 radio telescopes so sensitive that motor vehicles are banned near the former camp: one spark from a car's ignition can disrupt their data. The Dutch government built the camp in 1939 to house German Jews fleeing Nazi Germany. Listen to the full episode for more stories and tips on what to see.
+
+Other languages and more about Westerbork: https://wanderingcities.com/netherlands/westerbork/?lang=en
+
+Sources include Wikipedia and Wikivoyage (CC BY-SA 4.0) and official tourism, heritage and museum websites. The conversation and voices are AI-generated.</itunes:summary>
+      <enclosure url="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/episodes/wandering-cities-westerbork-1528999914-v1.mp3" length="21020549" type="audio/mpeg"/>
+      <guid isPermaLink="false">24a33643-8c62-554e-9547-4391d53f5f6a</guid>
+      <pubDate>Wed, 18 Nov 2026 09:32:29 +0000</pubDate>
+      <itunes:duration>00:21:44</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Muiden Travel Guide &amp; History | The Myth of Amsterdam Castle</title>
       <link>https://wanderingcities.com/netherlands/muiden/?lang=en</link>
