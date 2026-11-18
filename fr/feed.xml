@@ -14,10 +14,11 @@
     <itunes:type>episodic</itunes:type>
     <itunes:category text="Society &amp; Culture"><itunes:category text="Places &amp; Travel"/></itunes:category>
     <itunes:image href="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/cover-fr-3000.jpg"/>
-    <lastBuildDate>Wed, 18 Nov 2026 03:34:21 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 18 Nov 2026 04:58:06 +0000</lastBuildDate>
     <item>
       <title>Franeker : guide de voyage et histoire | Un système solaire dans le salon</title>
       <link>https://wanderingcities.com/fr/netherlands/franeker/</link>
+      <podcast:transcript url="https://wanderingcities.com/netherlands/franeker/transcript-fr.txt" type="text/plain" language="fr"/>
       <description>Franeker, aux Pays-Bas, garde le salon où un peigneur de laine a suspendu au plafond, dès 1774, un système solaire en clous et bois de chêne, pour prouver à ses voisins paniqués que la Terre n'allait pas tomber dans le soleil. En 1811, Napoléon Bonaparte a fermé l'université de la ville, fondée en 1585. Écoutez l'épisode complet pour plus d'histoires et de conseils sur ce qu'il faut voir.
 
 Autres langues et plus sur Franeker : https://wanderingcities.com/fr/netherlands/franeker/
@@ -38,6 +39,7 @@ Sources, entre autres : Wikipédia et Wikivoyage (CC BY-SA 4.0) ainsi que les si
     <item>
       <title>Urk : guide de voyage et histoire | Une île de pêcheurs sans la mer</title>
       <link>https://wanderingcities.com/fr/netherlands/urk/</link>
+      <podcast:transcript url="https://wanderingcities.com/netherlands/urk/transcript-fr.txt" type="text/plain" language="fr"/>
       <description>Urk, aux Pays-Bas : pendant la guerre, le gardien du phare, résistant, a éteint la lumière et un navire allemand chargé de 226 cloches volées s'est échoué sur le récif de De Vormt. En 1660, Amsterdam a acheté l'île d'Urk et a fait enfoncer des milliers de troncs d'arbres autour pour briser les vagues. Écoutez l'épisode complet pour plus d'histoires et de conseils sur ce qu'il faut voir.
 
 Autres langues et plus sur Urk : https://wanderingcities.com/fr/netherlands/urk/
@@ -58,6 +60,7 @@ Sources, entre autres : Wikipédia et Wikivoyage (CC BY-SA 4.0) ainsi que les si
     <item>
       <title>Heusden : guide de voyage et histoire | Renaissance d'une forteresse étoilée</title>
       <link>https://wanderingcities.com/fr/netherlands/heusden/</link>
+      <podcast:transcript url="https://wanderingcities.com/netherlands/heusden/transcript-fr.txt" type="text/plain" language="fr"/>
       <description>Heusden, aux Pays-Bas, a une confiserie qui transforme la Zuiderwaterlinie, une ligne de défense qui inondait les champs pour arrêter les armées, en bonbon au chocolat praliné. Dans la nuit du 4 au 5 novembre 1944, les Allemands ont fait sauter la tour de l'hôtel de ville, tuant 134 personnes abritées dans les caves, dont 74 enfants. Écoutez l'épisode complet pour plus d'histoires et de conseils sur ce qu'il faut voir.
 
 Autres langues et plus sur Heusden : https://wanderingcities.com/fr/netherlands/heusden/

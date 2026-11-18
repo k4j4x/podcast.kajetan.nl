@@ -14,10 +14,11 @@
     <itunes:type>episodic</itunes:type>
     <itunes:category text="Society &amp; Culture"><itunes:category text="Places &amp; Travel"/></itunes:category>
     <itunes:image href="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/cover-es-3000.jpg"/>
-    <lastBuildDate>Wed, 18 Nov 2026 03:34:21 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 18 Nov 2026 04:58:06 +0000</lastBuildDate>
     <item>
       <title>Franeker: guía de viaje e historia | El sistema solar en el salón</title>
       <link>https://wanderingcities.com/es/netherlands/franeker/</link>
+      <podcast:transcript url="https://wanderingcities.com/netherlands/franeker/transcript-es.txt" type="text/plain" language="es"/>
       <description>Franeker, en los Países Bajos, guarda el techo donde un esquilador de lana clavó engranajes de madera con dientes de clavos forjados a mano para mover los planetas. En 1774, un panfleto anunció que una alineación de planetas lanzaría la Tierra contra el Sol, y él construyó su maqueta para desmentirlo. Escucha el episodio completo para más historias y consejos sobre qué ver.
 
 Otros idiomas y más sobre Franeker: https://wanderingcities.com/es/netherlands/franeker/
@@ -38,6 +39,7 @@ Fuentes, entre otras: Wikipedia y Wikivoyage (CC BY-SA 4.0) y webs oficiales de 
     <item>
       <title>Urk: guía de viaje e historia | Una isla rodeada de tierra</title>
       <link>https://wanderingcities.com/es/netherlands/urk/</link>
+      <podcast:transcript url="https://wanderingcities.com/netherlands/urk/transcript-es.txt" type="text/plain" language="es"/>
       <description>Urk, en los Países Bajos, tiene el único faro del país cuya luz gira en sentido antihorario, para que los capitanes lo reconocieran de noche. Hasta 1939 Urk fue una isla; ese año se construyó un dique desde Lemer y se bombeó el agua del mar a su alrededor. Escucha el episodio completo para más historias y consejos sobre qué ver.
 
 Otros idiomas y más sobre Urk: https://wanderingcities.com/es/netherlands/urk/

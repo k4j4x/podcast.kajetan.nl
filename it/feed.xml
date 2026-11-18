@@ -14,10 +14,11 @@
     <itunes:type>episodic</itunes:type>
     <itunes:category text="Society &amp; Culture"><itunes:category text="Places &amp; Travel"/></itunes:category>
     <itunes:image href="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/cover-it-3000.jpg"/>
-    <lastBuildDate>Wed, 18 Nov 2026 03:34:21 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 18 Nov 2026 04:58:06 +0000</lastBuildDate>
     <item>
       <title>Urk: guida di viaggio e storia | Un'isola olandese senza mare</title>
       <link>https://wanderingcities.com/it/netherlands/urk/</link>
+      <podcast:transcript url="https://wanderingcities.com/netherlands/urk/transcript-it.txt" type="text/plain" language="it"/>
       <description>Urk, nei Paesi Bassi, ha un faro il cui guardiano, durante l'occupazione, spense la luce: una nave tedesca carica di 226 campane rubate alle chiese olandesi si incagliò su de Vorm. Il faro, del 1844, gira in senso antiorario, unico in Olanda, ed è automatico solo dal 1988. Ascolta l'episodio completo per altre storie e consigli su cosa vedere.
 
 Altre lingue e altro su Urk: https://wanderingcities.com/it/netherlands/urk/
@@ -38,6 +39,7 @@ Fonti, tra le altre: Wikipedia e Wikivoyage (CC BY-SA 4.0) e siti ufficiali di t
     <item>
       <title>Heusden: guida di viaggio e storia | La fortezza tornata al 1649</title>
       <link>https://wanderingcities.com/it/netherlands/heusden/</link>
+      <podcast:transcript url="https://wanderingcities.com/netherlands/heusden/transcript-it.txt" type="text/plain" language="it"/>
       <description>Heusden, nei Paesi Bassi, ha riscavato il porto interrato nel 1904: negli anni 70 le scavatrici hanno tolto migliaia di tonnellate di terra per rispettare una mappa del 1649. Il 24 luglio 1680 un fulmine colpì il mastio del castello, che conteneva 60.000 libbre di polvere da sparo: il castello fu spazzato via. Ascolta l'episodio completo per altre storie e consigli su cosa vedere.
 
 Altre lingue e altro su Heusden: https://wanderingcities.com/it/netherlands/heusden/

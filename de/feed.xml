@@ -14,10 +14,11 @@
     <itunes:type>episodic</itunes:type>
     <itunes:category text="Society &amp; Culture"><itunes:category text="Places &amp; Travel"/></itunes:category>
     <itunes:image href="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/cover-de-3000.jpg"/>
-    <lastBuildDate>Wed, 18 Nov 2026 03:34:21 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 18 Nov 2026 04:58:06 +0000</lastBuildDate>
     <item>
       <title>Franeker Reiseführer &amp; Geschichte | Das Sonnensystem im Wohnzimmer</title>
       <link>https://wanderingcities.com/de/netherlands/franeker/</link>
+      <podcast:transcript url="https://wanderingcities.com/netherlands/franeker/transcript-de.txt" type="text/plain" language="de"/>
       <description>Franeker, in den Niederlanden, ist die Stadt, in der Wollkämmerer Eise Eisinger über seinem Ehebett ein funktionierendes Modell des Sonnensystems an die Wohnzimmerdecke baute, um den Nachbarn zu beweisen, dass die Erde nicht in die Sonne stürzt. 1585 schenkte Wilhelm von Oranien der Stadt eine eigene Universität, die Napoleon 1811 schloss. In der ganzen Folge gibt es mehr Geschichten und Tipps zu den Sehenswürdigkeiten.
 
 Andere Sprachen und mehr über Franeker: https://wanderingcities.com/de/netherlands/franeker/
@@ -38,6 +39,7 @@ Quellen u. a. Wikipedia und Wikivoyage (CC BY-SA 4.0) sowie offizielle Websites 
     <item>
       <title>Urk Reiseführer &amp; Geschichte | Ein Eiland auf dem Trockenen</title>
       <link>https://wanderingcities.com/de/netherlands/urk/</link>
+      <podcast:transcript url="https://wanderingcities.com/netherlands/urk/transcript-de.txt" type="text/plain" language="de"/>
       <description>Urk, in den Niederlanden: Kindern erzählte man früher, Babys kämen aus einem Stein etwa 30 Meter vor der Küste – der Vater ruderte nach Schokland für den Schlüssel, ein Mädchen kostete einen Gulden, ein Junge zwei. Am 15. November 1845 wurde der Leuchtturm zum ersten Mal entzündet, nach Jahren mit Sturmflut, Schiffsunglücken und Pocken. In der ganzen Folge gibt es mehr Geschichten und Tipps zu den Sehenswürdigkeiten.
 
 Andere Sprachen und mehr über Urk: https://wanderingcities.com/de/netherlands/urk/

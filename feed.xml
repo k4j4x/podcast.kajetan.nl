@@ -14,10 +14,11 @@
     <itunes:type>episodic</itunes:type>
     <itunes:category text="Society &amp; Culture"><itunes:category text="Places &amp; Travel"/></itunes:category>
     <itunes:image href="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/cover-3000.jpg"/>
-    <lastBuildDate>Wed, 18 Nov 2026 03:34:20 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 18 Nov 2026 04:58:05 +0000</lastBuildDate>
     <item>
       <title>Franeker Travel Guide &amp; History | The Living Room Planetarium</title>
       <link>https://wanderingcities.com/netherlands/franeker/?lang=en</link>
+      <podcast:transcript url="https://wanderingcities.com/netherlands/franeker/transcript-en.txt" type="text/plain" language="en"/>
       <description>Franeker, in the Netherlands, is where a wool comber built a ticking model of the solar system into his bedroom ceiling, its planets slowly orbiting above the marital bed. In 1774 a local reverend's booklet predicted a planetary alignment would hurl Earth into the sun, so he built it to prove the Earth was safe. Listen to the full episode for more stories and tips on what to see.
 
 Other languages and more about Franeker: https://wanderingcities.com/netherlands/franeker/?lang=en
@@ -38,6 +39,7 @@ Sources include Wikipedia and Wikivoyage (CC BY-SA 4.0) and official tourism, he
     <item>
       <title>Urk Travel Guide &amp; History | An Island Without a Sea</title>
       <link>https://wanderingcities.com/netherlands/urk/?lang=en</link>
+      <podcast:transcript url="https://wanderingcities.com/netherlands/urk/transcript-en.txt" type="text/plain" language="en"/>
       <description>Urk, in the Netherlands, tells children babies come from a rock in the sea: fathers row to Schokland for the key, dive to an underwater door and pay one guilder for a girl, two for a boy. In 2010, skulls that a mainland doctor stole from Urk's graveyard were returned in a church ceremony. Listen to the full episode for more stories and tips on what to see.
 
 Other languages and more about Urk: https://wanderingcities.com/netherlands/urk/?lang=en
@@ -79,6 +81,7 @@ Sources include Wikipedia and Wikivoyage (CC BY-SA 4.0) and official tourism, he
     <item>
       <title>Heusden Travel Guide &amp; History | Rebuilt from a 1649 Map</title>
       <link>https://wanderingcities.com/netherlands/heusden/?lang=en</link>
+      <podcast:transcript url="https://wanderingcities.com/netherlands/heusden/transcript-en.txt" type="text/plain" language="en"/>
       <description>Heusden, in the Netherlands, took apart an old windmill from another town and rebuilt it on its own walls in the 1970s, just so the skyline would match a 1649 map. On July 24, 1680, lightning struck the castle keep, where 60,000 pounds of gunpowder were stored, and the explosion vaporized the castle. Listen to the full episode for more stories and tips on what to see.
 
 Other languages and more about Heusden: https://wanderingcities.com/netherlands/heusden/?lang=en
