@@ -14,7 +14,27 @@
     <itunes:type>episodic</itunes:type>
     <itunes:category text="Society &amp; Culture"><itunes:category text="Places &amp; Travel"/></itunes:category>
     <itunes:image href="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/cover-de-3000.jpg"/>
-    <lastBuildDate>Wed, 18 Nov 2026 07:32:02 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 18 Nov 2026 08:01:41 +0000</lastBuildDate>
+    <item>
+      <title>Texel Reiseführer &amp; Geschichte | Die größte Stadt der Niederlande</title>
+      <link>https://wanderingcities.com/de/netherlands/texel/</link>
+      <description>Texel, in den Niederlanden, gab es im 16. und 17. Jahrhundert den Tesselse Groene, einen grünen Schafskäse, für den man Schafskot in Leinen auskochte und den grünen Sud in die Schafsmilch tropfte. 1858 brach der Sanddeich an der Westküste bei einer Sturmflut durch; weil die Lücke nie geschlossen wurde, entstand die Salzwiese De Slufter. In der ganzen Folge gibt es mehr Geschichten und Tipps zu den Sehenswürdigkeiten.
+
+Andere Sprachen und mehr über Texel: https://wanderingcities.com/de/netherlands/texel/
+
+Quellen u. a. Wikipedia und Wikivoyage (CC BY-SA 4.0) sowie offizielle Websites für Tourismus, Denkmalpflege und Museen. Gespräch und Stimmen sind KI-generiert.</description>
+      <itunes:summary>Texel, in den Niederlanden, gab es im 16. und 17. Jahrhundert den Tesselse Groene, einen grünen Schafskäse, für den man Schafskot in Leinen auskochte und den grünen Sud in die Schafsmilch tropfte. 1858 brach der Sanddeich an der Westküste bei einer Sturmflut durch; weil die Lücke nie geschlossen wurde, entstand die Salzwiese De Slufter. In der ganzen Folge gibt es mehr Geschichten und Tipps zu den Sehenswürdigkeiten.
+
+Andere Sprachen und mehr über Texel: https://wanderingcities.com/de/netherlands/texel/
+
+Quellen u. a. Wikipedia und Wikivoyage (CC BY-SA 4.0) sowie offizielle Websites für Tourismus, Denkmalpflege und Museen. Gespräch und Stimmen sind KI-generiert.</itunes:summary>
+      <enclosure url="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/episodes/de/de-texel-1528999909-v1.mp3" length="20812502" type="audio/mpeg"/>
+      <guid isPermaLink="false">45442a76-5c33-56f2-a16e-912f3a7aaf54</guid>
+      <pubDate>Wed, 18 Nov 2026 08:00:46 +0000</pubDate>
+      <itunes:duration>00:21:33</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Muiden Reiseführer &amp; Geschichte | Amsterdams Waffe aus Wasser</title>
       <link>https://wanderingcities.com/de/netherlands/muiden/</link>
