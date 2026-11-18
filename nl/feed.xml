@@ -14,7 +14,27 @@
     <itunes:type>episodic</itunes:type>
     <itunes:category text="Society &amp; Culture"><itunes:category text="Places &amp; Travel"/></itunes:category>
     <itunes:image href="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/cover-nl-3000.jpg"/>
-    <lastBuildDate>Wed, 18 Nov 2026 08:01:41 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 18 Nov 2026 08:31:28 +0000</lastBuildDate>
+    <item>
+      <title>Texel reisgids &amp; geschiedenis | De grootste stad van Nederland</title>
+      <link>https://wanderingcities.com/nl/netherlands/texel/</link>
+      <description>Texel, in Nederland, maakte in de 16e en 17e eeuw groene kaas, gekleurd en op smaak gebracht met het sap van gekookte schapenkeutels. Op 6 april 1945 kwamen Georgische soldaten in Duits uniform op het eiland in opstand tegen hun Duitse commandanten; de gevechten duurden tot 20 mei, weken na de formele vrede. Luister de hele aflevering voor meer verhalen en tips over wat je moet zien.
+
+Andere talen en meer over Texel: https://wanderingcities.com/nl/netherlands/texel/
+
+Bronnen o.a. Wikipedia en Wikivoyage (CC BY-SA 4.0) en officiële websites over toerisme, erfgoed en musea. Het gesprek en de stemmen zijn door AI gegenereerd.</description>
+      <itunes:summary>Texel, in Nederland, maakte in de 16e en 17e eeuw groene kaas, gekleurd en op smaak gebracht met het sap van gekookte schapenkeutels. Op 6 april 1945 kwamen Georgische soldaten in Duits uniform op het eiland in opstand tegen hun Duitse commandanten; de gevechten duurden tot 20 mei, weken na de formele vrede. Luister de hele aflevering voor meer verhalen en tips over wat je moet zien.
+
+Andere talen en meer over Texel: https://wanderingcities.com/nl/netherlands/texel/
+
+Bronnen o.a. Wikipedia en Wikivoyage (CC BY-SA 4.0) en officiële websites over toerisme, erfgoed en musea. Het gesprek en de stemmen zijn door AI gegenereerd.</itunes:summary>
+      <enclosure url="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/episodes/nl/nl-texel-1528999909-v1.mp3" length="18821188" type="audio/mpeg"/>
+      <guid isPermaLink="false">13915a78-ff80-5e67-a8c9-68682b6a0a14</guid>
+      <pubDate>Wed, 18 Nov 2026 08:31:27 +0000</pubDate>
+      <itunes:duration>00:19:29</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Muiden reisgids &amp; geschiedenis | De poortwachter van de hoofdstad</title>
       <link>https://wanderingcities.com/nl/netherlands/muiden/</link>
