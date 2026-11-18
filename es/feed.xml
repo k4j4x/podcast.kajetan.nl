@@ -14,7 +14,27 @@
     <itunes:type>episodic</itunes:type>
     <itunes:category text="Society &amp; Culture"><itunes:category text="Places &amp; Travel"/></itunes:category>
     <itunes:image href="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/cover-es-3000.jpg"/>
-    <lastBuildDate>Wed, 18 Nov 2026 08:31:29 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 18 Nov 2026 09:01:54 +0000</lastBuildDate>
+    <item>
+      <title>Texel: guía de viaje e historia | Naufragios reales y la última batalla</title>
+      <link>https://wanderingcities.com/es/netherlands/texel/</link>
+      <description>Texel, en los Países Bajos, tenía un queso verde de oveja cuyo ingrediente estabilizador era jugo hervido de estiércol de oveja, que le daba un sabor picante y un tinte verdoso. En 1170, la inundación de Todos los Santos rompió las barreras de turba y arena y separó Texel del continente. Escucha el episodio completo para más historias y consejos sobre qué ver.
+
+Otros idiomas y más sobre Texel: https://wanderingcities.com/es/netherlands/texel/
+
+Fuentes, entre otras: Wikipedia y Wikivoyage (CC BY-SA 4.0) y webs oficiales de turismo, patrimonio y museos. La conversación y las voces están generadas por IA.</description>
+      <itunes:summary>Texel, en los Países Bajos, tenía un queso verde de oveja cuyo ingrediente estabilizador era jugo hervido de estiércol de oveja, que le daba un sabor picante y un tinte verdoso. En 1170, la inundación de Todos los Santos rompió las barreras de turba y arena y separó Texel del continente. Escucha el episodio completo para más historias y consejos sobre qué ver.
+
+Otros idiomas y más sobre Texel: https://wanderingcities.com/es/netherlands/texel/
+
+Fuentes, entre otras: Wikipedia y Wikivoyage (CC BY-SA 4.0) y webs oficiales de turismo, patrimonio y museos. La conversación y las voces están generadas por IA.</itunes:summary>
+      <enclosure url="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/episodes/es/es-texel-1528999909-v1.mp3" length="24546295" type="audio/mpeg"/>
+      <guid isPermaLink="false">b656c2a5-1ba1-5a2f-99a4-fbd1c4765a5e</guid>
+      <pubDate>Wed, 18 Nov 2026 09:01:01 +0000</pubDate>
+      <itunes:duration>00:25:26</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Muiden: guía de viaje e historia | El escudo de agua de Ámsterdam</title>
       <link>https://wanderingcities.com/es/netherlands/muiden/</link>
