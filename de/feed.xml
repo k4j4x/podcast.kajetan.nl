@@ -14,7 +14,7 @@
     <itunes:type>episodic</itunes:type>
     <itunes:category text="Society &amp; Culture"><itunes:category text="Places &amp; Travel"/></itunes:category>
     <itunes:image href="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/cover-de-3000.jpg"/>
-    <lastBuildDate>Wed, 18 Nov 2026 03:08:50 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 18 Nov 2026 03:34:21 +0000</lastBuildDate>
     <item>
       <title>Franeker Reiseführer &amp; Geschichte | Das Sonnensystem im Wohnzimmer</title>
       <link>https://wanderingcities.com/de/netherlands/franeker/</link>
@@ -58,6 +58,7 @@ Quellen u. a. Wikipedia und Wikivoyage (CC BY-SA 4.0) sowie offizielle Websites 
     <item>
       <title>Heusden Reiseführer &amp; Geschichte | Rückkehr nach dem Stadtplan von 1649</title>
       <link>https://wanderingcities.com/de/netherlands/heusden/</link>
+      <podcast:transcript url="https://wanderingcities.com/netherlands/heusden/transcript-de.txt" type="text/plain" language="de"/>
       <description>Heusden, in den Niederlanden: Ein Blitz schlug in den Burgturm ein, in dem 60.000 Pfund Schießpulver lagerten, und die Explosion löschte die ganze Burg aus. Ab 1968 baute man die heruntergekommene Altstadt nach einem Stadtplan des Amsterdamer Kartografen Johan Blau von 1649 wieder auf, statt sie für Hochhäuser abzureißen. In der ganzen Folge gibt es mehr Geschichten und Tipps zu den Sehenswürdigkeiten.
 
 Andere Sprachen und mehr über Heusden: https://wanderingcities.com/de/netherlands/heusden/
