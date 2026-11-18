@@ -14,7 +14,27 @@
     <itunes:type>episodic</itunes:type>
     <itunes:category text="Society &amp; Culture"><itunes:category text="Places &amp; Travel"/></itunes:category>
     <itunes:image href="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/cover-de-3000.jpg"/>
-    <lastBuildDate>Wed, 18 Nov 2026 06:31:29 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 18 Nov 2026 07:00:49 +0000</lastBuildDate>
+    <item>
+      <title>Muiden Reiseführer &amp; Geschichte | Amsterdams Waffe aus Wasser</title>
+      <link>https://wanderingcities.com/de/netherlands/muiden/</link>
+      <description>Muiden, in den Niederlanden: Hier ließ Graf Floris V. eine schwere Eisenkette quer über die Vecht spannen, Handelsschiffe prallten dagegen und kamen erst nach Zahlung des Zolls weiter. Im Rampjahr 1672 fluteten die Niederländer über die Schleusen von Muiden ihr Land knietief, sodass die Truppen Ludwigs XIV. im Schlamm stecken blieben. In der ganzen Folge gibt es mehr Geschichten und Tipps zu den Sehenswürdigkeiten.
+
+Andere Sprachen und mehr über Muiden: https://wanderingcities.com/de/netherlands/muiden/
+
+Quellen u. a. Wikipedia und Wikivoyage (CC BY-SA 4.0) sowie offizielle Websites für Tourismus, Denkmalpflege und Museen. Gespräch und Stimmen sind KI-generiert.</description>
+      <itunes:summary>Muiden, in den Niederlanden: Hier ließ Graf Floris V. eine schwere Eisenkette quer über die Vecht spannen, Handelsschiffe prallten dagegen und kamen erst nach Zahlung des Zolls weiter. Im Rampjahr 1672 fluteten die Niederländer über die Schleusen von Muiden ihr Land knietief, sodass die Truppen Ludwigs XIV. im Schlamm stecken blieben. In der ganzen Folge gibt es mehr Geschichten und Tipps zu den Sehenswürdigkeiten.
+
+Andere Sprachen und mehr über Muiden: https://wanderingcities.com/de/netherlands/muiden/
+
+Quellen u. a. Wikipedia und Wikivoyage (CC BY-SA 4.0) sowie offizielle Websites für Tourismus, Denkmalpflege und Museen. Gespräch und Stimmen sind KI-generiert.</itunes:summary>
+      <enclosure url="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/episodes/de/de-muiden-1528999912-v1.mp3" length="22761438" type="audio/mpeg"/>
+      <guid isPermaLink="false">fa19a8e3-c04d-5157-8ae5-242b0db66830</guid>
+      <pubDate>Wed, 18 Nov 2026 07:00:49 +0000</pubDate>
+      <itunes:duration>00:23:35</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Franeker Reiseführer &amp; Geschichte | Das Sonnensystem im Wohnzimmer</title>
       <link>https://wanderingcities.com/de/netherlands/franeker/</link>
