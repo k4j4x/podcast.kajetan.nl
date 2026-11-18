@@ -14,7 +14,27 @@
     <itunes:type>episodic</itunes:type>
     <itunes:category text="Society &amp; Culture"><itunes:category text="Places &amp; Travel"/></itunes:category>
     <itunes:image href="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/cover-nl-3000.jpg"/>
-    <lastBuildDate>Wed, 18 Nov 2026 07:00:50 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 18 Nov 2026 07:32:02 +0000</lastBuildDate>
+    <item>
+      <title>Muiden reisgids &amp; geschiedenis | De poortwachter van de hoofdstad</title>
+      <link>https://wanderingcities.com/nl/netherlands/muiden/</link>
+      <description>Muiden, in Nederland, luidt elke avond om negen uur de papklok van de Sint-Nicolaaskerk: vroeger het teken dat de stadspoorten dichtgingen en wie op het land werkte, moest rennen. In 1672 zette men de polders 40 tot 50 centimeter onder water, waardoor het Franse leger voor Muiden vastliep in de modder. Luister de hele aflevering voor meer verhalen en tips over wat je moet zien.
+
+Andere talen en meer over Muiden: https://wanderingcities.com/nl/netherlands/muiden/
+
+Bronnen o.a. Wikipedia en Wikivoyage (CC BY-SA 4.0) en officiële websites over toerisme, erfgoed en musea. Het gesprek en de stemmen zijn door AI gegenereerd.</description>
+      <itunes:summary>Muiden, in Nederland, luidt elke avond om negen uur de papklok van de Sint-Nicolaaskerk: vroeger het teken dat de stadspoorten dichtgingen en wie op het land werkte, moest rennen. In 1672 zette men de polders 40 tot 50 centimeter onder water, waardoor het Franse leger voor Muiden vastliep in de modder. Luister de hele aflevering voor meer verhalen en tips over wat je moet zien.
+
+Andere talen en meer over Muiden: https://wanderingcities.com/nl/netherlands/muiden/
+
+Bronnen o.a. Wikipedia en Wikivoyage (CC BY-SA 4.0) en officiële websites over toerisme, erfgoed en musea. Het gesprek en de stemmen zijn door AI gegenereerd.</itunes:summary>
+      <enclosure url="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/episodes/nl/nl-muiden-1528999912-v1.mp3" length="24033978" type="audio/mpeg"/>
+      <guid isPermaLink="false">2d057ebd-ba12-52fb-b257-7662f5ff6b67</guid>
+      <pubDate>Wed, 18 Nov 2026 07:32:01 +0000</pubDate>
+      <itunes:duration>00:24:55</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Franeker reisgids &amp; geschiedenis | Het zonnestelsel aan het plafond</title>
       <link>https://wanderingcities.com/nl/netherlands/franeker/</link>

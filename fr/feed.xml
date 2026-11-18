@@ -14,7 +14,27 @@
     <itunes:type>episodic</itunes:type>
     <itunes:category text="Society &amp; Culture"><itunes:category text="Places &amp; Travel"/></itunes:category>
     <itunes:image href="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/cover-fr-3000.jpg"/>
-    <lastBuildDate>Wed, 18 Nov 2026 07:00:50 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 18 Nov 2026 07:32:02 +0000</lastBuildDate>
+    <item>
+      <title>Muiden : guide de voyage et histoire | Le bouclier aquatique d'Amsterdam</title>
+      <link>https://wanderingcities.com/fr/netherlands/muiden/</link>
+      <description>Muiden, aux Pays-Bas, fait sonner chaque soir à 21h la « cloche de la bouillie », qui avertissait les paysans des polders que les portes de la ville allaient fermer. En 1296, le comte Floris V fut kidnappé et enfermé dans son propre château, avant d'être assassiné pendant son transfert. Écoutez l'épisode complet pour plus d'histoires et de conseils sur ce qu'il faut voir.
+
+Autres langues et plus sur Muiden : https://wanderingcities.com/fr/netherlands/muiden/
+
+Sources, entre autres : Wikipédia et Wikivoyage (CC BY-SA 4.0) ainsi que les sites officiels du tourisme, du patrimoine et des musées. La conversation et les voix sont générées par IA.</description>
+      <itunes:summary>Muiden, aux Pays-Bas, fait sonner chaque soir à 21h la « cloche de la bouillie », qui avertissait les paysans des polders que les portes de la ville allaient fermer. En 1296, le comte Floris V fut kidnappé et enfermé dans son propre château, avant d'être assassiné pendant son transfert. Écoutez l'épisode complet pour plus d'histoires et de conseils sur ce qu'il faut voir.
+
+Autres langues et plus sur Muiden : https://wanderingcities.com/fr/netherlands/muiden/
+
+Sources, entre autres : Wikipédia et Wikivoyage (CC BY-SA 4.0) ainsi que les sites officiels du tourisme, du patrimoine et des musées. La conversation et les voix sont générées par IA.</itunes:summary>
+      <enclosure url="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/episodes/fr/fr-muiden-1528999912-v1.mp3" length="13661194" type="audio/mpeg"/>
+      <guid isPermaLink="false">a67b6c67-37ba-50df-93e3-5533bc8cf8ac</guid>
+      <pubDate>Wed, 18 Nov 2026 07:31:10 +0000</pubDate>
+      <itunes:duration>00:14:06</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Franeker : guide de voyage et histoire | Un système solaire dans le salon</title>
       <link>https://wanderingcities.com/fr/netherlands/franeker/</link>
