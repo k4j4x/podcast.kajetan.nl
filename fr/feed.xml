@@ -14,7 +14,27 @@
     <itunes:type>episodic</itunes:type>
     <itunes:category text="Society &amp; Culture"><itunes:category text="Places &amp; Travel"/></itunes:category>
     <itunes:image href="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/cover-fr-3000.jpg"/>
-    <lastBuildDate>Thu, 19 Nov 2026 09:01:37 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 19 Nov 2026 09:31:09 +0000</lastBuildDate>
+    <item>
+      <title>Staphorst : guide de voyage et histoire | Objectifs interdits et portes ouvertes</title>
+      <link>https://wanderingcities.com/fr/netherlands/staphorst/</link>
+      <description>Staphorst, aux Pays-Bas, a des fermes aux toits ondulés : chaque vague marque le moment où une famille a enfin pu s'agrandir, sans architecte ni niveau à bulle. En 1825, une grande inondation a tué 21 personnes et balayé des centaines de fermes de la région. Écoutez l'épisode complet pour plus d'histoires et de conseils sur ce qu'il faut voir.
+
+Autres langues et plus sur Staphorst : https://wanderingcities.com/fr/netherlands/staphorst/
+
+Sources, entre autres : Wikipédia et Wikivoyage (CC BY-SA 4.0) ainsi que les sites officiels du tourisme, du patrimoine et des musées. La conversation et les voix sont générées par IA.</description>
+      <itunes:summary>Staphorst, aux Pays-Bas, a des fermes aux toits ondulés : chaque vague marque le moment où une famille a enfin pu s'agrandir, sans architecte ni niveau à bulle. En 1825, une grande inondation a tué 21 personnes et balayé des centaines de fermes de la région. Écoutez l'épisode complet pour plus d'histoires et de conseils sur ce qu'il faut voir.
+
+Autres langues et plus sur Staphorst : https://wanderingcities.com/fr/netherlands/staphorst/
+
+Sources, entre autres : Wikipédia et Wikivoyage (CC BY-SA 4.0) ainsi que les sites officiels du tourisme, du patrimoine et des musées. La conversation et les voix sont générées par IA.</itunes:summary>
+      <enclosure url="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/episodes/fr/fr-staphorst-1528939311-v1.mp3" length="17595451" type="audio/mpeg"/>
+      <guid isPermaLink="false">d669985c-ed27-5fd9-aebe-a4899d71b301</guid>
+      <pubDate>Thu, 19 Nov 2026 09:30:38 +0000</pubDate>
+      <itunes:duration>00:18:12</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Nuenen : guide de voyage et histoire | Le laboratoire secret d'un maître</title>
       <link>https://wanderingcities.com/fr/netherlands/nuenen/</link>
