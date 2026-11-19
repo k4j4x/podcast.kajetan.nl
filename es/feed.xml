@@ -14,7 +14,27 @@
     <itunes:type>episodic</itunes:type>
     <itunes:category text="Society &amp; Culture"><itunes:category text="Places &amp; Travel"/></itunes:category>
     <itunes:image href="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/cover-es-3000.jpg"/>
-    <lastBuildDate>Thu, 19 Nov 2026 08:01:33 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 19 Nov 2026 08:31:47 +0000</lastBuildDate>
+    <item>
+      <title>Nuenen: guía de viaje e historia | La cuna artística de Van Gogh</title>
+      <link>https://wanderingcities.com/es/netherlands/nuenen/</link>
+      <description>Nuenen, en los Países Bajos, guarda la casa parroquial donde Van Gogh pintaba en la mangel, el cuarto de la plancha. En 2002 robaron del museo Van Gogh de Ámsterdam su cuadro de la iglesia de su padre; la policía antimafia lo encontró 14 años después en Italia, en casa de un narcotraficante. Escucha el episodio completo para más historias y consejos sobre qué ver.
+
+Otros idiomas y más sobre Nuenen: https://wanderingcities.com/es/netherlands/nuenen/
+
+Fuentes, entre otras: Wikipedia y Wikivoyage (CC BY-SA 4.0) y webs oficiales de turismo, patrimonio y museos. La conversación y las voces están generadas por IA.</description>
+      <itunes:summary>Nuenen, en los Países Bajos, guarda la casa parroquial donde Van Gogh pintaba en la mangel, el cuarto de la plancha. En 2002 robaron del museo Van Gogh de Ámsterdam su cuadro de la iglesia de su padre; la policía antimafia lo encontró 14 años después en Italia, en casa de un narcotraficante. Escucha el episodio completo para más historias y consejos sobre qué ver.
+
+Otros idiomas y más sobre Nuenen: https://wanderingcities.com/es/netherlands/nuenen/
+
+Fuentes, entre otras: Wikipedia y Wikivoyage (CC BY-SA 4.0) y webs oficiales de turismo, patrimonio y museos. La conversación y las voces están generadas por IA.</itunes:summary>
+      <enclosure url="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/episodes/es/es-nuenen-1528177816-v1.mp3" length="30774709" type="audio/mpeg"/>
+      <guid isPermaLink="false">9d744ba9-b3bc-52d3-afc3-cba0dc0c7517</guid>
+      <pubDate>Thu, 19 Nov 2026 08:31:05 +0000</pubDate>
+      <itunes:duration>00:31:55</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Texel: guía de viaje e historia | Naufragios reales y la última batalla</title>
       <link>https://wanderingcities.com/es/netherlands/texel/</link>
