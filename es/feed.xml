@@ -14,10 +14,11 @@
     <itunes:type>episodic</itunes:type>
     <itunes:category text="Society &amp; Culture"><itunes:category text="Places &amp; Travel"/></itunes:category>
     <itunes:image href="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/cover-es-3000.jpg"/>
-    <lastBuildDate>Thu, 19 Nov 2026 01:44:12 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 19 Nov 2026 04:54:23 +0000</lastBuildDate>
     <item>
       <title>Texel: guía de viaje e historia | Naufragios reales y la última batalla</title>
       <link>https://wanderingcities.com/es/netherlands/texel/</link>
+      <podcast:transcript url="https://wanderingcities.com/netherlands/texel/transcript-es.txt" type="text/plain" language="es"/>
       <description>Texel, en los Países Bajos, tenía un queso verde de oveja cuyo ingrediente estabilizador era jugo hervido de estiércol de oveja, que le daba un sabor picante y un tinte verdoso. En 1170, la inundación de Todos los Santos rompió las barreras de turba y arena y separó Texel del continente. Escucha el episodio completo para más historias y consejos sobre qué ver.
 
 Otros idiomas y más sobre Texel: https://wanderingcities.com/es/netherlands/texel/
@@ -38,6 +39,7 @@ Fuentes, entre otras: Wikipedia y Wikivoyage (CC BY-SA 4.0) y webs oficiales de 
     <item>
       <title>Muiden: guía de viaje e historia | El escudo de agua de Ámsterdam</title>
       <link>https://wanderingcities.com/es/netherlands/muiden/</link>
+      <podcast:transcript url="https://wanderingcities.com/netherlands/muiden/transcript-es.txt" type="text/plain" language="es"/>
       <description>Muiden, en los Países Bajos, oye cada noche a las nueve la campana de las gachas, que antes anunciaba el cierre de las puertas de la muralla y la hora de cenar gachas. En 1296, unos nobles encerraron al conde Floris V en su propio castillo y, cuando intentó escapar, lo apuñalaron 22 veces. Escucha el episodio completo para más historias y consejos sobre qué ver.
 
 Otros idiomas y más sobre Muiden: https://wanderingcities.com/es/netherlands/muiden/
@@ -100,6 +102,7 @@ Fuentes, entre otras: Wikipedia y Wikivoyage (CC BY-SA 4.0) y webs oficiales de 
     <item>
       <title>Heusden: guía de viaje e historia | Una fortaleza rescatada del asfalto</title>
       <link>https://wanderingcities.com/es/netherlands/heusden/</link>
+      <podcast:transcript url="https://wanderingcities.com/netherlands/heusden/transcript-es.txt" type="text/plain" language="es"/>
       <description>Heusden, en los Países Bajos, guardaba 60.000 libras de pólvora en la torre de su castillo hasta que un rayo la alcanzó el 24 de julio de 1680 y el castillo desapareció. En 1968 empezó una restauración de casi 20 años que devolvió la ciudad al mapa de Joan Blau de 1649. Escucha el episodio completo para más historias y consejos sobre qué ver.
 
 Otros idiomas y más sobre Heusden: https://wanderingcities.com/es/netherlands/heusden/

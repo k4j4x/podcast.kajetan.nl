@@ -14,10 +14,11 @@
     <itunes:type>episodic</itunes:type>
     <itunes:category text="Society &amp; Culture"><itunes:category text="Places &amp; Travel"/></itunes:category>
     <itunes:image href="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/cover-de-3000.jpg"/>
-    <lastBuildDate>Thu, 19 Nov 2026 01:44:11 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 19 Nov 2026 04:54:22 +0000</lastBuildDate>
     <item>
       <title>Westerbork Reiseführer &amp; Geschichte | Dorfidylle neben dunklen Gleisen</title>
       <link>https://wanderingcities.com/de/netherlands/westerbork/</link>
+      <podcast:transcript url="https://wanderingcities.com/netherlands/westerbork/transcript-de.txt" type="text/plain" language="de"/>
       <description>Westerbork, in den Niederlanden: Am Rand des ehemaligen Lagers im Moor stehen 14 Radioteleskope mit je 25 Metern Durchmesser, deshalb legen Besucher die letzten 2,7 Kilometer zu Fuß, mit dem Fahrrad oder im Pendelbus zurück. 1939 plante die niederländische Regierung das Lager als Zufluchtsort für deutsche und österreichische Juden. In der ganzen Folge gibt es mehr Geschichten und Tipps zu den Sehenswürdigkeiten.
 
 Andere Sprachen und mehr über Westerbork: https://wanderingcities.com/de/netherlands/westerbork/
@@ -38,6 +39,7 @@ Quellen u. a. Wikipedia und Wikivoyage (CC BY-SA 4.0) sowie offizielle Websites 
     <item>
       <title>Texel Reiseführer &amp; Geschichte | Die größte Stadt der Niederlande</title>
       <link>https://wanderingcities.com/de/netherlands/texel/</link>
+      <podcast:transcript url="https://wanderingcities.com/netherlands/texel/transcript-de.txt" type="text/plain" language="de"/>
       <description>Texel, in den Niederlanden, gab es im 16. und 17. Jahrhundert den Tesselse Groene, einen grünen Schafskäse, für den man Schafskot in Leinen auskochte und den grünen Sud in die Schafsmilch tropfte. 1858 brach der Sanddeich an der Westküste bei einer Sturmflut durch; weil die Lücke nie geschlossen wurde, entstand die Salzwiese De Slufter. In der ganzen Folge gibt es mehr Geschichten und Tipps zu den Sehenswürdigkeiten.
 
 Andere Sprachen und mehr über Texel: https://wanderingcities.com/de/netherlands/texel/
@@ -58,6 +60,7 @@ Quellen u. a. Wikipedia und Wikivoyage (CC BY-SA 4.0) sowie offizielle Websites 
     <item>
       <title>Muiden Reiseführer &amp; Geschichte | Amsterdams Waffe aus Wasser</title>
       <link>https://wanderingcities.com/de/netherlands/muiden/</link>
+      <podcast:transcript url="https://wanderingcities.com/netherlands/muiden/transcript-de.txt" type="text/plain" language="de"/>
       <description>Muiden, in den Niederlanden: Hier ließ Graf Floris V. eine schwere Eisenkette quer über die Vecht spannen, Handelsschiffe prallten dagegen und kamen erst nach Zahlung des Zolls weiter. Im Rampjahr 1672 fluteten die Niederländer über die Schleusen von Muiden ihr Land knietief, sodass die Truppen Ludwigs XIV. im Schlamm stecken blieben. In der ganzen Folge gibt es mehr Geschichten und Tipps zu den Sehenswürdigkeiten.
 
 Andere Sprachen und mehr über Muiden: https://wanderingcities.com/de/netherlands/muiden/

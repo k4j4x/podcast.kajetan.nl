@@ -14,10 +14,11 @@
     <itunes:type>episodic</itunes:type>
     <itunes:category text="Society &amp; Culture"><itunes:category text="Places &amp; Travel"/></itunes:category>
     <itunes:image href="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/cover-3000.jpg"/>
-    <lastBuildDate>Thu, 19 Nov 2026 01:44:11 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 19 Nov 2026 04:54:22 +0000</lastBuildDate>
     <item>
       <title>Westerbork Travel Guide &amp; History | Village Peace and Dark Shadows</title>
       <link>https://wanderingcities.com/netherlands/westerbork/?lang=en</link>
+      <podcast:transcript url="https://wanderingcities.com/netherlands/westerbork/transcript-en.txt" type="text/plain" language="en"/>
       <description>Westerbork, in the Netherlands, has a field of 102,000 stones beside 14 radio telescopes so sensitive that motor vehicles are banned near the former camp: one spark from a car's ignition can disrupt their data. The Dutch government built the camp in 1939 to house German Jews fleeing Nazi Germany. Listen to the full episode for more stories and tips on what to see.
 
 Other languages and more about Westerbork: https://wanderingcities.com/netherlands/westerbork/?lang=en
@@ -38,6 +39,7 @@ Sources include Wikipedia and Wikivoyage (CC BY-SA 4.0) and official tourism, he
     <item>
       <title>Muiden Travel Guide &amp; History | The Myth of Amsterdam Castle</title>
       <link>https://wanderingcities.com/netherlands/muiden/?lang=en</link>
+      <podcast:transcript url="https://wanderingcities.com/netherlands/muiden/transcript-en.txt" type="text/plain" language="en"/>
       <description>Muiden, in the Netherlands, rings its church bell at 9 p.m. every night: the porridge bell that warned farmers to get inside the walls before the gates were bolted. In 1296, Count Floris V was taken hostage in his own Muiderslot, and his captors stabbed him to death while moving him to Amsterdam. Listen to the full episode for more stories and tips on what to see.
 
 Other languages and more about Muiden: https://wanderingcities.com/netherlands/muiden/?lang=en

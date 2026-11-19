@@ -14,10 +14,11 @@
     <itunes:type>episodic</itunes:type>
     <itunes:category text="Society &amp; Culture"><itunes:category text="Places &amp; Travel"/></itunes:category>
     <itunes:image href="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/cover-nl-3000.jpg"/>
-    <lastBuildDate>Thu, 19 Nov 2026 01:44:11 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 19 Nov 2026 04:54:23 +0000</lastBuildDate>
     <item>
       <title>Texel reisgids &amp; geschiedenis | De grootste stad van Nederland</title>
       <link>https://wanderingcities.com/nl/netherlands/texel/</link>
+      <podcast:transcript url="https://wanderingcities.com/netherlands/texel/transcript-nl.txt" type="text/plain" language="nl"/>
       <description>Texel, in Nederland, maakte in de 16e en 17e eeuw groene kaas, gekleurd en op smaak gebracht met het sap van gekookte schapenkeutels. Op 6 april 1945 kwamen Georgische soldaten in Duits uniform op het eiland in opstand tegen hun Duitse commandanten; de gevechten duurden tot 20 mei, weken na de formele vrede. Luister de hele aflevering voor meer verhalen en tips over wat je moet zien.
 
 Andere talen en meer over Texel: https://wanderingcities.com/nl/netherlands/texel/
@@ -38,6 +39,7 @@ Bronnen o.a. Wikipedia en Wikivoyage (CC BY-SA 4.0) en officiële websites over 
     <item>
       <title>Muiden reisgids &amp; geschiedenis | De poortwachter van de hoofdstad</title>
       <link>https://wanderingcities.com/nl/netherlands/muiden/</link>
+      <podcast:transcript url="https://wanderingcities.com/netherlands/muiden/transcript-nl.txt" type="text/plain" language="nl"/>
       <description>Muiden, in Nederland, luidt elke avond om negen uur de papklok van de Sint-Nicolaaskerk: vroeger het teken dat de stadspoorten dichtgingen en wie op het land werkte, moest rennen. In 1672 zette men de polders 40 tot 50 centimeter onder water, waardoor het Franse leger voor Muiden vastliep in de modder. Luister de hele aflevering voor meer verhalen en tips over wat je moet zien.
 
 Andere talen en meer over Muiden: https://wanderingcities.com/nl/netherlands/muiden/
