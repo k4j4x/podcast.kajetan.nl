@@ -14,7 +14,27 @@
     <itunes:type>episodic</itunes:type>
     <itunes:category text="Society &amp; Culture"><itunes:category text="Places &amp; Travel"/></itunes:category>
     <itunes:image href="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/cover-es-3000.jpg"/>
-    <lastBuildDate>Thu, 19 Nov 2026 09:31:10 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 19 Nov 2026 10:01:45 +0000</lastBuildDate>
+    <item>
+      <title>Staphorst: guía de viaje e historia | Cámaras prohibidas y puertas abiertas</title>
+      <link>https://wanderingcities.com/es/netherlands/staphorst/</link>
+      <description>Staphorst, en los Países Bajos, construía sus granjas en diagonal para que la mujer de la cuarta granja viera, fregando los platos, quién pasaba en bicicleta. En 1971, un brote de polio afectó a cerca de 40 personas; alrededor del 20% de la población no se vacuna por motivos religiosos. Escucha el episodio completo para más historias y consejos sobre qué ver.
+
+Otros idiomas y más sobre Staphorst: https://wanderingcities.com/es/netherlands/staphorst/
+
+Fuentes, entre otras: Wikipedia y Wikivoyage (CC BY-SA 4.0) y webs oficiales de turismo, patrimonio y museos. La conversación y las voces están generadas por IA.</description>
+      <itunes:summary>Staphorst, en los Países Bajos, construía sus granjas en diagonal para que la mujer de la cuarta granja viera, fregando los platos, quién pasaba en bicicleta. En 1971, un brote de polio afectó a cerca de 40 personas; alrededor del 20% de la población no se vacuna por motivos religiosos. Escucha el episodio completo para más historias y consejos sobre qué ver.
+
+Otros idiomas y más sobre Staphorst: https://wanderingcities.com/es/netherlands/staphorst/
+
+Fuentes, entre otras: Wikipedia y Wikivoyage (CC BY-SA 4.0) y webs oficiales de turismo, patrimonio y museos. La conversación y las voces están generadas por IA.</itunes:summary>
+      <enclosure url="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/episodes/es/es-staphorst-1528939311-v1.mp3" length="21928624" type="audio/mpeg"/>
+      <guid isPermaLink="false">619d90da-7411-50b7-ac9d-8c45076a25c7</guid>
+      <pubDate>Thu, 19 Nov 2026 10:00:47 +0000</pubDate>
+      <itunes:duration>00:22:43</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Nuenen: guía de viaje e historia | La cuna artística de Van Gogh</title>
       <link>https://wanderingcities.com/es/netherlands/nuenen/</link>

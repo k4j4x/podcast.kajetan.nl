@@ -14,7 +14,27 @@
     <itunes:type>episodic</itunes:type>
     <itunes:category text="Society &amp; Culture"><itunes:category text="Places &amp; Travel"/></itunes:category>
     <itunes:image href="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/cover-it-3000.jpg"/>
-    <lastBuildDate>Thu, 19 Nov 2026 09:31:10 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 19 Nov 2026 10:01:45 +0000</lastBuildDate>
+    <item>
+      <title>Staphorst: guida di viaggio e storia | Ortodossia calvinista e porte aperte</title>
+      <link>https://wanderingcities.com/it/netherlands/staphorst/</link>
+      <description>Staphorst, nei Paesi Bassi, ha fattorie costruite una dietro l'altra sulla stessa striscia di terra; poiché le fondamenta sono sprofondate nella torba in tempi diversi, i tetti uniti formano una "schiena di cammello". Nel 1971 un'epidemia di poliomielite portò Staphorst sui giornali di tutto il mondo. Ascolta l'episodio completo per altre storie e consigli su cosa vedere.
+
+Altre lingue e altro su Staphorst: https://wanderingcities.com/it/netherlands/staphorst/
+
+Fonti, tra le altre: Wikipedia e Wikivoyage (CC BY-SA 4.0) e siti ufficiali di turismo, patrimonio e musei. La conversazione e le voci sono generate dall'IA.</description>
+      <itunes:summary>Staphorst, nei Paesi Bassi, ha fattorie costruite una dietro l'altra sulla stessa striscia di terra; poiché le fondamenta sono sprofondate nella torba in tempi diversi, i tetti uniti formano una "schiena di cammello". Nel 1971 un'epidemia di poliomielite portò Staphorst sui giornali di tutto il mondo. Ascolta l'episodio completo per altre storie e consigli su cosa vedere.
+
+Altre lingue e altro su Staphorst: https://wanderingcities.com/it/netherlands/staphorst/
+
+Fonti, tra le altre: Wikipedia e Wikivoyage (CC BY-SA 4.0) e siti ufficiali di turismo, patrimonio e musei. La conversazione e le voci sono generate dall'IA.</itunes:summary>
+      <enclosure url="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/episodes/it/it-staphorst-1528939311-v1.mp3" length="27139548" type="audio/mpeg"/>
+      <guid isPermaLink="false">cd013687-66d9-5a07-84f9-daf6fbf2fb4e</guid>
+      <pubDate>Thu, 19 Nov 2026 10:01:44 +0000</pubDate>
+      <itunes:duration>00:28:08</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Nuenen: guida di viaggio e storia | Nel fango del primo capolavoro</title>
       <link>https://wanderingcities.com/it/netherlands/nuenen/</link>
