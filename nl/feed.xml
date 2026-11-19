@@ -14,7 +14,27 @@
     <itunes:type>episodic</itunes:type>
     <itunes:category text="Society &amp; Culture"><itunes:category text="Places &amp; Travel"/></itunes:category>
     <itunes:image href="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/cover-nl-3000.jpg"/>
-    <lastBuildDate>Thu, 19 Nov 2026 10:01:44 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 19 Nov 2026 10:30:38 +0000</lastBuildDate>
+    <item>
+      <title>Westerbork reisgids &amp; geschiedenis | Van toevluchtsoord naar doorgangskamp</title>
+      <link>https://wanderingcities.com/nl/netherlands/westerbork/</link>
+      <description>Westerbork, in Nederland, ligt bij een kampterrein met 102.000 rode stenen, één voor elk slachtoffer, terwijl vlak ernaast 14 schotels van een radiotelescoop boven de bomen uitsteken. In de zomer van 1939 bouwde niet de bezetter maar de Nederlandse overheid hier een kamp voor Duitse en Oostenrijkse joden die op de vlucht waren. Luister de hele aflevering voor meer verhalen en tips over wat je moet zien.
+
+Andere talen en meer over Westerbork: https://wanderingcities.com/nl/netherlands/westerbork/
+
+Bronnen o.a. Wikipedia en Wikivoyage (CC BY-SA 4.0) en officiële websites over toerisme, erfgoed en musea. Het gesprek en de stemmen zijn door AI gegenereerd.</description>
+      <itunes:summary>Westerbork, in Nederland, ligt bij een kampterrein met 102.000 rode stenen, één voor elk slachtoffer, terwijl vlak ernaast 14 schotels van een radiotelescoop boven de bomen uitsteken. In de zomer van 1939 bouwde niet de bezetter maar de Nederlandse overheid hier een kamp voor Duitse en Oostenrijkse joden die op de vlucht waren. Luister de hele aflevering voor meer verhalen en tips over wat je moet zien.
+
+Andere talen en meer over Westerbork: https://wanderingcities.com/nl/netherlands/westerbork/
+
+Bronnen o.a. Wikipedia en Wikivoyage (CC BY-SA 4.0) en officiële websites over toerisme, erfgoed en musea. Het gesprek en de stemmen zijn door AI gegenereerd.</itunes:summary>
+      <enclosure url="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/episodes/nl/nl-westerbork-1528999914-v1.mp3" length="17342879" type="audio/mpeg"/>
+      <guid isPermaLink="false">595d417d-b4c7-54fd-9413-dd88b54aec4c</guid>
+      <pubDate>Thu, 19 Nov 2026 10:30:37 +0000</pubDate>
+      <itunes:duration>00:17:56</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Staphorst reisgids &amp; geschiedenis | Fotoverbod en open keukendeuren</title>
       <link>https://wanderingcities.com/nl/netherlands/staphorst/</link>
