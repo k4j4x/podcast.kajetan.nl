@@ -14,7 +14,7 @@
     <itunes:type>episodic</itunes:type>
     <itunes:category text="Society &amp; Culture"><itunes:category text="Places &amp; Travel"/></itunes:category>
     <itunes:image href="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/cover-de-3000.jpg"/>
-    <lastBuildDate>Thu, 19 Nov 2026 04:54:22 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 19 Nov 2026 05:03:52 +0000</lastBuildDate>
     <item>
       <title>Westerbork Reiseführer &amp; Geschichte | Dorfidylle neben dunklen Gleisen</title>
       <link>https://wanderingcities.com/de/netherlands/westerbork/</link>
@@ -92,10 +92,10 @@ Quellen u. a. Wikipedia und Wikivoyage (CC BY-SA 4.0) sowie offizielle Websites 
 Andere Sprachen und mehr über Franeker: https://wanderingcities.com/de/netherlands/franeker/
 
 Quellen u. a. Wikipedia und Wikivoyage (CC BY-SA 4.0) sowie offizielle Websites für Tourismus, Denkmalpflege und Museen. Gespräch und Stimmen sind KI-generiert.</itunes:summary>
-      <enclosure url="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/episodes/de/de-franeker-1528890881-v1.mp3" length="20655769" type="audio/mpeg"/>
+      <enclosure url="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/episodes/de/de-franeker-1528890881-v2.mp3" length="25507439" type="audio/mpeg"/>
       <guid isPermaLink="false">7d7bca9f-e94a-5d11-8761-d80d628ac149</guid>
       <pubDate>Tue, 17 Nov 2026 08:30:45 +0000</pubDate>
-      <itunes:duration>00:21:23</itunes:duration>
+      <itunes:duration>00:26:27</itunes:duration>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>false</itunes:explicit>
     </item>

@@ -14,7 +14,7 @@
     <itunes:type>episodic</itunes:type>
     <itunes:category text="Society &amp; Culture"><itunes:category text="Places &amp; Travel"/></itunes:category>
     <itunes:image href="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/cover-3000.jpg"/>
-    <lastBuildDate>Thu, 19 Nov 2026 04:54:22 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 19 Nov 2026 05:03:52 +0000</lastBuildDate>
     <item>
       <title>Westerbork Travel Guide &amp; History | Village Peace and Dark Shadows</title>
       <link>https://wanderingcities.com/netherlands/westerbork/?lang=en</link>
@@ -71,10 +71,10 @@ Sources include Wikipedia and Wikivoyage (CC BY-SA 4.0) and official tourism, he
 Other languages and more about Franeker: https://wanderingcities.com/netherlands/franeker/?lang=en
 
 Sources include Wikipedia and Wikivoyage (CC BY-SA 4.0) and official tourism, heritage and museum websites. The conversation and voices are AI-generated.</itunes:summary>
-      <enclosure url="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/episodes/wandering-cities-franeker-1528890881-v1.mp3" length="19179852" type="audio/mpeg"/>
+      <enclosure url="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/episodes/wandering-cities-franeker-1528890881-v2.mp3" length="20633514" type="audio/mpeg"/>
       <guid isPermaLink="false">3e2b93d9-a1e4-511e-b59b-6ade4c6e1643</guid>
       <pubDate>Tue, 17 Nov 2026 08:31:26 +0000</pubDate>
-      <itunes:duration>00:19:49</itunes:duration>
+      <itunes:duration>00:21:20</itunes:duration>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>false</itunes:explicit>
     </item>

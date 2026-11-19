@@ -14,7 +14,7 @@
     <itunes:type>episodic</itunes:type>
     <itunes:category text="Society &amp; Culture"><itunes:category text="Places &amp; Travel"/></itunes:category>
     <itunes:image href="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/cover-es-3000.jpg"/>
-    <lastBuildDate>Thu, 19 Nov 2026 04:54:23 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 19 Nov 2026 05:03:53 +0000</lastBuildDate>
     <item>
       <title>Texel: guía de viaje e historia | Naufragios reales y la última batalla</title>
       <link>https://wanderingcities.com/es/netherlands/texel/</link>
@@ -71,10 +71,10 @@ Fuentes, entre otras: Wikipedia y Wikivoyage (CC BY-SA 4.0) y webs oficiales de 
 Otros idiomas y más sobre Franeker: https://wanderingcities.com/es/netherlands/franeker/
 
 Fuentes, entre otras: Wikipedia y Wikivoyage (CC BY-SA 4.0) y webs oficiales de turismo, patrimonio y museos. La conversación y las voces están generadas por IA.</itunes:summary>
-      <enclosure url="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/episodes/es/es-franeker-1528890881-v1.mp3" length="24070227" type="audio/mpeg"/>
+      <enclosure url="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/episodes/es/es-franeker-1528890881-v2.mp3" length="21946577" type="audio/mpeg"/>
       <guid isPermaLink="false">dbbf7b76-a52b-53d7-88fc-276676528688</guid>
       <pubDate>Tue, 17 Nov 2026 09:30:51 +0000</pubDate>
-      <itunes:duration>00:24:56</itunes:duration>
+      <itunes:duration>00:22:44</itunes:duration>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>false</itunes:explicit>
     </item>
