@@ -14,7 +14,27 @@
     <itunes:type>episodic</itunes:type>
     <itunes:category text="Society &amp; Culture"><itunes:category text="Places &amp; Travel"/></itunes:category>
     <itunes:image href="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/cover-3000.jpg"/>
-    <lastBuildDate>Thu, 19 Nov 2026 05:03:52 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 19 Nov 2026 07:31:26 +0000</lastBuildDate>
+    <item>
+      <title>Nuenen Travel Guide &amp; History | Van Gogh's Dark Foundation</title>
+      <link>https://wanderingcities.com/netherlands/nuenen/?lang=en</link>
+      <description>Nuenen, in the Netherlands, is where a gardener tricked a German Panzer brigade into turning around with false directions in September 1944. In 2002, thieves broke in through the roof of the Van Gogh Museum in Amsterdam and stole Vincent's painting of his father's church here; it was found in an Italian house in 2016. Listen to the full episode for more stories and tips on what to see.
+
+Other languages and more about Nuenen: https://wanderingcities.com/netherlands/nuenen/?lang=en
+
+Sources include Wikipedia and Wikivoyage (CC BY-SA 4.0) and official tourism, heritage and museum websites. The conversation and voices are AI-generated.</description>
+      <itunes:summary>Nuenen, in the Netherlands, is where a gardener tricked a German Panzer brigade into turning around with false directions in September 1944. In 2002, thieves broke in through the roof of the Van Gogh Museum in Amsterdam and stole Vincent's painting of his father's church here; it was found in an Italian house in 2016. Listen to the full episode for more stories and tips on what to see.
+
+Other languages and more about Nuenen: https://wanderingcities.com/netherlands/nuenen/?lang=en
+
+Sources include Wikipedia and Wikivoyage (CC BY-SA 4.0) and official tourism, heritage and museum websites. The conversation and voices are AI-generated.</itunes:summary>
+      <enclosure url="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/episodes/wandering-cities-nuenen-1528177816-v1.mp3" length="17064557" type="audio/mpeg"/>
+      <guid isPermaLink="false">77513f14-8fcc-5c8e-897d-2b95ae2c5edd</guid>
+      <pubDate>Thu, 19 Nov 2026 07:31:25 +0000</pubDate>
+      <itunes:duration>00:17:37</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Westerbork Travel Guide &amp; History | Village Peace and Dark Shadows</title>
       <link>https://wanderingcities.com/netherlands/westerbork/?lang=en</link>
