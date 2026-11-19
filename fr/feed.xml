@@ -14,7 +14,27 @@
     <itunes:type>episodic</itunes:type>
     <itunes:category text="Society &amp; Culture"><itunes:category text="Places &amp; Travel"/></itunes:category>
     <itunes:image href="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/cover-fr-3000.jpg"/>
-    <lastBuildDate>Thu, 19 Nov 2026 07:31:26 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 19 Nov 2026 08:01:32 +0000</lastBuildDate>
+    <item>
+      <title>Nuenen : guide de voyage et histoire | Le laboratoire secret d'un maître</title>
+      <link>https://wanderingcities.com/fr/netherlands/nuenen/</link>
+      <description>Nuenen, aux Pays-Bas, a une petite église que Van Gogh a peinte pour sa mère clouée au lit, une toile retrouvée plus tard chez un clan mafieux près de Naples. En 2002, des voleurs entrés par le toit du musée Van Gogh d'Amsterdam l'ont emportée ; la police antimafia italienne l'a retrouvée en 2016. Écoutez l'épisode complet pour plus d'histoires et de conseils sur ce qu'il faut voir.
+
+Autres langues et plus sur Nuenen : https://wanderingcities.com/fr/netherlands/nuenen/
+
+Sources, entre autres : Wikipédia et Wikivoyage (CC BY-SA 4.0) ainsi que les sites officiels du tourisme, du patrimoine et des musées. La conversation et les voix sont générées par IA.</description>
+      <itunes:summary>Nuenen, aux Pays-Bas, a une petite église que Van Gogh a peinte pour sa mère clouée au lit, une toile retrouvée plus tard chez un clan mafieux près de Naples. En 2002, des voleurs entrés par le toit du musée Van Gogh d'Amsterdam l'ont emportée ; la police antimafia italienne l'a retrouvée en 2016. Écoutez l'épisode complet pour plus d'histoires et de conseils sur ce qu'il faut voir.
+
+Autres langues et plus sur Nuenen : https://wanderingcities.com/fr/netherlands/nuenen/
+
+Sources, entre autres : Wikipédia et Wikivoyage (CC BY-SA 4.0) ainsi que les sites officiels du tourisme, du patrimoine et des musées. La conversation et les voix sont générées par IA.</itunes:summary>
+      <enclosure url="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/episodes/fr/fr-nuenen-1528177816-v1.mp3" length="19881337" type="audio/mpeg"/>
+      <guid isPermaLink="false">7023fbff-ce9b-5955-a9a4-502b5f1b197e</guid>
+      <pubDate>Thu, 19 Nov 2026 08:00:43 +0000</pubDate>
+      <itunes:duration>00:20:35</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Texel : guide de voyage et histoire | Entre robe royale et fromage vert</title>
       <link>https://wanderingcities.com/fr/netherlands/texel/</link>
