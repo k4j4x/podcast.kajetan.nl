@@ -14,7 +14,27 @@
     <itunes:type>episodic</itunes:type>
     <itunes:category text="Society &amp; Culture"><itunes:category text="Places &amp; Travel"/></itunes:category>
     <itunes:image href="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/cover-3000.jpg"/>
-    <lastBuildDate>Thu, 19 Nov 2026 08:31:46 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 19 Nov 2026 09:01:37 +0000</lastBuildDate>
+    <item>
+      <title>Staphorst Travel Guide &amp; History | Camera Bans and Open Doors</title>
+      <link>https://wanderingcities.com/netherlands/staphorst/?lang=en</link>
+      <description>Staphorst, in the Netherlands, is a town where artisans hammer pins into small wooden blocks, dip them in bright paint and stamp colored dots by hand onto dark clothing. A municipal ordinance dating back to 1937 bans photographing the locals without their permission. Listen to the full episode for more stories and tips on what to see.
+
+Other languages and more about Staphorst: https://wanderingcities.com/netherlands/staphorst/?lang=en
+
+Sources include Wikipedia and Wikivoyage (CC BY-SA 4.0) and official tourism, heritage and museum websites. The conversation and voices are AI-generated.</description>
+      <itunes:summary>Staphorst, in the Netherlands, is a town where artisans hammer pins into small wooden blocks, dip them in bright paint and stamp colored dots by hand onto dark clothing. A municipal ordinance dating back to 1937 bans photographing the locals without their permission. Listen to the full episode for more stories and tips on what to see.
+
+Other languages and more about Staphorst: https://wanderingcities.com/netherlands/staphorst/?lang=en
+
+Sources include Wikipedia and Wikivoyage (CC BY-SA 4.0) and official tourism, heritage and museum websites. The conversation and voices are AI-generated.</itunes:summary>
+      <enclosure url="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/episodes/wandering-cities-staphorst-1528939311-v1.mp3" length="21425964" type="audio/mpeg"/>
+      <guid isPermaLink="false">ee2e6585-e312-58f8-85f0-cee6288c1483</guid>
+      <pubDate>Thu, 19 Nov 2026 09:01:37 +0000</pubDate>
+      <itunes:duration>00:22:09</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Nuenen Travel Guide &amp; History | Van Gogh's Dark Foundation</title>
       <link>https://wanderingcities.com/netherlands/nuenen/?lang=en</link>
