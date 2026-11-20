@@ -14,7 +14,27 @@
     <itunes:type>episodic</itunes:type>
     <itunes:category text="Society &amp; Culture"><itunes:category text="Places &amp; Travel"/></itunes:category>
     <itunes:image href="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/cover-fr-3000.jpg"/>
-    <lastBuildDate>Fri, 20 Nov 2026 08:01:52 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 20 Nov 2026 08:30:49 +0000</lastBuildDate>
+    <item>
+      <title>Anvers : guide de voyage et histoire | Du géant terrassé au port mondial</title>
+      <link>https://wanderingcities.com/fr/belgium/antwerp/</link>
+      <description>Anvers, en Belgique, devrait son nom à une légende : Sylvius Brabo coupe la main d'un géant qui rançonnait les marins et la jette dans l'Escaut, d'où ses biscuits en forme de main. En 1576, des soldats espagnols impayés depuis des mois se mutinent et mettent la ville à sac, tuant environ 8000 habitants. Écoutez l'épisode complet pour plus d'histoires et de conseils sur ce qu'il faut voir.
+
+Autres langues et plus sur Antwerp : https://wanderingcities.com/fr/belgium/antwerp/
+
+Sources, entre autres : Wikipédia et Wikivoyage (CC BY-SA 4.0) ainsi que les sites officiels du tourisme, du patrimoine et des musées. La conversation et les voix sont générées par IA.</description>
+      <itunes:summary>Anvers, en Belgique, devrait son nom à une légende : Sylvius Brabo coupe la main d'un géant qui rançonnait les marins et la jette dans l'Escaut, d'où ses biscuits en forme de main. En 1576, des soldats espagnols impayés depuis des mois se mutinent et mettent la ville à sac, tuant environ 8000 habitants. Écoutez l'épisode complet pour plus d'histoires et de conseils sur ce qu'il faut voir.
+
+Autres langues et plus sur Antwerp : https://wanderingcities.com/fr/belgium/antwerp/
+
+Sources, entre autres : Wikipédia et Wikivoyage (CC BY-SA 4.0) ainsi que les sites officiels du tourisme, du patrimoine et des musées. La conversation et les voix sont générées par IA.</itunes:summary>
+      <enclosure url="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/episodes/fr/fr-antwerp-1056168623-v1.mp3" length="22353566" type="audio/mpeg"/>
+      <guid isPermaLink="false">5657ea27-d66f-5805-8a15-eb9635c39724</guid>
+      <pubDate>Fri, 20 Nov 2026 08:30:48 +0000</pubDate>
+      <itunes:duration>00:23:09</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Bruxelles : guide de voyage et histoire | Du marais à la capitale européenne</title>
       <link>https://wanderingcities.com/fr/belgium/brussels/</link>
