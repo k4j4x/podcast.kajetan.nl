@@ -14,7 +14,27 @@
     <itunes:type>episodic</itunes:type>
     <itunes:category text="Society &amp; Culture"><itunes:category text="Places &amp; Travel"/></itunes:category>
     <itunes:image href="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/cover-3000.jpg"/>
-    <lastBuildDate>Fri, 20 Nov 2026 09:02:39 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 20 Nov 2026 10:02:55 +0000</lastBuildDate>
+    <item>
+      <title>Ghent Travel Guide &amp; History | Rebellion Behind Medieval Walls</title>
+      <link>https://wanderingcities.com/belgium/ghent/?lang=en</link>
+      <description>Ghent, in Belgium, is where students angry about beer prices stormed the castle of the counts, a 12th-century fortress with a moat, and barricaded themselves inside in 1949. In 1539 the city refused to pay Emperor Charles V's taxes, so he made its nobles walk barefoot with nooses around their necks. Listen to the full episode for more stories and tips on what to see.
+
+Other languages and more about Ghent: https://wanderingcities.com/belgium/ghent/?lang=en
+
+Sources include Wikipedia and Wikivoyage (CC BY-SA 4.0) and official tourism, heritage and museum websites. The conversation and voices are AI-generated.</description>
+      <itunes:summary>Ghent, in Belgium, is where students angry about beer prices stormed the castle of the counts, a 12th-century fortress with a moat, and barricaded themselves inside in 1949. In 1539 the city refused to pay Emperor Charles V's taxes, so he made its nobles walk barefoot with nooses around their necks. Listen to the full episode for more stories and tips on what to see.
+
+Other languages and more about Ghent: https://wanderingcities.com/belgium/ghent/?lang=en
+
+Sources include Wikipedia and Wikivoyage (CC BY-SA 4.0) and official tourism, heritage and museum websites. The conversation and voices are AI-generated.</itunes:summary>
+      <enclosure url="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/episodes/wandering-cities-ghent-1056062897-v1.mp3" length="22893838" type="audio/mpeg"/>
+      <guid isPermaLink="false">f53d40a9-f765-5a85-8381-77cc482df9f6</guid>
+      <pubDate>Fri, 20 Nov 2026 10:01:36 +0000</pubDate>
+      <itunes:duration>00:23:41</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Antwerp Travel Guide &amp; History | The Giant and the Severed Hand</title>
       <link>https://wanderingcities.com/belgium/antwerp/?lang=en</link>

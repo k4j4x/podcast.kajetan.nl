@@ -14,7 +14,27 @@
     <itunes:type>episodic</itunes:type>
     <itunes:category text="Society &amp; Culture"><itunes:category text="Places &amp; Travel"/></itunes:category>
     <itunes:image href="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/cover-de-3000.jpg"/>
-    <lastBuildDate>Fri, 20 Nov 2026 09:02:39 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 20 Nov 2026 10:02:55 +0000</lastBuildDate>
+    <item>
+      <title>Gent Reiseführer &amp; Geschichte | Rebellion im Schatten der Grafenburg</title>
+      <link>https://wanderingcities.com/de/belgium/ghent/</link>
+      <description>Gent, in Belgien: Die Genter nennen sich stolz „Stroppendragers“, also Schlingenträger, und bei den Stadtfesten sieht man schwarz-weiße Schlingen, als Erinnerung an Bürger, die barfuß und mit einer Galgenschlinge um den Hals um Gnade flehen mussten. 1949 besetzten Genter Studenten wegen höherer Bierpreise den Gravensteen, warfen überreifes Obst nach der Polizei und riefen eine freie Studentenrepublik aus. In der ganzen Folge gibt es mehr Geschichten und Tipps zu den Sehenswürdigkeiten.
+
+Andere Sprachen und mehr über Ghent: https://wanderingcities.com/de/belgium/ghent/
+
+Quellen u. a. Wikipedia und Wikivoyage (CC BY-SA 4.0) sowie offizielle Websites für Tourismus, Denkmalpflege und Museen. Gespräch und Stimmen sind KI-generiert.</description>
+      <itunes:summary>Gent, in Belgien: Die Genter nennen sich stolz „Stroppendragers“, also Schlingenträger, und bei den Stadtfesten sieht man schwarz-weiße Schlingen, als Erinnerung an Bürger, die barfuß und mit einer Galgenschlinge um den Hals um Gnade flehen mussten. 1949 besetzten Genter Studenten wegen höherer Bierpreise den Gravensteen, warfen überreifes Obst nach der Polizei und riefen eine freie Studentenrepublik aus. In der ganzen Folge gibt es mehr Geschichten und Tipps zu den Sehenswürdigkeiten.
+
+Andere Sprachen und mehr über Ghent: https://wanderingcities.com/de/belgium/ghent/
+
+Quellen u. a. Wikipedia und Wikivoyage (CC BY-SA 4.0) sowie offizielle Websites für Tourismus, Denkmalpflege und Museen. Gespräch und Stimmen sind KI-generiert.</itunes:summary>
+      <enclosure url="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/episodes/de/de-ghent-1056062897-v1.mp3" length="18899509" type="audio/mpeg"/>
+      <guid isPermaLink="false">a20f7171-565c-5fd5-a677-11d650e05fbc</guid>
+      <pubDate>Fri, 20 Nov 2026 10:00:41 +0000</pubDate>
+      <itunes:duration>00:19:34</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Antwerpen Reiseführer &amp; Geschichte | Der Riese und die geworfene Hand</title>
       <link>https://wanderingcities.com/de/belgium/antwerp/</link>
