@@ -14,7 +14,7 @@
     <itunes:type>episodic</itunes:type>
     <itunes:category text="Society &amp; Culture"><itunes:category text="Places &amp; Travel"/></itunes:category>
     <itunes:image href="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/cover-it-3000.jpg"/>
-    <lastBuildDate>Fri, 20 Nov 2026 04:51:51 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 20 Nov 2026 05:02:36 +0000</lastBuildDate>
     <item>
       <title>Staphorst: guida di viaggio e storia | Ortodossia calvinista e porte aperte</title>
       <link>https://wanderingcities.com/it/netherlands/staphorst/</link>
@@ -92,10 +92,10 @@ Fonti, tra le altre: Wikipedia e Wikivoyage (CC BY-SA 4.0) e siti ufficiali di t
 Altre lingue e altro su Muiden: https://wanderingcities.com/it/netherlands/muiden/
 
 Fonti, tra le altre: Wikipedia e Wikivoyage (CC BY-SA 4.0) e siti ufficiali di turismo, patrimonio e musei. La conversazione e le voci sono generate dall'IA.</itunes:summary>
-      <enclosure url="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/episodes/it/it-muiden-1528999912-v1.mp3" length="25161758" type="audio/mpeg"/>
+      <enclosure url="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/episodes/it/it-muiden-1528999912-v2.mp3" length="16000511" type="audio/mpeg"/>
       <guid isPermaLink="false">f81fd3e8-99ee-5911-a0e8-4bfcc5a85db6</guid>
       <pubDate>Wed, 18 Nov 2026 08:01:40 +0000</pubDate>
-      <itunes:duration>00:26:05</itunes:duration>
+      <itunes:duration>00:16:32</itunes:duration>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>false</itunes:explicit>
     </item>

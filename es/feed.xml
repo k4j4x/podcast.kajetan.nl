@@ -14,7 +14,7 @@
     <itunes:type>episodic</itunes:type>
     <itunes:category text="Society &amp; Culture"><itunes:category text="Places &amp; Travel"/></itunes:category>
     <itunes:image href="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/cover-es-3000.jpg"/>
-    <lastBuildDate>Fri, 20 Nov 2026 04:51:51 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 20 Nov 2026 05:02:35 +0000</lastBuildDate>
     <item>
       <title>Staphorst: guía de viaje e historia | Cámaras prohibidas y puertas abiertas</title>
       <link>https://wanderingcities.com/es/netherlands/staphorst/</link>
@@ -71,10 +71,10 @@ Fuentes, entre otras: Wikipedia y Wikivoyage (CC BY-SA 4.0) y webs oficiales de 
 Otros idiomas y más sobre Texel: https://wanderingcities.com/es/netherlands/texel/
 
 Fuentes, entre otras: Wikipedia y Wikivoyage (CC BY-SA 4.0) y webs oficiales de turismo, patrimonio y museos. La conversación y las voces están generadas por IA.</itunes:summary>
-      <enclosure url="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/episodes/es/es-texel-1528999909-v1.mp3" length="24546295" type="audio/mpeg"/>
+      <enclosure url="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/episodes/es/es-texel-1528999909-v2.mp3" length="10693456" type="audio/mpeg"/>
       <guid isPermaLink="false">b656c2a5-1ba1-5a2f-99a4-fbd1c4765a5e</guid>
       <pubDate>Wed, 18 Nov 2026 09:01:01 +0000</pubDate>
-      <itunes:duration>00:25:26</itunes:duration>
+      <itunes:duration>00:11:00</itunes:duration>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>false</itunes:explicit>
     </item>
@@ -92,10 +92,10 @@ Fuentes, entre otras: Wikipedia y Wikivoyage (CC BY-SA 4.0) y webs oficiales de 
 Otros idiomas y más sobre Muiden: https://wanderingcities.com/es/netherlands/muiden/
 
 Fuentes, entre otras: Wikipedia y Wikivoyage (CC BY-SA 4.0) y webs oficiales de turismo, patrimonio y museos. La conversación y las voces están generadas por IA.</itunes:summary>
-      <enclosure url="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/episodes/es/es-muiden-1528999912-v1.mp3" length="18248892" type="audio/mpeg"/>
+      <enclosure url="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/episodes/es/es-muiden-1528999912-v2.mp3" length="17019256" type="audio/mpeg"/>
       <guid isPermaLink="false">cbde8190-7fc2-586a-8426-cc68005588bb</guid>
       <pubDate>Wed, 18 Nov 2026 07:30:40 +0000</pubDate>
-      <itunes:duration>00:18:53</itunes:duration>
+      <itunes:duration>00:17:36</itunes:duration>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>false</itunes:explicit>
     </item>
