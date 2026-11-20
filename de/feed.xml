@@ -14,7 +14,27 @@
     <itunes:type>episodic</itunes:type>
     <itunes:category text="Society &amp; Culture"><itunes:category text="Places &amp; Travel"/></itunes:category>
     <itunes:image href="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/cover-de-3000.jpg"/>
-    <lastBuildDate>Fri, 20 Nov 2026 07:31:22 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 20 Nov 2026 08:01:51 +0000</lastBuildDate>
+    <item>
+      <title>Antwerpen Reiseführer &amp; Geschichte | Der Riese und die geworfene Hand</title>
+      <link>https://wanderingcities.com/de/belgium/antwerp/</link>
+      <description>Antwerpen, in Belgien, hat auf dem Grote Markt einen Bronzebrunnen, an dem Silvius Brabo die abgehackte Hand des Riesen Druon Antigon schleudert – das Wasser spritzt direkt aus ihrem Handgelenk. 1576 gründete Christophel Plantin hier seine Druckerei, die heute als Museum Plantin-Moretus 450 Jahre Buchdruck feiert. In der ganzen Folge gibt es mehr Geschichten und Tipps zu den Sehenswürdigkeiten.
+
+Andere Sprachen und mehr über Antwerp: https://wanderingcities.com/de/belgium/antwerp/
+
+Quellen u. a. Wikipedia und Wikivoyage (CC BY-SA 4.0) sowie offizielle Websites für Tourismus, Denkmalpflege und Museen. Gespräch und Stimmen sind KI-generiert.</description>
+      <itunes:summary>Antwerpen, in Belgien, hat auf dem Grote Markt einen Bronzebrunnen, an dem Silvius Brabo die abgehackte Hand des Riesen Druon Antigon schleudert – das Wasser spritzt direkt aus ihrem Handgelenk. 1576 gründete Christophel Plantin hier seine Druckerei, die heute als Museum Plantin-Moretus 450 Jahre Buchdruck feiert. In der ganzen Folge gibt es mehr Geschichten und Tipps zu den Sehenswürdigkeiten.
+
+Andere Sprachen und mehr über Antwerp: https://wanderingcities.com/de/belgium/antwerp/
+
+Quellen u. a. Wikipedia und Wikivoyage (CC BY-SA 4.0) sowie offizielle Websites für Tourismus, Denkmalpflege und Museen. Gespräch und Stimmen sind KI-generiert.</itunes:summary>
+      <enclosure url="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/episodes/de/de-antwerp-1056168623-v1.mp3" length="27541235" type="audio/mpeg"/>
+      <guid isPermaLink="false">0a03c6da-abb9-5165-bede-511c221790d0</guid>
+      <pubDate>Fri, 20 Nov 2026 08:00:58 +0000</pubDate>
+      <itunes:duration>00:28:34</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Brüssel Reiseführer &amp; Geschichte | Zwischen EU-Macht und lokaler Anarchie</title>
       <link>https://wanderingcities.com/de/belgium/brussels/</link>

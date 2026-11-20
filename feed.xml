@@ -14,7 +14,27 @@
     <itunes:type>episodic</itunes:type>
     <itunes:category text="Society &amp; Culture"><itunes:category text="Places &amp; Travel"/></itunes:category>
     <itunes:image href="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/cover-3000.jpg"/>
-    <lastBuildDate>Fri, 20 Nov 2026 07:31:22 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 20 Nov 2026 08:01:51 +0000</lastBuildDate>
+    <item>
+      <title>Antwerp Travel Guide &amp; History | The Giant and the Severed Hand</title>
+      <link>https://wanderingcities.com/belgium/antwerp/?lang=en</link>
+      <description>Antwerp, in Belgium, gets its name, legend says, from a giant who cut off the hands of river traders refusing his toll, until a hero threw the giant's own hand into the water. In 1648, the Treaty of Münster closed the river, putting the city into an economic coma for over 200 years. Listen to the full episode for more stories and tips on what to see.
+
+Other languages and more about Antwerp: https://wanderingcities.com/belgium/antwerp/?lang=en
+
+Sources include Wikipedia and Wikivoyage (CC BY-SA 4.0) and official tourism, heritage and museum websites. The conversation and voices are AI-generated.</description>
+      <itunes:summary>Antwerp, in Belgium, gets its name, legend says, from a giant who cut off the hands of river traders refusing his toll, until a hero threw the giant's own hand into the water. In 1648, the Treaty of Münster closed the river, putting the city into an economic coma for over 200 years. Listen to the full episode for more stories and tips on what to see.
+
+Other languages and more about Antwerp: https://wanderingcities.com/belgium/antwerp/?lang=en
+
+Sources include Wikipedia and Wikivoyage (CC BY-SA 4.0) and official tourism, heritage and museum websites. The conversation and voices are AI-generated.</itunes:summary>
+      <enclosure url="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/episodes/wandering-cities-antwerp-1056168623-v1.mp3" length="24045735" type="audio/mpeg"/>
+      <guid isPermaLink="false">442deca3-960e-5748-b977-ceac18d16a20</guid>
+      <pubDate>Fri, 20 Nov 2026 08:01:51 +0000</pubDate>
+      <itunes:duration>00:24:53</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Brussels Travel Guide &amp; History | EU Power Meets Local Anarchy</title>
       <link>https://wanderingcities.com/belgium/brussels/?lang=en</link>
