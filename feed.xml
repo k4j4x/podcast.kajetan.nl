@@ -14,7 +14,27 @@
     <itunes:type>episodic</itunes:type>
     <itunes:category text="Society &amp; Culture"><itunes:category text="Places &amp; Travel"/></itunes:category>
     <itunes:image href="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/cover-3000.jpg"/>
-    <lastBuildDate>Fri, 20 Nov 2026 05:02:34 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 20 Nov 2026 06:31:39 +0000</lastBuildDate>
+    <item>
+      <title>Brussels Travel Guide &amp; History | EU Power Meets Local Anarchy</title>
+      <link>https://wanderingcities.com/belgium/brussels/?lang=en</link>
+      <description>Brussels, in Belgium, owes its filled chocolate shell to an apothecary who coated his medicines in chocolate, then realized sweet fillings like nougat or cream made a better business. In 1830, an opera about an uprising in Naples stirred its audience so much they poured out into the streets, starting the revolution that won Belgian independence. Listen to the full episode for more stories and tips on what to see.
+
+Other languages and more about Brussels: https://wanderingcities.com/belgium/brussels/?lang=en
+
+Sources include Wikipedia and Wikivoyage (CC BY-SA 4.0) and official tourism, heritage and museum websites. The conversation and voices are AI-generated.</description>
+      <itunes:summary>Brussels, in Belgium, owes its filled chocolate shell to an apothecary who coated his medicines in chocolate, then realized sweet fillings like nougat or cream made a better business. In 1830, an opera about an uprising in Naples stirred its audience so much they poured out into the streets, starting the revolution that won Belgian independence. Listen to the full episode for more stories and tips on what to see.
+
+Other languages and more about Brussels: https://wanderingcities.com/belgium/brussels/?lang=en
+
+Sources include Wikipedia and Wikivoyage (CC BY-SA 4.0) and official tourism, heritage and museum websites. The conversation and voices are AI-generated.</itunes:summary>
+      <enclosure url="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/episodes/wandering-cities-brussels-1056469830-v1.mp3" length="23346906" type="audio/mpeg"/>
+      <guid isPermaLink="false">119a0357-bd9b-59a0-a337-c13e0771c6c6</guid>
+      <pubDate>Fri, 20 Nov 2026 06:31:39 +0000</pubDate>
+      <itunes:duration>00:24:09</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Staphorst Travel Guide &amp; History | Camera Bans and Open Doors</title>
       <link>https://wanderingcities.com/netherlands/staphorst/?lang=en</link>
