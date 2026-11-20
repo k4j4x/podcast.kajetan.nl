@@ -14,7 +14,27 @@
     <itunes:type>episodic</itunes:type>
     <itunes:category text="Society &amp; Culture"><itunes:category text="Places &amp; Travel"/></itunes:category>
     <itunes:image href="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/cover-fr-3000.jpg"/>
-    <lastBuildDate>Fri, 20 Nov 2026 06:31:40 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 20 Nov 2026 07:01:22 +0000</lastBuildDate>
+    <item>
+      <title>Bruxelles : guide de voyage et histoire | Du marais à la capitale européenne</title>
+      <link>https://wanderingcities.com/fr/belgium/brussels/</link>
+      <description>Bruxelles, en Belgique, doit sa Grand-Place à une guerre des façades : boulangers, brasseurs et bateliers voulaient chacun une façade plus dorée que celle du voisin. En 1912, dans les galeries royales Saint-Hubert, on a inventé la praline : une coquille de chocolat moulée qui enferme une garniture liquide ou moelleuse. Écoutez l'épisode complet pour plus d'histoires et de conseils sur ce qu'il faut voir.
+
+Autres langues et plus sur Brussels : https://wanderingcities.com/fr/belgium/brussels/
+
+Sources, entre autres : Wikipédia et Wikivoyage (CC BY-SA 4.0) ainsi que les sites officiels du tourisme, du patrimoine et des musées. La conversation et les voix sont générées par IA.</description>
+      <itunes:summary>Bruxelles, en Belgique, doit sa Grand-Place à une guerre des façades : boulangers, brasseurs et bateliers voulaient chacun une façade plus dorée que celle du voisin. En 1912, dans les galeries royales Saint-Hubert, on a inventé la praline : une coquille de chocolat moulée qui enferme une garniture liquide ou moelleuse. Écoutez l'épisode complet pour plus d'histoires et de conseils sur ce qu'il faut voir.
+
+Autres langues et plus sur Brussels : https://wanderingcities.com/fr/belgium/brussels/
+
+Sources, entre autres : Wikipédia et Wikivoyage (CC BY-SA 4.0) ainsi que les sites officiels du tourisme, du patrimoine et des musées. La conversation et les voix sont générées par IA.</itunes:summary>
+      <enclosure url="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/episodes/fr/fr-brussels-1056469830-v1.mp3" length="14592490" type="audio/mpeg"/>
+      <guid isPermaLink="false">b8cd4a31-bfb1-5681-a3c9-082546d18846</guid>
+      <pubDate>Fri, 20 Nov 2026 07:00:38 +0000</pubDate>
+      <itunes:duration>00:15:04</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Staphorst : guide de voyage et histoire | Objectifs interdits et portes ouvertes</title>
       <link>https://wanderingcities.com/fr/netherlands/staphorst/</link>

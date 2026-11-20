@@ -14,7 +14,27 @@
     <itunes:type>episodic</itunes:type>
     <itunes:category text="Society &amp; Culture"><itunes:category text="Places &amp; Travel"/></itunes:category>
     <itunes:image href="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/cover-nl-3000.jpg"/>
-    <lastBuildDate>Fri, 20 Nov 2026 06:31:40 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 20 Nov 2026 07:01:22 +0000</lastBuildDate>
+    <item>
+      <title>Brussel reisgids &amp; geschiedenis | Van moeras tot barok meesterwerk</title>
+      <link>https://wanderingcities.com/nl/belgium/brussels/</link>
+      <description>Brussel, in België, had in de 16e eeuw een keizerlijk paleis op de Koudenberg, waar jagers werkten die alleen mussen vingen voor de banketten van Karel V. In 1695 schoot het leger van Lodewijk XIV drie dagen lang gloeiend hete kanonskogels op de stad, waarna de gildes de Grote Markt binnen vier jaar herbouwden. Luister de hele aflevering voor meer verhalen en tips over wat je moet zien.
+
+Andere talen en meer over Brussels: https://wanderingcities.com/nl/belgium/brussels/
+
+Bronnen o.a. Wikipedia en Wikivoyage (CC BY-SA 4.0) en officiële websites over toerisme, erfgoed en musea. Het gesprek en de stemmen zijn door AI gegenereerd.</description>
+      <itunes:summary>Brussel, in België, had in de 16e eeuw een keizerlijk paleis op de Koudenberg, waar jagers werkten die alleen mussen vingen voor de banketten van Karel V. In 1695 schoot het leger van Lodewijk XIV drie dagen lang gloeiend hete kanonskogels op de stad, waarna de gildes de Grote Markt binnen vier jaar herbouwden. Luister de hele aflevering voor meer verhalen en tips over wat je moet zien.
+
+Andere talen en meer over Brussels: https://wanderingcities.com/nl/belgium/brussels/
+
+Bronnen o.a. Wikipedia en Wikivoyage (CC BY-SA 4.0) en officiële websites over toerisme, erfgoed en musea. Het gesprek en de stemmen zijn door AI gegenereerd.</itunes:summary>
+      <enclosure url="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/episodes/nl/nl-brussels-1056469830-v1.mp3" length="20472131" type="audio/mpeg"/>
+      <guid isPermaLink="false">3ca3efe1-71d5-577a-8bb2-b81cb8f3ba4a</guid>
+      <pubDate>Fri, 20 Nov 2026 07:01:21 +0000</pubDate>
+      <itunes:duration>00:21:12</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Westerbork reisgids &amp; geschiedenis | Van toevluchtsoord naar doorgangskamp</title>
       <link>https://wanderingcities.com/nl/netherlands/westerbork/</link>
