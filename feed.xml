@@ -14,10 +14,11 @@
     <itunes:type>episodic</itunes:type>
     <itunes:category text="Society &amp; Culture"><itunes:category text="Places &amp; Travel"/></itunes:category>
     <itunes:image href="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/cover-3000.jpg"/>
-    <lastBuildDate>Fri, 20 Nov 2026 02:53:42 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 20 Nov 2026 04:32:30 +0000</lastBuildDate>
     <item>
       <title>Staphorst Travel Guide &amp; History | Camera Bans and Open Doors</title>
       <link>https://wanderingcities.com/netherlands/staphorst/?lang=en</link>
+      <podcast:transcript url="https://wanderingcities.com/netherlands/staphorst/transcript-en.txt" type="text/plain" language="en"/>
       <description>Staphorst, in the Netherlands, is a town where artisans hammer pins into small wooden blocks, dip them in bright paint and stamp colored dots by hand onto dark clothing. A municipal ordinance dating back to 1937 bans photographing the locals without their permission. Listen to the full episode for more stories and tips on what to see.
 
 Other languages and more about Staphorst: https://wanderingcities.com/netherlands/staphorst/?lang=en
@@ -38,6 +39,7 @@ Sources include Wikipedia and Wikivoyage (CC BY-SA 4.0) and official tourism, he
     <item>
       <title>Nuenen Travel Guide &amp; History | Van Gogh's Dark Foundation</title>
       <link>https://wanderingcities.com/netherlands/nuenen/?lang=en</link>
+      <podcast:transcript url="https://wanderingcities.com/netherlands/nuenen/transcript-en.txt" type="text/plain" language="en"/>
       <description>Nuenen, in the Netherlands, is where a gardener tricked a German Panzer brigade into turning around with false directions in September 1944. In 2002, thieves broke in through the roof of the Van Gogh Museum in Amsterdam and stole Vincent's painting of his father's church here; it was found in an Italian house in 2016. Listen to the full episode for more stories and tips on what to see.
 
 Other languages and more about Nuenen: https://wanderingcities.com/netherlands/nuenen/?lang=en
@@ -90,10 +92,10 @@ Sources include Wikipedia and Wikivoyage (CC BY-SA 4.0) and official tourism, he
 Other languages and more about Muiden: https://wanderingcities.com/netherlands/muiden/?lang=en
 
 Sources include Wikipedia and Wikivoyage (CC BY-SA 4.0) and official tourism, heritage and museum websites. The conversation and voices are AI-generated.</itunes:summary>
-      <enclosure url="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/episodes/wandering-cities-muiden-1528999912-v1.mp3" length="22747968" type="audio/mpeg"/>
+      <enclosure url="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/episodes/wandering-cities-muiden-1528999912-v2.mp3" length="20423279" type="audio/mpeg"/>
       <guid isPermaLink="false">560fe6ee-f583-5a2c-9104-7b9ee864ba3c</guid>
       <pubDate>Wed, 18 Nov 2026 06:31:29 +0000</pubDate>
-      <itunes:duration>00:23:32</itunes:duration>
+      <itunes:duration>00:21:07</itunes:duration>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>false</itunes:explicit>
     </item>

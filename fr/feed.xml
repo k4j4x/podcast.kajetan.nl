@@ -14,10 +14,11 @@
     <itunes:type>episodic</itunes:type>
     <itunes:category text="Society &amp; Culture"><itunes:category text="Places &amp; Travel"/></itunes:category>
     <itunes:image href="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/cover-fr-3000.jpg"/>
-    <lastBuildDate>Fri, 20 Nov 2026 02:53:43 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 20 Nov 2026 04:32:30 +0000</lastBuildDate>
     <item>
       <title>Staphorst : guide de voyage et histoire | Objectifs interdits et portes ouvertes</title>
       <link>https://wanderingcities.com/fr/netherlands/staphorst/</link>
+      <podcast:transcript url="https://wanderingcities.com/netherlands/staphorst/transcript-fr.txt" type="text/plain" language="fr"/>
       <description>Staphorst, aux Pays-Bas, a des fermes aux toits ondulés : chaque vague marque le moment où une famille a enfin pu s'agrandir, sans architecte ni niveau à bulle. En 1825, une grande inondation a tué 21 personnes et balayé des centaines de fermes de la région. Écoutez l'épisode complet pour plus d'histoires et de conseils sur ce qu'il faut voir.
 
 Autres langues et plus sur Staphorst : https://wanderingcities.com/fr/netherlands/staphorst/
@@ -38,6 +39,7 @@ Sources, entre autres : Wikipédia et Wikivoyage (CC BY-SA 4.0) ainsi que les si
     <item>
       <title>Nuenen : guide de voyage et histoire | Le laboratoire secret d'un maître</title>
       <link>https://wanderingcities.com/fr/netherlands/nuenen/</link>
+      <podcast:transcript url="https://wanderingcities.com/netherlands/nuenen/transcript-fr.txt" type="text/plain" language="fr"/>
       <description>Nuenen, aux Pays-Bas, a une petite église que Van Gogh a peinte pour sa mère clouée au lit, une toile retrouvée plus tard chez un clan mafieux près de Naples. En 2002, des voleurs entrés par le toit du musée Van Gogh d'Amsterdam l'ont emportée ; la police antimafia italienne l'a retrouvée en 2016. Écoutez l'épisode complet pour plus d'histoires et de conseils sur ce qu'il faut voir.
 
 Autres langues et plus sur Nuenen : https://wanderingcities.com/fr/netherlands/nuenen/

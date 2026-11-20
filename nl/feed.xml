@@ -14,10 +14,11 @@
     <itunes:type>episodic</itunes:type>
     <itunes:category text="Society &amp; Culture"><itunes:category text="Places &amp; Travel"/></itunes:category>
     <itunes:image href="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/cover-nl-3000.jpg"/>
-    <lastBuildDate>Fri, 20 Nov 2026 02:53:43 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 20 Nov 2026 04:32:30 +0000</lastBuildDate>
     <item>
       <title>Westerbork reisgids &amp; geschiedenis | Van toevluchtsoord naar doorgangskamp</title>
       <link>https://wanderingcities.com/nl/netherlands/westerbork/</link>
+      <podcast:transcript url="https://wanderingcities.com/netherlands/westerbork/transcript-nl.txt" type="text/plain" language="nl"/>
       <description>Westerbork, in Nederland, ligt bij een kampterrein met 102.000 rode stenen, één voor elk slachtoffer, terwijl vlak ernaast 14 schotels van een radiotelescoop boven de bomen uitsteken. In de zomer van 1939 bouwde niet de bezetter maar de Nederlandse overheid hier een kamp voor Duitse en Oostenrijkse joden die op de vlucht waren. Luister de hele aflevering voor meer verhalen en tips over wat je moet zien.
 
 Andere talen en meer over Westerbork: https://wanderingcities.com/nl/netherlands/westerbork/
@@ -38,6 +39,7 @@ Bronnen o.a. Wikipedia en Wikivoyage (CC BY-SA 4.0) en officiële websites over 
     <item>
       <title>Staphorst reisgids &amp; geschiedenis | Fotoverbod en open keukendeuren</title>
       <link>https://wanderingcities.com/nl/netherlands/staphorst/</link>
+      <podcast:transcript url="https://wanderingcities.com/netherlands/staphorst/transcript-nl.txt" type="text/plain" language="nl"/>
       <description>Staphorst, in Nederland, bouwde zijn boerderijen tot zes diep achter elkaar op smalle stroken land, elk een paar meter opgeschoven, zodat zelfs vanuit de laatste boerderij te zien was wie er over de diek fietste. In de winter van 1825 brak een noordwesterstorm de dijken door: 21 inwoners verdronken en 775 runderen gingen verloren. Luister de hele aflevering voor meer verhalen en tips over wat je moet zien.
 
 Andere talen en meer over Staphorst: https://wanderingcities.com/nl/netherlands/staphorst/
@@ -58,6 +60,7 @@ Bronnen o.a. Wikipedia en Wikivoyage (CC BY-SA 4.0) en officiële websites over 
     <item>
       <title>Nuenen reisgids &amp; geschiedenis | Van boerenatelier tot Market Garden</title>
       <link>https://wanderingcities.com/nl/netherlands/nuenen/</link>
+      <podcast:transcript url="https://wanderingcities.com/netherlands/nuenen/transcript-nl.txt" type="text/plain" language="nl"/>
       <description>Nuenen, in Nederland, is het dorp waar Vincent van Gogh zijn buurvrouw Margot Begemann vond nadat ze rattengif had geslikt, en haar dwong over te geven. In 1816 sprak de burgemeester koning Willem I aan, die incognito in de buurt jaagde, en kreeg zo subsidie voor een nieuw protestants kerkje. Luister de hele aflevering voor meer verhalen en tips over wat je moet zien.
 
 Andere talen en meer over Nuenen: https://wanderingcities.com/nl/netherlands/nuenen/
@@ -131,10 +134,10 @@ Bronnen o.a. Wikipedia en Wikivoyage (CC BY-SA 4.0) en officiële websites over 
 Andere talen en meer over Franeker: https://wanderingcities.com/nl/netherlands/franeker/
 
 Bronnen o.a. Wikipedia en Wikivoyage (CC BY-SA 4.0) en officiële websites over toerisme, erfgoed en musea. Het gesprek en de stemmen zijn door AI gegenereerd.</itunes:summary>
-      <enclosure url="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/episodes/nl/nl-franeker-1528890881-v1.mp3" length="21778255" type="audio/mpeg"/>
+      <enclosure url="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/episodes/nl/nl-franeker-1528890881-v3.mp3" length="15221311" type="audio/mpeg"/>
       <guid isPermaLink="false">d348248d-eb0d-568f-a415-27751b2e2fdd</guid>
       <pubDate>Tue, 17 Nov 2026 09:01:27 +0000</pubDate>
-      <itunes:duration>00:22:34</itunes:duration>
+      <itunes:duration>00:15:44</itunes:duration>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>false</itunes:explicit>
     </item>
