@@ -14,7 +14,27 @@
     <itunes:type>episodic</itunes:type>
     <itunes:category text="Society &amp; Culture"><itunes:category text="Places &amp; Travel"/></itunes:category>
     <itunes:image href="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/cover-es-3000.jpg"/>
-    <lastBuildDate>Fri, 20 Nov 2026 07:01:23 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 20 Nov 2026 07:31:23 +0000</lastBuildDate>
+    <item>
+      <title>Bruselas: guía de viaje e historia | Del pantano a la capital de Europa</title>
+      <link>https://wanderingcities.com/es/belgium/brussels/</link>
+      <description>Bruselas, en Bélgica, tuvo un palacio, el de Codenberg, cuyas cocinas tenían en nómina a cazadores de gorriones solo para rellenar los pasteles de los banquetes reales. En 1695, las tropas francesas de Luis XIV bombardearon el centro de la ciudad para distraer a los ejércitos aliados que asediaban Namur. Escucha el episodio completo para más historias y consejos sobre qué ver.
+
+Otros idiomas y más sobre Brussels: https://wanderingcities.com/es/belgium/brussels/
+
+Fuentes, entre otras: Wikipedia y Wikivoyage (CC BY-SA 4.0) y webs oficiales de turismo, patrimonio y museos. La conversación y las voces están generadas por IA.</description>
+      <itunes:summary>Bruselas, en Bélgica, tuvo un palacio, el de Codenberg, cuyas cocinas tenían en nómina a cazadores de gorriones solo para rellenar los pasteles de los banquetes reales. En 1695, las tropas francesas de Luis XIV bombardearon el centro de la ciudad para distraer a los ejércitos aliados que asediaban Namur. Escucha el episodio completo para más historias y consejos sobre qué ver.
+
+Otros idiomas y más sobre Brussels: https://wanderingcities.com/es/belgium/brussels/
+
+Fuentes, entre otras: Wikipedia y Wikivoyage (CC BY-SA 4.0) y webs oficiales de turismo, patrimonio y museos. La conversación y las voces están generadas por IA.</itunes:summary>
+      <enclosure url="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/episodes/es/es-brussels-1056469830-v1.mp3" length="24987660" type="audio/mpeg"/>
+      <guid isPermaLink="false">d679d80d-8cee-5ee3-8249-b91b4ef498aa</guid>
+      <pubDate>Fri, 20 Nov 2026 07:30:53 +0000</pubDate>
+      <itunes:duration>00:25:54</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Staphorst: guía de viaje e historia | Cámaras prohibidas y puertas abiertas</title>
       <link>https://wanderingcities.com/es/netherlands/staphorst/</link>
