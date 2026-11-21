@@ -14,7 +14,27 @@
     <itunes:type>episodic</itunes:type>
     <itunes:category text="Society &amp; Culture"><itunes:category text="Places &amp; Travel"/></itunes:category>
     <itunes:image href="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/cover-de-3000.jpg"/>
-    <lastBuildDate>Sat, 21 Nov 2026 05:30:30 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 21 Nov 2026 21:40:46 +0000</lastBuildDate>
+    <item>
+      <title>Lüttich Reiseführer &amp; Geschichte | 374 Stufen und sechshundert Rebellen</title>
+      <link>https://wanderingcities.com/de/belgium/liege/</link>
+      <description>Lüttich, in Belgien, hatte eine Brunnensäule, den Peron, an der Gesetze verlesen wurden – Karl der Kühne ließ sie abbauen und als Trophäe nach Brügge schleppen. 1914 leisteten die Lütticher aus ihren Festungen so erbittert Widerstand gegen die Deutschen, dass man in Paris den Wiener Kaffee aus Solidarität in Café Liégeois umbenannte. In der ganzen Folge gibt es mehr Geschichten und Tipps zu den Sehenswürdigkeiten.
+
+Andere Sprachen und mehr über Liège: https://wanderingcities.com/de/belgium/liege/
+
+Quellen u. a. Wikipedia und Wikivoyage (CC BY-SA 4.0) sowie offizielle Websites für Tourismus, Denkmalpflege und Museen. Gespräch und Stimmen sind KI-generiert.</description>
+      <itunes:summary>Lüttich, in Belgien, hatte eine Brunnensäule, den Peron, an der Gesetze verlesen wurden – Karl der Kühne ließ sie abbauen und als Trophäe nach Brügge schleppen. 1914 leisteten die Lütticher aus ihren Festungen so erbittert Widerstand gegen die Deutschen, dass man in Paris den Wiener Kaffee aus Solidarität in Café Liégeois umbenannte. In der ganzen Folge gibt es mehr Geschichten und Tipps zu den Sehenswürdigkeiten.
+
+Andere Sprachen und mehr über Liège: https://wanderingcities.com/de/belgium/liege/
+
+Quellen u. a. Wikipedia und Wikivoyage (CC BY-SA 4.0) sowie offizielle Websites für Tourismus, Denkmalpflege und Museen. Gespräch und Stimmen sind KI-generiert.</itunes:summary>
+      <enclosure url="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/episodes/de/de-liege-1056513284-v1.mp3" length="16683913" type="audio/mpeg"/>
+      <guid isPermaLink="false">2ce83984-006a-5c26-b825-d877b9c45823</guid>
+      <pubDate>Sat, 21 Nov 2026 07:30:37 +0000</pubDate>
+      <itunes:duration>00:17:15</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Gent Reiseführer &amp; Geschichte | Rebellion im Schatten der Grafenburg</title>
       <link>https://wanderingcities.com/de/belgium/ghent/</link>
@@ -460,12 +480,12 @@ Quellen u. a. Wikipedia und Wikivoyage (CC BY-SA 4.0) sowie offizielle Websites 
       <title>Kaatsheuvel Reiseführer &amp; Geschichte | Vom Sumpfdorf zum Märchenreich</title>
       <link>https://wanderingcities.com/de/netherlands/kaatsheuvel/</link>
       <podcast:transcript url="https://wanderingcities.com/netherlands/kaatsheuvel/transcript-de.txt" type="text/plain" language="de"/>
-      <description>Kaatsheuvel verbindet Sehenswürdigkeiten wie den Freizeitpark Efteling und den Nationaal Park De Loonse en Drunense Duinen mit einer Geschichte, die jeden Besuch bereichert. Im Jahr 1952 eröffnete der Sprookjesbos mit zehn Märchen seine Tore – doch wie begann dieser Aufstieg?
+      <description>Kaatsheuvel, in den Niederlanden: Hier wurde Swarte Johannes, Anführer der Räuberbande De Witte Veer, nicht bei einem Goldraub gefasst, sondern weil er einem Bauern ein einziges Schwein stahl. 2010 stand die Sint-Jozefkerk kurz vor dem Abriss, doch die Gemeinde protestierte, die Kirche wurde Rijksmonument, und heute ist darin ein Gesundheitszentrum. In der ganzen Folge gibt es mehr Geschichten und Tipps zu den Sehenswürdigkeiten.
 
 Andere Sprachen und mehr über Kaatsheuvel: https://wanderingcities.com/de/netherlands/kaatsheuvel/
 
 Quellen u. a. Wikipedia und Wikivoyage (CC BY-SA 4.0) sowie offizielle Websites für Tourismus, Denkmalpflege und Museen. Gespräch und Stimmen sind KI-generiert.</description>
-      <itunes:summary>Kaatsheuvel verbindet Sehenswürdigkeiten wie den Freizeitpark Efteling und den Nationaal Park De Loonse en Drunense Duinen mit einer Geschichte, die jeden Besuch bereichert. Im Jahr 1952 eröffnete der Sprookjesbos mit zehn Märchen seine Tore – doch wie begann dieser Aufstieg?
+      <itunes:summary>Kaatsheuvel, in den Niederlanden: Hier wurde Swarte Johannes, Anführer der Räuberbande De Witte Veer, nicht bei einem Goldraub gefasst, sondern weil er einem Bauern ein einziges Schwein stahl. 2010 stand die Sint-Jozefkerk kurz vor dem Abriss, doch die Gemeinde protestierte, die Kirche wurde Rijksmonument, und heute ist darin ein Gesundheitszentrum. In der ganzen Folge gibt es mehr Geschichten und Tipps zu den Sehenswürdigkeiten.
 
 Andere Sprachen und mehr über Kaatsheuvel: https://wanderingcities.com/de/netherlands/kaatsheuvel/
 
@@ -880,12 +900,12 @@ Quellen u. a. Wikipedia und Wikivoyage (CC BY-SA 4.0) sowie offizielle Websites 
       <title>Enkhuizen Reiseführer &amp; Geschichte | Vom Welthafen zum Seed Valley</title>
       <link>https://wanderingcities.com/de/netherlands/enkhuizen/</link>
       <podcast:transcript url="https://wanderingcities.com/netherlands/enkhuizen/transcript-de.txt" type="text/plain" language="de"/>
-      <description>Enkhuizen verbindet seine lange maritime Geschichte mit bedeutenden Sehenswürdigkeiten wie dem Zuiderzeemuseum und dem historischen Wehrturm Drommedaris. Im Jahr 1867 legte die Gründung von Sluis &amp; Groot den Grundstein für die spätere Entwicklung der Stadt zum weltweiten Zentrum der Saatzucht.
+      <description>Enkhuizen, in den Niederlanden, schützte im 17. Jahrhundert seinen Reichtum mit Steinmauern, und 200 Jahre später grasten dahinter Kühe, wo einst die Häuser der Händler standen. 1572 stellte sich Enkhuizen als erste Stadt Hollands auf die Seite Wilhelms von Oranien und erhielt dafür das Paalkistrecht: eine Steuer auf jedes Schiff der Zuiderzee. In der ganzen Folge gibt es mehr Geschichten und Tipps zu den Sehenswürdigkeiten.
 
 Andere Sprachen und mehr über Enkhuizen: https://wanderingcities.com/de/netherlands/enkhuizen/
 
 Quellen u. a. Wikipedia und Wikivoyage (CC BY-SA 4.0) sowie offizielle Websites für Tourismus, Denkmalpflege und Museen. Gespräch und Stimmen sind KI-generiert.</description>
-      <itunes:summary>Enkhuizen verbindet seine lange maritime Geschichte mit bedeutenden Sehenswürdigkeiten wie dem Zuiderzeemuseum und dem historischen Wehrturm Drommedaris. Im Jahr 1867 legte die Gründung von Sluis &amp; Groot den Grundstein für die spätere Entwicklung der Stadt zum weltweiten Zentrum der Saatzucht.
+      <itunes:summary>Enkhuizen, in den Niederlanden, schützte im 17. Jahrhundert seinen Reichtum mit Steinmauern, und 200 Jahre später grasten dahinter Kühe, wo einst die Häuser der Händler standen. 1572 stellte sich Enkhuizen als erste Stadt Hollands auf die Seite Wilhelms von Oranien und erhielt dafür das Paalkistrecht: eine Steuer auf jedes Schiff der Zuiderzee. In der ganzen Folge gibt es mehr Geschichten und Tipps zu den Sehenswürdigkeiten.
 
 Andere Sprachen und mehr über Enkhuizen: https://wanderingcities.com/de/netherlands/enkhuizen/
 
@@ -1279,12 +1299,12 @@ Quellen u. a. Wikipedia und Wikivoyage (CC BY-SA 4.0) sowie offizielle Websites 
       <title>Schiedam Reiseführer &amp; Geschichte | Vom Schwarzen Nazareth zum Jenever</title>
       <link>https://wanderingcities.com/de/netherlands/schiedam/</link>
       <podcast:transcript url="https://wanderingcities.com/netherlands/schiedam/transcript-de.txt" type="text/plain" language="de"/>
-      <description>Schiedam verbindet bei einem Besuch an den Grachten der Lange Haven, in der Molen De Walvisch und im Nationaal Jenevermuseum seine Geschichte mit lokalen Sehenswürdigkeiten. Im Jahr 1275 verlieh Aleid van Holland dem Ort die Stadtrechte und prägte damit die weitere Entwicklung zur Brennereistadt.
+      <description>Schiedam, in den Niederlanden: Läutete die Glocke des Zakkendragershuisje an der Oude Sluis, versammelten sich die Sackträger dort und würfelten um die Arbeit – wer die höchste Augenzahl warf, bekam den Auftrag. Zwischen 1870 und 1890 stieg die Zahl der Brennereien auf fast 400, und ihr Kohleruß brachte Schiedam den Spitznamen Zwart Nazareth ein. In der ganzen Folge gibt es mehr Geschichten und Tipps zu den Sehenswürdigkeiten.
 
 Andere Sprachen und mehr über Schiedam: https://wanderingcities.com/de/netherlands/schiedam/
 
 Quellen u. a. Wikipedia und Wikivoyage (CC BY-SA 4.0) sowie offizielle Websites für Tourismus, Denkmalpflege und Museen. Gespräch und Stimmen sind KI-generiert.</description>
-      <itunes:summary>Schiedam verbindet bei einem Besuch an den Grachten der Lange Haven, in der Molen De Walvisch und im Nationaal Jenevermuseum seine Geschichte mit lokalen Sehenswürdigkeiten. Im Jahr 1275 verlieh Aleid van Holland dem Ort die Stadtrechte und prägte damit die weitere Entwicklung zur Brennereistadt.
+      <itunes:summary>Schiedam, in den Niederlanden: Läutete die Glocke des Zakkendragershuisje an der Oude Sluis, versammelten sich die Sackträger dort und würfelten um die Arbeit – wer die höchste Augenzahl warf, bekam den Auftrag. Zwischen 1870 und 1890 stieg die Zahl der Brennereien auf fast 400, und ihr Kohleruß brachte Schiedam den Spitznamen Zwart Nazareth ein. In der ganzen Folge gibt es mehr Geschichten und Tipps zu den Sehenswürdigkeiten.
 
 Andere Sprachen und mehr über Schiedam: https://wanderingcities.com/de/netherlands/schiedam/
 
@@ -1489,12 +1509,12 @@ Quellen u. a. Wikipedia und Wikivoyage (CC BY-SA 4.0) sowie offizielle Websites 
       <title>Dordrecht Reiseführer &amp; Geschichte | Von geschmuggelten Schafen und Wasser</title>
       <link>https://wanderingcities.com/de/netherlands/dordrecht/</link>
       <podcast:transcript url="https://wanderingcities.com/netherlands/dordrecht/transcript-de.txt" type="text/plain" language="de"/>
-      <description>Dordrecht verbindet Geschichte und Gegenwart beim Besuch von Sehenswürdigkeiten wie der Grote Kerk, der Groothoofdspoort und den alten Häfen. Im Jahr 1421 verwandelte die Sint-Elisabethsvloed das Umlandsgebiet in Wasser und machte die Stadt zu einer Insel.
+      <description>Dordrecht, in den Niederlanden: Im 17. Jahrhundert verkleideten zwei Männer ein Schaf mit Mantel und Hut, um es an der Fleischsteuer vorbei durchs Stadttor zu schmuggeln, bis es laut blökte. Im November 1421 spülte die St.-Elisabeth-Flut den durch Torfabbau abgesunkenen Boden weg und trennte Dordrecht vom Festland. In der ganzen Folge gibt es mehr Geschichten und Tipps zu den Sehenswürdigkeiten.
 
 Andere Sprachen und mehr über Dordrecht: https://wanderingcities.com/de/netherlands/dordrecht/
 
 Quellen u. a. Wikipedia und Wikivoyage (CC BY-SA 4.0) sowie offizielle Websites für Tourismus, Denkmalpflege und Museen. Gespräch und Stimmen sind KI-generiert.</description>
-      <itunes:summary>Dordrecht verbindet Geschichte und Gegenwart beim Besuch von Sehenswürdigkeiten wie der Grote Kerk, der Groothoofdspoort und den alten Häfen. Im Jahr 1421 verwandelte die Sint-Elisabethsvloed das Umlandsgebiet in Wasser und machte die Stadt zu einer Insel.
+      <itunes:summary>Dordrecht, in den Niederlanden: Im 17. Jahrhundert verkleideten zwei Männer ein Schaf mit Mantel und Hut, um es an der Fleischsteuer vorbei durchs Stadttor zu schmuggeln, bis es laut blökte. Im November 1421 spülte die St.-Elisabeth-Flut den durch Torfabbau abgesunkenen Boden weg und trennte Dordrecht vom Festland. In der ganzen Folge gibt es mehr Geschichten und Tipps zu den Sehenswürdigkeiten.
 
 Andere Sprachen und mehr über Dordrecht: https://wanderingcities.com/de/netherlands/dordrecht/
 
@@ -1510,12 +1530,12 @@ Quellen u. a. Wikipedia und Wikivoyage (CC BY-SA 4.0) sowie offizielle Websites 
       <title>Leiden Reiseführer &amp; Geschichte | Von der Belagerung zur Universität</title>
       <link>https://wanderingcities.com/de/netherlands/leiden/</link>
       <podcast:transcript url="https://wanderingcities.com/netherlands/leiden/transcript-de.txt" type="text/plain" language="de"/>
-      <description>Leiden bietet mit der historischen Festung Burcht, den Grachten und dem Museum De Lakenhal zentrale Sehenswürdigkeiten für einen Besuch. Im Jahr 1575 gründete Wilhelm von Oranien dort als Belohnung nach der spanischen Belagerung die älteste Universität der Niederlande.
+      <description>Leiden, in den Niederlanden: Am Morgen nach der Flucht der Spanier findet ein Junge im verlassenen Lager einen Kessel mit Eintopf aus Fleisch, Karotten, Zwiebeln und Pastinaken, die Geburtsstunde des Hutspot. 1575 schenkte Wilhelm von Oranien Leiden als Belohnung für das Durchhalten eine Universität, die allererste in den nördlichen Niederlanden. In der ganzen Folge gibt es mehr Geschichten und Tipps zu den Sehenswürdigkeiten.
 
 Andere Sprachen und mehr über Leiden: https://wanderingcities.com/de/netherlands/leiden/
 
 Quellen u. a. Wikipedia und Wikivoyage (CC BY-SA 4.0) sowie offizielle Websites für Tourismus, Denkmalpflege und Museen. Gespräch und Stimmen sind KI-generiert.</description>
-      <itunes:summary>Leiden bietet mit der historischen Festung Burcht, den Grachten und dem Museum De Lakenhal zentrale Sehenswürdigkeiten für einen Besuch. Im Jahr 1575 gründete Wilhelm von Oranien dort als Belohnung nach der spanischen Belagerung die älteste Universität der Niederlande.
+      <itunes:summary>Leiden, in den Niederlanden: Am Morgen nach der Flucht der Spanier findet ein Junge im verlassenen Lager einen Kessel mit Eintopf aus Fleisch, Karotten, Zwiebeln und Pastinaken, die Geburtsstunde des Hutspot. 1575 schenkte Wilhelm von Oranien Leiden als Belohnung für das Durchhalten eine Universität, die allererste in den nördlichen Niederlanden. In der ganzen Folge gibt es mehr Geschichten und Tipps zu den Sehenswürdigkeiten.
 
 Andere Sprachen und mehr über Leiden: https://wanderingcities.com/de/netherlands/leiden/
 
@@ -1741,12 +1761,12 @@ Quellen u. a. Wikipedia und Wikivoyage (CC BY-SA 4.0) sowie offizielle Websites 
       <title>Breda Reiseführer &amp; Geschichte | Vom Torfschiff bis zum Löffelausbruch</title>
       <link>https://wanderingcities.com/de/netherlands/breda/</link>
       <podcast:transcript url="https://wanderingcities.com/netherlands/breda/transcript-de.txt" type="text/plain" language="de"/>
-      <description>Breda verbindet bei einem Besuch reale Orte wie die Grote Kerk, das Kasteel van Breda und den Begijnhof mit der lokalen Geschichte. Im Jahr 1590 eroberten niederländische Truppen die Stadt, indem sie sich in einem Torfschiff versteckten.
+      <description>Breda, in den Niederlanden, wurde von 68 Soldaten zurückerobert, die sich im feuchten Laderaum eines Schiffes unter Tonnen von Torf versteckten, während spanische Wachen über ihnen patrouillierten. Im Jahr 2010 grub die Gefangene Hulda Kiel mit einem Löffel einen Tunnel unter der Mauer der Koepelgevangenis, während Karnevalsbässe ihre Grabgeräusche übertönten. In der ganzen Folge gibt es mehr Geschichten und Tipps zu den Sehenswürdigkeiten.
 
 Andere Sprachen und mehr über Breda: https://wanderingcities.com/de/netherlands/breda/
 
 Quellen u. a. Wikipedia und Wikivoyage (CC BY-SA 4.0) sowie offizielle Websites für Tourismus, Denkmalpflege und Museen. Gespräch und Stimmen sind KI-generiert.</description>
-      <itunes:summary>Breda verbindet bei einem Besuch reale Orte wie die Grote Kerk, das Kasteel van Breda und den Begijnhof mit der lokalen Geschichte. Im Jahr 1590 eroberten niederländische Truppen die Stadt, indem sie sich in einem Torfschiff versteckten.
+      <itunes:summary>Breda, in den Niederlanden, wurde von 68 Soldaten zurückerobert, die sich im feuchten Laderaum eines Schiffes unter Tonnen von Torf versteckten, während spanische Wachen über ihnen patrouillierten. Im Jahr 2010 grub die Gefangene Hulda Kiel mit einem Löffel einen Tunnel unter der Mauer der Koepelgevangenis, während Karnevalsbässe ihre Grabgeräusche übertönten. In der ganzen Folge gibt es mehr Geschichten und Tipps zu den Sehenswürdigkeiten.
 
 Andere Sprachen und mehr über Breda: https://wanderingcities.com/de/netherlands/breda/
 
