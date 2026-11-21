@@ -14,10 +14,11 @@
     <itunes:type>episodic</itunes:type>
     <itunes:category text="Society &amp; Culture"><itunes:category text="Places &amp; Travel"/></itunes:category>
     <itunes:image href="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/cover-de-3000.jpg"/>
-    <lastBuildDate>Sat, 21 Nov 2026 02:18:49 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 21 Nov 2026 05:16:38 +0000</lastBuildDate>
     <item>
       <title>Gent Reiseführer &amp; Geschichte | Rebellion im Schatten der Grafenburg</title>
       <link>https://wanderingcities.com/de/belgium/ghent/</link>
+      <podcast:transcript url="https://wanderingcities.com/belgium/ghent/transcript-de.txt" type="text/plain" language="de"/>
       <description>Gent, in Belgien: Die Genter nennen sich stolz „Stroppendragers“, also Schlingenträger, und bei den Stadtfesten sieht man schwarz-weiße Schlingen, als Erinnerung an Bürger, die barfuß und mit einer Galgenschlinge um den Hals um Gnade flehen mussten. 1949 besetzten Genter Studenten wegen höherer Bierpreise den Gravensteen, warfen überreifes Obst nach der Polizei und riefen eine freie Studentenrepublik aus. In der ganzen Folge gibt es mehr Geschichten und Tipps zu den Sehenswürdigkeiten.
 
 Andere Sprachen und mehr über Ghent: https://wanderingcities.com/de/belgium/ghent/
@@ -38,6 +39,7 @@ Quellen u. a. Wikipedia und Wikivoyage (CC BY-SA 4.0) sowie offizielle Websites 
     <item>
       <title>Antwerpen Reiseführer &amp; Geschichte | Der Riese und die geworfene Hand</title>
       <link>https://wanderingcities.com/de/belgium/antwerp/</link>
+      <podcast:transcript url="https://wanderingcities.com/belgium/antwerp/transcript-de.txt" type="text/plain" language="de"/>
       <description>Antwerpen, in Belgien, hat auf dem Grote Markt einen Bronzebrunnen, an dem Silvius Brabo die abgehackte Hand des Riesen Druon Antigon schleudert – das Wasser spritzt direkt aus ihrem Handgelenk. 1576 gründete Christophel Plantin hier seine Druckerei, die heute als Museum Plantin-Moretus 450 Jahre Buchdruck feiert. In der ganzen Folge gibt es mehr Geschichten und Tipps zu den Sehenswürdigkeiten.
 
 Andere Sprachen und mehr über Antwerp: https://wanderingcities.com/de/belgium/antwerp/
@@ -58,6 +60,7 @@ Quellen u. a. Wikipedia und Wikivoyage (CC BY-SA 4.0) sowie offizielle Websites 
     <item>
       <title>Brüssel Reiseführer &amp; Geschichte | Zwischen EU-Macht und lokaler Anarchie</title>
       <link>https://wanderingcities.com/de/belgium/brussels/</link>
+      <podcast:transcript url="https://wanderingcities.com/belgium/brussels/transcript-de.txt" type="text/plain" language="de"/>
       <description>Brüssel, in Belgien, hat einen Justizpalast, für dessen Bau im 19. Jahrhundert Teile der Marollen abgerissen wurden – bis heute ist „Architekt“ dort ein Schimpfwort. Im August 1830 rannte das Opernpublikum nach einer patriotischen Arie aus dem Theater auf die Straße und stürmte Regierungsgebäude – der Beginn der Revolution, die zur Gründung Belgiens führte. In der ganzen Folge gibt es mehr Geschichten und Tipps zu den Sehenswürdigkeiten.
 
 Andere Sprachen und mehr über Brussels: https://wanderingcities.com/de/belgium/brussels/

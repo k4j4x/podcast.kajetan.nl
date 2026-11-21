@@ -14,10 +14,11 @@
     <itunes:type>episodic</itunes:type>
     <itunes:category text="Society &amp; Culture"><itunes:category text="Places &amp; Travel"/></itunes:category>
     <itunes:image href="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/cover-fr-3000.jpg"/>
-    <lastBuildDate>Sat, 21 Nov 2026 02:18:49 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 21 Nov 2026 05:16:38 +0000</lastBuildDate>
     <item>
       <title>Gand : guide de voyage et histoire | La révolte des porteurs de corde</title>
       <link>https://wanderingcities.com/fr/belgium/ghent/</link>
+      <podcast:transcript url="https://wanderingcities.com/belgium/ghent/transcript-fr.txt" type="text/plain" language="fr"/>
       <description>Gand, en Belgique, affiche partout des cordes noires et blanches : Charles Quint avait forcé ses dirigeants à défiler pieds nus, corde de pendu au cou, et la ville en a fait son emblème. En 1345, le marchand Jacob van Arteveld, qui avait sauvé la ville, est assassiné chez lui par ses propres concitoyens. Écoutez l'épisode complet pour plus d'histoires et de conseils sur ce qu'il faut voir.
 
 Autres langues et plus sur Ghent : https://wanderingcities.com/fr/belgium/ghent/
@@ -38,6 +39,7 @@ Sources, entre autres : Wikipédia et Wikivoyage (CC BY-SA 4.0) ainsi que les si
     <item>
       <title>Anvers : guide de voyage et histoire | Du géant terrassé au port mondial</title>
       <link>https://wanderingcities.com/fr/belgium/antwerp/</link>
+      <podcast:transcript url="https://wanderingcities.com/belgium/antwerp/transcript-fr.txt" type="text/plain" language="fr"/>
       <description>Anvers, en Belgique, devrait son nom à une légende : Sylvius Brabo coupe la main d'un géant qui rançonnait les marins et la jette dans l'Escaut, d'où ses biscuits en forme de main. En 1576, des soldats espagnols impayés depuis des mois se mutinent et mettent la ville à sac, tuant environ 8000 habitants. Écoutez l'épisode complet pour plus d'histoires et de conseils sur ce qu'il faut voir.
 
 Autres langues et plus sur Antwerp : https://wanderingcities.com/fr/belgium/antwerp/
@@ -58,6 +60,7 @@ Sources, entre autres : Wikipédia et Wikivoyage (CC BY-SA 4.0) ainsi que les si
     <item>
       <title>Bruxelles : guide de voyage et histoire | Du marais à la capitale européenne</title>
       <link>https://wanderingcities.com/fr/belgium/brussels/</link>
+      <podcast:transcript url="https://wanderingcities.com/belgium/brussels/transcript-fr.txt" type="text/plain" language="fr"/>
       <description>Bruxelles, en Belgique, doit sa Grand-Place à une guerre des façades : boulangers, brasseurs et bateliers voulaient chacun une façade plus dorée que celle du voisin. En 1912, dans les galeries royales Saint-Hubert, on a inventé la praline : une coquille de chocolat moulée qui enferme une garniture liquide ou moelleuse. Écoutez l'épisode complet pour plus d'histoires et de conseils sur ce qu'il faut voir.
 
 Autres langues et plus sur Brussels : https://wanderingcities.com/fr/belgium/brussels/

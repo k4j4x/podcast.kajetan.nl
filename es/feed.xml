@@ -14,10 +14,11 @@
     <itunes:type>episodic</itunes:type>
     <itunes:category text="Society &amp; Culture"><itunes:category text="Places &amp; Travel"/></itunes:category>
     <itunes:image href="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/cover-es-3000.jpg"/>
-    <lastBuildDate>Sat, 21 Nov 2026 02:18:49 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 21 Nov 2026 05:16:39 +0000</lastBuildDate>
     <item>
       <title>Gante: guía de viaje e historia | La rebelión de las sogas al cuello</title>
       <link>https://wanderingcities.com/es/belgium/ghent/</link>
+      <podcast:transcript url="https://wanderingcities.com/belgium/ghent/transcript-es.txt" type="text/plain" language="es"/>
       <description>Gante, en Bélgica, tiene gente que desfila en sus fiestas con una soga al cuello, orgullosa como si llevara una medalla: son los Stropendraggers, los portadores de soga. En 1949, 138 estudiantes asaltaron y ocuparon el castillo de los condes, el Gravensten, porque había subido el precio de la cerveza. Escucha el episodio completo para más historias y consejos sobre qué ver.
 
 Otros idiomas y más sobre Ghent: https://wanderingcities.com/es/belgium/ghent/
@@ -38,6 +39,7 @@ Fuentes, entre otras: Wikipedia y Wikivoyage (CC BY-SA 4.0) y webs oficiales de 
     <item>
       <title>Amberes: guía de viaje e historia | De la mano cortada a los bombones</title>
       <link>https://wanderingcities.com/es/belgium/antwerp/</link>
+      <podcast:transcript url="https://wanderingcities.com/belgium/antwerp/transcript-es.txt" type="text/plain" language="es"/>
       <description>Amberes, en Bélgica, llena sus pastelerías de bombones con forma de mano cortada, recuerdo del gigante que amputaba la mano a los barqueros que no pagaban peaje en el Escalda. En 1648, el tratado de Monster cerró la navegación por el Escalda y la ciudad quedó asfixiada durante casi dos siglos. Escucha el episodio completo para más historias y consejos sobre qué ver.
 
 Otros idiomas y más sobre Antwerp: https://wanderingcities.com/es/belgium/antwerp/
@@ -58,6 +60,7 @@ Fuentes, entre otras: Wikipedia y Wikivoyage (CC BY-SA 4.0) y webs oficiales de 
     <item>
       <title>Bruselas: guía de viaje e historia | Del pantano a la capital de Europa</title>
       <link>https://wanderingcities.com/es/belgium/brussels/</link>
+      <podcast:transcript url="https://wanderingcities.com/belgium/brussels/transcript-es.txt" type="text/plain" language="es"/>
       <description>Bruselas, en Bélgica, tuvo un palacio, el de Codenberg, cuyas cocinas tenían en nómina a cazadores de gorriones solo para rellenar los pasteles de los banquetes reales. En 1695, las tropas francesas de Luis XIV bombardearon el centro de la ciudad para distraer a los ejércitos aliados que asediaban Namur. Escucha el episodio completo para más historias y consejos sobre qué ver.
 
 Otros idiomas y más sobre Brussels: https://wanderingcities.com/es/belgium/brussels/

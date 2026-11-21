@@ -14,10 +14,11 @@
     <itunes:type>episodic</itunes:type>
     <itunes:category text="Society &amp; Culture"><itunes:category text="Places &amp; Travel"/></itunes:category>
     <itunes:image href="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/cover-it-3000.jpg"/>
-    <lastBuildDate>Sat, 21 Nov 2026 02:18:49 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 21 Nov 2026 05:16:39 +0000</lastBuildDate>
     <item>
       <title>Gand: guida di viaggio e storia | La ribellione dei cappi al collo</title>
       <link>https://wanderingcities.com/it/belgium/ghent/</link>
+      <podcast:transcript url="https://wanderingcities.com/belgium/ghent/transcript-it.txt" type="text/plain" language="it"/>
       <description>Gand, in Belgio: gli abitanti si chiamano «portatori di cappio» in ricordo dei ribelli che Carlo V fece sfilare in camicia da notte con un cappio al collo. Nel 1949 gli studenti occuparono il castello Gravensteen armati di frutta marcia, per protesta contro l'aumento del prezzo della birra. Ascolta l'episodio completo per altre storie e consigli su cosa vedere.
 
 Altre lingue e altro su Ghent: https://wanderingcities.com/it/belgium/ghent/
@@ -38,6 +39,7 @@ Fonti, tra le altre: Wikipedia e Wikivoyage (CC BY-SA 4.0) e siti ufficiali di t
     <item>
       <title>Anversa: guida di viaggio e storia | Dal gigante abbattuto ai diamanti</title>
       <link>https://wanderingcities.com/it/belgium/antwerp/</link>
+      <podcast:transcript url="https://wanderingcities.com/belgium/antwerp/transcript-it.txt" type="text/plain" language="it"/>
       <description>Anversa, in Belgio, prende il nome da un gigante che tagliava la mano ai marinai che non pagavano il pedaggio, finché Silvius Bravo tagliò la sua e la gettò nel fiume. Nel 1576, nella furia spagnola, soldati ammutinati e senza paga saccheggiarono la città e massacrarono circa 8.000 cittadini. Ascolta l'episodio completo per altre storie e consigli su cosa vedere.
 
 Altre lingue e altro su Antwerp: https://wanderingcities.com/it/belgium/antwerp/
@@ -58,6 +60,7 @@ Fonti, tra le altre: Wikipedia e Wikivoyage (CC BY-SA 4.0) e siti ufficiali di t
     <item>
       <title>Bruxelles: guida di viaggio e storia | Tra palazzi sotterranei e birra Lambic</title>
       <link>https://wanderingcities.com/it/belgium/brussels/</link>
+      <podcast:transcript url="https://wanderingcities.com/belgium/brussels/transcript-it.txt" type="text/plain" language="it"/>
       <description>Bruxelles, in Belgio, nasconde sotto Place Royale le rovine del palazzo del Coudenberg, e oggi si può camminare sottoterra lungo l'antica Rue Isabelle, che un tempo era a cielo aperto. Nel 1912 un cioccolatiere creò la pralina, un guscio rigido di cioccolato che contiene creme o liquori, per non sporcarsi mangiando cioccolato mentre si passeggiava. Ascolta l'episodio completo per altre storie e consigli su cosa vedere.
 
 Altre lingue e altro su Brussels: https://wanderingcities.com/it/belgium/brussels/

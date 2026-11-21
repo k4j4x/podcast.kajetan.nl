@@ -14,10 +14,11 @@
     <itunes:type>episodic</itunes:type>
     <itunes:category text="Society &amp; Culture"><itunes:category text="Places &amp; Travel"/></itunes:category>
     <itunes:image href="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/cover-nl-3000.jpg"/>
-    <lastBuildDate>Sat, 21 Nov 2026 02:18:49 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 21 Nov 2026 05:16:38 +0000</lastBuildDate>
     <item>
       <title>Gent reisgids &amp; geschiedenis | Machtiger dan het middeleeuwse Londen</title>
       <link>https://wanderingcities.com/nl/belgium/ghent/</link>
+      <podcast:transcript url="https://wanderingcities.com/belgium/ghent/transcript-nl.txt" type="text/plain" language="nl"/>
       <description>Gent, in België, heeft midden in de stad een kasteel met kantelen en slotgracht, het Gravensteen, dat tijdens de industriële revolutie werd omgebouwd tot katoenfabriek. In 1949 bestormden honderden studenten het kasteel en barricadeerden ze de poorten, vanwege een verhoging van de bierprijs met één frank. Luister de hele aflevering voor meer verhalen en tips over wat je moet zien.
 
 Andere talen en meer over Ghent: https://wanderingcities.com/nl/belgium/ghent/
@@ -38,6 +39,7 @@ Bronnen o.a. Wikipedia en Wikivoyage (CC BY-SA 4.0) en officiële websites over 
     <item>
       <title>Antwerpen reisgids &amp; geschiedenis | Steeds weer herrijzen uit het puin</title>
       <link>https://wanderingcities.com/nl/belgium/antwerp/</link>
+      <podcast:transcript url="https://wanderingcities.com/belgium/antwerp/transcript-nl.txt" type="text/plain" language="nl"/>
       <description>Antwerpen, in België, heeft een voetgangerstunnel onder de Schelde waar je via krakende houten roltrappen afdaalt die naar oude olie en hout ruiken. In 1648 eiste de noordelijke republiek bij de Vrede van Münster dat de Schelde dichtging voor internationale scheepvaart, waarna de haven bijna twee eeuwen stillag. Luister de hele aflevering voor meer verhalen en tips over wat je moet zien.
 
 Andere talen en meer over Antwerp: https://wanderingcities.com/nl/belgium/antwerp/
@@ -58,6 +60,7 @@ Bronnen o.a. Wikipedia en Wikivoyage (CC BY-SA 4.0) en officiële websites over 
     <item>
       <title>Brussel reisgids &amp; geschiedenis | Van moeras tot barok meesterwerk</title>
       <link>https://wanderingcities.com/nl/belgium/brussels/</link>
+      <podcast:transcript url="https://wanderingcities.com/belgium/brussels/transcript-nl.txt" type="text/plain" language="nl"/>
       <description>Brussel, in België, had in de 16e eeuw een keizerlijk paleis op de Koudenberg, waar jagers werkten die alleen mussen vingen voor de banketten van Karel V. In 1695 schoot het leger van Lodewijk XIV drie dagen lang gloeiend hete kanonskogels op de stad, waarna de gildes de Grote Markt binnen vier jaar herbouwden. Luister de hele aflevering voor meer verhalen en tips over wat je moet zien.
 
 Andere talen en meer over Brussels: https://wanderingcities.com/nl/belgium/brussels/
