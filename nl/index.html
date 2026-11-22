@@ -32,8 +32,8 @@ window.WC={lang:"nl",alt:{"en": "/", "de": "/de/", "nl": "/nl/", "fr": "/fr/", "
 </head>
 <body class="home">
 <main>
-<section class="hero"><div class="in"><h1>Wandering Cities</h1>
-<p>Luister, lees of dwaal gewoon rond met de snelste reisgids.</p></div></section>
+<section class="hero"><nav class="cbar"><label class="langpill" title="Taal"><span aria-hidden="true">🌐 <b id="lc">NL</b> ▾</span><select id="sitelang" aria-label="Taal"><option value="en">EN · English</option><option value="de">DE · Deutsch</option><option value="nl" selected>NL · Nederlands</option><option value="fr">FR · Français</option><option value="es">ES · Español</option><option value="it">IT · Italiano</option></select></label></nav><div class="in"><h1>Wandering Cities</h1>
+<p>Luister, lees of dwaal gewoon rond met jouw snelste reisgids!</p></div></section>
 <form class="search" role="search" onsubmit="return false"><svg viewBox="0 0 24 24" width="20" height="20" aria-hidden="true"><circle cx="11" cy="11" r="7" fill="none" stroke="currentColor" stroke-width="2.2"/><path d="M16.5 16.5L21 21" stroke="currentColor" stroke-width="2.2" stroke-linecap="round"/></svg>
 <input id="q" type="search" placeholder="Zoek een stad…" aria-label="Zoek een stad" autocomplete="off">
 <label class="lsel"><span class="vh">Taal</span><select id="lang" aria-label="Taal"><option value="">🌐 Alle</option><option value="en">English</option><option value="de">Deutsch</option><option value="nl">Nederlands</option><option value="fr">Français</option><option value="es">Español</option><option value="it">Italiano</option></select></label>
@@ -138,6 +138,7 @@ window.WC={lang:"nl",alt:{"en": "/", "de": "/de/", "nl": "/nl/", "fr": "/fr/", "
 </ul>
 <p id="none" class="none" hidden>Nog geen stad gevonden voor je zoekopdracht.</p>
 <script src="/search.js" defer></script>
+<script>document.getElementById('sitelang').onchange=e=>WC.go(e.target.value);</script>
 </main>
 <footer><p>Bronnen o.a. Wikipedia en Wikivoyage (CC BY-SA 4.0) en officiële websites over toerisme, erfgoed en musea. Het gesprek en de stemmen zijn door AI gegenereerd.</p><p><a href="/nl/">Alle steden</a> · <a href="/nl/about/">Over</a> · <a href="/credits/">Beeldverantwoording</a></p><p class="legal">Text, audio and transcripts © Kajetan Studio. Use for AI training, text and data mining or automated scraping is not permitted (opt-out under Art. 4 EU Directive 2019/790). Photos and map drawings: see the licence shown with each.</p></footer>
 </body>

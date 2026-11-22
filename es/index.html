@@ -32,8 +32,8 @@ window.WC={lang:"es",alt:{"en": "/", "de": "/de/", "nl": "/nl/", "fr": "/fr/", "
 </head>
 <body class="home">
 <main>
-<section class="hero"><div class="in"><h1>Wandering Cities</h1>
-<p>Escucha, lee o simplemente pasea con la guía de viaje más rápida.</p></div></section>
+<section class="hero"><nav class="cbar"><label class="langpill" title="Idioma"><span aria-hidden="true">🌐 <b id="lc">ES</b> ▾</span><select id="sitelang" aria-label="Idioma"><option value="en">EN · English</option><option value="de">DE · Deutsch</option><option value="nl">NL · Nederlands</option><option value="fr">FR · Français</option><option value="es" selected>ES · Español</option><option value="it">IT · Italiano</option></select></label></nav><div class="in"><h1>Wandering Cities</h1>
+<p>¡Escucha, lee o simplemente pasea con tu guía de viaje más rápida!</p></div></section>
 <form class="search" role="search" onsubmit="return false"><svg viewBox="0 0 24 24" width="20" height="20" aria-hidden="true"><circle cx="11" cy="11" r="7" fill="none" stroke="currentColor" stroke-width="2.2"/><path d="M16.5 16.5L21 21" stroke="currentColor" stroke-width="2.2" stroke-linecap="round"/></svg>
 <input id="q" type="search" placeholder="Buscar una ciudad…" aria-label="Buscar una ciudad" autocomplete="off">
 <label class="lsel"><span class="vh">Idioma</span><select id="lang" aria-label="Idioma"><option value="">🌐 Todos</option><option value="en">English</option><option value="de">Deutsch</option><option value="nl">Nederlands</option><option value="fr">Français</option><option value="es">Español</option><option value="it">Italiano</option></select></label>
@@ -138,6 +138,7 @@ window.WC={lang:"es",alt:{"en": "/", "de": "/de/", "nl": "/nl/", "fr": "/fr/", "
 </ul>
 <p id="none" class="none" hidden>Ninguna ciudad coincide con tu búsqueda.</p>
 <script src="/search.js" defer></script>
+<script>document.getElementById('sitelang').onchange=e=>WC.go(e.target.value);</script>
 </main>
 <footer><p>Fuentes, entre otras: Wikipedia y Wikivoyage (CC BY-SA 4.0) y webs oficiales de turismo, patrimonio y museos. La conversación y las voces están generadas por IA.</p><p><a href="/es/">Todas las ciudades</a> · <a href="/es/about/">Acerca de</a> · <a href="/credits/">Créditos de las imágenes</a></p><p class="legal">Text, audio and transcripts © Kajetan Studio. Use for AI training, text and data mining or automated scraping is not permitted (opt-out under Art. 4 EU Directive 2019/790). Photos and map drawings: see the licence shown with each.</p></footer>
 </body>
