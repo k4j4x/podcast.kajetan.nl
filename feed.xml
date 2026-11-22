@@ -14,7 +14,7 @@
     <itunes:type>episodic</itunes:type>
     <itunes:category text="Society &amp; Culture"><itunes:category text="Places &amp; Travel"/></itunes:category>
     <itunes:image href="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/cover-3000.jpg"/>
-    <lastBuildDate>Sun, 22 Nov 2026 11:15:03 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 22 Nov 2026 21:41:25 +0000</lastBuildDate>
     <item>
       <title>Liège Travel Guide &amp; History | 374 Steps and a Rebellious Soul</title>
       <link>https://wanderingcities.com/belgium/liege/?lang=en</link>
@@ -31,8 +31,28 @@ Other languages and more about Liège: https://wanderingcities.com/belgium/liege
 Sources include Wikipedia and Wikivoyage (CC BY-SA 4.0) and official tourism, heritage and museum websites. The conversation and voices are AI-generated.</itunes:summary>
       <enclosure url="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/episodes/wandering-cities-liège-1056513284-v1.mp3" length="20709648" type="audio/mpeg"/>
       <guid isPermaLink="false">80004813-223d-54c3-b95b-9971695436bc</guid>
-      <pubDate>Sun, 22 Nov 2026 11:00:42 +0000</pubDate>
+      <pubDate>Sun, 22 Nov 2026 21:30:45 +0000</pubDate>
       <itunes:duration>00:21:25</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Dinant Travel Guide &amp; History | Trapped Between Cliff and River</title>
+      <link>https://wanderingcities.com/belgium/dinant/?lang=en</link>
+      <description>Dinant, in Belgium, has a 40-metre rock that legend says the horse Bayard split with his hoof; in fact Louis XIV's soldiers blasted through it, leaving a gap one car wide. In 1466, after locals hanged an effigy of him, Charles the Bold had 800 citizens tied in pairs and thrown into the river. Listen to the full episode for more stories and tips on what to see.
+
+Other languages and more about Dinant: https://wanderingcities.com/belgium/dinant/?lang=en
+
+Sources include Wikipedia and Wikivoyage (CC BY-SA 4.0) and official tourism, heritage and museum websites. The conversation and voices are AI-generated.</description>
+      <itunes:summary>Dinant, in Belgium, has a 40-metre rock that legend says the horse Bayard split with his hoof; in fact Louis XIV's soldiers blasted through it, leaving a gap one car wide. In 1466, after locals hanged an effigy of him, Charles the Bold had 800 citizens tied in pairs and thrown into the river. Listen to the full episode for more stories and tips on what to see.
+
+Other languages and more about Dinant: https://wanderingcities.com/belgium/dinant/?lang=en
+
+Sources include Wikipedia and Wikivoyage (CC BY-SA 4.0) and official tourism, heritage and museum websites. The conversation and voices are AI-generated.</itunes:summary>
+      <enclosure url="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/episodes/wandering-cities-dinant-1056337712-v1.mp3" length="21102466" type="audio/mpeg"/>
+      <guid isPermaLink="false">72e14d4a-953f-57f9-9b48-0cce20865041</guid>
+      <pubDate>Sun, 22 Nov 2026 11:30:46 +0000</pubDate>
+      <itunes:duration>00:21:49</itunes:duration>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>false</itunes:explicit>
     </item>
@@ -523,12 +543,12 @@ Sources include Wikipedia and Wikivoyage (CC BY-SA 4.0) and official tourism, he
       <title>Weesp Travel Guide &amp; History | Between Waterline and Chocolate</title>
       <link>https://wanderingcities.com/netherlands/weesp/?lang=en</link>
       <podcast:transcript url="https://wanderingcities.com/netherlands/weesp/transcript-en.txt" type="text/plain" language="en"/>
-      <description>Weesp pairs military history with sights along the Vecht, including Fort aan de Ossenmarkt, molen De Vriendschap, and the Stadhuis during any visit. In 1850, Coenraad Johannes van Houten moved his chocolate factory to the Oudegracht—how did this fortified town build a global cocoa brand?
+      <description>Weesp, in the Netherlands, has wooden houses on streets like Utrechtseweg and Molenpad, built under the Kringenwet so the town's own soldiers could burn them down at the first sign of an invasion. In 1759, Bertram Philip, the Count of Gronsveld, started the very first Dutch porcelain factory in Weesp. Listen to the full episode for more stories and tips on what to see.
 
 Other languages and more about Weesp: https://wanderingcities.com/netherlands/weesp/?lang=en
 
 Sources include Wikipedia and Wikivoyage (CC BY-SA 4.0) and official tourism, heritage and museum websites. The conversation and voices are AI-generated.</description>
-      <itunes:summary>Weesp pairs military history with sights along the Vecht, including Fort aan de Ossenmarkt, molen De Vriendschap, and the Stadhuis during any visit. In 1850, Coenraad Johannes van Houten moved his chocolate factory to the Oudegracht—how did this fortified town build a global cocoa brand?
+      <itunes:summary>Weesp, in the Netherlands, has wooden houses on streets like Utrechtseweg and Molenpad, built under the Kringenwet so the town's own soldiers could burn them down at the first sign of an invasion. In 1759, Bertram Philip, the Count of Gronsveld, started the very first Dutch porcelain factory in Weesp. Listen to the full episode for more stories and tips on what to see.
 
 Other languages and more about Weesp: https://wanderingcities.com/netherlands/weesp/?lang=en
 
@@ -544,12 +564,12 @@ Sources include Wikipedia and Wikivoyage (CC BY-SA 4.0) and official tourism, he
       <title>Volendam Travel Guide &amp; History | How a Village Lost Its Sea</title>
       <link>https://wanderingcities.com/netherlands/volendam/?lang=en</link>
       <podcast:transcript url="https://wanderingcities.com/netherlands/volendam/transcript-en.txt" type="text/plain" language="en"/>
-      <description>Volendam pairs its fishing history with essential things to see along De Dijk and through the old alleys of Het Doolhof on any visit. In 1932, the construction of the Afsluitdijk closed off the Zuiderzee from the open sea, but how did the harbor survive?
+      <description>Volendam, in the Netherlands, is where former monk Nico Molenaar glued 11 million cigar bands over a house's walls, ceilings and furniture, making mosaics of St. Peter's in Rome. In 1932 the Afsluitdijk closed the Zuiderzee off from the North Sea, turning it into a freshwater lake, and the herring and anchovy populations plummeted. Listen to the full episode for more stories and tips on what to see.
 
 Other languages and more about Volendam: https://wanderingcities.com/netherlands/volendam/?lang=en
 
 Sources include Wikipedia and Wikivoyage (CC BY-SA 4.0) and official tourism, heritage and museum websites. The conversation and voices are AI-generated.</description>
-      <itunes:summary>Volendam pairs its fishing history with essential things to see along De Dijk and through the old alleys of Het Doolhof on any visit. In 1932, the construction of the Afsluitdijk closed off the Zuiderzee from the open sea, but how did the harbor survive?
+      <itunes:summary>Volendam, in the Netherlands, is where former monk Nico Molenaar glued 11 million cigar bands over a house's walls, ceilings and furniture, making mosaics of St. Peter's in Rome. In 1932 the Afsluitdijk closed the Zuiderzee off from the North Sea, turning it into a freshwater lake, and the herring and anchovy populations plummeted. Listen to the full episode for more stories and tips on what to see.
 
 Other languages and more about Volendam: https://wanderingcities.com/netherlands/volendam/?lang=en
 
@@ -985,12 +1005,12 @@ Sources include Wikipedia and Wikivoyage (CC BY-SA 4.0) and official tourism, he
       <title>Elburg Travel Guide &amp; History | How Greed Saved a Fortress</title>
       <link>https://wanderingcities.com/netherlands/elburg/?lang=en</link>
       <podcast:transcript url="https://wanderingcities.com/netherlands/elburg/transcript-en.txt" type="text/plain" language="en"/>
-      <description>Elburg features rich history and many things to see, including the fortified Vischpoort, the historic Visserijhaven, and pebble pavements along Beekstraat. In 1863, high land prices caused the new railway to bypass the town, preserving its medieval layout.
+      <description>Elburg, in the Netherlands, has pebble pavements called keistoepen, where a black-pebble pretzel set into white river stones marks a baker and a pair of scissors marks a tailor. In 1863 the town refused to pay toward a station on the new Utrecht–Kampen railway, so it was built 5 km away in 't Harde. Listen to the full episode for more stories and tips on what to see.
 
 Other languages and more about Elburg: https://wanderingcities.com/netherlands/elburg/?lang=en
 
 Sources include Wikipedia and Wikivoyage (CC BY-SA 4.0) and official tourism, heritage and museum websites. The conversation and voices are AI-generated.</description>
-      <itunes:summary>Elburg features rich history and many things to see, including the fortified Vischpoort, the historic Visserijhaven, and pebble pavements along Beekstraat. In 1863, high land prices caused the new railway to bypass the town, preserving its medieval layout.
+      <itunes:summary>Elburg, in the Netherlands, has pebble pavements called keistoepen, where a black-pebble pretzel set into white river stones marks a baker and a pair of scissors marks a tailor. In 1863 the town refused to pay toward a station on the new Utrecht–Kampen railway, so it was built 5 km away in 't Harde. Listen to the full episode for more stories and tips on what to see.
 
 Other languages and more about Elburg: https://wanderingcities.com/netherlands/elburg/?lang=en
 
@@ -1153,12 +1173,12 @@ Sources include Wikipedia and Wikivoyage (CC BY-SA 4.0) and official tourism, he
       <title>Leeuwarden Travel Guide &amp; History | The City of Two Hundred Names</title>
       <link>https://wanderingcities.com/netherlands/leeuwarden/?lang=en</link>
       <podcast:transcript url="https://wanderingcities.com/netherlands/leeuwarden/transcript-en.txt" type="text/plain" language="en"/>
-      <description>Leeuwarden, in the Netherlands, mixes history and things to see for anyone planning a visit, from the Blokhuispoort former prison and the Waag butter weigh house to Escher's birthplace in the Princessehof. In 1529, construction began on the Oldehove church tower, which tilted in the soft clay of its dwelling mound and was never finished.
+      <description>Leeuwarden, in the Netherlands, has a 40 m church tower, the Oldehove, that started sinking into its clay mound as it was built, so builders curved the new masonry the other way and left it bent like a banana. Building started in 1529, and after four years the builders halted and never finished it. Listen to the full episode for more stories and tips on what to see.
 
 Other languages and more about Leeuwarden: https://wanderingcities.com/netherlands/leeuwarden/?lang=en
 
 Sources include Wikipedia and Wikivoyage (CC BY-SA 4.0) and official tourism, heritage and museum websites. The conversation and voices are AI-generated.</description>
-      <itunes:summary>Leeuwarden, in the Netherlands, mixes history and things to see for anyone planning a visit, from the Blokhuispoort former prison and the Waag butter weigh house to Escher's birthplace in the Princessehof. In 1529, construction began on the Oldehove church tower, which tilted in the soft clay of its dwelling mound and was never finished.
+      <itunes:summary>Leeuwarden, in the Netherlands, has a 40 m church tower, the Oldehove, that started sinking into its clay mound as it was built, so builders curved the new masonry the other way and left it bent like a banana. Building started in 1529, and after four years the builders halted and never finished it. Listen to the full episode for more stories and tips on what to see.
 
 Other languages and more about Leeuwarden: https://wanderingcities.com/netherlands/leeuwarden/?lang=en
 
@@ -1552,12 +1572,12 @@ Sources include Wikipedia and Wikivoyage (CC BY-SA 4.0) and official tourism, he
       <title>Lelystad Travel Guide &amp; History | A City Reclaimed from the Sea</title>
       <link>https://wanderingcities.com/netherlands/lelystad/?lang=en</link>
       <podcast:transcript url="https://wanderingcities.com/netherlands/lelystad/transcript-en.txt" type="text/plain" language="en"/>
-      <description>Lelystad, in the Netherlands, offers key things to see, including the replica ship Batavia at Museum Batavialand and the wildlife at Natuurpark Lelystad, for those who visit. In June 1957, the polder was drained dry, turning former seabed into new land for human settlement.
+      <description>Lelystad, in the Netherlands, stands on sea mud that was dried out by reeds sown from aircraft, their roots cracking the clay. In 2014, work on the replica of Michiel de Ruyter's flagship, the Zeven Provinciën, stopped when the project ran out of heavy timber and was about €2 million short. Listen to the full episode for more stories and tips on what to see.
 
 Other languages and more about Lelystad: https://wanderingcities.com/netherlands/lelystad/?lang=en
 
 Sources include Wikipedia and Wikivoyage (CC BY-SA 4.0) and official tourism, heritage and museum websites. The conversation and voices are AI-generated.</description>
-      <itunes:summary>Lelystad, in the Netherlands, offers key things to see, including the replica ship Batavia at Museum Batavialand and the wildlife at Natuurpark Lelystad, for those who visit. In June 1957, the polder was drained dry, turning former seabed into new land for human settlement.
+      <itunes:summary>Lelystad, in the Netherlands, stands on sea mud that was dried out by reeds sown from aircraft, their roots cracking the clay. In 2014, work on the replica of Michiel de Ruyter's flagship, the Zeven Provinciën, stopped when the project ran out of heavy timber and was about €2 million short. Listen to the full episode for more stories and tips on what to see.
 
 Other languages and more about Lelystad: https://wanderingcities.com/netherlands/lelystad/?lang=en
 
@@ -1573,12 +1593,12 @@ Sources include Wikipedia and Wikivoyage (CC BY-SA 4.0) and official tourism, he
       <title>Scheveningen Travel Guide &amp; History | The Town Spies Could Not Pronounce</title>
       <link>https://wanderingcities.com/netherlands/scheveningen/?lang=en</link>
       <podcast:transcript url="https://wanderingcities.com/netherlands/scheveningen/transcript-en.txt" type="text/plain" language="en"/>
-      <description>Scheveningen, in the Netherlands, combines maritime history with sights to visit, including the Kurhaus hotel, the pier, and the red lighthouse by the North Sea. In 1901, a wooden pier opened in front of the Kurhaus, creating a promenade above the waves.
+      <description>Scheveningen, in the Netherlands, has a name the Dutch resistance used as a World War II spy test: German infiltrators slipped into a soft "sh" and gave themselves away. In August 1964, a riot broke out at a Rolling Stones show in the Kurhaus hotel, and the band had to flee. Listen to the full episode for more stories and tips on what to see.
 
 Other languages and more about Scheveningen: https://wanderingcities.com/netherlands/scheveningen/?lang=en
 
 Sources include Wikipedia and Wikivoyage (CC BY-SA 4.0) and official tourism, heritage and museum websites. The conversation and voices are AI-generated.</description>
-      <itunes:summary>Scheveningen, in the Netherlands, combines maritime history with sights to visit, including the Kurhaus hotel, the pier, and the red lighthouse by the North Sea. In 1901, a wooden pier opened in front of the Kurhaus, creating a promenade above the waves.
+      <itunes:summary>Scheveningen, in the Netherlands, has a name the Dutch resistance used as a World War II spy test: German infiltrators slipped into a soft "sh" and gave themselves away. In August 1964, a riot broke out at a Rolling Stones show in the Kurhaus hotel, and the band had to flee. Listen to the full episode for more stories and tips on what to see.
 
 Other languages and more about Scheveningen: https://wanderingcities.com/netherlands/scheveningen/?lang=en
 

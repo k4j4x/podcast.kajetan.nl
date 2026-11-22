@@ -14,7 +14,27 @@
     <itunes:type>episodic</itunes:type>
     <itunes:category text="Society &amp; Culture"><itunes:category text="Places &amp; Travel"/></itunes:category>
     <itunes:image href="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/cover-de-3000.jpg"/>
-    <lastBuildDate>Sun, 22 Nov 2026 11:15:03 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 22 Nov 2026 21:41:26 +0000</lastBuildDate>
+    <item>
+      <title>Dinant Reiseführer &amp; Geschichte | Zwischen Felswand und Saxofon</title>
+      <link>https://wanderingcities.com/de/belgium/dinant/</link>
+      <description>Dinant, in Belgien, trägt auf seiner gotischen Stiftskirche einen bauchigen Zwiebelturm, der im 16. Jahrhundert für das Rathaus auf der Brücke gebaut wurde – bis man merkte, dass die Brücke unter dem Gewicht kollabieren würde. 1466 ließ Karl der Kühne, Herzog von Burgund, 800 Bürger der Stadt paarweise zusammenbinden und lebendig in die Maas werfen. In der ganzen Folge gibt es mehr Geschichten und Tipps zu den Sehenswürdigkeiten.
+
+Andere Sprachen und mehr über Dinant: https://wanderingcities.com/de/belgium/dinant/
+
+Quellen u. a. Wikipedia und Wikivoyage (CC BY-SA 4.0) sowie offizielle Websites für Tourismus, Denkmalpflege und Museen. Gespräch und Stimmen sind KI-generiert.</description>
+      <itunes:summary>Dinant, in Belgien, trägt auf seiner gotischen Stiftskirche einen bauchigen Zwiebelturm, der im 16. Jahrhundert für das Rathaus auf der Brücke gebaut wurde – bis man merkte, dass die Brücke unter dem Gewicht kollabieren würde. 1466 ließ Karl der Kühne, Herzog von Burgund, 800 Bürger der Stadt paarweise zusammenbinden und lebendig in die Maas werfen. In der ganzen Folge gibt es mehr Geschichten und Tipps zu den Sehenswürdigkeiten.
+
+Andere Sprachen und mehr über Dinant: https://wanderingcities.com/de/belgium/dinant/
+
+Quellen u. a. Wikipedia und Wikivoyage (CC BY-SA 4.0) sowie offizielle Websites für Tourismus, Denkmalpflege und Museen. Gespräch und Stimmen sind KI-generiert.</itunes:summary>
+      <enclosure url="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/episodes/de/de-dinant-1056337712-v1.mp3" length="19465833" type="audio/mpeg"/>
+      <guid isPermaLink="false">0cbf70fd-2699-54c2-a229-ef47817f6d9b</guid>
+      <pubDate>Sun, 22 Nov 2026 12:00:42 +0000</pubDate>
+      <itunes:duration>00:20:09</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Lüttich Reiseführer &amp; Geschichte | 374 Stufen und sechshundert Rebellen</title>
       <link>https://wanderingcities.com/de/belgium/liege/</link>
@@ -523,12 +543,12 @@ Quellen u. a. Wikipedia und Wikivoyage (CC BY-SA 4.0) sowie offizielle Websites 
       <title>Weesp Reiseführer &amp; Geschichte | Zwischen Wasserlinie und Schokolade</title>
       <link>https://wanderingcities.com/de/netherlands/weesp/</link>
       <podcast:transcript url="https://wanderingcities.com/netherlands/weesp/transcript-de.txt" type="text/plain" language="de"/>
-      <description>Weesp verbindet an der Vecht Sehenswürdigkeiten wie das Fort aan de Ossenmarkt, molen De Vriendschap und das Stadhuis mit einer Geschichte, die jeden Besuch prägt. Im Jahr 1850 verlegte Coenraad Johannes van Houten seine Fabrik an die Oudegracht – wie wurde der Festungsort zur weltbekannten Kakaostadt?
+      <description>Weesp, in den Niederlanden, hat mit Wouter Pfeiffer einen Müller, der einer Braut das weiße Tüllkleid mit grüner Schmierseife sauber schrubbte, nachdem sie sich an das frisch geteerte Holz der Mühle De Vriendschap gelehnt hatte. Seit März 2022 gehört Weesp offiziell als Stadtgebiet zu Amsterdam. In der ganzen Folge gibt es mehr Geschichten und Tipps zu den Sehenswürdigkeiten.
 
 Andere Sprachen und mehr über Weesp: https://wanderingcities.com/de/netherlands/weesp/
 
 Quellen u. a. Wikipedia und Wikivoyage (CC BY-SA 4.0) sowie offizielle Websites für Tourismus, Denkmalpflege und Museen. Gespräch und Stimmen sind KI-generiert.</description>
-      <itunes:summary>Weesp verbindet an der Vecht Sehenswürdigkeiten wie das Fort aan de Ossenmarkt, molen De Vriendschap und das Stadhuis mit einer Geschichte, die jeden Besuch prägt. Im Jahr 1850 verlegte Coenraad Johannes van Houten seine Fabrik an die Oudegracht – wie wurde der Festungsort zur weltbekannten Kakaostadt?
+      <itunes:summary>Weesp, in den Niederlanden, hat mit Wouter Pfeiffer einen Müller, der einer Braut das weiße Tüllkleid mit grüner Schmierseife sauber schrubbte, nachdem sie sich an das frisch geteerte Holz der Mühle De Vriendschap gelehnt hatte. Seit März 2022 gehört Weesp offiziell als Stadtgebiet zu Amsterdam. In der ganzen Folge gibt es mehr Geschichten und Tipps zu den Sehenswürdigkeiten.
 
 Andere Sprachen und mehr über Weesp: https://wanderingcities.com/de/netherlands/weesp/
 
@@ -544,12 +564,12 @@ Quellen u. a. Wikipedia und Wikivoyage (CC BY-SA 4.0) sowie offizielle Websites 
       <title>Volendam Reiseführer &amp; Geschichte | Als das Meer zum See wurde</title>
       <link>https://wanderingcities.com/de/netherlands/volendam/</link>
       <podcast:transcript url="https://wanderingcities.com/netherlands/volendam/transcript-de.txt" type="text/plain" language="de"/>
-      <description>Volendam verbindet bei einem Besuch entlang De Dijk und Het Doolhof historische Sehenswürdigkeiten mit der Geschichte der Fischerei. Im Jahr 1932 riegelte der Afsluitdijk die Zuiderzee ab und machte sie zum IJsselmeer, doch wie überlebte der Ort diesen Wandel?
+      <description>Volendam, in den Niederlanden, hat ein Zimmer, das ein ehemaliger Mönch mit Millionen Zigarrenbinden beklebte: Nico Molenaar bildete daraus den Petersdom und den Kölner Dom nach. 1357 gruben die Edamer einen kürzeren Kanal, das Oorgat, und riegelten den alten Hafenweg mit einem Damm ab, auf dem sich Bauern und Fischer niederließen. In der ganzen Folge gibt es mehr Geschichten und Tipps zu den Sehenswürdigkeiten.
 
 Andere Sprachen und mehr über Volendam: https://wanderingcities.com/de/netherlands/volendam/
 
 Quellen u. a. Wikipedia und Wikivoyage (CC BY-SA 4.0) sowie offizielle Websites für Tourismus, Denkmalpflege und Museen. Gespräch und Stimmen sind KI-generiert.</description>
-      <itunes:summary>Volendam verbindet bei einem Besuch entlang De Dijk und Het Doolhof historische Sehenswürdigkeiten mit der Geschichte der Fischerei. Im Jahr 1932 riegelte der Afsluitdijk die Zuiderzee ab und machte sie zum IJsselmeer, doch wie überlebte der Ort diesen Wandel?
+      <itunes:summary>Volendam, in den Niederlanden, hat ein Zimmer, das ein ehemaliger Mönch mit Millionen Zigarrenbinden beklebte: Nico Molenaar bildete daraus den Petersdom und den Kölner Dom nach. 1357 gruben die Edamer einen kürzeren Kanal, das Oorgat, und riegelten den alten Hafenweg mit einem Damm ab, auf dem sich Bauern und Fischer niederließen. In der ganzen Folge gibt es mehr Geschichten und Tipps zu den Sehenswürdigkeiten.
 
 Andere Sprachen und mehr über Volendam: https://wanderingcities.com/de/netherlands/volendam/
 
@@ -817,12 +837,12 @@ Quellen u. a. Wikipedia und Wikivoyage (CC BY-SA 4.0) sowie offizielle Websites 
       <title>Valkenburg aan de Geul Reiseführer &amp; Geschichte | Das Labyrinth unter der Stadt</title>
       <link>https://wanderingcities.com/de/netherlands/valkenburg-aan-de-geul/</link>
       <podcast:transcript url="https://wanderingcities.com/netherlands/valkenburg-aan-de-geul/transcript-de.txt" type="text/plain" language="de"/>
-      <description>Valkenburg aan de Geul verbindet die Gemeentegrot und Fluweelengrot mit Kasteel Valkenburg und bietet Geschichte sowie Sehenswürdigkeiten für jeden Besuch. Im Jahr 1672 sprengten eigene staatliche Truppen Kasteel Valkenburg, um die Festung nicht in die Hände der Franzosen fallen zu lassen.
+      <description>Valkenburg aan de Geul, in den Niederlanden: Durch Geheimgänge der Fluweelengrot schlichen sich belagerte Burgverteidiger nach draußen, holten Vorräte und plünderten die Heimatländer der Belagerer. 1672 sprengte das niederländische Militär die eigene Festung, um sie nicht den anrückenden Franzosen unter Ludwig XIV. zu überlassen. In der ganzen Folge gibt es mehr Geschichten und Tipps zu den Sehenswürdigkeiten.
 
 Andere Sprachen und mehr über Valkenburg aan de Geul: https://wanderingcities.com/de/netherlands/valkenburg-aan-de-geul/
 
 Quellen u. a. Wikipedia und Wikivoyage (CC BY-SA 4.0) sowie offizielle Websites für Tourismus, Denkmalpflege und Museen. Gespräch und Stimmen sind KI-generiert.</description>
-      <itunes:summary>Valkenburg aan de Geul verbindet die Gemeentegrot und Fluweelengrot mit Kasteel Valkenburg und bietet Geschichte sowie Sehenswürdigkeiten für jeden Besuch. Im Jahr 1672 sprengten eigene staatliche Truppen Kasteel Valkenburg, um die Festung nicht in die Hände der Franzosen fallen zu lassen.
+      <itunes:summary>Valkenburg aan de Geul, in den Niederlanden: Durch Geheimgänge der Fluweelengrot schlichen sich belagerte Burgverteidiger nach draußen, holten Vorräte und plünderten die Heimatländer der Belagerer. 1672 sprengte das niederländische Militär die eigene Festung, um sie nicht den anrückenden Franzosen unter Ludwig XIV. zu überlassen. In der ganzen Folge gibt es mehr Geschichten und Tipps zu den Sehenswürdigkeiten.
 
 Andere Sprachen und mehr über Valkenburg aan de Geul: https://wanderingcities.com/de/netherlands/valkenburg-aan-de-geul/
 
@@ -1006,12 +1026,12 @@ Quellen u. a. Wikipedia und Wikivoyage (CC BY-SA 4.0) sowie offizielle Websites 
       <title>Elburg Reiseführer &amp; Geschichte | Eine Planstadt im Goldenen Schnitt</title>
       <link>https://wanderingcities.com/de/netherlands/elburg/</link>
       <podcast:transcript url="https://wanderingcities.com/netherlands/elburg/transcript-de.txt" type="text/plain" language="de"/>
-      <description>Elburg bietet Geschichte und Sehenswürdigkeiten für einen Besuch der Vischpoort, des Agnietenconvents und der Visserijhaven. Im Jahr 1392 befahl Herzog Willem van Gulik die Verlegung der Stadt, woraufhin Arent thoe Boecop den Grundriss im Goldenen Schnitt anlegte.
+      <description>Elburg, in den Niederlanden, hat vor seinen historischen Häusern Keistoepen: Bürgersteige aus weißen Kieselsteinen mit schwarzen Mustern, die zeigten, wer dort lebte, ein Fisch für den Fischhändler, eine Brezel für den Bäcker. 1863 weigerte sich Elburg, für einen Bahnhof zu zahlen, und die Eisenbahngesellschaft führte die Linie kurzerhand um die Stadt herum. In der ganzen Folge gibt es mehr Geschichten und Tipps zu den Sehenswürdigkeiten.
 
 Andere Sprachen und mehr über Elburg: https://wanderingcities.com/de/netherlands/elburg/
 
 Quellen u. a. Wikipedia und Wikivoyage (CC BY-SA 4.0) sowie offizielle Websites für Tourismus, Denkmalpflege und Museen. Gespräch und Stimmen sind KI-generiert.</description>
-      <itunes:summary>Elburg bietet Geschichte und Sehenswürdigkeiten für einen Besuch der Vischpoort, des Agnietenconvents und der Visserijhaven. Im Jahr 1392 befahl Herzog Willem van Gulik die Verlegung der Stadt, woraufhin Arent thoe Boecop den Grundriss im Goldenen Schnitt anlegte.
+      <itunes:summary>Elburg, in den Niederlanden, hat vor seinen historischen Häusern Keistoepen: Bürgersteige aus weißen Kieselsteinen mit schwarzen Mustern, die zeigten, wer dort lebte, ein Fisch für den Fischhändler, eine Brezel für den Bäcker. 1863 weigerte sich Elburg, für einen Bahnhof zu zahlen, und die Eisenbahngesellschaft führte die Linie kurzerhand um die Stadt herum. In der ganzen Folge gibt es mehr Geschichten und Tipps zu den Sehenswürdigkeiten.
 
 Andere Sprachen und mehr über Elburg: https://wanderingcities.com/de/netherlands/elburg/
 
@@ -1153,12 +1173,12 @@ Quellen u. a. Wikipedia und Wikivoyage (CC BY-SA 4.0) sowie offizielle Websites 
       <title>Scheveningen Reiseführer &amp; Geschichte | Das Wort, das Spione enttarnte</title>
       <link>https://wanderingcities.com/de/netherlands/scheveningen/</link>
       <podcast:transcript url="https://wanderingcities.com/netherlands/scheveningen/transcript-de.txt" type="text/plain" language="de"/>
-      <description>Scheveningen verbindet seine maritime Geschichte mit bekannten Sehenswürdigkeiten für einen Besuch, darunter das historische Kurhaus, De Pier und der rote Leuchtturm an der Nordsee. Im Jahr 1901 eröffnete eine hölzerne Seebrücke vor dem Kurhaus und prägte den Küstenort.
+      <description>Scheveningen, in den Niederlanden, hatte lange keinen Hafen: Die Fischer zogen ihre flachen Bomschuiten nach dem Fang oft mit Dutzenden Pferden durch die Brandung auf den Sandstrand. In der Nacht vom 22. auf den 23. Dezember 1894 zerschmetterten Sturm und Flut 134 dieser Schiffe, was 1904 zum Bau des ersten Hafens führte. In der ganzen Folge gibt es mehr Geschichten und Tipps zu den Sehenswürdigkeiten.
 
 Andere Sprachen und mehr über Scheveningen: https://wanderingcities.com/de/netherlands/scheveningen/
 
 Quellen u. a. Wikipedia und Wikivoyage (CC BY-SA 4.0) sowie offizielle Websites für Tourismus, Denkmalpflege und Museen. Gespräch und Stimmen sind KI-generiert.</description>
-      <itunes:summary>Scheveningen verbindet seine maritime Geschichte mit bekannten Sehenswürdigkeiten für einen Besuch, darunter das historische Kurhaus, De Pier und der rote Leuchtturm an der Nordsee. Im Jahr 1901 eröffnete eine hölzerne Seebrücke vor dem Kurhaus und prägte den Küstenort.
+      <itunes:summary>Scheveningen, in den Niederlanden, hatte lange keinen Hafen: Die Fischer zogen ihre flachen Bomschuiten nach dem Fang oft mit Dutzenden Pferden durch die Brandung auf den Sandstrand. In der Nacht vom 22. auf den 23. Dezember 1894 zerschmetterten Sturm und Flut 134 dieser Schiffe, was 1904 zum Bau des ersten Hafens führte. In der ganzen Folge gibt es mehr Geschichten und Tipps zu den Sehenswürdigkeiten.
 
 Andere Sprachen und mehr über Scheveningen: https://wanderingcities.com/de/netherlands/scheveningen/
 
@@ -1321,12 +1341,12 @@ Quellen u. a. Wikipedia und Wikivoyage (CC BY-SA 4.0) sowie offizielle Websites 
       <title>Lelystad Reiseführer &amp; Geschichte | Eine Stadt auf dem Meeresboden</title>
       <link>https://wanderingcities.com/de/netherlands/lelystad/</link>
       <podcast:transcript url="https://wanderingcities.com/netherlands/lelystad/transcript-de.txt" type="text/plain" language="de"/>
-      <description>Lelystad bietet bei einem Besuch Einblicke in die Geschichte der Polderregion sowie Sehenswürdigkeiten wie die Batavia im Museum Batavialand und den Natuurpark Lelystad. Im Juni 1957 fiel der Polder Oostelijk Flevoland trocken und machte den ehemaligen Meeresboden zu neuem Siedlungsland.
+      <description>Lelystad, in den Niederlanden, steht auf dem Grund der ehemaligen Zuiderzee: Als das Wasser abgepumpt wurde, ragten plötzlich überall dunkle Holzplanken aus dem Boden – über 450 Schiffswracks lagen im Schlamm. Die Stadt wurde 1952 nach dem Ingenieur Cornelis Lely benannt, der schon 1929 gestorben war. In der ganzen Folge gibt es mehr Geschichten und Tipps zu den Sehenswürdigkeiten.
 
 Andere Sprachen und mehr über Lelystad: https://wanderingcities.com/de/netherlands/lelystad/
 
 Quellen u. a. Wikipedia und Wikivoyage (CC BY-SA 4.0) sowie offizielle Websites für Tourismus, Denkmalpflege und Museen. Gespräch und Stimmen sind KI-generiert.</description>
-      <itunes:summary>Lelystad bietet bei einem Besuch Einblicke in die Geschichte der Polderregion sowie Sehenswürdigkeiten wie die Batavia im Museum Batavialand und den Natuurpark Lelystad. Im Juni 1957 fiel der Polder Oostelijk Flevoland trocken und machte den ehemaligen Meeresboden zu neuem Siedlungsland.
+      <itunes:summary>Lelystad, in den Niederlanden, steht auf dem Grund der ehemaligen Zuiderzee: Als das Wasser abgepumpt wurde, ragten plötzlich überall dunkle Holzplanken aus dem Boden – über 450 Schiffswracks lagen im Schlamm. Die Stadt wurde 1952 nach dem Ingenieur Cornelis Lely benannt, der schon 1929 gestorben war. In der ganzen Folge gibt es mehr Geschichten und Tipps zu den Sehenswürdigkeiten.
 
 Andere Sprachen und mehr über Lelystad: https://wanderingcities.com/de/netherlands/lelystad/
 
@@ -1552,12 +1572,12 @@ Quellen u. a. Wikipedia und Wikivoyage (CC BY-SA 4.0) sowie offizielle Websites 
       <title>Leeuwarden Reiseführer &amp; Geschichte | Der schiefe Turm am verschwundenen Meer</title>
       <link>https://wanderingcities.com/de/netherlands/leeuwarden/</link>
       <podcast:transcript url="https://wanderingcities.com/netherlands/leeuwarden/transcript-de.txt" type="text/plain" language="de"/>
-      <description>Leeuwarden bietet bei einem Besuch Einblicke in die Geschichte mit Sehenswürdigkeiten wie der ehemaligen Strafanstalt Blokhuispoort, der Waag an der Nieuwestad und dem schiefen Turm Oldehove. Bis etwa 1300 verlandete die Middelzee vollständig, wodurch die Stadt ihren direkten Zugang zum offenen Meer verlor.
+      <description>Leeuwarden, in den Niederlanden, hat mit dem Oldehove einen unvollendeten Turm, der auf weichem Tonboden absackte, schief weitergemauert wurde und nun wie eine Banane gekrümmt 1,99 Meter aus dem Lot steht. 1969 bat Mick Jagger den hier geborenen M. C. Escher um ein Bild für „Let It Bleed“ – Escher lehnte ab. In der ganzen Folge gibt es mehr Geschichten und Tipps zu den Sehenswürdigkeiten.
 
 Andere Sprachen und mehr über Leeuwarden: https://wanderingcities.com/de/netherlands/leeuwarden/
 
 Quellen u. a. Wikipedia und Wikivoyage (CC BY-SA 4.0) sowie offizielle Websites für Tourismus, Denkmalpflege und Museen. Gespräch und Stimmen sind KI-generiert.</description>
-      <itunes:summary>Leeuwarden bietet bei einem Besuch Einblicke in die Geschichte mit Sehenswürdigkeiten wie der ehemaligen Strafanstalt Blokhuispoort, der Waag an der Nieuwestad und dem schiefen Turm Oldehove. Bis etwa 1300 verlandete die Middelzee vollständig, wodurch die Stadt ihren direkten Zugang zum offenen Meer verlor.
+      <itunes:summary>Leeuwarden, in den Niederlanden, hat mit dem Oldehove einen unvollendeten Turm, der auf weichem Tonboden absackte, schief weitergemauert wurde und nun wie eine Banane gekrümmt 1,99 Meter aus dem Lot steht. 1969 bat Mick Jagger den hier geborenen M. C. Escher um ein Bild für „Let It Bleed“ – Escher lehnte ab. In der ganzen Folge gibt es mehr Geschichten und Tipps zu den Sehenswürdigkeiten.
 
 Andere Sprachen und mehr über Leeuwarden: https://wanderingcities.com/de/netherlands/leeuwarden/
 
@@ -1867,12 +1887,12 @@ Quellen u. a. Wikipedia und Wikivoyage (CC BY-SA 4.0) sowie offizielle Websites 
       <title>The Hague Reiseführer &amp; Geschichte | Der wahre Regierungssitz Hollands</title>
       <link>https://wanderingcities.com/de/netherlands/the-hague/</link>
       <podcast:transcript url="https://wanderingcities.com/netherlands/the-hague/transcript-de.txt" type="text/plain" language="de"/>
-      <description>The Hague verbindet politische Geschichte mit Sehenswürdigkeiten wie dem Binnenhof, dem Vredespaleis und dem Strand von Scheveningen, die sich bei einem Besuch gut kombinieren lassen. Im Jahr 1806 verlieh König Louis Bonaparte dem unbefestigten Ort offiziell die Stadtrechte.
+      <description>The Hague, in den Niederlanden, hatte keine Stadtmauern, also keine Tore und keine Schlüssel: Für Louis Napoleon musste Silberschmied François Simons im Eiltempo zwei vergoldete Schlüssel anfertigen, präsentiert auf einem bestickten Kissen. 1575 schlug die Nachbarstadt Delft vor, Den Haag dem Erdboden gleichzumachen; Wilhelm von Oranien verhinderte das. In der ganzen Folge gibt es mehr Geschichten und Tipps zu den Sehenswürdigkeiten.
 
 Andere Sprachen und mehr über The Hague: https://wanderingcities.com/de/netherlands/the-hague/
 
 Quellen u. a. Wikipedia und Wikivoyage (CC BY-SA 4.0) sowie offizielle Websites für Tourismus, Denkmalpflege und Museen. Gespräch und Stimmen sind KI-generiert.</description>
-      <itunes:summary>The Hague verbindet politische Geschichte mit Sehenswürdigkeiten wie dem Binnenhof, dem Vredespaleis und dem Strand von Scheveningen, die sich bei einem Besuch gut kombinieren lassen. Im Jahr 1806 verlieh König Louis Bonaparte dem unbefestigten Ort offiziell die Stadtrechte.
+      <itunes:summary>The Hague, in den Niederlanden, hatte keine Stadtmauern, also keine Tore und keine Schlüssel: Für Louis Napoleon musste Silberschmied François Simons im Eiltempo zwei vergoldete Schlüssel anfertigen, präsentiert auf einem bestickten Kissen. 1575 schlug die Nachbarstadt Delft vor, Den Haag dem Erdboden gleichzumachen; Wilhelm von Oranien verhinderte das. In der ganzen Folge gibt es mehr Geschichten und Tipps zu den Sehenswürdigkeiten.
 
 Andere Sprachen und mehr über The Hague: https://wanderingcities.com/de/netherlands/the-hague/
 
