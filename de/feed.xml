@@ -14,10 +14,11 @@
     <itunes:type>episodic</itunes:type>
     <itunes:category text="Society &amp; Culture"><itunes:category text="Places &amp; Travel"/></itunes:category>
     <itunes:image href="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/cover-de-3000.jpg"/>
-    <lastBuildDate>Sun, 22 Nov 2026 22:46:32 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 23 Nov 2026 05:04:00 +0000</lastBuildDate>
     <item>
       <title>Dinant Reiseführer &amp; Geschichte | Zwischen Felswand und Saxofon</title>
       <link>https://wanderingcities.com/de/belgium/dinant/</link>
+      <podcast:transcript url="https://wanderingcities.com/belgium/dinant/transcript-de.txt" type="text/plain" language="de"/>
       <description>Dinant, in Belgien, trägt auf seiner gotischen Stiftskirche einen bauchigen Zwiebelturm, der im 16. Jahrhundert für das Rathaus auf der Brücke gebaut wurde – bis man merkte, dass die Brücke unter dem Gewicht kollabieren würde. 1466 ließ Karl der Kühne, Herzog von Burgund, 800 Bürger der Stadt paarweise zusammenbinden und lebendig in die Maas werfen. In der ganzen Folge gibt es mehr Geschichten und Tipps zu den Sehenswürdigkeiten.
 
 Andere Sprachen und mehr über Dinant: https://wanderingcities.com/de/belgium/dinant/
