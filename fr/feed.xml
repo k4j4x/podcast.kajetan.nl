@@ -14,7 +14,47 @@
     <itunes:type>episodic</itunes:type>
     <itunes:category text="Society &amp; Culture"><itunes:category text="Places &amp; Travel"/></itunes:category>
     <itunes:image href="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/cover-fr-3000.jpg"/>
-    <lastBuildDate>Wed, 25 Nov 2026 05:44:40 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 25 Nov 2026 22:25:27 +0000</lastBuildDate>
+    <item>
+      <title>Tournai : guide de voyage et histoire | Le secret des abeilles impériales</title>
+      <link>https://wanderingcities.com/fr/belgium/tournai/</link>
+      <description>Tournai, en Belgique, a gardé sous terre le trésor de Childéric Ier, avec ses insectes en or massif incrustés de grenats, que Napoléon a repris comme abeilles pour son manteau impérial. En 1513, Henri VIII annexe la ville à la couronne d'Angleterre, et Tournai envoie ses propres députés au Parlement anglais à Londres. Écoutez l'épisode complet pour plus d'histoires et de conseils sur ce qu'il faut voir.
+
+Autres langues et plus sur Tournai : https://wanderingcities.com/fr/belgium/tournai/
+
+Sources, entre autres : Wikipédia et Wikivoyage (CC BY-SA 4.0) ainsi que les sites officiels du tourisme, du patrimoine et des musées. La conversation et les voix sont générées par IA.</description>
+      <itunes:summary>Tournai, en Belgique, a gardé sous terre le trésor de Childéric Ier, avec ses insectes en or massif incrustés de grenats, que Napoléon a repris comme abeilles pour son manteau impérial. En 1513, Henri VIII annexe la ville à la couronne d'Angleterre, et Tournai envoie ses propres députés au Parlement anglais à Londres. Écoutez l'épisode complet pour plus d'histoires et de conseils sur ce qu'il faut voir.
+
+Autres langues et plus sur Tournai : https://wanderingcities.com/fr/belgium/tournai/
+
+Sources, entre autres : Wikipédia et Wikivoyage (CC BY-SA 4.0) ainsi que les sites officiels du tourisme, du patrimoine et des musées. La conversation et les voix sont générées par IA.</itunes:summary>
+      <enclosure url="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/episodes/fr/fr-tournai-1056138540-v1.mp3" length="14943987" type="audio/mpeg"/>
+      <guid isPermaLink="false">70b36fb4-3b50-5a4f-b2fe-f69843fe445a</guid>
+      <pubDate>Wed, 25 Nov 2026 12:30:35 +0000</pubDate>
+      <itunes:duration>00:15:26</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Ostende : guide de voyage et histoire | La cité aux mille carapaces</title>
+      <link>https://wanderingcities.com/fr/belgium/ostend/</link>
+      <description>Ostende, en Belgique, a subi un siège de trois ans pendant lequel l'archiduchesse Isabelle avait juré de ne pas changer de sous-vêtements avant la capitulation de la ville. En 1395, menacés par les tempêtes, les habitants ont déplacé toute leur ville de l'île de Testerp vers l'intérieur des terres. Écoutez l'épisode complet pour plus d'histoires et de conseils sur ce qu'il faut voir.
+
+Autres langues et plus sur Ostend : https://wanderingcities.com/fr/belgium/ostend/
+
+Sources, entre autres : Wikipédia et Wikivoyage (CC BY-SA 4.0) ainsi que les sites officiels du tourisme, du patrimoine et des musées. La conversation et les voix sont générées par IA.</description>
+      <itunes:summary>Ostende, en Belgique, a subi un siège de trois ans pendant lequel l'archiduchesse Isabelle avait juré de ne pas changer de sous-vêtements avant la capitulation de la ville. En 1395, menacés par les tempêtes, les habitants ont déplacé toute leur ville de l'île de Testerp vers l'intérieur des terres. Écoutez l'épisode complet pour plus d'histoires et de conseils sur ce qu'il faut voir.
+
+Autres langues et plus sur Ostend : https://wanderingcities.com/fr/belgium/ostend/
+
+Sources, entre autres : Wikipédia et Wikivoyage (CC BY-SA 4.0) ainsi que les sites officiels du tourisme, du patrimoine et des musées. La conversation et les voix sont générées par IA.</itunes:summary>
+      <enclosure url="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/episodes/fr/fr-ostend-1056454956-v1.mp3" length="17598016" type="audio/mpeg"/>
+      <guid isPermaLink="false">ce96b19a-1f99-5fbd-afd1-bb9b5ed8dfa5</guid>
+      <pubDate>Wed, 25 Nov 2026 11:00:39 +0000</pubDate>
+      <itunes:duration>00:18:12</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Gand : guide de voyage et histoire | La révolte des porteurs de corde</title>
       <link>https://wanderingcities.com/fr/belgium/ghent/</link>

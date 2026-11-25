@@ -14,7 +14,47 @@
     <itunes:type>episodic</itunes:type>
     <itunes:category text="Society &amp; Culture"><itunes:category text="Places &amp; Travel"/></itunes:category>
     <itunes:image href="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/cover-es-3000.jpg"/>
-    <lastBuildDate>Wed, 25 Nov 2026 05:44:40 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 25 Nov 2026 22:25:27 +0000</lastBuildDate>
+    <item>
+      <title>Tournai: guía de viaje e historia | La cuna de Francia en el país vecino</title>
+      <link>https://wanderingcities.com/es/belgium/tournai/</link>
+      <description>Tournai, en Bélgica, guardaba la tumba intacta del rey franco Childérico, con unas 300 abejas de oro macizo adornadas con granates rojos que Napoleón eligió después como símbolo de su imperio. En 1515, el rey Enrique de Inglaterra, que había asediado la ciudad, le dio representación oficial en el Parlamento inglés. Escucha el episodio completo para más historias y consejos sobre qué ver.
+
+Otros idiomas y más sobre Tournai: https://wanderingcities.com/es/belgium/tournai/
+
+Fuentes, entre otras: Wikipedia y Wikivoyage (CC BY-SA 4.0) y webs oficiales de turismo, patrimonio y museos. La conversación y las voces están generadas por IA.</description>
+      <itunes:summary>Tournai, en Bélgica, guardaba la tumba intacta del rey franco Childérico, con unas 300 abejas de oro macizo adornadas con granates rojos que Napoleón eligió después como símbolo de su imperio. En 1515, el rey Enrique de Inglaterra, que había asediado la ciudad, le dio representación oficial en el Parlamento inglés. Escucha el episodio completo para más historias y consejos sobre qué ver.
+
+Otros idiomas y más sobre Tournai: https://wanderingcities.com/es/belgium/tournai/
+
+Fuentes, entre otras: Wikipedia y Wikivoyage (CC BY-SA 4.0) y webs oficiales de turismo, patrimonio y museos. La conversación y las voces están generadas por IA.</itunes:summary>
+      <enclosure url="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/episodes/es/es-tournai-1056138540-v1.mp3" length="27400958" type="audio/mpeg"/>
+      <guid isPermaLink="false">2595fe80-9959-5aac-9812-9c7a97c43852</guid>
+      <pubDate>Wed, 25 Nov 2026 13:00:59 +0000</pubDate>
+      <itunes:duration>00:28:25</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Ostende: guía de viaje e historia | El renacer de las cenizas saladas</title>
+      <link>https://wanderingcities.com/es/belgium/ostend/</link>
+      <description>Ostende, en Bélgica, resistió un asedio de tres años, y la archiduquesa Isabel Clara Eugenia juró no cambiarse de ropa interior hasta que sus tropas tomaran la ciudad. En 1936 el buque escuela Mercator repatrió desde Hawaii los restos del padre Damián, el sacerdote belga famoso por cuidar a los leprosos. Escucha el episodio completo para más historias y consejos sobre qué ver.
+
+Otros idiomas y más sobre Ostend: https://wanderingcities.com/es/belgium/ostend/
+
+Fuentes, entre otras: Wikipedia y Wikivoyage (CC BY-SA 4.0) y webs oficiales de turismo, patrimonio y museos. La conversación y las voces están generadas por IA.</description>
+      <itunes:summary>Ostende, en Bélgica, resistió un asedio de tres años, y la archiduquesa Isabel Clara Eugenia juró no cambiarse de ropa interior hasta que sus tropas tomaran la ciudad. En 1936 el buque escuela Mercator repatrió desde Hawaii los restos del padre Damián, el sacerdote belga famoso por cuidar a los leprosos. Escucha el episodio completo para más historias y consejos sobre qué ver.
+
+Otros idiomas y más sobre Ostend: https://wanderingcities.com/es/belgium/ostend/
+
+Fuentes, entre otras: Wikipedia y Wikivoyage (CC BY-SA 4.0) y webs oficiales de turismo, patrimonio y museos. La conversación y las voces están generadas por IA.</itunes:summary>
+      <enclosure url="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/episodes/es/es-ostend-1056454956-v1.mp3" length="17797504" type="audio/mpeg"/>
+      <guid isPermaLink="false">b3920bb1-b780-5f53-b5d9-3031bd7a2146</guid>
+      <pubDate>Wed, 25 Nov 2026 11:30:40 +0000</pubDate>
+      <itunes:duration>00:18:24</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Gante: guía de viaje e historia | La rebelión de las sogas al cuello</title>
       <link>https://wanderingcities.com/es/belgium/ghent/</link>

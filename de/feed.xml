@@ -14,7 +14,47 @@
     <itunes:type>episodic</itunes:type>
     <itunes:category text="Society &amp; Culture"><itunes:category text="Places &amp; Travel"/></itunes:category>
     <itunes:image href="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/cover-de-3000.jpg"/>
-    <lastBuildDate>Wed, 25 Nov 2026 05:44:39 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 25 Nov 2026 22:25:27 +0000</lastBuildDate>
+    <item>
+      <title>Tournai Reiseführer &amp; Geschichte | Frankreichs Wiege im Nachbarland</title>
+      <link>https://wanderingcities.com/de/belgium/tournai/</link>
+      <description>Tournai, in Belgien, verkauft in seinen Bäckereien ein mit Himbeermarmelade gefülltes Briochegebäck in Bienenform, eine Hommage an die hunderten goldenen Bienen aus dem Grab von König Hilderich. 1515 saß ein flämischer Tuchhändler aus Tournai im House of Commons in London, nachdem Heinrich VIII. die Stadt 1513 erobert hatte. In der ganzen Folge gibt es mehr Geschichten und Tipps zu den Sehenswürdigkeiten.
+
+Andere Sprachen und mehr über Tournai: https://wanderingcities.com/de/belgium/tournai/
+
+Quellen u. a. Wikipedia und Wikivoyage (CC BY-SA 4.0) sowie offizielle Websites für Tourismus, Denkmalpflege und Museen. Gespräch und Stimmen sind KI-generiert.</description>
+      <itunes:summary>Tournai, in Belgien, verkauft in seinen Bäckereien ein mit Himbeermarmelade gefülltes Briochegebäck in Bienenform, eine Hommage an die hunderten goldenen Bienen aus dem Grab von König Hilderich. 1515 saß ein flämischer Tuchhändler aus Tournai im House of Commons in London, nachdem Heinrich VIII. die Stadt 1513 erobert hatte. In der ganzen Folge gibt es mehr Geschichten und Tipps zu den Sehenswürdigkeiten.
+
+Andere Sprachen und mehr über Tournai: https://wanderingcities.com/de/belgium/tournai/
+
+Quellen u. a. Wikipedia und Wikivoyage (CC BY-SA 4.0) sowie offizielle Websites für Tourismus, Denkmalpflege und Museen. Gespräch und Stimmen sind KI-generiert.</itunes:summary>
+      <enclosure url="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/episodes/de/de-tournai-1056138540-v1.mp3" length="23394240" type="audio/mpeg"/>
+      <guid isPermaLink="false">82785bf3-31a9-59e4-9196-4f7a6b20152d</guid>
+      <pubDate>Wed, 25 Nov 2026 12:00:53 +0000</pubDate>
+      <itunes:duration>00:24:15</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Ostende Reiseführer &amp; Geschichte | Die Stadt, die vor den Fluten floh</title>
+      <link>https://wanderingcities.com/de/belgium/ostend/</link>
+      <description>Ostende, in Belgien, ist Schauplatz einer Legende: Die spanische Erzherzogin Isabella Clara Eugenia soll geschworen haben, ihre Unterwäsche nicht zu wechseln, bis die belagerte Stadt fällt. Die Belagerung dauerte von 1601 bis 1604 und forderte über 80.000 Tote und Verwundete. In der ganzen Folge gibt es mehr Geschichten und Tipps zu den Sehenswürdigkeiten.
+
+Andere Sprachen und mehr über Ostend: https://wanderingcities.com/de/belgium/ostend/
+
+Quellen u. a. Wikipedia und Wikivoyage (CC BY-SA 4.0) sowie offizielle Websites für Tourismus, Denkmalpflege und Museen. Gespräch und Stimmen sind KI-generiert.</description>
+      <itunes:summary>Ostende, in Belgien, ist Schauplatz einer Legende: Die spanische Erzherzogin Isabella Clara Eugenia soll geschworen haben, ihre Unterwäsche nicht zu wechseln, bis die belagerte Stadt fällt. Die Belagerung dauerte von 1601 bis 1604 und forderte über 80.000 Tote und Verwundete. In der ganzen Folge gibt es mehr Geschichten und Tipps zu den Sehenswürdigkeiten.
+
+Andere Sprachen und mehr über Ostend: https://wanderingcities.com/de/belgium/ostend/
+
+Quellen u. a. Wikipedia und Wikivoyage (CC BY-SA 4.0) sowie offizielle Websites für Tourismus, Denkmalpflege und Museen. Gespräch und Stimmen sind KI-generiert.</itunes:summary>
+      <enclosure url="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/episodes/de/de-ostend-1056454956-v1.mp3" length="14906747" type="audio/mpeg"/>
+      <guid isPermaLink="false">d59e54d2-6202-5ad5-8dd4-672fd569449e</guid>
+      <pubDate>Wed, 25 Nov 2026 10:30:34 +0000</pubDate>
+      <itunes:duration>00:15:24</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Dinant Reiseführer &amp; Geschichte | Zwischen Felswand und Saxofon</title>
       <link>https://wanderingcities.com/de/belgium/dinant/</link>

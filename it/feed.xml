@@ -14,7 +14,47 @@
     <itunes:type>episodic</itunes:type>
     <itunes:category text="Society &amp; Culture"><itunes:category text="Places &amp; Travel"/></itunes:category>
     <itunes:image href="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/cover-it-3000.jpg"/>
-    <lastBuildDate>Wed, 25 Nov 2026 05:44:40 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 25 Nov 2026 22:25:28 +0000</lastBuildDate>
+    <item>
+      <title>Tournai: guida di viaggio e storia | Le radici francesi nel paese vicino</title>
+      <link>https://wanderingcities.com/it/belgium/tournai/</link>
+      <description>Tournai, in Belgio, è dove nel 1653 alcuni operai trovarono una tomba con oltre 300 minuscole api d'oro massiccio, che Napoleone fece poi ricamare sui suoi mantelli imperiali. Dal 1092, ogni seconda domenica di settembre, la città sfila nella Grande Processione, nata come marcia di penitenza contro un'epidemia causata da un fungo della segale. Ascolta l'episodio completo per altre storie e consigli su cosa vedere.
+
+Altre lingue e altro su Tournai: https://wanderingcities.com/it/belgium/tournai/
+
+Fonti, tra le altre: Wikipedia e Wikivoyage (CC BY-SA 4.0) e siti ufficiali di turismo, patrimonio e musei. La conversazione e le voci sono generate dall'IA.</description>
+      <itunes:summary>Tournai, in Belgio, è dove nel 1653 alcuni operai trovarono una tomba con oltre 300 minuscole api d'oro massiccio, che Napoleone fece poi ricamare sui suoi mantelli imperiali. Dal 1092, ogni seconda domenica di settembre, la città sfila nella Grande Processione, nata come marcia di penitenza contro un'epidemia causata da un fungo della segale. Ascolta l'episodio completo per altre storie e consigli su cosa vedere.
+
+Altre lingue e altro su Tournai: https://wanderingcities.com/it/belgium/tournai/
+
+Fonti, tra le altre: Wikipedia e Wikivoyage (CC BY-SA 4.0) e siti ufficiali di turismo, patrimonio e musei. La conversazione e le voci sono generate dall'IA.</itunes:summary>
+      <enclosure url="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/episodes/it/it-tournai-1056138540-v1.mp3" length="14592411" type="audio/mpeg"/>
+      <guid isPermaLink="false">049c5c3b-5608-54f8-bbc3-8215458caedf</guid>
+      <pubDate>Wed, 25 Nov 2026 13:01:30 +0000</pubDate>
+      <itunes:duration>00:15:04</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Ostenda: guida di viaggio e storia | La città sommersa dalle onde</title>
+      <link>https://wanderingcities.com/it/belgium/ostend/</link>
+      <description>Ostenda, in Belgio, durante l'assedio del 1601-1604 aveva terrapieni di fango così pieni di palle di cannone spagnole incastrate che i nuovi proiettili colpivano quelli vecchi e rimbalzavano via. Nel 1395 gli abitanti lasciarono l'isola di Testerep, invasa dal mare, smontando le strutture in legno asse per asse e spostandosi dietro le dune. Ascolta l'episodio completo per altre storie e consigli su cosa vedere.
+
+Altre lingue e altro su Ostend: https://wanderingcities.com/it/belgium/ostend/
+
+Fonti, tra le altre: Wikipedia e Wikivoyage (CC BY-SA 4.0) e siti ufficiali di turismo, patrimonio e musei. La conversazione e le voci sono generate dall'IA.</description>
+      <itunes:summary>Ostenda, in Belgio, durante l'assedio del 1601-1604 aveva terrapieni di fango così pieni di palle di cannone spagnole incastrate che i nuovi proiettili colpivano quelli vecchi e rimbalzavano via. Nel 1395 gli abitanti lasciarono l'isola di Testerep, invasa dal mare, smontando le strutture in legno asse per asse e spostandosi dietro le dune. Ascolta l'episodio completo per altre storie e consigli su cosa vedere.
+
+Altre lingue e altro su Ostend: https://wanderingcities.com/it/belgium/ostend/
+
+Fonti, tra le altre: Wikipedia e Wikivoyage (CC BY-SA 4.0) e siti ufficiali di turismo, patrimonio e musei. La conversazione e le voci sono generate dall'IA.</itunes:summary>
+      <enclosure url="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/episodes/it/it-ostend-1056454956-v1.mp3" length="26908057" type="audio/mpeg"/>
+      <guid isPermaLink="false">67565c45-6395-5201-8943-9a40c8ccc487</guid>
+      <pubDate>Wed, 25 Nov 2026 11:31:36 +0000</pubDate>
+      <itunes:duration>00:27:54</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Gand: guida di viaggio e storia | La ribellione dei cappi al collo</title>
       <link>https://wanderingcities.com/it/belgium/ghent/</link>

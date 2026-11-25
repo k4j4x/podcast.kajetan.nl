@@ -14,7 +14,47 @@
     <itunes:type>episodic</itunes:type>
     <itunes:category text="Society &amp; Culture"><itunes:category text="Places &amp; Travel"/></itunes:category>
     <itunes:image href="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/cover-nl-3000.jpg"/>
-    <lastBuildDate>Wed, 25 Nov 2026 05:44:40 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 25 Nov 2026 22:25:27 +0000</lastBuildDate>
+    <item>
+      <title>Doornik reisgids &amp; geschiedenis | Een Engelse stad op het vasteland</title>
+      <link>https://wanderingcities.com/nl/belgium/tournai/</link>
+      <description>Doornik, in België, verbood vis te verkopen in kraampjes in de smalle straatjes, dus legden de boten aan bij de kade en ging de verse vis over de reling direct naar de burger. In 1653 stuitte een arbeider bij het graven op de tombe van koning Childerik, vol munten en honderden kleine gouden bijtjes. Luister de hele aflevering voor meer verhalen en tips over wat je moet zien.
+
+Andere talen en meer over Tournai: https://wanderingcities.com/nl/belgium/tournai/
+
+Bronnen o.a. Wikipedia en Wikivoyage (CC BY-SA 4.0) en officiële websites over toerisme, erfgoed en musea. Het gesprek en de stemmen zijn door AI gegenereerd.</description>
+      <itunes:summary>Doornik, in België, verbood vis te verkopen in kraampjes in de smalle straatjes, dus legden de boten aan bij de kade en ging de verse vis over de reling direct naar de burger. In 1653 stuitte een arbeider bij het graven op de tombe van koning Childerik, vol munten en honderden kleine gouden bijtjes. Luister de hele aflevering voor meer verhalen en tips over wat je moet zien.
+
+Andere talen en meer over Tournai: https://wanderingcities.com/nl/belgium/tournai/
+
+Bronnen o.a. Wikipedia en Wikivoyage (CC BY-SA 4.0) en officiële websites over toerisme, erfgoed en musea. Het gesprek en de stemmen zijn door AI gegenereerd.</itunes:summary>
+      <enclosure url="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/episodes/nl/nl-tournai-1056138540-v1.mp3" length="23726780" type="audio/mpeg"/>
+      <guid isPermaLink="false">e20f8684-5668-58b3-9ee4-c09886e77016</guid>
+      <pubDate>Wed, 25 Nov 2026 12:31:29 +0000</pubDate>
+      <itunes:duration>00:24:35</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Oostende reisgids &amp; geschiedenis | Isabella's hemd en koninklijke zuilen</title>
+      <link>https://wanderingcities.com/nl/belgium/ostend/</link>
+      <description>Oostende, in België, is de stad waarvoor aartshertogin Isabella zwoer haar ondergoed niet te wisselen tot de verovering; na ruim drie jaar beleg was het naar verluidt roetzwart. In 1395 verhuisden de inwoners hun stad na stormvloeden landinwaarts achter dijken: houten huizen haalden ze uit elkaar en zetten ze weer in elkaar. Luister de hele aflevering voor meer verhalen en tips over wat je moet zien.
+
+Andere talen en meer over Ostend: https://wanderingcities.com/nl/belgium/ostend/
+
+Bronnen o.a. Wikipedia en Wikivoyage (CC BY-SA 4.0) en officiële websites over toerisme, erfgoed en musea. Het gesprek en de stemmen zijn door AI gegenereerd.</description>
+      <itunes:summary>Oostende, in België, is de stad waarvoor aartshertogin Isabella zwoer haar ondergoed niet te wisselen tot de verovering; na ruim drie jaar beleg was het naar verluidt roetzwart. In 1395 verhuisden de inwoners hun stad na stormvloeden landinwaarts achter dijken: houten huizen haalden ze uit elkaar en zetten ze weer in elkaar. Luister de hele aflevering voor meer verhalen en tips over wat je moet zien.
+
+Andere talen en meer over Ostend: https://wanderingcities.com/nl/belgium/ostend/
+
+Bronnen o.a. Wikipedia en Wikivoyage (CC BY-SA 4.0) en officiële websites over toerisme, erfgoed en musea. Het gesprek en de stemmen zijn door AI gegenereerd.</itunes:summary>
+      <enclosure url="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/episodes/nl/nl-ostend-1056454956-v1.mp3" length="15230093" type="audio/mpeg"/>
+      <guid isPermaLink="false">d062ddfa-fcc8-565e-bbe4-da13eed492c3</guid>
+      <pubDate>Wed, 25 Nov 2026 11:01:12 +0000</pubDate>
+      <itunes:duration>00:15:44</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Gent reisgids &amp; geschiedenis | Machtiger dan het middeleeuwse Londen</title>
       <link>https://wanderingcities.com/nl/belgium/ghent/</link>
