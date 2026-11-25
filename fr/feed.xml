@@ -14,7 +14,7 @@
     <itunes:type>episodic</itunes:type>
     <itunes:category text="Society &amp; Culture"><itunes:category text="Places &amp; Travel"/></itunes:category>
     <itunes:image href="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/cover-fr-3000.jpg"/>
-    <lastBuildDate>Tue, 24 Nov 2026 22:23:38 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 25 Nov 2026 05:44:40 +0000</lastBuildDate>
     <item>
       <title>Gand : guide de voyage et histoire | La révolte des porteurs de corde</title>
       <link>https://wanderingcities.com/fr/belgium/ghent/</link>
@@ -71,10 +71,10 @@ Sources, entre autres : Wikipédia et Wikivoyage (CC BY-SA 4.0) ainsi que les si
 Autres langues et plus sur Brussels : https://wanderingcities.com/fr/belgium/brussels/
 
 Sources, entre autres : Wikipédia et Wikivoyage (CC BY-SA 4.0) ainsi que les sites officiels du tourisme, du patrimoine et des musées. La conversation et les voix sont générées par IA.</itunes:summary>
-      <enclosure url="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/episodes/fr/fr-brussels-1056469830-v1.mp3" length="14592490" type="audio/mpeg"/>
+      <enclosure url="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/episodes/fr/fr-brussels-1056469830-v4.mp3" length="14186651" type="audio/mpeg"/>
       <guid isPermaLink="false">b8cd4a31-bfb1-5681-a3c9-082546d18846</guid>
       <pubDate>Fri, 20 Nov 2026 07:00:38 +0000</pubDate>
-      <itunes:duration>00:15:04</itunes:duration>
+      <itunes:duration>00:14:39</itunes:duration>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>false</itunes:explicit>
     </item>
