@@ -14,10 +14,11 @@
     <itunes:type>episodic</itunes:type>
     <itunes:category text="Society &amp; Culture"><itunes:category text="Places &amp; Travel"/></itunes:category>
     <itunes:image href="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/cover-nl-3000.jpg"/>
-    <lastBuildDate>Wed, 25 Nov 2026 22:25:27 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 26 Nov 2026 05:04:32 +0000</lastBuildDate>
     <item>
       <title>Doornik reisgids &amp; geschiedenis | Een Engelse stad op het vasteland</title>
       <link>https://wanderingcities.com/nl/belgium/tournai/</link>
+      <podcast:transcript url="https://wanderingcities.com/belgium/tournai/transcript-nl.txt" type="text/plain" language="nl"/>
       <description>Doornik, in België, verbood vis te verkopen in kraampjes in de smalle straatjes, dus legden de boten aan bij de kade en ging de verse vis over de reling direct naar de burger. In 1653 stuitte een arbeider bij het graven op de tombe van koning Childerik, vol munten en honderden kleine gouden bijtjes. Luister de hele aflevering voor meer verhalen en tips over wat je moet zien.
 
 Andere talen en meer over Tournai: https://wanderingcities.com/nl/belgium/tournai/
@@ -38,6 +39,7 @@ Bronnen o.a. Wikipedia en Wikivoyage (CC BY-SA 4.0) en officiële websites over 
     <item>
       <title>Oostende reisgids &amp; geschiedenis | Isabella's hemd en koninklijke zuilen</title>
       <link>https://wanderingcities.com/nl/belgium/ostend/</link>
+      <podcast:transcript url="https://wanderingcities.com/belgium/ostend/transcript-nl.txt" type="text/plain" language="nl"/>
       <description>Oostende, in België, is de stad waarvoor aartshertogin Isabella zwoer haar ondergoed niet te wisselen tot de verovering; na ruim drie jaar beleg was het naar verluidt roetzwart. In 1395 verhuisden de inwoners hun stad na stormvloeden landinwaarts achter dijken: houten huizen haalden ze uit elkaar en zetten ze weer in elkaar. Luister de hele aflevering voor meer verhalen en tips over wat je moet zien.
 
 Andere talen en meer over Ostend: https://wanderingcities.com/nl/belgium/ostend/

@@ -14,7 +14,7 @@
     <itunes:type>episodic</itunes:type>
     <itunes:category text="Society &amp; Culture"><itunes:category text="Places &amp; Travel"/></itunes:category>
     <itunes:image href="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/cover-3000.jpg"/>
-    <lastBuildDate>Wed, 25 Nov 2026 22:25:26 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 26 Nov 2026 05:04:31 +0000</lastBuildDate>
     <item>
       <title>Liège Travel Guide &amp; History | 374 Steps and a Rebellious Soul</title>
       <link>https://wanderingcities.com/belgium/liege/?lang=en</link>
@@ -31,7 +31,7 @@ Other languages and more about Liège: https://wanderingcities.com/belgium/liege
 Sources include Wikipedia and Wikivoyage (CC BY-SA 4.0) and official tourism, heritage and museum websites. The conversation and voices are AI-generated.</itunes:summary>
       <enclosure url="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/episodes/wandering-cities-liège-1056513284-v1.mp3" length="20709648" type="audio/mpeg"/>
       <guid isPermaLink="false">80004813-223d-54c3-b95b-9971695436bc</guid>
-      <pubDate>Wed, 25 Nov 2026 22:00:42 +0000</pubDate>
+      <pubDate>Thu, 26 Nov 2026 05:00:43 +0000</pubDate>
       <itunes:duration>00:21:25</itunes:duration>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>false</itunes:explicit>
@@ -39,6 +39,7 @@ Sources include Wikipedia and Wikivoyage (CC BY-SA 4.0) and official tourism, he
     <item>
       <title>Tournai Travel Guide &amp; History | France's Royal Cradle in Belgium</title>
       <link>https://wanderingcities.com/belgium/tournai/?lang=en</link>
+      <podcast:transcript url="https://wanderingcities.com/belgium/tournai/transcript-en.txt" type="text/plain" language="en"/>
       <description>Tournai, in Belgium, is where laborers digging near a church hit the tomb of Clovis's father, full of gold and hundreds of golden bees that Napoleon later adopted. In 1513, Henry VIII of England took the city and let it elect a member of the English House of Commons. Listen to the full episode for more stories and tips on what to see.
 
 Other languages and more about Tournai: https://wanderingcities.com/belgium/tournai/?lang=en
@@ -59,6 +60,7 @@ Sources include Wikipedia and Wikivoyage (CC BY-SA 4.0) and official tourism, he
     <item>
       <title>Ostend Travel Guide &amp; History | Outlasting Sieges and the Sea</title>
       <link>https://wanderingcities.com/belgium/ostend/?lang=en</link>
+      <podcast:transcript url="https://wanderingcities.com/belgium/ostend/transcript-en.txt" type="text/plain" language="en"/>
       <description>Ostend, in Belgium, held out so long under siege that its defenders ran out of materials and patched their shattered walls with unexploded Spanish cannonballs. In 1395, with the sea eating away their island's eastern tip, the villagers took apart their homes and moved the whole town inland behind new dikes. Listen to the full episode for more stories and tips on what to see.
 
 Other languages and more about Ostend: https://wanderingcities.com/belgium/ostend/?lang=en

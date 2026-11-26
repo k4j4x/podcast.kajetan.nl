@@ -14,10 +14,11 @@
     <itunes:type>episodic</itunes:type>
     <itunes:category text="Society &amp; Culture"><itunes:category text="Places &amp; Travel"/></itunes:category>
     <itunes:image href="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/cover-de-3000.jpg"/>
-    <lastBuildDate>Wed, 25 Nov 2026 22:25:27 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 26 Nov 2026 05:04:31 +0000</lastBuildDate>
     <item>
       <title>Tournai Reiseführer &amp; Geschichte | Frankreichs Wiege im Nachbarland</title>
       <link>https://wanderingcities.com/de/belgium/tournai/</link>
+      <podcast:transcript url="https://wanderingcities.com/belgium/tournai/transcript-de.txt" type="text/plain" language="de"/>
       <description>Tournai, in Belgien, verkauft in seinen Bäckereien ein mit Himbeermarmelade gefülltes Briochegebäck in Bienenform, eine Hommage an die hunderten goldenen Bienen aus dem Grab von König Hilderich. 1515 saß ein flämischer Tuchhändler aus Tournai im House of Commons in London, nachdem Heinrich VIII. die Stadt 1513 erobert hatte. In der ganzen Folge gibt es mehr Geschichten und Tipps zu den Sehenswürdigkeiten.
 
 Andere Sprachen und mehr über Tournai: https://wanderingcities.com/de/belgium/tournai/
@@ -38,6 +39,7 @@ Quellen u. a. Wikipedia und Wikivoyage (CC BY-SA 4.0) sowie offizielle Websites 
     <item>
       <title>Ostende Reiseführer &amp; Geschichte | Die Stadt, die vor den Fluten floh</title>
       <link>https://wanderingcities.com/de/belgium/ostend/</link>
+      <podcast:transcript url="https://wanderingcities.com/belgium/ostend/transcript-de.txt" type="text/plain" language="de"/>
       <description>Ostende, in Belgien, ist Schauplatz einer Legende: Die spanische Erzherzogin Isabella Clara Eugenia soll geschworen haben, ihre Unterwäsche nicht zu wechseln, bis die belagerte Stadt fällt. Die Belagerung dauerte von 1601 bis 1604 und forderte über 80.000 Tote und Verwundete. In der ganzen Folge gibt es mehr Geschichten und Tipps zu den Sehenswürdigkeiten.
 
 Andere Sprachen und mehr über Ostend: https://wanderingcities.com/de/belgium/ostend/

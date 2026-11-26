@@ -14,10 +14,11 @@
     <itunes:type>episodic</itunes:type>
     <itunes:category text="Society &amp; Culture"><itunes:category text="Places &amp; Travel"/></itunes:category>
     <itunes:image href="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/cover-es-3000.jpg"/>
-    <lastBuildDate>Wed, 25 Nov 2026 22:25:27 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 26 Nov 2026 05:04:32 +0000</lastBuildDate>
     <item>
       <title>Tournai: guía de viaje e historia | La cuna de Francia en el país vecino</title>
       <link>https://wanderingcities.com/es/belgium/tournai/</link>
+      <podcast:transcript url="https://wanderingcities.com/belgium/tournai/transcript-es.txt" type="text/plain" language="es"/>
       <description>Tournai, en Bélgica, guardaba la tumba intacta del rey franco Childérico, con unas 300 abejas de oro macizo adornadas con granates rojos que Napoleón eligió después como símbolo de su imperio. En 1515, el rey Enrique de Inglaterra, que había asediado la ciudad, le dio representación oficial en el Parlamento inglés. Escucha el episodio completo para más historias y consejos sobre qué ver.
 
 Otros idiomas y más sobre Tournai: https://wanderingcities.com/es/belgium/tournai/
@@ -38,6 +39,7 @@ Fuentes, entre otras: Wikipedia y Wikivoyage (CC BY-SA 4.0) y webs oficiales de 
     <item>
       <title>Ostende: guía de viaje e historia | El renacer de las cenizas saladas</title>
       <link>https://wanderingcities.com/es/belgium/ostend/</link>
+      <podcast:transcript url="https://wanderingcities.com/belgium/ostend/transcript-es.txt" type="text/plain" language="es"/>
       <description>Ostende, en Bélgica, resistió un asedio de tres años, y la archiduquesa Isabel Clara Eugenia juró no cambiarse de ropa interior hasta que sus tropas tomaran la ciudad. En 1936 el buque escuela Mercator repatrió desde Hawaii los restos del padre Damián, el sacerdote belga famoso por cuidar a los leprosos. Escucha el episodio completo para más historias y consejos sobre qué ver.
 
 Otros idiomas y más sobre Ostend: https://wanderingcities.com/es/belgium/ostend/
