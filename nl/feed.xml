@@ -14,7 +14,27 @@
     <itunes:type>episodic</itunes:type>
     <itunes:category text="Society &amp; Culture"><itunes:category text="Places &amp; Travel"/></itunes:category>
     <itunes:image href="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/cover-nl-3000.jpg"/>
-    <lastBuildDate>Thu, 26 Nov 2026 11:15:14 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 26 Nov 2026 18:58:04 +0000</lastBuildDate>
+    <item>
+      <title>Lier reisgids &amp; geschiedenis | Koninklijk huwelijk en kosmische klok</title>
+      <link>https://wanderingcities.com/nl/belgium/lier/</link>
+      <description>Lier, in België, heeft bij het belfort een koperen strip in de kasseien: de meridiaanlijn van astronoom Quetelet, die een hoek van het stadhuis als schaduwmaker gebruikte. In 1496 trouwden Philips de Schone en Johanna van Castilië in de Sint-Gumaruskerk; hun verbintenis leidde tot keizer Karel V. Luister de hele aflevering voor meer verhalen en tips over wat je moet zien.
+
+Andere talen en meer over Lier: https://wanderingcities.com/nl/belgium/lier/
+
+Bronnen o.a. Wikipedia en Wikivoyage (CC BY-SA 4.0) en officiële websites over toerisme, erfgoed en musea. Het gesprek en de stemmen zijn door AI gegenereerd.</description>
+      <itunes:summary>Lier, in België, heeft bij het belfort een koperen strip in de kasseien: de meridiaanlijn van astronoom Quetelet, die een hoek van het stadhuis als schaduwmaker gebruikte. In 1496 trouwden Philips de Schone en Johanna van Castilië in de Sint-Gumaruskerk; hun verbintenis leidde tot keizer Karel V. Luister de hele aflevering voor meer verhalen en tips over wat je moet zien.
+
+Andere talen en meer over Lier: https://wanderingcities.com/nl/belgium/lier/
+
+Bronnen o.a. Wikipedia en Wikivoyage (CC BY-SA 4.0) en officiële websites over toerisme, erfgoed en musea. Het gesprek en de stemmen zijn door AI gegenereerd.</itunes:summary>
+      <enclosure url="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/episodes/nl/nl-lier-1056505135-v1.mp3" length="21731862" type="audio/mpeg"/>
+      <guid isPermaLink="false">f1b76bff-9a60-56f5-97ee-93d2df6b7a80</guid>
+      <pubDate>Thu, 26 Nov 2026 12:31:19 +0000</pubDate>
+      <itunes:duration>00:22:31</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Doornik reisgids &amp; geschiedenis | Een Engelse stad op het vasteland</title>
       <link>https://wanderingcities.com/nl/belgium/tournai/</link>

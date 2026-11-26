@@ -14,7 +14,27 @@
     <itunes:type>episodic</itunes:type>
     <itunes:category text="Society &amp; Culture"><itunes:category text="Places &amp; Travel"/></itunes:category>
     <itunes:image href="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/cover-fr-3000.jpg"/>
-    <lastBuildDate>Thu, 26 Nov 2026 11:15:14 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 26 Nov 2026 18:58:04 +0000</lastBuildDate>
+    <item>
+      <title>Lierre : guide de voyage et histoire | Entre têtes de moutons et astronomie</title>
+      <link>https://wanderingcities.com/fr/belgium/lier/</link>
+      <description>Lierre, en Belgique, abrite à côté de la tour Zimmer une horloge dont une aiguille met 25 800 ans à faire un tour complet, un engrenage conçu par l'horloger Zimmer. En 1496, Lierre accueille le mariage de Philippe le Beau et de Jeanne de Castille, à l'église Saint-Gommaire. Écoutez l'épisode complet pour plus d'histoires et de conseils sur ce qu'il faut voir.
+
+Autres langues et plus sur Lier : https://wanderingcities.com/fr/belgium/lier/
+
+Sources, entre autres : Wikipédia et Wikivoyage (CC BY-SA 4.0) ainsi que les sites officiels du tourisme, du patrimoine et des musées. La conversation et les voix sont générées par IA.</description>
+      <itunes:summary>Lierre, en Belgique, abrite à côté de la tour Zimmer une horloge dont une aiguille met 25 800 ans à faire un tour complet, un engrenage conçu par l'horloger Zimmer. En 1496, Lierre accueille le mariage de Philippe le Beau et de Jeanne de Castille, à l'église Saint-Gommaire. Écoutez l'épisode complet pour plus d'histoires et de conseils sur ce qu'il faut voir.
+
+Autres langues et plus sur Lier : https://wanderingcities.com/fr/belgium/lier/
+
+Sources, entre autres : Wikipédia et Wikivoyage (CC BY-SA 4.0) ainsi que les sites officiels du tourisme, du patrimoine et des musées. La conversation et les voix sont générées par IA.</itunes:summary>
+      <enclosure url="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/episodes/fr/fr-lier-1056505135-v1.mp3" length="14336279" type="audio/mpeg"/>
+      <guid isPermaLink="false">e00b30c4-2366-5f52-8bb0-1837fa06ad11</guid>
+      <pubDate>Thu, 26 Nov 2026 12:30:32 +0000</pubDate>
+      <itunes:duration>00:14:48</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Tournai : guide de voyage et histoire | Le secret des abeilles impériales</title>
       <link>https://wanderingcities.com/fr/belgium/tournai/</link>

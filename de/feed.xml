@@ -14,7 +14,27 @@
     <itunes:type>episodic</itunes:type>
     <itunes:category text="Society &amp; Culture"><itunes:category text="Places &amp; Travel"/></itunes:category>
     <itunes:image href="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/cover-de-3000.jpg"/>
-    <lastBuildDate>Thu, 26 Nov 2026 11:15:14 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 26 Nov 2026 18:58:04 +0000</lastBuildDate>
+    <item>
+      <title>Lier Reiseführer &amp; Geschichte | Von Schafsköpfen und der Ewigkeit</title>
+      <link>https://wanderingcities.com/de/belgium/lier/</link>
+      <description>Lier, in Belgien, durfte im 14. Jahrhundert zwischen einer Universität und einem Schafmarkt wählen, nahm den Schafmarkt, und der Herzog schimpfte die Einwohner „Schafsköpfe“ – heute gibt es dort Pralinen und Kekse in Schafskopfform. 1860 wurde direkt unter dem Rathaus das allererste Mammutskelett Westeuropas aus dem Schlamm gezogen. In der ganzen Folge gibt es mehr Geschichten und Tipps zu den Sehenswürdigkeiten.
+
+Andere Sprachen und mehr über Lier: https://wanderingcities.com/de/belgium/lier/
+
+Quellen u. a. Wikipedia und Wikivoyage (CC BY-SA 4.0) sowie offizielle Websites für Tourismus, Denkmalpflege und Museen. Gespräch und Stimmen sind KI-generiert.</description>
+      <itunes:summary>Lier, in Belgien, durfte im 14. Jahrhundert zwischen einer Universität und einem Schafmarkt wählen, nahm den Schafmarkt, und der Herzog schimpfte die Einwohner „Schafsköpfe“ – heute gibt es dort Pralinen und Kekse in Schafskopfform. 1860 wurde direkt unter dem Rathaus das allererste Mammutskelett Westeuropas aus dem Schlamm gezogen. In der ganzen Folge gibt es mehr Geschichten und Tipps zu den Sehenswürdigkeiten.
+
+Andere Sprachen und mehr über Lier: https://wanderingcities.com/de/belgium/lier/
+
+Quellen u. a. Wikipedia und Wikivoyage (CC BY-SA 4.0) sowie offizielle Websites für Tourismus, Denkmalpflege und Museen. Gespräch und Stimmen sind KI-generiert.</itunes:summary>
+      <enclosure url="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/episodes/de/de-lier-1056505135-v1.mp3" length="21381344" type="audio/mpeg"/>
+      <guid isPermaLink="false">be4e741d-37ce-50c4-8779-53899c8ea9b2</guid>
+      <pubDate>Thu, 26 Nov 2026 12:00:48 +0000</pubDate>
+      <itunes:duration>00:22:09</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Tournai Reiseführer &amp; Geschichte | Frankreichs Wiege im Nachbarland</title>
       <link>https://wanderingcities.com/de/belgium/tournai/</link>
