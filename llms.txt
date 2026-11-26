@@ -1,14 +1,14 @@
 # Wandering Cities
 
-> City travel guides and two-host podcast episodes about cities and towns in Belgium and the Netherlands, in 6 languages (English, German, Dutch, French, Spanish, Italian). One city per episode: how it came to be, the landmarks worth seeing, the food worth trying.
+> Quick travel guides for cities and towns in Belgium and the Netherlands, in 6 languages (English, German, Dutch, French, Spanish, Italian): what to see, a map of the highlights, the story of the city, local food, useful phrases and customs. Every city also has a free podcast episode (two hosts, with transcript).
 
 Episodes, texts and transcripts are made with AI from cited sources (Wikipedia, Wikivoyage and official tourism, heritage and museum websites) and checked against those sources. The conversation and voices are AI-generated.
 
 Currently 97 cities, 568 episodes, 90 city maps. Each city has:
-- a start screen: /<country>/<city>/
-- the podcast episode in every published language, with description and (mostly) transcript: /<country>/<city>/podcast/
+- a start screen (the guide): /<country>/<city>/
 - a map of its highlights with photos and directions (most cities): /<country>/<city>/map/
 - phrases, customs and food for visitors, per country: /<country>/phrases/, /<country>/customs/, /<country>/food/
+- a free podcast episode in every published language, with description and (mostly) transcript: /<country>/<city>/podcast/
 - every page above also in German, Dutch, French, Spanish, Italian under /<language>/ (/de/, /nl/, /fr/, /es/, /it/), e.g. /nl/<country>/<city>/podcast/
 
 ## Key pages
