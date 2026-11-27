@@ -14,10 +14,11 @@
     <itunes:type>episodic</itunes:type>
     <itunes:category text="Society &amp; Culture"><itunes:category text="Places &amp; Travel"/></itunes:category>
     <itunes:image href="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/cover-fr-3000.jpg"/>
-    <lastBuildDate>Fri, 27 Nov 2026 01:59:01 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 27 Nov 2026 05:00:06 +0000</lastBuildDate>
     <item>
       <title>Lierre : guide de voyage et histoire | Entre têtes de moutons et astronomie</title>
       <link>https://wanderingcities.com/fr/belgium/lier/</link>
+      <podcast:transcript url="https://wanderingcities.com/belgium/lier/transcript-fr.txt" type="text/plain" language="fr"/>
       <description>Lierre, en Belgique, abrite à côté de la tour Zimmer une horloge dont une aiguille met 25 800 ans à faire un tour complet, un engrenage conçu par l'horloger Zimmer. En 1496, Lierre accueille le mariage de Philippe le Beau et de Jeanne de Castille, à l'église Saint-Gommaire. Écoutez l'épisode complet pour plus d'histoires et de conseils sur ce qu'il faut voir.
 
 Autres langues et plus sur Lier : https://wanderingcities.com/fr/belgium/lier/

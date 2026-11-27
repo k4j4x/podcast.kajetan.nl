@@ -14,7 +14,7 @@
     <itunes:type>episodic</itunes:type>
     <itunes:category text="Society &amp; Culture"><itunes:category text="Places &amp; Travel"/></itunes:category>
     <itunes:image href="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/cover-3000.jpg"/>
-    <lastBuildDate>Fri, 27 Nov 2026 01:59:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 27 Nov 2026 05:00:05 +0000</lastBuildDate>
     <item>
       <title>Liège Travel Guide &amp; History | 374 Steps and a Rebellious Soul</title>
       <link>https://wanderingcities.com/belgium/liege/?lang=en</link>
@@ -31,7 +31,7 @@ Other languages and more about Liège: https://wanderingcities.com/belgium/liege
 Sources include Wikipedia and Wikivoyage (CC BY-SA 4.0) and official tourism, heritage and museum websites. The conversation and voices are AI-generated.</itunes:summary>
       <enclosure url="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/episodes/wandering-cities-liège-1056513284-v1.mp3" length="20709648" type="audio/mpeg"/>
       <guid isPermaLink="false">80004813-223d-54c3-b95b-9971695436bc</guid>
-      <pubDate>Fri, 27 Nov 2026 01:30:42 +0000</pubDate>
+      <pubDate>Fri, 27 Nov 2026 04:30:43 +0000</pubDate>
       <itunes:duration>00:21:25</itunes:duration>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>false</itunes:explicit>
@@ -39,6 +39,7 @@ Sources include Wikipedia and Wikivoyage (CC BY-SA 4.0) and official tourism, he
     <item>
       <title>Lier Travel Guide &amp; History | Mammoths, Sheep Heads and Eternity</title>
       <link>https://wanderingcities.com/belgium/lier/?lang=en</link>
+      <podcast:transcript url="https://wanderingcities.com/belgium/lier/transcript-en.txt" type="text/plain" language="en"/>
       <description>Lier, in Belgium, is where workers digging the foundation of a new town hall hit the skull of a mammoth, the first mammoth skeleton found in Western Europe. In 1930, local clockmaker Lewis Zimmer gave the city his Jubilee clock, with 13 dials, to mark 100 years of Belgian independence. Listen to the full episode for more stories and tips on what to see.
 
 Other languages and more about Lier: https://wanderingcities.com/belgium/lier/?lang=en
