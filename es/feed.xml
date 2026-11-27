@@ -14,7 +14,7 @@
     <itunes:type>episodic</itunes:type>
     <itunes:category text="Society &amp; Culture"><itunes:category text="Places &amp; Travel"/></itunes:category>
     <itunes:image href="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/cover-es-3000.jpg"/>
-    <lastBuildDate>Fri, 27 Nov 2026 05:00:06 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 27 Nov 2026 11:15:07 +0000</lastBuildDate>
     <item>
       <title>Lier: guía de viaje e historia | El enigma de las cabezas de oveja</title>
       <link>https://wanderingcities.com/es/belgium/lier/</link>
@@ -71,10 +71,10 @@ Fuentes, entre otras: Wikipedia y Wikivoyage (CC BY-SA 4.0) y webs oficiales de 
 Otros idiomas y más sobre Ostend: https://wanderingcities.com/es/belgium/ostend/
 
 Fuentes, entre otras: Wikipedia y Wikivoyage (CC BY-SA 4.0) y webs oficiales de turismo, patrimonio y museos. La conversación y las voces están generadas por IA.</itunes:summary>
-      <enclosure url="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/episodes/es/es-ostend-1056454956-v1.mp3" length="17797504" type="audio/mpeg"/>
+      <enclosure url="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/episodes/es/es-ostend-1056454956-v2.mp3" length="20325739" type="audio/mpeg"/>
       <guid isPermaLink="false">b3920bb1-b780-5f53-b5d9-3031bd7a2146</guid>
       <pubDate>Wed, 25 Nov 2026 11:30:40 +0000</pubDate>
-      <itunes:duration>00:18:24</itunes:duration>
+      <itunes:duration>00:21:02</itunes:duration>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>false</itunes:explicit>
     </item>
