@@ -14,10 +14,11 @@
     <itunes:type>episodic</itunes:type>
     <itunes:category text="Society &amp; Culture"><itunes:category text="Places &amp; Travel"/></itunes:category>
     <itunes:image href="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/cover-de-3000.jpg"/>
-    <lastBuildDate>Sat, 28 Nov 2026 02:10:20 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 28 Nov 2026 04:51:47 +0000</lastBuildDate>
     <item>
       <title>Dendermonde Reiseführer &amp; Geschichte | Vom Millionenschatz zur Pferdewurst</title>
       <link>https://wanderingcities.com/de/belgium/dendermonde/</link>
+      <podcast:transcript url="https://wanderingcities.com/belgium/dendermonde/transcript-de.txt" type="text/plain" language="de"/>
       <description>Dendermonde, in Belgien: Im August 2026 reißt ein Arbeiter im Keller einer alten Brauereivilla eine zugemauerte Wand ein und findet eine verstaubte Tasche mit Goldmünzen und nummerierten Goldbarren im geschätzten Wert von 9 Millionen Euro. 1667 öffneten die Bewohner Schleusen und Deiche und fluteten die Polder, sodass Ludwig der 14. seine Armee zurückziehen musste. In der ganzen Folge gibt es mehr Geschichten und Tipps zu den Sehenswürdigkeiten.
 
 Andere Sprachen und mehr über Dendermonde: https://wanderingcities.com/de/belgium/dendermonde/
@@ -38,6 +39,7 @@ Quellen u. a. Wikipedia und Wikivoyage (CC BY-SA 4.0) sowie offizielle Websites 
     <item>
       <title>Sint-Niklaas Reiseführer &amp; Geschichte | Das gräfliche Bauverbot von 1248</title>
       <link>https://wanderingcities.com/de/belgium/sint-niklaas/</link>
+      <podcast:transcript url="https://wanderingcities.com/belgium/sint-niklaas/transcript-de.txt" type="text/plain" language="de"/>
       <description>Sint-Niklaas, in Belgien, lässt am ersten Septemberwochenende über 50 Heißluftballons mitten auf dem Grote Markt aufsteigen, zwischen Belfried und Kirchtürmen, darunter fliegende Biergläser und Motorräder. 1248 übergab Gräfin Margarete von Flandern den Einwohnern die Fläche als Weideland, mit der Keure: Der Platz muss für alle Zeiten ungeteilt und unbebaut bleiben. In der ganzen Folge gibt es mehr Geschichten und Tipps zu den Sehenswürdigkeiten.
 
 Andere Sprachen und mehr über Sint-Niklaas: https://wanderingcities.com/de/belgium/sint-niklaas/
@@ -69,10 +71,10 @@ Quellen u. a. Wikipedia und Wikivoyage (CC BY-SA 4.0) sowie offizielle Websites 
 Andere Sprachen und mehr über Lier: https://wanderingcities.com/de/belgium/lier/
 
 Quellen u. a. Wikipedia und Wikivoyage (CC BY-SA 4.0) sowie offizielle Websites für Tourismus, Denkmalpflege und Museen. Gespräch und Stimmen sind KI-generiert.</itunes:summary>
-      <enclosure url="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/episodes/de/de-lier-1056505135-v1.mp3" length="21381344" type="audio/mpeg"/>
+      <enclosure url="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/episodes/de/de-lier-1056505135-v2.mp3" length="27331411" type="audio/mpeg"/>
       <guid isPermaLink="false">be4e741d-37ce-50c4-8779-53899c8ea9b2</guid>
       <pubDate>Thu, 26 Nov 2026 12:00:48 +0000</pubDate>
-      <itunes:duration>00:22:09</itunes:duration>
+      <itunes:duration>00:28:21</itunes:duration>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>false</itunes:explicit>
     </item>

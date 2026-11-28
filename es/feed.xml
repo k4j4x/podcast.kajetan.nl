@@ -14,10 +14,11 @@
     <itunes:type>episodic</itunes:type>
     <itunes:category text="Society &amp; Culture"><itunes:category text="Places &amp; Travel"/></itunes:category>
     <itunes:image href="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/cover-es-3000.jpg"/>
-    <lastBuildDate>Sat, 28 Nov 2026 02:10:20 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 28 Nov 2026 04:51:48 +0000</lastBuildDate>
     <item>
       <title>Dendermonde: guía de viaje e historia | De tesoros ocultos al corcel legendario</title>
       <link>https://wanderingcities.com/es/belgium/dendermonde/</link>
+      <podcast:transcript url="https://wanderingcities.com/belgium/dendermonde/transcript-es.txt" type="text/plain" language="es"/>
       <description>Dendermonde, en Bélgica, vio en 2006 a 28 presos abrir una cerradura oxidada, bajar un muro con sábanas anudadas y aterrizar sobre el techo de una cabina telefónica. En 1667, ante el ejército de Luis XIV, los defensores abrieron los diques e inundaron sus tierras, y los cañones franceses se hundieron en el barro. Escucha el episodio completo para más historias y consejos sobre qué ver.
 
 Otros idiomas y más sobre Dendermonde: https://wanderingcities.com/es/belgium/dendermonde/
@@ -38,6 +39,7 @@ Fuentes, entre otras: Wikipedia y Wikivoyage (CC BY-SA 4.0) y webs oficiales de 
     <item>
       <title>San Nicolás de Flandes: guía de viaje e historia | El misterio de la plaza más grande</title>
       <link>https://wanderingcities.com/es/belgium/sint-niklaas/</link>
+      <podcast:transcript url="https://wanderingcities.com/belgium/sint-niklaas/transcript-es.txt" type="text/plain" language="es"/>
       <description>San Nicolás de Flandes, en Bélgica, tiene una plaza central donde, en las Fiestas de la Paz, unos 60 globos aerostáticos despegan a la vez. En 1248, la condesa Margarita II de Flandes donó ese terreno a la parroquia con una condición: debía quedar siempre público y sin edificar. Escucha el episodio completo para más historias y consejos sobre qué ver.
 
 Otros idiomas y más sobre Sint-Niklaas: https://wanderingcities.com/es/belgium/sint-niklaas/
@@ -69,10 +71,10 @@ Fuentes, entre otras: Wikipedia y Wikivoyage (CC BY-SA 4.0) y webs oficiales de 
 Otros idiomas y más sobre Lier: https://wanderingcities.com/es/belgium/lier/
 
 Fuentes, entre otras: Wikipedia y Wikivoyage (CC BY-SA 4.0) y webs oficiales de turismo, patrimonio y museos. La conversación y las voces están generadas por IA.</itunes:summary>
-      <enclosure url="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/episodes/es/es-lier-1056505135-v1.mp3" length="28354311" type="audio/mpeg"/>
+      <enclosure url="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/episodes/es/es-lier-1056505135-v2.mp3" length="19032567" type="audio/mpeg"/>
       <guid isPermaLink="false">c4dc8622-1b51-5645-8ce8-285c84c3b14f</guid>
       <pubDate>Thu, 26 Nov 2026 13:01:01 +0000</pubDate>
-      <itunes:duration>00:29:24</itunes:duration>
+      <itunes:duration>00:19:42</itunes:duration>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>false</itunes:explicit>
     </item>

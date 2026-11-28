@@ -14,10 +14,11 @@
     <itunes:type>episodic</itunes:type>
     <itunes:category text="Society &amp; Culture"><itunes:category text="Places &amp; Travel"/></itunes:category>
     <itunes:image href="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/cover-fr-3000.jpg"/>
-    <lastBuildDate>Sat, 28 Nov 2026 02:10:20 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 28 Nov 2026 04:51:48 +0000</lastBuildDate>
     <item>
       <title>Termonde : guide de voyage et histoire | Des lingots d'or à la grande évasion</title>
       <link>https://wanderingcities.com/fr/belgium/dendermonde/</link>
+      <podcast:transcript url="https://wanderingcities.com/belgium/dendermonde/transcript-fr.txt" type="text/plain" language="fr"/>
       <description>Termonde, en Belgique, c'est là que des ouvriers, en abattant un mur de cave muré sous une ancienne brasserie de Saint-Gilles, sont tombés sur 9 millions d'euros en or, dont des lingots numérotés. En 1667, face à Louis XIV, les défenseurs ont inondé les polders : l'armée française s'est embourbée et a battu en retraite. Écoutez l'épisode complet pour plus d'histoires et de conseils sur ce qu'il faut voir.
 
 Autres langues et plus sur Dendermonde : https://wanderingcities.com/fr/belgium/dendermonde/
@@ -38,6 +39,7 @@ Sources, entre autres : Wikipédia et Wikivoyage (CC BY-SA 4.0) ainsi que les si
     <item>
       <title>Saint-Nicolas : guide de voyage et histoire | Le secret de la plus vaste place</title>
       <link>https://wanderingcities.com/fr/belgium/sint-niklaas/</link>
+      <podcast:transcript url="https://wanderingcities.com/belgium/sint-niklaas/transcript-fr.txt" type="text/plain" language="fr"/>
       <description>Saint-Nicolas, en Belgique, a des faucons pèlerins qui nichent depuis 2014 en haut du clocher de l'église Notre-Dame, sous une Vierge dorée de 6 mètres. En 1248, la comtesse Marguerite I de Flandre cède la grande place à la paroisse, à condition qu'elle ne soit jamais divisée ni construite. Écoutez l'épisode complet pour plus d'histoires et de conseils sur ce qu'il faut voir.
 
 Autres langues et plus sur Sint-Niklaas : https://wanderingcities.com/fr/belgium/sint-niklaas/

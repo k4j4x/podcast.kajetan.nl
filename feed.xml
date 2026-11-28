@@ -14,7 +14,7 @@
     <itunes:type>episodic</itunes:type>
     <itunes:category text="Society &amp; Culture"><itunes:category text="Places &amp; Travel"/></itunes:category>
     <itunes:image href="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/cover-3000.jpg"/>
-    <lastBuildDate>Sat, 28 Nov 2026 02:10:19 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 28 Nov 2026 04:51:47 +0000</lastBuildDate>
     <item>
       <title>Liège Travel Guide &amp; History | 374 Steps and a Rebellious Soul</title>
       <link>https://wanderingcities.com/belgium/liege/?lang=en</link>
@@ -31,7 +31,7 @@ Other languages and more about Liège: https://wanderingcities.com/belgium/liege
 Sources include Wikipedia and Wikivoyage (CC BY-SA 4.0) and official tourism, heritage and museum websites. The conversation and voices are AI-generated.</itunes:summary>
       <enclosure url="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/episodes/wandering-cities-liège-1056513284-v1.mp3" length="20709648" type="audio/mpeg"/>
       <guid isPermaLink="false">80004813-223d-54c3-b95b-9971695436bc</guid>
-      <pubDate>Sat, 28 Nov 2026 02:02:00 +0000</pubDate>
+      <pubDate>Sat, 28 Nov 2026 04:35:46 +0000</pubDate>
       <itunes:duration>00:21:25</itunes:duration>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>false</itunes:explicit>
@@ -39,6 +39,7 @@ Sources include Wikipedia and Wikivoyage (CC BY-SA 4.0) and official tourism, he
     <item>
       <title>Dendermonde Travel Guide &amp; History | From Buried Gold to Horse Sausage</title>
       <link>https://wanderingcities.com/belgium/dendermonde/?lang=en</link>
+      <podcast:transcript url="https://wanderingcities.com/belgium/dendermonde/transcript-en.txt" type="text/plain" language="en"/>
       <description>Dendermonde, in Belgium, has a wooden horse weighing over 1,000 kilograms that a guild of strongmen, the Pinders, carries through town with four armored brothers on top, once every ten years. In 1667, locals opened their own dikes and flooded the countryside, forcing French King Louis XIV's army to retreat. Listen to the full episode for more stories and tips on what to see.
 
 Other languages and more about Dendermonde: https://wanderingcities.com/belgium/dendermonde/?lang=en
@@ -59,6 +60,7 @@ Sources include Wikipedia and Wikivoyage (CC BY-SA 4.0) and official tourism, he
     <item>
       <title>Sint-Niklaas Travel Guide &amp; History | Why the Square Remains Empty</title>
       <link>https://wanderingcities.com/belgium/sint-niklaas/?lang=en</link>
+      <podcast:transcript url="https://wanderingcities.com/belgium/sint-niklaas/transcript-en.txt" type="text/plain" language="en"/>
       <description>Sint-Niklaas, in Belgium, has a market square so large it once held Europe's largest Christmas tree and Easter egg, and each September up to 60 hot air balloons shaped like beer glasses and dinosaurs launch from it. In 1248, Countess Margaret II of Flanders gave the parish that land on condition it stay unbuilt forever. Listen to the full episode for more stories and tips on what to see.
 
 Other languages and more about Sint-Niklaas: https://wanderingcities.com/belgium/sint-niklaas/?lang=en
@@ -90,10 +92,10 @@ Sources include Wikipedia and Wikivoyage (CC BY-SA 4.0) and official tourism, he
 Other languages and more about Lier: https://wanderingcities.com/belgium/lier/?lang=en
 
 Sources include Wikipedia and Wikivoyage (CC BY-SA 4.0) and official tourism, heritage and museum websites. The conversation and voices are AI-generated.</itunes:summary>
-      <enclosure url="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/episodes/wandering-cities-lier-1056505135-v1.mp3" length="24094219" type="audio/mpeg"/>
+      <enclosure url="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/episodes/wandering-cities-lier-1056505135-v2.mp3" length="23646167" type="audio/mpeg"/>
       <guid isPermaLink="false">7dc11ddd-f789-5ea7-9551-51ce208f3c16</guid>
       <pubDate>Thu, 26 Nov 2026 12:01:38 +0000</pubDate>
-      <itunes:duration>00:24:56</itunes:duration>
+      <itunes:duration>00:24:28</itunes:duration>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>false</itunes:explicit>
     </item>
