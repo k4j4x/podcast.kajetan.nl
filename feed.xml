@@ -14,7 +14,7 @@
     <itunes:type>episodic</itunes:type>
     <itunes:category text="Society &amp; Culture"><itunes:category text="Places &amp; Travel"/></itunes:category>
     <itunes:image href="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/cover-3000.jpg"/>
-    <lastBuildDate>Fri, 27 Nov 2026 11:15:06 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 28 Nov 2026 02:10:19 +0000</lastBuildDate>
     <item>
       <title>Liège Travel Guide &amp; History | 374 Steps and a Rebellious Soul</title>
       <link>https://wanderingcities.com/belgium/liege/?lang=en</link>
@@ -31,8 +31,48 @@ Other languages and more about Liège: https://wanderingcities.com/belgium/liege
 Sources include Wikipedia and Wikivoyage (CC BY-SA 4.0) and official tourism, heritage and museum websites. The conversation and voices are AI-generated.</itunes:summary>
       <enclosure url="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/episodes/wandering-cities-liège-1056513284-v1.mp3" length="20709648" type="audio/mpeg"/>
       <guid isPermaLink="false">80004813-223d-54c3-b95b-9971695436bc</guid>
-      <pubDate>Fri, 27 Nov 2026 11:00:43 +0000</pubDate>
+      <pubDate>Sat, 28 Nov 2026 02:02:00 +0000</pubDate>
       <itunes:duration>00:21:25</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Dendermonde Travel Guide &amp; History | From Buried Gold to Horse Sausage</title>
+      <link>https://wanderingcities.com/belgium/dendermonde/?lang=en</link>
+      <description>Dendermonde, in Belgium, has a wooden horse weighing over 1,000 kilograms that a guild of strongmen, the Pinders, carries through town with four armored brothers on top, once every ten years. In 1667, locals opened their own dikes and flooded the countryside, forcing French King Louis XIV's army to retreat. Listen to the full episode for more stories and tips on what to see.
+
+Other languages and more about Dendermonde: https://wanderingcities.com/belgium/dendermonde/?lang=en
+
+Sources include Wikipedia and Wikivoyage (CC BY-SA 4.0) and official tourism, heritage and museum websites. The conversation and voices are AI-generated.</description>
+      <itunes:summary>Dendermonde, in Belgium, has a wooden horse weighing over 1,000 kilograms that a guild of strongmen, the Pinders, carries through town with four armored brothers on top, once every ten years. In 1667, locals opened their own dikes and flooded the countryside, forcing French King Louis XIV's army to retreat. Listen to the full episode for more stories and tips on what to see.
+
+Other languages and more about Dendermonde: https://wanderingcities.com/belgium/dendermonde/?lang=en
+
+Sources include Wikipedia and Wikivoyage (CC BY-SA 4.0) and official tourism, heritage and museum websites. The conversation and voices are AI-generated.</itunes:summary>
+      <enclosure url="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/episodes/wandering-cities-dendermonde-1056277590-v1.mp3" length="22314555" type="audio/mpeg"/>
+      <guid isPermaLink="false">5d14213b-85e9-57e2-9958-d752b85f4141</guid>
+      <pubDate>Fri, 27 Nov 2026 13:01:44 +0000</pubDate>
+      <itunes:duration>00:23:05</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Sint-Niklaas Travel Guide &amp; History | Why the Square Remains Empty</title>
+      <link>https://wanderingcities.com/belgium/sint-niklaas/?lang=en</link>
+      <description>Sint-Niklaas, in Belgium, has a market square so large it once held Europe's largest Christmas tree and Easter egg, and each September up to 60 hot air balloons shaped like beer glasses and dinosaurs launch from it. In 1248, Countess Margaret II of Flanders gave the parish that land on condition it stay unbuilt forever. Listen to the full episode for more stories and tips on what to see.
+
+Other languages and more about Sint-Niklaas: https://wanderingcities.com/belgium/sint-niklaas/?lang=en
+
+Sources include Wikipedia and Wikivoyage (CC BY-SA 4.0) and official tourism, heritage and museum websites. The conversation and voices are AI-generated.</description>
+      <itunes:summary>Sint-Niklaas, in Belgium, has a market square so large it once held Europe's largest Christmas tree and Easter egg, and each September up to 60 hot air balloons shaped like beer glasses and dinosaurs launch from it. In 1248, Countess Margaret II of Flanders gave the parish that land on condition it stay unbuilt forever. Listen to the full episode for more stories and tips on what to see.
+
+Other languages and more about Sint-Niklaas: https://wanderingcities.com/belgium/sint-niklaas/?lang=en
+
+Sources include Wikipedia and Wikivoyage (CC BY-SA 4.0) and official tourism, heritage and museum websites. The conversation and voices are AI-generated.</itunes:summary>
+      <enclosure url="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/episodes/wandering-cities-sint-niklaas-1056028982-v1.mp3" length="20735083" type="audio/mpeg"/>
+      <guid isPermaLink="false">76890250-306f-5ad8-b04e-10ca0a522774</guid>
+      <pubDate>Fri, 27 Nov 2026 11:31:31 +0000</pubDate>
+      <itunes:duration>00:21:26</itunes:duration>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>false</itunes:explicit>
     </item>

@@ -14,7 +14,47 @@
     <itunes:type>episodic</itunes:type>
     <itunes:category text="Society &amp; Culture"><itunes:category text="Places &amp; Travel"/></itunes:category>
     <itunes:image href="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/cover-es-3000.jpg"/>
-    <lastBuildDate>Fri, 27 Nov 2026 11:15:07 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 28 Nov 2026 02:10:20 +0000</lastBuildDate>
+    <item>
+      <title>Dendermonde: guía de viaje e historia | De tesoros ocultos al corcel legendario</title>
+      <link>https://wanderingcities.com/es/belgium/dendermonde/</link>
+      <description>Dendermonde, en Bélgica, vio en 2006 a 28 presos abrir una cerradura oxidada, bajar un muro con sábanas anudadas y aterrizar sobre el techo de una cabina telefónica. En 1667, ante el ejército de Luis XIV, los defensores abrieron los diques e inundaron sus tierras, y los cañones franceses se hundieron en el barro. Escucha el episodio completo para más historias y consejos sobre qué ver.
+
+Otros idiomas y más sobre Dendermonde: https://wanderingcities.com/es/belgium/dendermonde/
+
+Fuentes, entre otras: Wikipedia y Wikivoyage (CC BY-SA 4.0) y webs oficiales de turismo, patrimonio y museos. La conversación y las voces están generadas por IA.</description>
+      <itunes:summary>Dendermonde, en Bélgica, vio en 2006 a 28 presos abrir una cerradura oxidada, bajar un muro con sábanas anudadas y aterrizar sobre el techo de una cabina telefónica. En 1667, ante el ejército de Luis XIV, los defensores abrieron los diques e inundaron sus tierras, y los cañones franceses se hundieron en el barro. Escucha el episodio completo para más historias y consejos sobre qué ver.
+
+Otros idiomas y más sobre Dendermonde: https://wanderingcities.com/es/belgium/dendermonde/
+
+Fuentes, entre otras: Wikipedia y Wikivoyage (CC BY-SA 4.0) y webs oficiales de turismo, patrimonio y museos. La conversación y las voces están generadas por IA.</itunes:summary>
+      <enclosure url="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/episodes/es/es-dendermonde-1056277590-v1.mp3" length="23984574" type="audio/mpeg"/>
+      <guid isPermaLink="false">00aa38d8-3713-564d-a941-5ff23d6c0304</guid>
+      <pubDate>Fri, 27 Nov 2026 14:00:51 +0000</pubDate>
+      <itunes:duration>00:24:51</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>San Nicolás de Flandes: guía de viaje e historia | El misterio de la plaza más grande</title>
+      <link>https://wanderingcities.com/es/belgium/sint-niklaas/</link>
+      <description>San Nicolás de Flandes, en Bélgica, tiene una plaza central donde, en las Fiestas de la Paz, unos 60 globos aerostáticos despegan a la vez. En 1248, la condesa Margarita II de Flandes donó ese terreno a la parroquia con una condición: debía quedar siempre público y sin edificar. Escucha el episodio completo para más historias y consejos sobre qué ver.
+
+Otros idiomas y más sobre Sint-Niklaas: https://wanderingcities.com/es/belgium/sint-niklaas/
+
+Fuentes, entre otras: Wikipedia y Wikivoyage (CC BY-SA 4.0) y webs oficiales de turismo, patrimonio y museos. La conversación y las voces están generadas por IA.</description>
+      <itunes:summary>San Nicolás de Flandes, en Bélgica, tiene una plaza central donde, en las Fiestas de la Paz, unos 60 globos aerostáticos despegan a la vez. En 1248, la condesa Margarita II de Flandes donó ese terreno a la parroquia con una condición: debía quedar siempre público y sin edificar. Escucha el episodio completo para más historias y consejos sobre qué ver.
+
+Otros idiomas y más sobre Sint-Niklaas: https://wanderingcities.com/es/belgium/sint-niklaas/
+
+Fuentes, entre otras: Wikipedia y Wikivoyage (CC BY-SA 4.0) y webs oficiales de turismo, patrimonio y museos. La conversación y las voces están generadas por IA.</itunes:summary>
+      <enclosure url="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/episodes/es/es-sint-niklaas-1056028982-v1.mp3" length="19990986" type="audio/mpeg"/>
+      <guid isPermaLink="false">64b6ce3c-9cc1-5a2c-9229-279b96fc4905</guid>
+      <pubDate>Fri, 27 Nov 2026 12:30:43 +0000</pubDate>
+      <itunes:duration>00:20:41</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Lier: guía de viaje e historia | El enigma de las cabezas de oveja</title>
       <link>https://wanderingcities.com/es/belgium/lier/</link>

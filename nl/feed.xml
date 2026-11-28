@@ -14,7 +14,47 @@
     <itunes:type>episodic</itunes:type>
     <itunes:category text="Society &amp; Culture"><itunes:category text="Places &amp; Travel"/></itunes:category>
     <itunes:image href="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/cover-nl-3000.jpg"/>
-    <lastBuildDate>Fri, 27 Nov 2026 11:15:06 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 28 Nov 2026 02:10:20 +0000</lastBuildDate>
+    <item>
+      <title>Dendermonde reisgids &amp; geschiedenis | Van de goudschat tot het Ros Beiaard</title>
+      <link>https://wanderingcities.com/nl/belgium/dendermonde/</link>
+      <description>Dendermonde, in België, is waar twee bouwvakkers, onder wie een 18-jarige jobstudent, in Sint Gilles een oude tas vonden met €9 miljoen aan goudstaven en munten, achter een muur van een voormalige brouwerij. In 2006 knoopten 28 gevangenen beddenlakens aan elkaar, gooiden die over de muur, sprongen op een telefooncel en liepen weg. Luister de hele aflevering voor meer verhalen en tips over wat je moet zien.
+
+Andere talen en meer over Dendermonde: https://wanderingcities.com/nl/belgium/dendermonde/
+
+Bronnen o.a. Wikipedia en Wikivoyage (CC BY-SA 4.0) en officiële websites over toerisme, erfgoed en musea. Het gesprek en de stemmen zijn door AI gegenereerd.</description>
+      <itunes:summary>Dendermonde, in België, is waar twee bouwvakkers, onder wie een 18-jarige jobstudent, in Sint Gilles een oude tas vonden met €9 miljoen aan goudstaven en munten, achter een muur van een voormalige brouwerij. In 2006 knoopten 28 gevangenen beddenlakens aan elkaar, gooiden die over de muur, sprongen op een telefooncel en liepen weg. Luister de hele aflevering voor meer verhalen en tips over wat je moet zien.
+
+Andere talen en meer over Dendermonde: https://wanderingcities.com/nl/belgium/dendermonde/
+
+Bronnen o.a. Wikipedia en Wikivoyage (CC BY-SA 4.0) en officiële websites over toerisme, erfgoed en musea. Het gesprek en de stemmen zijn door AI gegenereerd.</itunes:summary>
+      <enclosure url="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/episodes/nl/nl-dendermonde-1056277590-v1.mp3" length="17044456" type="audio/mpeg"/>
+      <guid isPermaLink="false">f8f62624-20e2-59e5-8889-9ec7eeeb4b01</guid>
+      <pubDate>Fri, 27 Nov 2026 13:31:03 +0000</pubDate>
+      <itunes:duration>00:17:38</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Sint-Niklaas reisgids &amp; geschiedenis | Het geheim van het grootste marktplein</title>
+      <link>https://wanderingcities.com/nl/belgium/sint-niklaas/</link>
+      <description>Sint-Niklaas, in België, laat tijdens de Vredefeesten tientallen heteluchtballonnen tegelijk opstijgen vanaf het marktplein, waaronder ooit een 30 meter hoge dinosaurus. In 1248 schonk gravin Margareta van Vlaanderen dat plein aan de inwoners van de parochie, op voorwaarde dat het voor eeuwig onverdeeld en onbebouwd bleef. Luister de hele aflevering voor meer verhalen en tips over wat je moet zien.
+
+Andere talen en meer over Sint-Niklaas: https://wanderingcities.com/nl/belgium/sint-niklaas/
+
+Bronnen o.a. Wikipedia en Wikivoyage (CC BY-SA 4.0) en officiële websites over toerisme, erfgoed en musea. Het gesprek en de stemmen zijn door AI gegenereerd.</description>
+      <itunes:summary>Sint-Niklaas, in België, laat tijdens de Vredefeesten tientallen heteluchtballonnen tegelijk opstijgen vanaf het marktplein, waaronder ooit een 30 meter hoge dinosaurus. In 1248 schonk gravin Margareta van Vlaanderen dat plein aan de inwoners van de parochie, op voorwaarde dat het voor eeuwig onverdeeld en onbebouwd bleef. Luister de hele aflevering voor meer verhalen en tips over wat je moet zien.
+
+Andere talen en meer over Sint-Niklaas: https://wanderingcities.com/nl/belgium/sint-niklaas/
+
+Bronnen o.a. Wikipedia en Wikivoyage (CC BY-SA 4.0) en officiële websites over toerisme, erfgoed en musea. Het gesprek en de stemmen zijn door AI gegenereerd.</itunes:summary>
+      <enclosure url="https://s3.pub1.infomaniak.cloud/object/v1/AUTH_351a2c7d007c4675a12e71f8d3694562/duo-podcast/episodes/nl/nl-sint-niklaas-1056028982-v1.mp3" length="17330761" type="audio/mpeg"/>
+      <guid isPermaLink="false">2c4f20a8-e5ea-50d8-87bb-1a8652386be9</guid>
+      <pubDate>Fri, 27 Nov 2026 12:01:06 +0000</pubDate>
+      <itunes:duration>00:17:56</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Lier reisgids &amp; geschiedenis | Koninklijk huwelijk en kosmische klok</title>
       <link>https://wanderingcities.com/nl/belgium/lier/</link>
